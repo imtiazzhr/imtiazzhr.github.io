@@ -2,11 +2,16 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import { registerCondition } from "./quartz/plugins/loader/conditions"
 import { PageTypeDispatcher } from "./quartz/plugins/pageTypes"
 import SiteFooter from "./quartz/components/SiteFooter"
+import ByLine from "./quartz/components/ByLine"
 import { componentRegistry } from "./quartz/components/registry"
 
 // Layout conditions used in quartz.config.yaml
 registerCondition("is-index", (props) => props.fileData.slug === "index")
 registerCondition("in-vet-notes", (props) => (props.fileData.slug ?? "").startsWith("vet-notes/"))
+registerCondition("vet-note-page", (props) => {
+  const slug = props.fileData.slug ?? ""
+  return slug.startsWith("vet-notes/") && !slug.endsWith("/index")
+})
 
 // Folder listings: vet notes A to Z, everything else newest first (sub-folders always on top)
 const isFolder = (slug?: string) => !!slug && slug.endsWith("/index")
@@ -31,6 +36,12 @@ const footer = [SiteFooter()]
 layout.defaults.footer = footer
 for (const pageType of Object.values(layout.byPageType)) {
   pageType.footer = footer
+}
+
+// "@imtiaz · 4 min read · date" under essay and article titles
+const byline = ByLine()
+for (const target of [layout.defaults, layout.byPageType.content].filter(Boolean)) {
+  target!.beforeBody = [...(target!.beforeBody ?? []), byline]
 }
 
 // The page renderer was created inside loadQuartzConfig with the plain layout; swap in ours

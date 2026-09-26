@@ -1,5 +1,5 @@
 ---
-date: 2026-09-26
+date: 2024-01-14
 description: The practical version of my planning system. Goals, 12-week cycles, projects and one weekly page, with a rule of three at every level.
 tags:
   - planning
@@ -23,7 +23,7 @@ The trick is that each layer only looks one level up. On a Tuesday I don't think
 
 ## The cycle
 
-A cycle is twelve weeks of work plus a thirteenth week for review and rest. Mine run four times a year. The current one is 28 September to 20 December, and the review week comes straight after it.
+A cycle is twelve weeks of work plus a thirteenth week for review and rest, so four cycles fit neatly into a year.
 
 At the start of a cycle I pick up to three goals and write down, for each one:
 

@@ -3,7 +3,9 @@ title: About
 description: Imtiaz Zahoor is a veterinarian in Abu Dhabi working with horses and camels, and a builder on the side.
 ---
 
-I'm Imtiaz Zahoor, a veterinarian. I was born and raised in central Pakistan and earned my Doctor of Veterinary Medicine at the University of Agriculture, Faisalabad, in 2016.
+![[imtiaz-full.jpg|340]]
+
+I'm Imtiaz Zahoor, a veterinarian. I was born and raised in central Pakistan and earned my Doctor of Veterinary Medicine at the University of Agriculture, Faisalabad, in 2016. My full CV is [[cv|here]].
 
 ## In the clinic
 

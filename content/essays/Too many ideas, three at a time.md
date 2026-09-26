@@ -1,5 +1,5 @@
 ---
-date: 2026-09-26
+date: 2024-01-07
 description: A full-time clinical job and a head full of side projects. Why I now allow myself only three goals every twelve weeks.
 tags:
   - planning
@@ -37,8 +37,8 @@ The same rule of three runs all the way down. Three focus tasks a week. Each day
 
 ## Honest status
 
-I'm writing this at the start of a cycle, not the end, so treat it as a promise rather than a result. This cycle runs from 28 September to 20 December 2026. My three goals are building my vet software, growing personally (reading and learning to write in public, which is partly why this site exists) and doing good clinical work. Everything else is parked, including some ideas I'm very excited about.
+I'm writing this at the start of a new cycle, not the end, so treat it as a promise rather than a result. My three goals this time are building my vet software, growing personally (reading, and learning to write in public) and doing good clinical work. Everything else is parked, including some ideas I'm very excited about.
 
-I'll write the review in December and tell you how it went.
+I'll write the review at the end of the cycle and tell you how it went.
 
-If you want the practical version, with the layers, the weekly page and the review, I've written it up in [[How I plan my work in 12-week cycles]].
+If you want the practical version, with the layers, the weekly page and the review, see [[How I plan my work in 12-week cycles]].

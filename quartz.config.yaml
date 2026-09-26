@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Imtiaz Zahoor
+  pageTitle: "imtiaz's notes"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -27,9 +27,9 @@ configuration:
         gray: "#8e8f94"
         darkgray: "#3d3c3a"
         dark: "#2b2a28"
-        secondary: "#960462"
-        tertiary: "#04a5bb"
-        highlight: rgba(150, 4, 98, 0.07)
+        secondary: "#0a84ff"
+        tertiary: "#005ecb"
+        highlight: rgba(10, 132, 255, 0.08)
         textHighlight: "#ffd09c99"
       darkMode:
         light: "#1b1a18"
@@ -37,9 +37,9 @@ configuration:
         gray: "#7d7a74"
         darkgray: "#d9d6cf"
         dark: "#f3f1ec"
-        secondary: "#e56bb1"
-        tertiary: "#3fc7d8"
-        highlight: rgba(229, 107, 177, 0.12)
+        secondary: "#409cff"
+        tertiary: "#7cb9ff"
+        highlight: rgba(64, 156, 255, 0.12)
         textHighlight: "#b3833f88"
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -195,7 +195,7 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
-      condition: not-index
+      condition: vet-note-page
   - source: "@quartz-community/tag-list"
     enabled: false
     layout:

@@ -1,19 +1,19 @@
 ---
-title: Imtiaz Zahoor
-description: Veterinarian in Abu Dhabi. Essays, articles and clinical notes on horses, camels, work and life.
+title: "imtiaz's notes"
+description: Veterinary clinician in Abu Dhabi. Essays, articles and clinical notes on veterinary work, productivity, philosophy and technology.
 ---
 
 <div class="iz-hero">
-  <div class="iz-avatar" title="Imtiaz Zahoor">IZ</div>
+  <div class="iz-avatar"><img src="./attachments/imtiaz.jpg" alt="Imtiaz Zahoor" width="176" height="176"></div>
   <p class="iz-kicker">Hi, I'm Imtiaz.</p>
-  <p class="iz-headline">I treat horses and camels, and write about the work, staying focused, and building things on the side.</p>
-  <p class="iz-sub">Veterinarian in Abu Dhabi · sports medicine, lameness and diagnostic imaging</p>
-  <nav class="iz-nav"><a href="./essays/">Essays</a><a href="./articles/">Articles</a><a href="./vet-notes/">Vet notes</a><a href="./now">Now</a><a href="./about">About</a></nav>
+  <p class="iz-headline">I'm a veterinary clinician. I treat animals, and write about the work, productivity, philosophy, technology and building things on the side.</p>
+  <p class="iz-sub">DVM · Equine and camel sports medicine, lameness and diagnostic imaging · Abu Dhabi</p>
+  <nav class="iz-nav"><a href="./essays/">Essays</a><a href="./articles/">Articles</a><a href="./vet-notes/">Vet notes</a><a href="./library/">Library</a><a href="./now">Now</a><a href="./about">About</a><a href="./cv">CV</a></nav>
 </div>
 
-Welcome! You've stumbled upon my working notes. I've worked with horses and camels in Pakistan, Qatar, Oman, Saudi Arabia and the UAE for about ten years. My [[vet-notes/index|clinical notes]] began in 2020 as part of my practice and my preparation for vet exams, and over time they've become a resource that many vets have used to pass their own exams.
+I'm a veterinary clinician with about ten years of experience in equine and camel practice across Pakistan, Qatar, Oman, Saudi Arabia and the UAE. My work centres on sports medicine, lameness, diagnostic imaging and reproduction. My [[vet-notes/index|clinical notes]] began in 2020 while I was preparing for licensing exams, and they have since helped many colleagues prepare for theirs.
 
-They're mostly written for myself, so some are rough, but I share them anyway and keep them evergreen. If something could be better, [email me](mailto:imtiazdvm@gmail.com).
+Outside the clinic I write about productivity, philosophy and technology, and I build things, including software for veterinary practices. You can find my [[cv|CV here]], or [email me](mailto:imtiazdvm@gmail.com).
 
 <p class="iz-label">Start here</p>
 <div class="iz-cards">
@@ -46,17 +46,17 @@ views:
 
 ## Library
 
-- [![The 12 Week Year](attachments/books/the-12-week-year.jpg)](https://openlibrary.org/works/OL19968189W)
-- [![Thinking, Fast and Slow](attachments/books/thinking-fast-and-slow.jpg)](https://openlibrary.org/works/OL15992072W)
-- [![Man's Search for Meaning](attachments/books/man-s-search-for-meaning.jpg)](https://openlibrary.org/isbn/9780807014295)
-- [![The Personal MBA](attachments/books/the-personal-mba.jpg)](https://openlibrary.org/works/OL15473892W)
-- [![The Lean Startup](attachments/books/the-lean-startup.jpg)](https://openlibrary.org/works/OL16086010W)
-- [![The Black Swan](attachments/books/the-black-swan.jpg)](https://openlibrary.org/works/OL3295030W)
-- [![The Little Book of Stoicism](attachments/books/the-little-book-of-stoicism.jpg)](https://openlibrary.org/works/OL21930889W)
-- [![Homo Deus](attachments/books/homo-deus.jpg)](https://openlibrary.org/isbn/9780062464316)
-- [![The 4-Hour Workweek](attachments/books/the-4-hour-workweek.jpg)](https://openlibrary.org/works/OL3353439W)
-- [![Greenlights](attachments/books/greenlights.jpg)](https://openlibrary.org/works/OL21911019W)
-- [![A Promised Land](attachments/books/a-promised-land.jpg)](https://openlibrary.org/works/OL22235242W)
-- [![As a Man Thinketh](attachments/books/as-a-man-thinketh.jpg)](https://openlibrary.org/works/OL43024W)
+- [![The 12 Week Year](attachments/books/the-12-week-year.jpg)](library/The%2012%20Week%20Year.md)
+- [![Thinking, Fast and Slow](attachments/books/thinking-fast-and-slow.jpg)](library/Thinking,%20Fast%20and%20Slow.md)
+- [![Man's Search for Meaning](attachments/books/man-s-search-for-meaning.jpg)](library/Man's%20Search%20for%20Meaning.md)
+- [![The Personal MBA](attachments/books/the-personal-mba.jpg)](library/The%20Personal%20MBA.md)
+- [![The Lean Startup](attachments/books/the-lean-startup.jpg)](library/The%20Lean%20Startup.md)
+- [![The Black Swan](attachments/books/the-black-swan.jpg)](library/The%20Black%20Swan.md)
+- [![The Little Book of Stoicism](attachments/books/the-little-book-of-stoicism.jpg)](library/The%20Little%20Book%20of%20Stoicism.md)
+- [![Homo Deus](attachments/books/homo-deus.jpg)](library/Homo%20Deus.md)
+- [![The 4-Hour Workweek](attachments/books/the-4-hour-workweek.jpg)](library/The%204-Hour%20Workweek.md)
+- [![Greenlights](attachments/books/greenlights.jpg)](library/Greenlights.md)
+- [![A Promised Land](attachments/books/a-promised-land.jpg)](library/A%20Promised%20Land.md)
+- [![As a Man Thinketh](attachments/books/as-a-man-thinketh.jpg)](library/As%20a%20Man%20Thinketh.md)
 
-Books I've read and kept notes on.
+Books I've read and kept notes on. Click a cover for a short summary, or see the [[library/index|whole library]].
