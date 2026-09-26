@@ -35,7 +35,6 @@ Veterinary clinician with about ten years of experience in equine and camel prac
 ## Licences and examinations
 
 - Licensed veterinary practitioner in the UAE and Qatar (large animal)
-- BCSE (Basic and Clinical Sciences Examination), passed, as part of the Canadian licensure pathway
 
 ## Clinical skills
 
@@ -55,7 +54,7 @@ Veterinary clinician with about ten years of experience in equine and camel prac
 
 ## Ventures
 
-- **Co-founder, Vetmor** (2020): veterinary services and technology; helped bring Pakistani vets and veterinary assistants to work in the Middle East
+- **Co-founder, Vetoli** (2026): veterinary services and technology platform for animal owners in the Middle East
 - Building software for veterinary practices (current)
 
 ## Languages
