@@ -409,3 +409,74 @@ li.section-li:has(.desc a[href$="/"]) .meta {
 body[data-slug="library/index"] .page-listing {
   display: none;
 }
+
+// ---------- Lighter, cleaner type ----------
+// Quartz makes links weight 600; Lato has no 600, so browsers faked a heavy bold.
+a,
+article a.internal,
+article a.external,
+.breadcrumb-element a,
+ul.toc-content > li > a {
+  font-weight: 400;
+}
+
+// Site title: a calm serif in dark ink, not a bold blue banner
+.page-title {
+  font-family: $serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  & a {
+    color: var(--dark) !important;
+    font-weight: 400;
+  }
+}
+
+// Explorer: regular-weight folders in dark grey, lighter notes, blue only on hover / current page
+.folder-container div > a,
+.folder-container div > button span {
+  font-family: var(--bodyFont);
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: var(--dark);
+}
+.folder-container div > a:hover,
+.folder-container div > button:hover span {
+  color: var(--secondary);
+}
+.folder-icon {
+  color: var(--gray);
+}
+.explorer-content ul li > a {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--darkgray);
+  opacity: 0.8;
+  &:hover {
+    opacity: 1;
+    color: var(--secondary);
+  }
+}
+.explorer-content ul li > a.active {
+  color: var(--secondary);
+  opacity: 1;
+}
+
+// "Explorer" and "Table of Contents" as small section labels, like the home page
+button.desktop-explorer h2,
+button.mobile-explorer h2,
+button.toc-header h3 {
+  font-family: var(--bodyFont);
+  font-size: 0.72rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gray);
+}
+
+// No padding around links now that they have no background (it left gaps before commas)
+article a.internal,
+article a.external {
+  padding: 0;
+  border-radius: 0;
+}

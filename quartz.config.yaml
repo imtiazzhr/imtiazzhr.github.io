@@ -27,9 +27,9 @@ configuration:
         gray: "#8e8f94"
         darkgray: "#3d3c3a"
         dark: "#2b2a28"
-        secondary: "#0a84ff"
-        tertiary: "#005ecb"
-        highlight: rgba(10, 132, 255, 0.08)
+        secondary: "#0066cc"
+        tertiary: "#004f9e"
+        highlight: rgba(0, 102, 204, 0.08)
         textHighlight: "#ffd09c99"
       darkMode:
         light: "#1b1a18"
