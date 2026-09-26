@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: imtiazzhr.github.io/imtiaz-site
+  baseUrl: imtiazzhr.github.io
   ignorePatterns:
     - private
     - templates
