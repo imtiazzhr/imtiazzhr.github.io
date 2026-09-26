@@ -1,5 +1,5 @@
 ---
-title: Library
+title: Books
 description: "Books I've read and kept notes on, with short summaries."
 ---
 

@@ -28,6 +28,20 @@ for (const name of ["folder-page", "@quartz-community/folder-page"]) {
   componentRegistry.setOptionOverrides(name, { sort: folderSort })
 }
 
+// Sidebar order: Essays, Articles, Books, Vet notes, About, CV, Now; everything inside stays A to Z.
+// (This function runs in the visitor's browser, so it must not use anything defined outside it.)
+const explorerSort = (a: any, b: any) => {
+  const top: Record<string, number> = { essays: 1, articles: 2, books: 3, "vet-notes": 4, about: 5, cv: 6, now: 7 }
+  const ra = top[a.slugSegment]
+  const rb = top[b.slugSegment]
+  if (ra !== undefined || rb !== undefined) return (ra ?? 99) - (rb ?? 99)
+  if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+  return String(a.displayName).localeCompare(String(b.displayName), undefined, { numeric: true, sensitivity: "base" })
+}
+for (const name of ["explorer", "@quartz-community/explorer"]) {
+  componentRegistry.setOptionOverrides(name, { sortFn: explorerSort })
+}
+
 const config = await loadQuartzConfig()
 
 // Same custom footer on every kind of page
