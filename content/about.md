@@ -26,3 +26,7 @@ I'm fuelled by coffee, curiosity and a love for deep conversations.
 For years I've told myself I would write more. This is me finally doing it. You'll find [[essays/index|essays]] on work and life, practical [[articles/index|articles]], and my [[vet-notes/index|clinical notes]], all linked together the way I keep them in my own notes.
 
 If something here helps you, or you think I've got something wrong, I'd like to hear about it.
+
+## Get in touch
+
+Email me at [imtiazdvm@gmail.com](mailto:imtiazdvm@gmail.com), or find me as **imtiazzhr** on [X](https://x.com/imtiazzhr), [Instagram](https://www.instagram.com/imtiazzhr) and [Facebook](https://www.facebook.com/imtiazzhr).

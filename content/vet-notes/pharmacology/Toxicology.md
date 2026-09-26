@@ -1,0 +1,46 @@
+---
+title: "Toxicology"
+date: 2020-10-11
+---
+
+- Veterinary toxicology involves the evaluation of toxicoses, identification and characterization of toxins and determination of their fate in the body, and treatment of toxicosis.
+- Poisonous Plants in Cattle https://www.nadis.org.uk/disease-a-z/cattle/plant-poisoning-in-cattle/
+- Dose is the primary concern; however, the exact intake of a toxic agent is seldom known. Duration and frequency of exposure are important. The route of exposure affects absorption, translocation, and perhaps metabolic pathways. Exposure to a toxic agent relative to periods of stress or food intake may also be a factor.
+- Principles of Therapy of Toxicosis in Animals
+  - At initial examination, certain immediate, life-saving measures may be needed. Beyond this, treatment for toxicosis includes **three basic principles**:
+    - prevention of further absorption
+      - vomiting, activated charcoal
+    - supportive/symptomatic treatment
+    - Specific Antidotes for Toxicosis in Animals
+      - Specific antidotes for various toxic agents work by various mechanisms. Some complex with the compound (eg, the oximes bind with [organophosphorous insecticides](https://www.msdvetmanual.com/veterinary/toxicology/insecticide-and-acaricide-organic-toxicity/organophosphates-toxicity), and EDTA chelates [lead](https://www.msdvetmanual.com/veterinary/toxicology/lead-poisoning/lead-poisoning-in-animals)). Others block or compete for receptor sites (eg, vitamin K competes with the receptor for [coumarin anticoagulants](https://www.msdvetmanual.com/veterinary/toxicology/sweet-clover-poisoning/sweet-clover-poisoning-in-animals)). A few affect metabolism of the toxic agent (eg, nitrite and thiosulfate ions release and bind [cyanide](https://www.msdvetmanual.com/veterinary/toxicology/cyanide-poisoning/cyanide-poisoning-in-animals)). Specific antidotes for use in food animal species have been limited for the past 10 years, but options are being considered by the FDA in the US.
+- Lead Poisoning
+  - Lead poisoning is characterised by acute brain disease. Affected cattle become isolated and depressed but are over- reactive  to  touch  and  sound. They are blind  but show no clinical lesions in the eyes and may press their head into a corner and against walls.
+  - [[Cu Poisoning]]
+  - Nitrate Poisoning
+    - Nitrate poisoning (toxicosis) in animals (especially ruminants) results from excess consumption of nitrates from plants or water or via ingestion of nitrate-containing fertilizers. The nitrate ion (NO3–) is reduced to nitrite ion (NO2–), which is rapidly absorbed and leads to the formation of methemoglobin, which inhibits oxygen transport. This results in dyspnea, cyanotic mucous membranes, weakness; and, if severe, death due to anoxia. Ruminants are more susceptible because rumen flora can rapidly reduce nitrates to nitrites. Methylene blue, administered IV, will reverse the methemoglobinemia and may be effective as a treatment with supportive care. Ocular fluid specimens are most appropriate sample for postmortem, with laboratory testing of suspected sources of nitrate exposure.
+    - Acute  poisoning  with  cyanosis,  weak  rapid  pulse, and dyspneoa, is seen within hours of ingestion progressing rapidly to weakness, recumbency and death.
+    - Treatment and Control Intravenous injection of 4 mg/kg methylene blue as 2 per cent solution.
+  - [[Organophosphate Poisoning]]
+  - [[Paracetamol]] Toxicity
+  - Ibuprofen, Aspirin and Other Non-Steroidal Anti-Inflammatory Drugs in Cats and Dogs
+    - When pets ingest even small overdoses of an NSAID it can result in severe stomach ulcers, causing signs of vomiting, bloody vomitus, diarrhoea, black-tarry stool, weakness, pale gums, abdominal pain, lethargy, and loss of appetite. With larger ingestions kidney failure, liver failure and neurological problems such as tremors and seizures can develop.
+    - Treatment and Control
+      - Ibuprofen and other NSAIDs in toxic doses can most commonly cause problems with the gut (ulceration and bleeding) and kidneys. Treatment includes decontamination (trying to minimise absorption), intravenous fluids (to support the kidneys) and gastroprotectants (to try to prevent gut ulceration).
+  - Chocolate Toxicity
+    - Chocolate is directly toxic because it contains a substance called theobromine, which is found in the cocoa component of the chocolate. The higher the percentage of cocoa the more theobromine is present. This makes baking chocolate the most dangerous for pets, followed by semi-sweet and dark chocolate, milk chocolate, and then chocolate flavoured cakes or cookies.
+    - Signs and symptoms of theobromine toxicity include vomiting and diarrhoea, hyperactivity, tremors or seizures, and very fast heart beat progressing to abnormal rhythms. In severe cases, chocolate poisoning can cause death.
+  - [[Molybdenum]]
+  - Other Toxic Substances: The following list includes food and products that are potentially poisonous to cats and dogs:
+    - Onion
+    - Garlic
+    - Chives
+    - Leek
+    - Grapes
+    - Sultanas
+    - Raisins
+    - Macadamia nuts
+    - Alcohol
+    - Bread dough (anything with yeast)
+    - Avocado
+    - Any product containing xylitol, such as some sugar free chewing gums and mouthwashes
+  - Now that you are aware of these common items make sure you keep them away from your pets’ areas and food bowls, and don’t ever be tempted to feed them these items as ‘treats’.

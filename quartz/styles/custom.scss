@@ -1,3 +1,362 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Site-wide design tweaks for imtiaz-site.
+// Colours come from quartz.config.yaml (Maggie Appleton-inspired palette).
+$serif: "Newsreader", Georgia, serif;
+
+// ---------- Links: crimson text, no highlighter background ----------
+a.internal,
+a.internal:not(:hover) {
+  background-color: transparent;
+}
+article a.internal,
+article a.external {
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--secondary) 30%, transparent);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  &:hover {
+    text-decoration-color: var(--secondary);
+  }
+}
+a.internal.broken {
+  text-decoration: none;
+}
+h1,
+h2,
+h3,
+.article-title {
+  font-family: $serif;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+// ---------- Home page: single centred column ----------
+body[data-slug="index"] .page > #quartz-body {
+  grid-template-columns: auto;
+  grid-template-rows: auto auto auto;
+  grid-template-areas: "grid-center" "grid-footer";
+  & .sidebar {
+    display: none;
+  }
+  & .center,
+  & footer {
+    width: 100%;
+    max-width: 760px !important;
+    min-width: 0 !important;
+    margin: 0 auto !important;
+    padding: 0 1.25rem;
+    box-sizing: border-box;
+  }
+  & .page-header {
+    display: none;
+  }
+}
+body[data-slug="index"] article > hr,
+body[data-slug="index"] .center > hr {
+  display: none;
+}
+
+.iz-hero {
+  padding: 4.5rem 0 1rem;
+}
+.iz-avatar {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: var(--secondary);
+  color: var(--light);
+  font: 500 1.7rem/1 $serif;
+  letter-spacing: 0.02em;
+  margin-bottom: 1.75rem;
+  overflow: hidden;
+  & img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: 0;
+    border-radius: 0;
+  }
+}
+.iz-kicker {
+  margin: 0;
+  font-size: 1.15rem;
+  color: var(--gray);
+}
+.iz-headline {
+  font-family: $serif;
+  font-weight: 500;
+  font-size: clamp(2rem, 4.6vw, 3rem);
+  line-height: 1.12;
+  letter-spacing: -0.015em;
+  color: var(--dark);
+  margin: 0.4rem 0 1rem;
+}
+.iz-sub {
+  margin: 0 0 1.5rem;
+  color: var(--darkgray);
+  font-size: 1.05rem;
+}
+.iz-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.iz-nav a {
+  padding: 0.4rem 0.95rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  color: var(--dark) !important;
+  background: transparent !important;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: border-color 0.15s, background-color 0.15s;
+  &:hover {
+    border-color: var(--secondary);
+    background: var(--highlight) !important;
+  }
+}
+// the paragraph right after the hero is the short bio
+body[data-slug="index"] .iz-hero + p,
+body[data-slug="index"] .iz-hero + p + p {
+  font-size: 1.08rem;
+  line-height: 1.7;
+  color: var(--darkgray);
+}
+
+// Section labels: "Start here", "Writing", "Library"
+.iz-label,
+body[data-slug="index"] article h2 {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font: 400 0.78rem/1.4 var(--bodyFont);
+  color: var(--gray);
+  margin: 2.75rem 0 0.9rem;
+  border: 0;
+}
+body[data-slug="index"] article h2 a.internal {
+  display: none; // heading anchor icon
+}
+
+.iz-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.7rem;
+}
+.iz-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1.1rem 1.1rem 1.2rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--light) 60%, white 40%) !important;
+  color: var(--darkgray) !important;
+  text-decoration: none !important;
+  transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+  & span {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--secondary);
+    font-weight: 700;
+  }
+  & strong {
+    font-family: $serif;
+    font-size: 1.2rem;
+    line-height: 1.25;
+    color: var(--dark);
+    font-weight: 600;
+  }
+  & em {
+    font-style: normal;
+    font-size: 0.92rem;
+    color: var(--gray);
+  }
+  &:hover {
+    transform: translateY(-2px);
+    border-color: var(--secondary);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+  }
+}
+:root[saved-theme="dark"] .iz-card {
+  background: color-mix(in srgb, var(--light) 85%, white 15%) !important;
+}
+
+// "Writing": the inline Bases list, styled like a quiet dated index
+body[data-slug="index"] .bases-inline {
+  margin: 0;
+  & .bases-view-meta,
+  & .bases-view-tabs,
+  & .list-bullet,
+  & .bases-list-separator {
+    display: none;
+  }
+  & .bases-list-item {
+    border-top: 1px solid var(--lightgray);
+    padding: 0.75rem 0;
+  }
+  & .bases-list-item-properties {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+  }
+  & .bases-list-property:first-child a {
+    font-family: $serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--dark);
+    text-decoration: none;
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+  & .bases-list-property:last-child {
+    color: var(--gray);
+    font-size: 0.9rem;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+// "Library": book covers in a tidy grid (the list right after the Library heading)
+body[data-slug="index"] article h2#library + ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.9rem;
+  @media all and ($mobile) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  & li {
+    margin: 0;
+  }
+  & a {
+    display: block;
+    background: none !important;
+    text-decoration: none !important;
+  }
+  & img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+    margin: 0;
+    border-radius: 3px 6px 6px 3px;
+    box-shadow:
+      0 1px 2px rgba(0, 0, 0, 0.15),
+      0 6px 14px rgba(0, 0, 0, 0.08);
+    transition: transform 0.15s;
+  }
+  & a:hover img {
+    transform: translateY(-3px) rotate(-1deg);
+  }
+}
+body[data-slug="index"] article h2#library + ul + p {
+  color: var(--gray);
+  font-size: 0.92rem;
+}
+
+// ---------- Vet notes: a quiet disclaimer strip on every note ----------
+body[data-slug^="vet-notes/"]:not([data-slug="vet-notes/index"]) article > .markdown-preview-view::before,
+body[data-slug^="vet-notes/"]:not([data-slug="vet-notes/index"]) article:not(:has(.markdown-preview-view))::before {
+  content: "Working notes, shared as an educational reference for veterinary professionals and students. Check doses against a current formulary. Not advice about your own animal.";
+  display: block;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--gray);
+  border-left: 3px solid var(--tertiary);
+  padding: 0.35rem 0.75rem;
+  margin: 0 0 1.25rem;
+  background: color-mix(in srgb, var(--tertiary) 7%, transparent);
+  border-radius: 0 6px 6px 0;
+}
+
+// ---------- Footer (quartz/components/SiteFooter.tsx) ----------
+footer.site-footer {
+  margin: 4rem 0 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--lightgray);
+  opacity: 1;
+  color: var(--darkgray);
+  font-size: 0.95rem;
+  & p {
+    margin: 0.25rem 0;
+  }
+  & .sf-block {
+    margin-bottom: 1.4rem;
+  }
+  & .sf-title {
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.75rem;
+    color: var(--gray);
+    margin-bottom: 0.4rem;
+  }
+  & a {
+    color: var(--secondary);
+    text-decoration: underline;
+    text-decoration-color: color-mix(in srgb, var(--secondary) 30%, transparent);
+    text-underline-offset: 3px;
+    background: none;
+  }
+  & .sf-form {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.6rem;
+    max-width: 420px;
+    & input[type="email"] {
+      flex: 1;
+      padding: 0.5rem 0.8rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 999px;
+      background: transparent;
+      color: var(--dark);
+      font: inherit;
+    }
+    & input[type="submit"] {
+      padding: 0.5rem 1rem;
+      border: 0;
+      border-radius: 999px;
+      background: var(--secondary);
+      color: var(--light);
+      font: inherit;
+      cursor: pointer;
+    }
+  }
+  & .sf-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    color: var(--gray);
+    font-size: 0.85rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--lightgray);
+  }
+  & .sf-icons {
+    display: flex;
+    gap: 0.9rem;
+    & a {
+      color: var(--gray);
+      text-decoration: none;
+      display: inline-flex;
+      &:hover {
+        color: var(--secondary);
+      }
+    }
+  }
+}
+
+// No external-link arrows on book covers or email links
+body[data-slug="index"] article h2#library + ul .external-icon,
+a[href^="mailto:"] .external-icon {
+  display: none;
+}

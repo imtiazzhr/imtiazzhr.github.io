@@ -1,0 +1,83 @@
+---
+title: "Clinical Pathology"
+date: 2020-10-11
+tags:
+  - horses
+---
+
+- **Microcytic**, **hypochromic anemia**. Microcytic anemia is defined as the presence of **small**, often hypochromic, red blood cells in a peripheral blood smear and is usually characterized by a low MCV (less than 83 micron 3). Iron deficiency is the most common cause of microcytic anemia.
+- Microcytic, hypochromic anemia, as the name suggests, is the type of anemia in which the circulating RBCs are smaller than the usual size of RBCs (microcytic) and have decreased red color (hypochromic). The most common cause of this type of anemia is decreased iron reserves of the body which may be due to multiple reasons. This may be due to decreased iron in the diet, poor absorption of iron from the gut, acute and chronic blood loss, increased demand for iron in certain situations like pregnancy or recovering from major trauma or surgery. This activity reviews the evaluation and management of Microcytic, hypochromic anemia and highlights the role of the interprofessional team in the recognition and management of this condition.
+- **Normochromic Anemia**
+  - **Macrocytic anemia** is almost always due to a deficiency of folate or vitamin B-12.
+    2.  Dx Tests
+- Urine Chemistry, Microscopy & Culture
+- Always examine a blood smear
+- found 20% of smears detected abnormalities missed by the analyser
+- Measuring serum TP is more useful for detecting failure of passive transfer, which may be contributing to the diarrhoea. While direct measurement of immunoglobulin (IgG) is ideal, TP is a relatively good proxy, and better than gamma glutamyl transferase (GGT) to assess failure of passive transfer. GGT measures the volume of ingested colostrum, rather than quality. A TP >52g/L reflects adequate IgG, provided that the calf is well hydrated.
+- CALCULATING BICARBONATE REQUIREMENTS A 40kg calf with a 20mmol/L base deficit (BD) needs 480mmol HCO3 - to replace the deficit and counteract the effect of lactate accumulation. Bicarbonate requirement = (0.6L/kg) x (body weight, kg) x (BD, mmol/L) = 0.6 x 40 x 20 = 480mmol 0.6 is the volume of distribution of bicarbonate (a constant).
+  3. [[Clinical Pathology]]
+- **Haematology**
+- **Clinical Pathology:**
+- Biochemistry
+  - **ALT &  AST: **Markers of hepatocellular damage
+- [[Urinalysis|Urineanalysis]]
+- Urine serum chemistry profile
+- Although increases in BUN and creatinine are supportive of renal dysfunction, these tests are influenced by nonrenal factors as well. For example, dehydration can cause increases in BUN and serum creatinine not associated with renal failure. BUN can also be influenced by diet and GI bleeding and is considered inferior to creatinine to evaluate GFR. Serum creatinine levels can be falsely decreased in animals with severe muscle wasting and falsely increased in patients with severe muscle damage.
+- Although BUN and serum creatinine increase as GFR decreases, this relationship is not linear. Large changes in GFR early in renal disease cause only small increases in BUN and serum creatinine, whereas small changes in GFR in advanced renal disease may be associated with large changes in BUN and serum creatinine.
+- [[Cytology]]
+- [[Auscultation]]
+- Diagnosing Heart Murmurs in Horses
+  - The location of a murmur is where it is heard loudest, or the point of maximal intensity (PMI). This is generally described as left or right and apical or basilar. In horses, it may be possible to further differentiate the pulmonic valve area from the aortic valve area at the left heart base. Murmurs may also radiate to other areas of the thorax, but are softer there than at the PMI.
+  - The timing of a murmur may be systolic, diastolic, or continuous. Since the period of diastole is usually longer than that of systole, the length of the murmur can help to determine the timing. It is also useful to palpate the carotid pulse while ausculting a murmur as a systolic murmur is coincident with the pulse and a diastolic murmur occurs without the pulse. The intensity or loudness of a murmur is graded on a scale of 1 to 6:
+    - Very soft, focal murmur only detected in a quiet area after extended auscultation
+    - Soft, focal murmur that is readily audible (softer than S1 and S2)
+    - Moderately loud murmur with some radiation (similar intensity to S1 and S2)
+    - Very loud murmur that radiates widely (louder than S1 and S2)
+    - Very loud murmur with a palpable thrill
+    - Very loud murmur with a thrill that is audible with the stethoscope off the chest wall
+- Causes of Heart Murmurs in Horses
+  - Below is a list of possible causes of heart murmurs in horses with brief descriptions.
+    - **Aortic Regurgitation** – A leak at the valve between the left ventricle and aorta usually caused by age related degeneration or infection of the valve
+    - **Mitrial Regurgitation** – A leak at the valve between the left ventricle and atrium usually caused by age related degeneration or infection of the valve
+    - **Tricuspid Regurgitation** – A leak at the valve between the right ventricle and atrium which may be seen in normal horses or may be caused by age related degeneration
+    - **Pulmonic Regurgitation** – A leak at the valve between the right ventricle and pulmonary artery which may be seen in normal horses
+    - **Physiologic Murmur **(low grade) – No heart abnormalities, normal blood flow is heard across the aortic, pulmonic valve, or occasionally the mitral valve
+    - **Ventricular Septal Defect** – A congenital heart defect where there is a hole between the two ventricles (most common congenital heart defect of horses)
+    - **PDA **(normal in first week of life) – An normal vessel in the developing fetus that connects the aorta and pulmonary artery, but should close shortly after birth
+    - **Aortic Stenosis** (rare) – Congenital malformation of the aortic valve (between the left ventricle and aorta)
+    - **Pulmonic Stenosis** (rare) – Congenital malformation of the pulmonic valve (between the right ventricle and pulmonary artery)
+    - **Aorto-cardiac fistula** – acquired defect where a hole forms between the aorta just above the aortic valve and the right ventricle or atrium
+- **Misc Notes:**
+  - **Gastroentritis**
+  - more incidence in fall and start of winter
+  - Give an antacid like Omeprazole
+  - omeprazole is far superior to the H-2 blockers famotidine and ranitidine for cats and dogs. **If your goal is truly acid suppression, a proton-pump inhibitor is the way to go.**
+  - **Abscess treatment**
+  - Do FNAB, evaluate if mature or not
+  - Incise, put H2O2 for 3 minutes inside, wash with N.S (5% Povidine solution)
+  - Insert gauzz soaked in Povidine
+  - Antibiotic and anti inflamatory if indicated
+  - Elementary refresher!** Plasma** is that part of the blood, which contains blood clotting agent called as **fibrinogen**, while **serum** is the fluid part of the blood and** does not** **contain** clotting agent. The plasma and serum can be extracted from the centrifugation of blood. The serum is obtained after the clotting of blood, while plasma can be obtained before the coagulation of the blood. Centrifugation separates the blood components by its weight, size, and density.
+  - **Wound Management**
+  - Zinc-containing antibiotics (eg, bacitracin-zinc) may also be beneficial for wound healing by the donation of zinc into the wound bed. Zinc has been shown to have both antimicrobial and antiinflammatory properties.
+  - [[Respiratory Viruses in camels]]
+  - metagenomic sequencing analysis on nasopharyngeal swab samples from 108 MERS-CoV-positive dromedary camels
+  -  Until now, three coronaviruses have been identified in camels: MERS-CoV, human OC43-related camel coronavirus HKU23 and human 229E-related camel alpha-CoV.
+  - MERS-CoV RNA and antibodies have been detected in camels from UAETotal ribonucleic acid (RNA) was extracted and purified using the EZ1 Virus Mini Kit 2.0 (QIAGEN) and stored at -80°C.
+  - Among the different viruses detected in this study, some were similar or nearly identical to previously described camel viruses (96–99.7% nt identity), such as camel MERS-CoV, camel alpha-CoV, camel CoV HKU23, dromedary astrovirus, Camelus dromedarius papillomavirus, Orf virus, and camelpox virus.
+  - Parainfluenza virus 3 (PIV3) has been shown to cause widespread respiratory infections and outbreaks in mammals, including humans.
+  - [[Fungal and skin problems]]
+  - horses: treated with eprinomectin 0.5% pour-on solution at 1 mL/10 kg body weight (0.5 mg eprinomectin/kg body weight).
+  - atopy can mimic insect bite hypersensitivity (IBH) caused by Culicoides.
+  - starting at 0.5 to 1mg/kg/day prednisolone or 0.05 to 0.1mg/kg/day) and may also respond to antihistamine.
+  - Insect hypersensitivity, as the name alludes, is an allergic reaction to the saliva of biting insects such as Culicoidesspp. (biting midges), black flies, horn flies, stable flies, horseflies, and mosquitoes,
+  - A 21–30 day concurrent course of an antibiotic effective against Staphylococcus spp (eg, cephalexin 30 mg/kg, PO, bid) and a systemic antifungal (eg, ketoconazole, itraconazole, or fluconazole 5–10 mg/kg/day, PO) should be prescribed.
+  - Anti-inflammatory dosages range from 0.5–1 mg/kg/day, PO, for 5–10 days and then every other day. Topical spray formulations of triamcinolone acetate are highly effective and good alternatives to oral steroids.
+  - [[Supplementation for Skin Conditions]]
+  - Vitamins&Minerals: **Vitamin A or retinoids** or imp. in regulation of proliferation, growth, differentiation, and maintenance of epithelial tissues. Commonly used retinoids are Isotretinoin and The dosage is 1–3 mg/kg/day.
+  - [[Zinc]] is an important factor of many enzyme systems and is necessary for maintenance of growth, metabolism, normal reproduction, and hormonal regulation. It is essential for keratinization and immune function. Zinc supplementation is given in cases of insufficient intestinal absorption, including deficiency syndrome I (Siberian Huskies, Alaskan Malamutes) and syndrome II (rapidly growing dogs on zinc-deficient diets). Dietary deficiency may be either absolute or relative—diets high in phytates or minerals may inhibit zinc absorption. For syndrome I, zinc supplementation is given as elemental zinc 1 mg/kg/day, PO (zinc sulfate 10 mg/kg, zinc gluconate 5 mg/kg, or zinc methionine 1.7 mg/kg). Supplementation is typically lifelong. If the response is insufficient after 4 wk, the dose should be increased by 50%. Low-dose corticosteroids may also enhance zinc absorption through induction of metallothionein in some nonresponsive cases. Animals with syndrome II normally respond to correction of the diet with resolution within 2–6 wk, although supplementation speeds this process.
+  - Hereditary zinc deficiency associated with deficient intestinal absorption has also been reported in Friesian, Danish Black Pied, and Shorthorn cattle. There is a rapid response to zinc oxide given at 0.5 g/day, PO, or zinc sulfate at 2 g, PO, given weekly. Response to zinc supplementation is usually rapid (a few days) except for cases of achromotrichia, which requires several weeks for resolution.
+  - **Medicated shampoos** include antimicrobial and antiseborrheic products. The most widely used antibacterial shampoos contain chlorhexidine or benzoyl peroxide. Antiseborrheic shampoos contain some combination of tar, sulfur, and salicylic acid—ingredients that are keratoplastic and keratolytic. Tar is recommended for oily seborrhea, and sulfur and salicylic acid are recommended for scaly seborrhea. Most animals benefit from products that contain all three agents; however, tar products are contraindicated in cats.
+  - Alpacas: They were moderately to severely pruritic, had extensive lesions of alopecia, erythema, scaling and crusting, and had lost weight. As no drug is currently licensed for the treatment of sarcoptic mange in alpacas in the UK, they were treated with a topical solution of amitraz (50 mL in 10 L) after initial bathing with antibacterial or keratolytic shampoos. The clinical signs completely resolved with no relapse over a 10‐month follow‐up period. In this small group of alpacas, amitraz was an effective and well‐tolerated treatment for sarcoptic mange.
+- [[Urinalysis|Urineanalysis]]
+- [[Cytology]]

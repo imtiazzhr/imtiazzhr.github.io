@@ -1,0 +1,310 @@
+---
+title: "Clinical cases and treatments"
+date: 2020-10-11
+---
+
+- fungal infection > systemic Itraconazole
+- **Cervical Joint Arthritis**
+- A fairly common neck issue in ridden horses, particularly as they age, is degenerative joint disease or [osteoarthritis (OA)](https://thehorse.com/164328/what-you-need-to-know-about-equine-osteoarthritis/) of the cervical intervertebral synovial (facet) joints. When the joint cartilage in this region is damaged or worn, it causes changes in the synovial fluid that lubricates the joint, thickening of the joint capsule, and altered neck muscle control. Arthritis results, seen as inflammation and potentially pain in neck facet joints. Hepburn and Stubbs explain that the most common combination of signs is a loss of or change in performance, changes in behavior, and/or forelimb lameness.
+- Arthritis has secondary effects on the neck’s surrounding muscles. “A lot of the changes we see around the joints occur with the axial muscles,”
+- A fractured vertebra can also cause spinal cord damage, leading to ataxia and other neurologic disorders such as incontinence and tail weakness.
+- Fortunately, these complex diagnostic scenarios are uncommon. “The vast majority of neck trauma cases that we see do not have any neurological component.
+- The neck muscles sometimes also suffer injury from trauma, says Hepburn, but the result is typically short-term stiffness, soreness, and limited lateral bend/flexion. Occasionally, forelimb lameness, short strides, unusual head carriage, loss of performance, or behavioral changes accompany these signs. Most cases of neck muscle soreness resolve with time and anti-inflammatory pain medication.
+- “The neck is absolutely fundamental to the way a horse moves,” Clayton says. “If the horse is going with his head in the air and his neck hollow, his back is going to be more hollow, so he’s more likely to get arthritis, and he’s not going to perform the way we want him to in competitions.”
+- Human sports medicine researchers have shown that pain in the muscle and fascia (connective tissue that surrounds muscles and muscle groups) accounts for 80% of neck and back pain in people
+- Research has shown that patients with neck and low back pain syndromes should change their posture and gait/locomotion cyclical loading pattern (e.g., subtle changes in running style) every 10 minutes,
+- Scabies
+- Ivermectin > repeat after 14 days
+- **Hair discoloration show camels**
+- How to whiten the hair
+- **Babesiosis**
+- **Imidocarb + Oxy**
+- For treating cattle, diminazene is given IM at 3.5 mg/kg. For treatment, imidocarb is given SC at 1.2 mg/kg. At a dosage of 3 mg/kg, imidocarb provides protection from **babesiosis** for ~4 wk and will also eliminate B bovis and B bigemina from carrier animals.
+- Imidocarb is also highly efficacious against *A marginale* as a single injection (as the dihydrochloride salt at 1.5 mg/kg, SC, or as imidocarb dipropionate at 3 mg/kg).
+- Babesiosis is caused by intraerythrocytic protozoan parasites of the genus *Babesia*.
+- **Supportive treatment** is advisable, particularly in valuable animals, and may include the use of anti-inflammatory drugs, corticosteroids, and fluid therapy. Blood transfusions may be life-saving in very anemic animals.
+- **Theilleriosis**
+- Buparavaquone 2.5 mg/kg  deep IM (1 ml=20kg) + Oxy 20 mg/kg
+- **Second dose of Buparvaquone is required after 48-72 hours**
+- Animals with severe respiratory signs: Marbofloxacine 2 mg/kg b.w.(Marbocyl 10% 1ml per 50 kg b.w, Intercova, animal health products) intravenous or intramuscular or by using oxyteteracyclline HCL L.A. 20% 200 mg /kg b.w.  (1ml per 10 kg b.w.) intramuscular.
+- DDx
+- In Giemsa stained slide, Babesia appears pear shaped or ring inside the erythrocytes
+- Theileria appear rod shaped inside the erythrocytes and leukocytes as well.
+- ![Babesia There are >100 species of this intracellular parasite. The ...](https://images.slideplayer.com/18/5711089/slides/slide_5.jpg)
+- ![Distribution Pattern of Babesia and Theileria Species in Sheep in ...](https://www.omicsonline.org/articles-images/archives-parasitology-infected-animals-1-102-g003.png)
+- Hyalomma dromedarii was identified as the carrier tick of **Theileria** spp. Multinucleated sporoblast and free sporozoite were observed in the salivary gland smears from collecting ticks. PCR result revealed that **Theileria** annulata was the most abundant in **camels** (60 %) followed by **Theileria** spp. (10 %).
+- **Bovine** babesiosis (BB) is a tick-borne disease of **cattle** caused by the protozoan parasites of the genus Babesia, order Piroplasmida, phylum Apicomplexa. The principal species of Babesia that cause BB are: Babesia bovis, Babesia bigemina and Babesia divergens
+- Theileria annulata is transmitted by ticks of genus Hyaloma
+- Pathogenic protozoa belonging to the order Piro-
+- plasmida  include  Babesia  species  and  Theileria
+- species are common pathogens transmitted by ticks
+- and are of significant importance in many domestic
+- animals, including camels
+- Theileriosis is considered to be the second most
+- important  hemoprotozoal  disease  following  try-
+- panosomosis affecting dromedary camels in tropi-
+- cal and subtropical countries
+- Treatment of bovine theileriosis , caused by different types of theileria :
+- T.Parva
+- T.Annulata
+- T.Orientalis
+- Dx
+- These forms were observed in
+- the haemolymph and gut smears as ring form, slen-
+- der spine-like form, an elongated structure, round
+- form, and enclosing centrally located nucleus sur-
+- rounded by a cloud-like dispersed cytoplasm
+- Blood sam-
+- ples were collected from 224 ticks infested camels
+- into clean and dry sterile tubes containing Ethylene
+- Diamine Tetra-acetic Acid (EDTA) as an anticoag-
+- ulant. These samples were used for preparation of
+- blood  films.  Thin  blood  films  from  each  camel
+- were prepared and stained with Giemsa stain and
+- examined microscopically for presence of Theile-
+- ria camelensis
+- are obligate, **intracellular** parasites belonging to the phylum of apicomplexa. Two **Theileria** species, T. parva, and T. annulata are bovine-specific
+- *Theileria annulata* is an apicomplexan, intracellular parasite that predominately infects macrophages *in vivo*. It causes the severe leukoproliferative disorder Tropical Theileriosis in ruminants in northern Africa, the Middle East and Asia where its *Hyalomma* tick vector is endemic. It is closely related to *T. parva*, which is transmitted by the tick *Rhipicephalus appendiculatus* and predominately infects T cells to cause East Coast Fever. Hallmark of infections with *T. annulata* or *T. parva* is a host cell transformation process that results in immortalization and permanent proliferation of the infected cell population and - through paracrine stimulation – also of non-infected leukocytes
+- **Lab analysis of Theileria and Babesia**
+- Blood smears were prepared directly from ear vein for all animals and lymph smears were prepared from suspected cases of theileriosis. The blood smears were used for differential leucocytic count, while lymph smears were used for observation of Koch's blue bodies. Two blood samples from both clinically healthy and diseased cattle were collected from jugular vein, one with anticoagulant for examination of haematological picture and the other without anticoagulant for separation of serum which used for biochemical analysis. Clinical examination revealed enlargement of superficial lymph nodes, fever, congested mucous membranes, corneal opacity and emaciation were found in cases of theileriosis, while fever, paleness of mucous membranes and brown coffee urine were common clinical findings in cases of babesiosis. Haematological findings revealed that cattle suffered from theileriosis showed **normocytic hypochromic anemia**, while those suffered from babesiosis showed normocytic normochromic anemia. Biochemical findings revealed that cattle infected with theileriosis and babesiosis showed decreased serum levels of albumin and total proteins with increased serum globulins. The serum level of glucose was significantly decreased in cattle suffered from theileriosis and babesiosis. Serum level of aspartate aminotransferase (AST) showed significant increase in both theileriosis and babesiosis, while the Serum level of alanine aminotransferase (ALT) was significantly increased only in case of babesiosis. Serum level of gamma glutamyltransferase (GGT) was significantly increased in both theileriosis and babesiosis. Cattle infected with theileriosis showed significant decrease in serum level of iron only, while those suffered from babesiosis showed significant increase of both iron and copper serum levels. The serum level of Total iron binding capacity was significantly decreased in theileriosis. We can conclude from our study that theileriosis and babesiosis are associated with impairment and alteration of liver function
+- **Copper deficiency**
+- Hair discoloration
+- give Cu s/c and don't give more than 120 mg per animal. dosage is 20mg/kg body weight , so 4-6 ml s/c
+- Sometimes there is Zn induced Cu deficiency
+- Other options: boluses and Cu pastes can also be used.
+- **Nutrition management and feeding**
+- The six major components of feed: water, carbohydrate, protein, fat, vitamins, and minerals supply the animal with the water and nutrients needed for maintenance, milk production, reproduction, condition gain, activity, and growth.
+- **Water**
+- **                                         Dry Matter**
+- **                     Energy**
+- **Vitamins**
+- **Minerals **
+- **Carbohydrate**
+- **Fat**
+- **Protein**
+- Energy
+- Energy
+  - Energy in a feed indicates the feed’s ability to help the cow function optimally (e.g. maintenance, milk production, reproduction, condition gain, activity, and growth). Energy in the diet comes from carbohydrates, fats, and protein (when in surplus to protein requirements). Energy can be defined as gross, digestible, metabolisable, and net energy. Generally, in New Zealand, the energy available in a feed is expressed as metabolisable energy (ME) and is measured in megajoules (MJ ME/kg DM). If feed is analysed in laboratories in other countries, it is sometimes reported in megacalories (MCal/kg DM).
+  - **Seroma formation on the base of neck of a calf (Ventral aspect)**
+  - FNAB
+  - Culture sensitivity
+  - Blood film
+  - Hematology + Serumbiochemistry
+  - Treatment: Aspire all, wash with 3-5% Povidine-N.S solution.
+  -  Intralesion Ab + Steroid
+  - **Spray for dermatitis/skin infections:**
+  - Make 200 ml topical spray by mixing following medicine;
+  - Penicillin 40 lac vial
+  - streptomycin   2-3 g
+  - fluconazol  1 g
+  - Apply 2-3 times a day
+  - **Gastroentritis**
+  - more incidence in fall and start of winter
+  - Give an antacid like Omeprazole
+  - omeprazole is far superior to the H-2 blockers famotidine and ranitidine for cats and dogs. **If your goal is truly acid suppression, a proton-pump inhibitor is the way to go.**
+  - **Diseases:**
+  - **Abscess treatment**
+  - Do FNAB, evaluate if mature or not
+  - Incise, put H2O2 for 3 minutes inside, wash with N.S (5% Povidine solution)
+  - Insert gauzz soaked in Povidine
+  - Antibiotic and anti inflamatory
+  - **Fungal and skin problems **
+  - horses: treated with eprinomectin 0.5% pour-on solution at 1 mL/10 kg body weight (0.5 mg eprinomectin/kg body weight).
+  - atopy can mimic insect bite hypersensitivity (IBH) caused by Culicoides.
+  - starting at 0.5 to 1mg/kg/day prednisolone or 0.05 to 0.1mg/kg/day) and may also respond to antihistamine.
+  - Insect hypersensitivity, as the name alludes, is an allergic reaction to the saliva of biting insects such as Culicoidesspp. (biting midges), black flies, horn flies, stable flies, horseflies, and mosquitoes,
+  - A 21–30 day concurrent course of an antibiotic effective against Staphylococcus spp (eg, cephalexin 30 mg/kg, PO, bid) and a systemic antifungal (eg, ketoconazole, itraconazole, or fluconazole 5–10 mg/kg/day, PO) should be prescribed.
+  - Anti-inflammatory dosages range from 0.5–1 mg/kg/day, PO, for 5–10 days and then every other day. Topical spray formulations of triamcinolone acetate are highly effective and good alternatives to oral steroids.
+  - **SupplementatioN for Skin Conditions**
+  - Vitamins&Minerals: **Vitamin A or retinoids** or imp. in regulation of proliferation, growth, differentiation, and maintenance of epithelial tissues. Commonly used retinoids are Isotretinoin and The dosage is 1–3 mg/kg/day.
+  - **Zinc: **
+  - Zinc is an important factor of many enzyme systems and is necessary for maintenance of growth, metabolism, normal reproduction, and hormonal regulation. It is essential for keratinization and immune function. Zinc supplementation is given in cases of insufficient intestinal absorption, including deficiency syndrome I (Siberian Huskies, Alaskan Malamutes) and syndrome II (rapidly growing dogs on zinc-deficient diets). Dietary deficiency may be either absolute or relative—diets high in phytates or minerals may inhibit zinc absorption. For syndrome I, zinc supplementation is given as elemental **zinc 1 mg/kg/day, PO (zinc sulfate 10 mg/kg, zinc gluconate 5 mg/kg, or zinc methionine 1.7 mg/kg). **Supplementation is typically lifelong. If the response is insufficient after 4 wk, the dose should be increased by 50%. Low-dose corticosteroids may also enhance zinc absorption through induction of metallothionein in some nonresponsive cases. Animals with syndrome II normally respond to correction of the diet with resolution within 2–6 wk, although supplementation speeds this process.
+  - Hereditary zinc deficiency associated with deficient intestinal absorption has also been reported in Friesian, Danish Black Pied, and Shorthorn cattle. **There is a rapid response to zinc oxide given at 0.5 g/day, PO, or zinc sulfate at 2 g, PO, given weekly**. Response to zinc supplementation is usually rapid (a few days) except for cases of achromotrichia, which requires several weeks for resolution.
+  - **Medicated shampoos** include antimicrobial and antiseborrheic products. The most widely used antibacterial shampoos contain chlorhexidine or benzoyl peroxide. Antiseborrheic shampoos contain some combination of tar, sulfur, and salicylic acid—ingredients that are keratoplastic and keratolytic. Tar is recommended for oily seborrhea, and sulfur and salicylic acid are recommended for scaly seborrhea. Most animals benefit from products that contain all three agents; however, tar products are contraindicated in cats.
+  - **Alpacas:** They were moderately to severely pruritic, had extensive lesions of alopecia, erythema, scaling and crusting, and had lost weight. As no drug is currently licensed for the treatment of sarcoptic mange in alpacas in the UK, they were treated with a topical solution of amitraz (50 mL in 10 L) after initial bathing with antibacterial or keratolytic shampoos. The clinical signs completely resolved with no relapse over a 10‐month follow‐up period. In this small group of alpacas, amitraz was an effective and well‐tolerated treatment for sarcoptic mange.
+  - **Case : Animal unable to rise after anesthesia - ET recepient**
+  - Claustrophobia: A morbid fear of enclosed areas.
+  - **CASE** Mubarak's breeding camel
+  - Signs:   Staggering, hind legs like tetanus posture, robotic walk, some mild blood with feces
+  - Dx: Inj B 12 20 ml, half i/m and half i/v
+  - Inj  Catasol  10 ml i/m
+  - Inj Vit AD3E    10 ml  s/c
+  - Inj  Durazone  2 ml i.v
+  - Camel fell badly after 2 mints of inj. and came some blood with feces, muscles shivering...  could be because of Clostridial infection or reaction by injection
+  - **Follow-up:**
+  - day 2. Condition was better next day, little bit eating
+  - > Inj methionine 10 ml i.m
+  - inj catasol   10 ml i.m
+  - >   Inj B complex 10 ml, inj intrafer (iron)
+  - > Normal saline 1000 ml and dextrose 500 ml
+  - day-3
+  - much improved, started eating little bit
+  - Drip dufalite 500 ml
+  - Inj B complex, methionine
+  - Day-4  inj Vit C i. m
+  - inj B complex i.m
+  - **Note**
+  - **CASE** Mubarak's ZIMA camel
+  - **Signs**: Cough, respiratory problem, temp bit high
+  - **Dx**: Inj Tylosine 10 ml i/m*
+  - Inj methionine 20 ml i/v (supportive)
+  - Inj Phenylbutazone 15 ml i/v  (temp)
+  - Inj Ancesol 10 ml  i.m
+  - **Note ** Check the next day, if still temp then give Novasul instead of Phenylbutazone and repeat for 3x days
+  - **Follow-up: **
+  - Inj Novasul 20 ml i.v
+  - Inj Methionine 20 ml i.v
+  - Inj Tylosine  10 ml i.m
+  - **CASE** Mubarak's GHRANA camel
+  - **Signs**: Cough, respiratory problem
+  - **Rx**: Inj Tylosine 10 ml i/m* for next 2 days
+  - **Note**
+  - **Calves care**
+  - **Calf with temp, age 20 days**
+  - inj novasul   4 ml i.v
+  - inj terramycin 2 ml i.m
+  - **new born calves**
+  - > Give guard 99 after 6 hours of birth
+  - > Inj AD3E and microchip on day 5
+  - > Inj vaccine, Bro-vac 10 s/c 2 ml  on day 6 and repeat on day  after birth
+  - > 
+  - **Racing Camels Course **
+  - Intrafar
+  - Vit C
+  - B 12 Complex
+  - Corebral
+  - Hem 15
+  - Add above 10 cc each in 500 ml duralite drip
+  - Vit C
+  - Novasul
+  - Batryl (enrofloxacin)
+  - Hem 15
+  - Ornipural
+  - Add above 10 ml each in 500 ml Ringer drip and inject IV
+- fungal infection > systemic Itraconazole
+- **Cervical Joint Arthritis**
+- Scabies
+- Ivermectin > repeat after 14 days
+- **Hair discoloration show camels**
+- **Babesiosis**
+- **Imidocarb + Oxy**
+- **Theilleriosis**
+- DDx
+- animals, including camels
+- cal and subtropical countries
+- T.Parva
+- T.Annulata
+- T.Orientalis
+- Dx
+- These forms were observed in
+- Blood sam-
+- ria camelensis
+- **Copper deficiency**
+- Hair discoloration
+- **Nutrition management and feeding**
+- **Water**
+- **                     Energy**
+- **Vitamins**
+- **Minerals **
+- **Carbohydrate**
+- **Fat**
+- **Protein**
+- Energy
+- Energy
+  - Energy in a feed indicates the feed’s ability to help the cow function optimally (e.g. maintenance, milk production, reproduction, condition gain, activity, and growth). Energy in the diet comes from carbohydrates, fats, and protein (when in surplus to protein requirements). Energy can be defined as gross, digestible, metabolisable, and net energy. Generally, in New Zealand, the energy available in a feed is expressed as metabolisable energy (ME) and is measured in megajoules (MJ ME/kg DM). If feed is analysed in laboratories in other countries, it is sometimes reported in megacalories (MCal/kg DM).
+  - **Seroma formation on the base of neck of a calf (Ventral aspect)**
+  - FNAB
+  - Culture sensitivity
+  - Blood film
+  - Hematology + Serumbiochemistry
+  - Treatment: Aspire all, wash with 3-5% Povidine-N.S solution.
+  -  Intralesion Ab + Steroid
+  - **Spray for dermatitis/skin infections:**
+  - Make 200 ml topical spray by mixing following medicine;
+  - Penicillin  vial
+  - streptomycin   2-3 g
+  - fluconazol  1 g
+  - Apply 2-3 times a day
+  - **Gastroentritis**
+  - more incidence in fall and start of winter
+  - Give an antacid like Omeprazole
+  - omeprazole is far superior to the H-2 blockers famotidine and ranitidine for cats and dogs. **If your goal is truly acid suppression, a proton-pump inhibitor is the way to go.**
+  - **Diseases:**
+  - **Abscess treatment**
+  - Do FNAB, evaluate if mature or not
+  - Incise, put H2O2 for 3 minutes inside, wash with N.S (5% Povidine solution)
+  - Insert gauzz soaked in Povidine
+  - Antibiotic and anti inflamatory
+  - **Fungal and skin problems **
+  - horses: treated with eprinomectin 0.5% pour-on solution at 1 mL/10 kg body weight (0.5 mg eprinomectin/kg body weight).
+  - atopy can mimic insect bite hypersensitivity (IBH) caused by Culicoides.
+  - starting at 0.5 to 1mg/kg/day prednisolone or 0.05 to 0.1mg/kg/day) and may also respond to antihistamine.
+  - Insect hypersensitivity, as the name alludes, is an allergic reaction to the saliva of biting insects such as Culicoidesspp. (biting midges), black flies, horn flies, stable flies, horseflies, and mosquitoes,
+  - A 21–30 day concurrent course of an antibiotic effective against Staphylococcus spp (eg, cephalexin 30 mg/kg, PO, bid) and a systemic antifungal (eg, ketoconazole, itraconazole, or fluconazole 5–10 mg/kg/day, PO) should be prescribed.
+  - Anti-inflammatory dosages range from 0.5–1 mg/kg/day, PO, for 5–10 days and then every other day. Topical spray formulations of triamcinolone acetate are highly effective and good alternatives to oral steroids.
+  - **SupplementatioN for Skin Conditions**
+  - Vitamins&Minerals: **Vitamin A or retinoids** or imp. in regulation of proliferation, growth, differentiation, and maintenance of epithelial tissues. Commonly used retinoids are Isotretinoin and The dosage is 1–3 mg/kg/day.
+  - **Zinc: **
+  - Zinc is an important factor of many enzyme systems and is necessary for maintenance of growth, metabolism, normal reproduction, and hormonal regulation. It is essential for keratinization and immune function. Zinc supplementation is given in cases of insufficient intestinal absorption, including deficiency syndrome I (Siberian Huskies, Alaskan Malamutes) and syndrome II (rapidly growing dogs on zinc-deficient diets). Dietary deficiency may be either absolute or relative—diets high in phytates or minerals may inhibit zinc absorption. For syndrome I, zinc supplementation is given as elemental **zinc 1 mg/kg/day, PO (zinc sulfate 10 mg/kg, zinc gluconate 5 mg/kg, or zinc methionine 1.7 mg/kg). **Supplementation is typically lifelong. If the response is insufficient after 4 wk, the dose should be increased by 50%. Low-dose corticosteroids may also enhance zinc absorption through induction of metallothionein in some nonresponsive cases. Animals with syndrome II normally respond to correction of the diet with resolution within 2–6 wk, although supplementation speeds this process.
+  - Hereditary zinc deficiency associated with deficient intestinal absorption has also been reported in Friesian, Danish Black Pied, and Shorthorn cattle. **There is a rapid response to zinc oxide given at 0.5 g/day, PO, or zinc sulfate at 2 g, PO, given weekly**. Response to zinc supplementation is usually rapid (a few days) except for cases of achromotrichia, which requires several weeks for resolution.
+  - **Medicated shampoos** include antimicrobial and antiseborrheic products. The most widely used antibacterial shampoos contain chlorhexidine or benzoyl peroxide. Antiseborrheic shampoos contain some combination of tar, sulfur, and salicylic acid—ingredients that are keratoplastic and keratolytic. Tar is recommended for oily seborrhea, and sulfur and salicylic acid are recommended for scaly seborrhea. Most animals benefit from products that contain all three agents; however, tar products are contraindicated in cats.
+  - **Alpacas:** They were moderately to severely pruritic, had extensive lesions of alopecia, erythema, scaling and crusting, and had lost weight. As no drug is currently licensed for the treatment of sarcoptic mange in alpacas in the UK, they were treated with a topical solution of amitraz (50 mL in 10 L) after initial bathing with antibacterial or keratolytic shampoos. The clinical signs completely resolved with no relapse over a 10‐month follow‐up period. In this small group of alpacas, amitraz was an effective and well‐tolerated treatment for sarcoptic mange.
+  - **Case : Animal unable to rise after anesthesia - ET recepient**
+  - Claustrophobia: A morbid fear of enclosed areas.
+  - **CASE** Mubarak's breeding camel
+  - Signs:   Staggering, hind legs like tetanus posture, robotic walk, some mild blood with feces
+  - Dx: Inj B 12 20 ml, half i/m and half i/v
+  - Inj  Catasol  10 ml i/m
+  - Inj Vit AD3E    10 ml  s/c
+  - Inj  Durazone  2 ml i.v
+  - Camel fell badly after 2 mints of inj. and came some blood with feces, muscles shivering...  could be because of Clostridial infection or reaction by injection
+  - **Follow-up:**
+  - day 2. Condition was better next day, little bit eating
+  - > Inj methionine 10 ml i.m
+  - inj catasol   10 ml i.m
+  - >   Inj B complex 10 ml, inj intrafer (iron)
+  - > Normal saline 1000 ml and dextrose 500 ml
+  - day-3
+  - much improved, started eating little bit
+  - Drip dufalite 500 ml
+  - Inj B complex, methionine
+  - Day-4  inj Vit C i. m
+  - inj B complex i.m
+  - **Note**
+  - **CASE** Mubarak's ZIMA camel
+  - **Signs**: Cough, respiratory problem, temp bit high
+  - **Dx**: Inj Tylosine 10 ml i/m*
+  - Inj methionine 20 ml i/v (supportive)
+  - Inj Phenylbutazone 15 ml i/v  (temp)
+  - Inj Ancesol 10 ml  i.m
+  - **Note ** Check the next day, if still temp then give Novasul instead of Phenylbutazone and repeat for 3x days
+  - **Follow-up: **
+  - Inj Novasul 20 ml i.v
+  - Inj Methionine 20 ml i.v
+  - Inj Tylosine  10 ml i.m
+  - **CASE** Mubarak's GHRANA camel
+  - **Signs**: Cough, respiratory problem
+  - **Rx**: Inj Tylosine 10 ml i/m* for next 2 days
+  - **Note**
+  - **Calves care**
+  - **Calf with temp, age 20 days**
+  - inj novasul   4 ml i.v
+  - inj terramycin 2 ml i.m
+  - **new born calves**
+  - > Give guard 99 after 6 hours of birth
+  - > Inj AD3E and microchip on day 5
+  - > Inj vaccine, Bro-vac 10 s/c 2 ml  on day 6 and repeat on day  after birth
+  - > 
+  - **Racing Camels Course **
+  - Intrafar
+  - Vit C
+  - B 12 Complex
+  - Corebral
+  - Hem 15
+  - Add above 10 cc each in 500 ml duralite drip
+  - Vit C
+  - Novasul
+  - Batryl (enrofloxacin)
+  - Hem 15
+  - Ornipural
+  - Add above 10 ml each in 500 ml Ringer drip and inject IV

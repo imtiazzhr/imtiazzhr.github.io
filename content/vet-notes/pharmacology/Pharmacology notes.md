@@ -1,0 +1,59 @@
+---
+title: "Pharmacology notes"
+date: 2020-10-11
+---
+
+- Pharma notes
+  - **Emergency medicine:**
+  - Part of crash cart-- Epinephrine, Atropine, Dobutamine, Vasopressin. Imp for emergency cases esp. in cardiac arrest and shock.
+  - **Other to be requested:**
+  - Misoprostol
+  - Firocoxib
+  - PDE Phosphodiestrase Inhibitors (one of three positive ionotropes) - increase cardiac muscular contraction strength by making more intracellular calcium available for the proteins
+  - Amrinone, Milrinone, Pimobendan
+  - Other three types of positive ionotropes include;
+    - Beta-adrenergic agonists (dopamine, dobutamine, epinephrine)
+    - Cardiac glycosides(digoxin, digitoxin, PDE inhibitors like milrinone, amrinone and pimobendan)
+  - **Antibiotics adverse effects**
+  - Aminoglycosidies
+  - Cephalosporins
+  - Lincosamides
+  - IV Potassium Supplem
+  - Indusce
+  - **GIT Medication**
+  - Lactulose- synthetic sugar used to increase the fluid content of  the colon.
+  - This drug is used by mouth or rectally to treat or prevent complications of liver disease (hepatic encephalopathy). Lactulose is a non-absorbable sugar used in the treatment of constipation and hepatic encephalopathy. It is used by mouth for constipation and either by mouth or in the rectum for hepatic encephalopathy. It generally begins working after 8-12 hours, but may take up to 2 days to improve constipation.
+  - Treatment of gastric ulcers
+  - Misoprostol is given in combination with NSAIDs to decrease gastric acid secretion. Other alternatives of Misoprostol which can decrease gastric secretions are H2 receptor antagonists(cimetidine, rsntidine) and proton pump inhibitors (omeprazole)
+  - Xylaz (alpha 2 adrenergic agonists)
+  - Xylazine is used as an EMETIC in cats
+  - Two anti emetics  in cats are diphenhydramine (Benadryl) and metoclopramide
+  - human-Misoprostol is also used to prevent and treat stomach ulcers, start labor, cause an abortion, and treat postpartum bleeding due to poor contraction of the uterus. For abortions it is used by itself and with mifepristone or methotrexate
+  - **Reversal agents for Xylaz and Amitraz** (used for DEMODICOSIS but may cause sedation)** are; **Yohimbine, atipamezole, tolazoline
+  - **Treat Organophosphate Toxicity- take following 3 actions;**
+    - Sedative for seizures (diazepam, phenobarbitol, pentobarbitol)
+    - Atropine - ideal for OGP toxicities
+    - Pralidoxime Chloride (Protopam) - Pralidoxime or 2-PAM, usually as the chloride or iodide salts, belongs to a family of compounds called oximes that bind to organophosphate-inactivated acetylcholinesterase. It is used to treat organophosphate poisoning in conjunction with atropine and diazepam. It is a white solid
+  - **CVS Medication**
+  - Diltiazem - Ca channel blocker - antiarrythmiac drug. They have negative ionotropic effects (dec force of cardiac muscle contraction). Used to treat Atrial fibrillation, supraventricular tachycardia, hypertrophy cardiomyopathy HCM, and hypertension.
+  - Beta blockers- Used to treat arrythmias, Atrial fibrillation, supraventricular tachycardia, hypertrophy cardiomyopathy HCM, and hypertension.
+  - **Dobutamine** is a synthetic catecholamine that acts on alpha-1, beta-1 and beta-2 adrenergic receptors. In the heart, the stimulation of these receptors produces a relatively strong, additive inotropic effect and a relatively weak chronotropic effects.
+  - Dobutamine is a medication used in the treatment of cardiogenic shock and severe heart failure.
+  - Potas. should not be given more than 0.5 mEq/kg/hour to a horse
+  - **Lidocaine** administered intravenously has been highly effective in terminating **ventricular** premature beats and **ventricular tachycardia** occurring during general surgery, during and after cardiac surgery, following acute myocardial infarction, and in the course of digitalis intoxication.LIGNOCAINE (LIDOCAINE) Lignocaine is a class IB antiarrhythmic drug and is the first choice for VT. It is given intravenously in a dose of 1–3 mg/kg. For cardiac arrest, a 100 mg bolus is given, which may be repeated after 5–10 minutes.
+  - Q. A 980-lb camel develops ventricular tachycardia after a general surgery of humerus fracture and requires an IV constant rate of infusion CRI of LIDOCAINE. CRI dosage of lidocaine is 100 mcg/kg/min.
+  - How many miligrams of lidocaine need to be added to a 1000 ml bag of Lactated Ringer's solution that will be administered at a dose rate of 400 ml/hr?
+  - **Bovine**
+  - **Dexamethasone  2mg/ml**
+  - By intravenous or intramuscular administration. To ensure a correct dosage bodyweight should be determined as accurately as possible. Horse, Cow: 5 - 15 ml (approx. 0.02 mg/kg) Foal, Calf: 1 - 5 ml (approx. 0.04 mg/kg) Dog, Cat: 0.25 - 2 ml (approx. 0.1 mg/kg)
+  - Dexamethasone is a synthetic analogue of prednisolone having similar but more potent anti-inflammatory therapeutic action and diversified hormonal and metabolic effects.
+  - Dexamethasone solution is indicated for the treatment of primary bovine ketosis. Blood sugar levels rise to normal levels rapidly and generally rise to above normal levels within 12 to 24 hours. Acetone bodies are reduced to normal concentrations usually within 24 hours.
+  - Dogs, cats, cattle, horses: as an anti-inflammatory agent. As supportive therapy, dexamethasone may be used in the management of various rheumatic, allergic, dermatologic conditions, and for the treatment of diseases known to be responsive to anti-inflammatory corticosteroids
+  - *Supportive therapy*
+  - Dexamethasone Solution may be used as supportive therapy in mastitis, metritis, traumatic gastritis, and pyelonephritis, while appropriate primary therapy is administered. In these cases, the corticosteroid combats accompanying stress and enhances the feeling of general well-being.
+  - Dexamethasone Solution may also be used as supportive therapy in inflammatory conditions, such as arthritic conditions, snake bite, acute mastitis, shipping fever, pneumonia, laminitis, and retained placenta.
+  - Do not use in animals with diabetes mellitus, osteoporosis, heart disease or kidney disease. Do not administer to pregnant animals.
+  - Gastrointestinal ulceration may be exacerbated by steroids in patients given non-steroidal anti-inflammatory drugs and in corticosteroid- treated animals with spinal cord trauma.
+  - **Xylazine 2%, 10%**
+  - **Anti parasitic**
+  - **Moxidectin** is an avermectin parasiticide that acts on the γ-aminobutyric acid (GABA) and glutamate gated channels, resulting in flaccid paralysis of parasites. **Moxidectin** is a potent, broad-spectrum endectocide with activity against a wide range of nematodes, insects and acari.

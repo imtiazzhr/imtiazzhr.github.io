@@ -1,0 +1,66 @@
+---
+title: "Preparation Strategy for interns"
+date: 2020-10-11
+---
+
+- **1st Priority Topics to prepare:**
+  - Camel basic parameters, digestive system, and peculiar behaviour
+  - Interpretation of CBC and biochemistry repports
+- **2nd Priority Topics to prepare:**
+- **3rd Priority Topics to prepare:**
+- **Sources:**
+- **1st Priority Topics to prepare:**
+- **Internal Medicine**
+- Camel basic parameters, **complete clinical examination,** digestive system, and peculiar behaviour
+  - Interpretation of CBC, biochemistry repports, Urine analysis, culture sensitivity, - papers this from here;
+- https://www.msdvetmanual.com/clinical-pathology-and-procedures/collection-and-submission-of-laboratory-samples/collection-and-submission-of-laboratory-samples-from-animals
+- https://www.msdvetmanual.com/clinical-pathology-and-procedures/diagnostic-procedures-for-the-private-practice-laboratory/overview-of-diagnostic-procedures-for-the-private-practice-laboratory
+  - Basic camel diseases, their treatment and management- trypanosomiasis, B1 deficiency, routine metabolic disorders, Orf, Pox, brucella
+  - **Neonatal diseases in calves their treatment and care, vaccination**
+  - Basic drugs for treatment - their pharmacology, dosage, indications e.g. NSAIDs, Steroids, Antihistamine, Antibiotics (oxy, genta, penicillin, ceftiofur, marbofloxacin)
+- **To be more specific, I will also be mentioning brand names of some drugs, search them on google, read about their salt in addition to that specific brand;**
+  - Drugs: Finydine, Flumin, Novasul, Terramicin LA, Penstrip, Gentamicin, T500, Corebral, Methionine, Hepacel/Hepagen,  Diurazone, Furosemide, Iron injectable supplement,
+- Marbocyl, Covexin-10 Vaccine, Bar-vac vaccine,
+- **Sports Medicine:**
+  - Complete anatomy of both soft and hard tissues of carpal joint, and lower limb structres, stifle joint, tarsus joints, fetlock joints, and lower limb structures
+  - Lameness evaluation, diagnosis, treament, management
+- **Diagnostic Imaging:** prepare from here- https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/diagnostic-imaging-of-animals
+- **Radiography + Ultrasounnd + Thermography**
+-  Clinical anatomy of radiographical areas including humerus, elbow, radius, carpal bones and joints, metacarpal bones, fetlock and foot. prepare the hind limb in the same manner.
+- **Radiography:  positions and techniques for taking radiographs of above structures.**
+- **Following document is a gold standard and is an excellent foundation;**
+- https://www.dropbox.com/s/gxu1e5cppgnugku/Principles%20of%20Diagnosis%20radiology%20copy.pdf?dl=0
+- **Ultrasound:** only prepare how to do the ultrasound of different muscloskeletal structures, it would help you harness your clinical anatomy skills
+- Also, understand US machine with focus on MSK ultrasound, Convex and Concave probes
+- **Treatment in Sports Medicine: **
+  - How to give intraarticular injections - prepare from any equine source
+  - PrP, IRAP/ACP, Mesotherapy treatment
+  - **Drugs**: Chondroitin, Hyaluronic acid, Triamcinolone, Pentosan, Betamethasone,
+- **Other useful books for specific topics:**
+- **Anesthesia**
+- **Anesthetic, recovery and  ICU drugs:** Xylaz, detomidine, ketamine, isoflurane, doxapram, diazepam, atropine, calcium borogluconate,
+- Anesthesia: baisc terminology, anesthesia principles. Anesthesia machine,
+  - prepration, sedation, induction, anesthesia, and recovery
+  - Anesthesia complications and their solutions
+  - Monitoring of anesthetised patient; Capnography EtCO2, SpO2, IBP,  NIBP,
+- **Following documensts offer a very practical insights into the above topics;**
+- https://www.dropbox.com/s/s89xo4kg9mu5ycb/2%20Anesthesia%27s%20CARDIOPULMONARY%20PHYSIOLOGY.pdf?dl=0https://www.dropbox.com/s/fgs73s2a4nw3exr/1%20Anesthesia%20Introduction.pdf?dl=0https://www.dropbox.com/s/xes8vb90xb16fll/3%20Anesthesia%20-%20PHARMACOLOGY-PREMEDICATION.pdf?dl=0
+- https://www.dropbox.com/s/oxhwelngyroapyg/Preanesthetic%20Evaluations%20ECG.pdf?dl=0https://www.dropbox.com/s/ktrebis8nvnw64p/4%20Anesth%20-%20%20intravenous%20anesthetic%20agents.pdf?dl=0https://www.dropbox.com/s/86nv3chu5eyrrwz/%20CNS%20and%20Anesthesia%20.pdf?dl=0
+- https://www.dropbox.com/s/5048kne10yo0gb2/5%20Anesthetic%20Machine.pdf?dl=0https://www.dropbox.com/s/hk5kn976ezzyecl/6%20Anesthesia%20Equipment.pdf?dl=0
+- https://www.dropbox.com/s/gknrjq4uoovdvcl/Anesthesia%20Monitoring.pdf?dl=0https://www.dropbox.com/s/fg6i0bbmdq326hf/Anesthetic%20Monitoring%202%20lecture.pdf?dl=0https://www.dropbox.com/s/ajz026lsw1n0atn/Fluid%20and%20Electrolyte%20Therapy%20.pdf?dl=0
+- https://www.dropbox.com/s/wxfmx8yo12eu0mu/Anesthesia%20Equine.pdf?dl=0https://www.dropbox.com/s/s73czgt4m6sggdu/Anesthesia%20Ruminant.pdf?dl=0
+- https://www.dropbox.com/s/boilx0952whhfvj/Anesthesia%20-%20EUTHANASIA.pdf?dl=0
+- **Books:**
+- **Surgery:**
+  - Prepration, scrubbing, basic priciples etc
+  - suture techniques and names of basic equipments and their uses
+  - Synthes’ Large Fragment Set - learn everything about the tools in this orthopaedic set, their uses, and AO priciples of fracture repair
+  - Complete anatomy of shoulder joint including muscles,  vasculature and nerves. types of fractures, surgical techniques of their repair. **This is very important because most of the surgeries performed will be of this structure. - You wont find much data on camel anatomy so start with the horse. Purpose of get familiar with the essential structures.**
+- **2nd Priority Topics to prepare:**
+  - surgical castration
+  - Radiography of back and head
+  - Ultrasound of stifle and lumbsaccral region
+  - anatomy of surgical repair of mandible fractures
+  - Learn Endoscopy
+  - Physilogy of different systems
+- **Sources:**

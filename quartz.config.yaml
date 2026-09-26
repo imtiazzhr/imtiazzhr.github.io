@@ -17,30 +17,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Newsreader
+      body: Lato
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f6f5f1"
+        lightgray: "#e3e3e0"
+        gray: "#8e8f94"
+        darkgray: "#3d3c3a"
+        dark: "#2b2a28"
+        secondary: "#960462"
+        tertiary: "#04a5bb"
+        highlight: rgba(150, 4, 98, 0.07)
+        textHighlight: "#ffd09c99"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1b1a18"
+        lightgray: "#34322f"
+        gray: "#7d7a74"
+        darkgray: "#d9d6cf"
+        dark: "#f3f1ec"
+        secondary: "#e56bb1"
+        tertiary: "#3fc7d8"
+        highlight: rgba(229, 107, 177, 0.12)
+        textHighlight: "#b3833f88"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -113,7 +113,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
@@ -169,6 +169,7 @@ plugins:
     layout:
       position: right
       priority: 10
+      condition: in-vet-notes
   - source: "@quartz-community/search"
     enabled: true
     layout:
@@ -182,11 +183,13 @@ plugins:
     layout:
       position: right
       priority: 50
+      condition: has-backlinks
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
       position: beforeBody
       priority: 10
+      condition: not-index
   - source: "@quartz-community/content-meta"
     enabled: true
     layout:
@@ -230,7 +233,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
-    enabled: true
+    enabled: false # replaced by quartz/components/SiteFooter.tsx
     options:
       links: {}
     layout:

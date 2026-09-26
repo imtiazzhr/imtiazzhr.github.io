@@ -1,0 +1,196 @@
+---
+title: "Equine diseases and conditions"
+date: 2020-10-11
+---
+
+- **African Horse Sickness (AHS)** [source](https://www.vet.k-state.edu/vhc/services/small/radiology/equine-anatomy/tarsus.html)
+- It is caused by an orbivirus (a type of virus which also causes Bluetongue), and is transmitted by the same type of midge. The spread of disease can be influenced by climatic conditions that favour the proliferation of the vector midges, including warm, moist weather and high rainfall, as well as spread by wind dispersal.
+- **The clinical signs** seen are dependent upon which form of the disease is present:
+  - Acute - high fever, severely laboured
+- breathing, coughing and profuse discharge from the nostrils. The mortality rate is very high with up to 95% of severely affected horses dying within a week.
+  - Cardiac - swellings are present over the head and eyelids, lips,cheeks and under the jaw. The mortality rate is around 60% and death results from heart failure.
+  - Mildest form - fever with low temperatures in the morning rising to a high peak in the afternoon.
+  - The mixed form of the disease shows itself by mild respiratory signs followed by the typical swellings of the cardiac form.
+- **Protection**
+  - No vaccine for AHS is currently licensed in the EU.
+  - Protection from vectors could reduce the risk of infection.
+  - Recovered horses do not carry the virus.
+- **Equine Viral Encephalomyelitis (EVE)**
+- EVE is an infectious mosquito-borne disease of horses characterised clinically by paralysis and other signs of nervous derangement caused by several virus types.
+- The viruses can cause serious human disease as well as infecting poultry and sometimes mammals.
+- The virus responsible can cause Venezuelan Equine Encephalomyelitis (VEE), Western Equine Encephalomyelitis (WEE) and Eastern Equine Encephalomyelitis (EEE).
+- **Clinical Signs**
+  - The severity of clinical signs varies according to the virus involved but there are some common themes. The incubation of the disease after infection with the virus is from 1 to 3 weeks. In the initial stage there is fever, which may be accompanied by depression and loss of appetite, but the reaction may be so mild it goes unnoticed.
+  - The nervous signs are hypersensitivity to sound and touch with periods of excitement and restlessness, with apparent blindness. Affected horses may walk blindly into objects or walls. Muscle twitchings may occur in the face and shoulders. A period of severe depression follows. Affected horses stand with their heads hung low and may have a half-chewed mouthful of feed hanging from their lips. The animal may appear to be asleep and is unable to hold up his head, often resting it on some solid object.
+- **Protection**
+  - There are no vaccines currently approved for use in the EU to protect against the Encephalomyelitis viruses mentioned above.
+  - Risk of infection can be reduced by protection from the vectors.
+- **Equine Protozoal Myeloencephalitis**
+- Equine Protozoal Myeloencephalitis (EPM) is a neurologic disease of horses caused by the protozoan **Sarcocystis neurona**. This disease agent is common throughout most of the continental United States.
+- Some serological surveys suggest that as many as 50 percent of the horses in the U.S. may have been exposed to this disease-causing organism. However, the number of horses that come down with disease is low. Outbreaks of the disease are typically sporadic and isolated. It can be attributed to levels of stress in the horses or infection patterns as dictated by the source of the infection, the opossum.
+- The opossum acts as the definitive host for the disease. It transmits the infectious agent by shedding it through its feces. Horses usually become exposed when they ingest contaminated feed, water, hay or pasture forage. This disease can affect horses of any age or breed, but the horse becomes a dead end host and cannot continue to transmit the disease.
+- **Signs** can range from subtle incoordination, weakness, poor balance or stability, droopy lip or eyelid, muscle atrophy, dragging a toe, complete paralysis and death.Once inside the horse’s body, the protozoan eventually moves to the brain or spinal cord and attacks the central nervous system causing neurologic signs to develop. Clinical signs most commonly seen with the disease typically begin with a slow onset but can appear acutely. These signs may be asymmetric and can be varied depending upon what part of the brain or spinal cord the organism has infected.
+- **Diagnosis of EPM** can be difficult. Since many horses are exposed to the protozoan, many will already have a positive blood test. Other testing can be performed on the fluid from the spinal column.
+- However, since spinal taps can be of some risk and difficult to perform, many times treatment is begun based on a positive blood test plus the demonstration of clinical signs.
+- **Treatment for EPM** can be expensive, but it has been shown to be effective against the disease.
+- **Equine Infectious Anaemia (EIA)**
+- EIA (sometimes called ‘Swamp Fever’) is a viral disease which affects horses, mules and donkeys. Although not necessarily fatal,recovered animals will become carriers of the disease and can infect other horses.
+- It can be transmitted through blood-sucking insects and also through the use of contaminated blood or blood products, instruments or needles. Pregnant mares can pass on this disease to their foals whilst in the womb.
+- **Clinical Signs**
+  - **Acute** cases experience fever and haemorrhaging 7-30 days post infection. Very few horses with this initial fever are detected by owners.
+  - **Chronic** cases experience episodes of fever, weight loss, depression, progressive weakness, anaemia and oedema. Other symptoms which may occur include loss of appetite, frequent,urination, diarrhoea, weakness, paralysis of the hindquarters, paleness of the mucous membranes, yellowish discoloration of the conjunctiva, small pinpoint haemorrhages beneath the tongue, rapid breathing and accelerated pulse.
+  - Pregnant mares may abort.
+- **Protection**
+  - There is no known treatment that can eliminate the virus from the body and therefore affected animals are normally slaughtered.
+  - There is no satisfactory vaccine for EIA. Research work continues on attempting to produce a suitable vaccine. Carrier animals can be detected by a blood test.
+- **West Nile Virus (WNV)**
+- West Nile Virus Infection is a non-contagious form of viral encephalitis spread by mosquitoes. Migrating birds are the most likely mechanism by which WNV could be introduced into the UK because birds are the main carriers. WNV can be transmitted to both humans and
+- West Nile Virus (WNV) is a mosquito-borne virus that affects humans and other animals, particularly horses. The mosquito vectors primarily involved are the Culex species which are known to occur in some parts of the UK.
+- Humans, horses and other mammalian species are considered ‘dead-end hosts’, which means they do not normally spread the disease to other people or animals.
+- **Clinical Signs**
+  - In most cases horses show no obvious signs of disease but become seropositive (i.e. positive to the blood test for antibodies to the virus).
+  - Affected animals develop a fever and often encephalitis (inflammation of the brain).
+  - Rates of mortality can be significant in affected horses.
+- Protection
+  - The risk of infection can be reduced by protection from vectors.
+  - In January 2009 West Nile Virus vaccine was authorised for use throughout the EU.
+- **DDx:**These symptoms may also be seen with other diseases such as eastern encephalitis, equine protozoal myeloencephalitis (EPM) and rabies.
+- **Equine Viral Arteritis (EVA)**
+- EVA is a contagious disease. Although EVA can be a systemic illness, it is often only found on breeding premises. Venereal transmission of EVA can occur not only by natural mating but also by Al using fresh, chilled or frozen semen. The infection is spread by contact with infected horses or aborted foetuses.
+- **Clinical Signs**
+  - The viral infection can cause fever, depression, and oedema (swelling) especially of the limbs and inflammation around the eyes. The virus may cause abortion in pregnant mares and severe respiratory disease and death in young foals.
+  - The virus localises in a stallion’s sex glands and the virus may be shed in his semen for several weeks, months or years afterwards and possibly for life.
+- **Protection**
+  - A vaccine is licensed for use in horses in the UK and has been used widely in thoroughbred stallions to provide some immunity against EVA.
+  - The protective efficacy of this vaccine has not been demonstrated in the face of a field outbreak.
+  - EVA is a preventable disease by adherence to the Industry Code of Practice.
+- **Vesicular Stomatitis**
+- Viral infection causing lesions on lips, nostrils, tongue, soft and hard palate. Can affect humantoo.
+- **Rhinopneumonitis**
+- Rhinopneumonitis is now recognized to be two distinct diseases caused by equine herpesvirus type 1 (EHV-1) and equine herpesvirus type 4 (EHV-4).
+- Both EHV-1 and EHV-4 infect the respiratory tract causing signs of mild fever and transient nasal discharge or more severe influenza-like disease characterized by high fever, lethargy, loss of appetite, nasal discharge and coughing.
+- In addition, EHV-1 causes abortion in pregnant mares, the birth of weak foals and a paralytic neurologic disease.
+- The primary indications for equine herpesvirus vaccines are
+  - prevention of EHV-1 abortion in pregnant mares and
+  - prevention of respiratory disease in foals, weanlings, yearlings and young performance and show horses.
+- It is strongly recommended that all pregnant mares be vaccinated during the fifth, seventh and ninth month of gestation using the approved, inactivated EHV-1 vaccine.
+- Immunity following vaccination appears to be short-lived, and it is recommended that foals, young horses and performance or show horses at high risk be revaccinated at 3-month intervals, as with influenza. Combination vaccines containing influenza and herpes viruses are convenient for booster vaccinations against these respiratory viruses in high-risk horses.
+- **Glanders**
+- **Strangles**
+- Equine Influenza
+- Potomac Horse Fever
+- [[Laminitis]]
+- Laminitis Rx: drug that cause vasodilation and restore the blood supply. e.g, Phenoxybenzamine (alpha drenergic agonist). Phenoxybenzamine is an alpha-adrenergic antagonist promoting vasodilation and restoration of blood flow to the digits. Prednisone is contraindicated in laminitis because corticosteroids are believed to induce the condition. Antibiotics are not indicated unless a secondary bacterial infection develops. Application of a horse shoe would not help and would be very painful in an already sensitive and painful condition. Other medications used to restore blood flow to the digits include acepromazine, isoxsuprine hydrochloride, dimethylsulfoxide (DMSO), heparin, and nitroglycerine
+- others; acepromazine, DMSO, heparin, nitroglycerin
+- Ab: only if infection
+- Contra Ind: Cortico,
+- [[Sarcoids]]
+- [Sarcoids](http://www.merckvetmanual.com/integumentary_system/tumors_of_the_skin_and_soft_tissues/connective_tissue_tumors.html#v3281241) are the most common tumor in Equidae (horses, mules, and donkey). Sarcoids are locally aggressive, fibroblastic tumors of the dermis and subcutaneous tissues that are thought to be associated with bovine papillomavirus infection.
+- Different clinical manifestations include occult, verrucous and nodular or fibroblastic types.
+- Lesion morphology (occult/verruquous/nodular/fibroblastic/mixed)
+- Multiple lesions in the same horse with typical sarcoid morphology
+- (Aggressive) recurrence after treatment
+- Therapies include surgical resection, interstitial radiation, intralesional chemotherapy, and nonspecific immunotherapy.
+- **The main types are sarcoids are**:
+  - **Verrucose **– These are slow growing and have flat, scaly tumours and look like scars or ringworm. They are the least aggressive sarcoid type.
+  - **Nodular **– These are well demarcated lumps, which may be covered by normal skin or may be ulcerated. They have a spherical appearance and may have a wide, flat base or narrow stem-like base. They have a medium growth rate and their behaviour may change over time.
+  - **Fibroblastic **– These are aggressive tumours that grow rapidly and are locally invasive, possibly invading down into the tissues underneath the skin. They might not be well demarcated and often occur in clusters of tumours of variable size and shape. They have an irregular appearance and because they grow rapidly are often ulcerated.
+  - Mixed sarcoids are combinations of the above three types and it is fairly common for horses to develop multiple sarcoid types in one region or for there to be multiple sarcoid types present at different sites around the horse.
+  - Occasionally horses develop malignant sarcoids which are highly aggressive and spread locally via lymph vessels producing lines of sarcoids spreading from the original tumour site.
+- **Therapies**
+- **Medical treatments** include the immune stimulant Bacillus Calmette Guerin (BCG) vaccine (which is used to prevent tuberculosis) injected into the tumour; the injectable chemotherapy drugs cisplatin and Mitomycin C which act by interfering with DNA copying in tumour cells; the topical chemotherapy cream AW4-LUDES (‘Liverpool cream’); ointments containing extracts of the blood root plant, and various other natural remedies. Other treatment continue to be translated from human medicine including photodynamic treatment in which a chemical is applied to the surface of the tumour and then exposed to a specific type of light which activates the chemical and kills tumour cells.
+- **Electrochemotherapy (ECT)**
+- **Surgical treatments** include surgical excision, cryosurgery (freezing) and laser surgery.
+- [Borrelia burgdorferi](http://www.merckvetmanual.com/generalized_conditions/lyme_borreliosis/overview_of_lyme_borreliosis.html) is the causative agent of Lyme disease.
+- It is most commonly diagnosed in dogs, humans, cats, and horses, and causes a range of clinical signs from renal, neurologic, and cardiac abnormalities to joint disease.
+- It is transmitted by Ixodes spp. ticks but only after the tick has been attached for more than 24 hours.Direct detection of the bacteria is difficult and time-consuming; serologic assays are commonly used for diagnosis.Since a positive titer indicates exposure and not necessarily clinical disease, interpretation of titer results can be problematic.
+- When Lyme disease is suspected, the treatment of choice is doxycycline for at least 4 weeks.Relapse after apparently successful treatment is possible.
+- Check out the ACVIM consensus statement on Lyme disease [in dogs](https://www.ncbi.nlm.nih.gov/pubmed/16594606) and [horses](https://www.onlinelibrary.wiley.com/doi/full/10.1111/jvim.15042).
+- Bartonella henselae is the causative agent of [cat scratch disease](http://www.merckvetmanual.com/public_health/zoonoses/zoonotic_diseases.html) (**zoonotic pyogranulomatous lymphadenitis)** in cats and people.
+- Click here to read more about [cat scratch disease in people](https://www.cdc.gov/bartonella/symptoms/index.html) on the CDC website.
+- [Rinderpest](http://www.merckvetmanual.com/generalized_conditions/rinderpest/overview_of_rinderpest.html) and [Peste Des Petits Ruminants](http://www.merckvetmanual.com/generalized_conditions/peste_des_petits_ruminants/overview_of_peste_des_petits_ruminants.html#v3276020) are both caused by a morbillivirus and both cause a syndrome characterized by fever, necrotic stomatitis, gastroenteritis/diarrhea. HIGHLIGHTS
+- In 2011, the United Nations Food and Agriculture Organization (FAO) and the World Organisation for Animal Health (OIE) officially declared that [rinderpest was eradicated globally](http://www.fao.org/ag/againfo/programmes/en/grep/home.html). But because it is a classic, severe, reportable, stomatitis-type disease, it's unlikely that vets will be allowed to forget rinderpest on DDXs for years.
+- [Canine distemper](http://www.merckvetmanual.com/generalized_conditions/canine_distemper/overview_of_canine_distemper.html) and human measles are also caused by morbilliviruses.
+- [Pseudorabies](http://www.merckvetmanual.com/nervous_system/pseudorabies/overview_of_pseudorabies.html) and Aujesky's are the same disease. Aphthous fever is just another name for [foot and mouth disease](http://www.merckvetmanual.com/generalized_conditions/foot-and-mouth_disease/overview_of_foot-and-mouth_disease.html) (FMD).
+- [Bluetongue](http://www.merckvetmanual.com/generalized_conditions/bluetongue/overview_of_bluetongue.html) is almost exclusively a sheep disease that is mild in cows. In contrast, [malignant catarrhal fever](http://www.merckvetmanual.com/generalized_conditions/malignant_catarrhal_fever/overview_of_malignant_catarrhal_fever.html) (MCF) is almost 100% fatal once see clinical signs.
+- Refs: Pasquini's Guide to Bovine Clinics, 4th ed. pp 8-11.
+- is the cause of [lumpy jaw](http://www.merckvetmanual.com/generalized_conditions/actinomycosis/overview_of_actinomycosis.html) in cattle. Actinomyces bovis is a slender gram-positive rod that is part of the normal mouth flora.
+- is the cause of [lumpy jaw](http://www.merckvetmanual.com/generalized_conditions/actinomycosis/overview_of_actinomycosis.html) in cattle. Actinomyces bovis is a slender gram-positive rod that is part of the normal mouth flora.
+- It enters soft tissue after damage from traumatic feed (stems, grass awns) or foreign objects (baling wire) then causes damage/granulomatous abscesses in the mandible, maxilla, or other bony structure of the head.
+- Remember "MY lumpY" for lumpy jaw (ie: MYces, lumpY)
+- Actinobacillus ligniersi causes [wooden tongue](http://www.merckvetmanual.com/generalized_conditions/actinobacillosis/overview_of_actinobacillosis.html) (remember LIGNIN is what makes WOOD).
+- [Fusobacterium necrophorum](http://www.merckvetmanual.com/respiratory_system/respiratory_diseases_of_cattle/necrotic_laryngitis_in_cattle.html) is associated with anything rotten. Think foot rot, quittor, necrotic stomatitis, calf diphtheria, necrotic rhinitis.
+- Acremonium spp. are fungi that cause [Mycetomas](http://www.merckvetmanual.com/generalized_conditions/fungal_infections/mycetomas.html).
+- Refs: Smith, Large Animal Internal Medicine, 5th edition, pp 743-744. Images courtesy of Steve Loncosky and Kevin Terra.
+- Aspergillus is the fungus most commonly associated with [guttural pouch mycosis](http://www.merckvetmanual.com/respiratory_system/respiratory_diseases_of_horses/guttural_pouch_disease_in_horses.html#v3294289).Aspergillus spp. typically form plaques on the caudodorsal aspect of the medial compartment of the guttural pouch, causing damage to the internal carotid artery and cranial and sympathetic nerves.
+- This results in the clinical signs of epistaxis, dysphagia, and Horner's syndrome. Spontaneous and severe hemorrhage may result in sudden death.
+- [Actinomyces spp.](http://www.merckvetmanual.com/generalized_conditions/actinomycosis/overview_of_actinomycosis.html) are the cause of lumpy jaw in cattle, infections associated with foxtail migration in dogs, and pyogranulomatous porcine mastitis. Actinomyces spp. are occasionally isolated from submandibular abscesses in horses.
+- The toxins produced by the growth of [Fusarium spp.](http://www.merckvetmanual.com/toxicology/mycotoxicoses/fumonisin_toxicosis.html) on corn (fumonisins) are the cause of equine leukoencephalomalacia (moldy corn poisoning), a central nervous system disease characterized by blindness, circling, ataxia, and obtundation.
+- [Conidiobolus spp.](http://www.merckvetmanual.com/generalized_conditions/fungal_infections/zygomycosis.html) infection results in the development of ulcerative, pyogranulomatous lesions, most commonly of the nasal mucosa and subcutaneous tissues of horses.Refs: Smith, Large Animal Internal Medicine, 3rd ed. pp. 535-7.
+- Aspergillus is the fungus most commonly associated with [guttural pouch mycosis](http://www.merckvetmanual.com/respiratory_system/respiratory_diseases_of_horses/guttural_pouch_disease_in_horses.html#v3294289).Aspergillus spp. typically form plaques on the caudodorsal aspect of the medial compartment of the guttural pouch, causing damage to the internal carotid artery and cranial and sympathetic nerves.
+- This results in the clinical signs of epistaxis, dysphagia, and Horner's syndrome. Spontaneous and severe hemorrhage may result in sudden death.[Actinomyces spp.](http://www.merckvetmanual.com/generalized_conditions/actinomycosis/overview_of_actinomycosis.html) are the cause of lumpy jaw in cattle, infections associated with foxtail migration in dogs, and pyogranulomatous porcine mastitis. Actinomyces spp. are occasionally isolated from submandibular abscesses in horses.The toxins produced by the growth of [Fusarium spp.](http://www.merckvetmanual.com/toxicology/mycotoxicoses/fumonisin_toxicosis.html) on corn (fumonisins) are the cause of equine leukoencephalomalacia (moldy corn poisoning), a central nervous system disease characterized by blindness, circling, ataxia, and obtundation.[Conidiobolus spp.](http://www.merckvetmanual.com/generalized_conditions/fungal_infections/zygomycosis.html) infection results in the development of ulcerative, pyogranulomatous lesions, most commonly of the nasal mucosa and subcutaneous tissues of horses.Refs: Smith, Large Animal Internal Medicine, 3rd ed. pp. 535-7.
+- Ehrlichia ruminantium is the organism responsible for [heartwater disease](http://www.merckvetmanual.com/generalized_conditions/heartwater/overview_of_heartwater.html) of ruminants, a tick-borne foreign disease characterized by high fevers, lung edema and hydropericardium. The causative organism was FORMERLY classified as Cowdria ruminantium.
+- Molecular testing has led to the reclassification of several organisms that cause infectious disease...
+- [Equine granulocytic ehrlichiosis](http://www.merckvetmanual.com/generalized_conditions/equine_granulocytic_ehrlichiosis/overview_of_equine_granulocytic_ehrlichiosis.html) (EGE) was originally classified as Ehrlichia equi, but is now classified as **Anaplasma phagocytophilum**.
+- [Potomac Horse Fever](http://www.merckvetmanual.com/digestive_system/intestinal_diseases_in_horses_and_foals/potomac_horse_fever.html) (PHF), formerly classified as Ehrlichia risticii, is now called **NEO**rickettsia risticii.
+- [Histophilus somni](http://www.merckvetmanual.com/generalized_conditions/histophilosis/overview_of_histophilosis.html), the cause of thrombotic meningoencephalitis (TEME), was formerly called Haemophilus somnus. Follow this link to see a [necropsy image of TEME](http://www.merckvetmanual.com/multimedia/v9180593).
+- Mannheimia haemolytica, a primary cause of [pneumonic pasteurellosis](http://www.merckvetmanual.com/respiratory_system/respiratory_diseases_of_cattle/bacterial_pneumonia_in_cattle.html#v3293525), was formerly called Pasteurella hemolytica.
+- Refs: Pasquini's Guide to Bov Clin, 4 th ed. pp. 63, 254, 261, Pasquini's Guide to Equine Clinics, 3rd ed. pp. 43, 142.
+- Colic
+- mild, acute Laminitis
+- Rx: 
+- This 2 year old mare in the picture presents for an intermittent left thoracic limb lameness which resolves after working the horse. On physical exam, a palmar metacarpal bulge and inflammation could be palpated. What is your diagnosis?
+- Ans? tendonitis. The intermittent lameness and bulge at the metacarpals are classic for bowed tendon or tendonitis.
+- intra-articular sodium hyaluronate injections ?
+- Osselets are inflammation of the periosteum on the dorsal distal epiphyseal surface of the third metacarpal bone and fetlock joint. As in this case, they are often (but not always) bilateral. Osselets typically begin from chronic stress injury to the front fetlock(s) from repeated concussive forces during racing and hard training. Horses with long or upright pasterns may be predisposed. The major clinical signs are increasing lameness and a short choppy gait. Thickening and soreness of the fetlock are also frequently seen. Early diagnosis and intervention is important because once the condition progresses to osteoarthritis, the prognosis is much worse. If recognized early and treated with rest, anti-inflammatory medications, and intra-articular sodium hyaluronate injections, many horses can recover completely.
+- Low ringbone is osteoarthritis of the distal interphalangeal (coffin) joint. High ringbone is osteoarthritis of the proximal interphalangeal (pastern) joint. Sidebones are ossification of the collateral (alar) cartilages of P3. Navicular syndrome affects the heel.
+- Q. Radiographic abnormalities associated with chronic laminitis in horses include which of the following?
+- A change in the angulation of P3 Correct Answer
+- A distinct lucent line between P3 and the hoof wall on the lateral projection
+- Osteophyte formation along the solar margin
+- Osteophyte formation between P2 and P3
+- a change in the angulation of P3. Inflammation and degeneration of the lamina can be seen radiographically as rotation of P3 relative to the hoof. Osteophyte formation is not an indication of laminitis. A distinct lucent line is normally seen between the margin of P3 and the hoof on the lateral view of a foot.
+- Which of the following is not considered a predisposing factor to a horse developing laminitis?
+- Application of horse shoes Correct Answer
+- High carbohydrate diet
+- Acute systemic disease
+- Endometritis
+- Excessive weight bearing on a single limb
+-  application of horse shoes. Laminitis is an inflammatory condition of the lamina in one or more feet of a horse. It is often a manifestation of systemic disturbances such as endometritis and salmonellosis. A high carbohydrate diet (carbohydrate overload), excessive weight bearing on an individual leg, and corticosteroid administration also predispose a horse to laminitis. Application of horse shoes has no association with development of laminitis
+- A 10-month old Arabian presents for persistent superficial and deep digital flexor tendon contracture. What surgical option does this patient have?
+- Distal check desmotomy and proximal check desmotomy Correct Answer
+- Deep digital flexor tenotomy Your Answer
+- Distal check desmotomy only
+- Proximal check desmotomy onlyThe correct answer is distal check desmotomy and proximal check desmotomy. The distal check desmotomy relieves the deep digital flexor contracture while proximal check desmotomy relieves superficial digital flexor contracture. If the contracture is severe, it may recur 2-4 months after surgery. At such time, a suspensory desmotomy is an option but subluxation at the proximal interphalangeal joint is a common consequence.
+- [[Radiography]]
+- Bone remodelling is an active and dynamic process that relies on the correct balance between bone resorption by osteoclasts and bone deposition by osteoblasts.
+- The **remodeling** cycle consists of three consecutive phases: resorption, during which osteoclasts digest old **bone**; reversal, when mononuclear cells appear on the **bone** surface; and formation, when osteoblasts lay down new **bone** until the resorbed **bone** is completely replaced.
+- **Enthesophyte formation** is new bone at the site of attachment of a tendon, ligament, or joint capsule to bone.
+- **Osteoporosis** defines a group of skeletal disorders that are characterized by loss of bone mass (osteopenia) with the remaining bone appearing normal.
+- There is P3 osteopenia and remodeling of the distal aspect of P3.
+- **Pathogenesis:** Osteoporosis results from **bone resorption exceeding bone formation**.
+- **Note:** When inadequate bone mineralization is microscopically evident, the disease should not be called osteoporosis.
+- **Causes:** Disuse osteoporosis is caused by lack of physical exercise, reduction in weight bearing and immobilization of the limbs. Osteoporosis of senility may be partially due to reduced physical activity. Malnutrition, hyperadrenocorticism, prolonged use of corticosteroids, thyrotoxicosis, hyperparathyroidism and other hormone imbalances also can cause osteoporosis.
+- subchondral sclerosis?
+- A **sclerotic** lesion is an unusual hardening or thickening of your **bone**.
+- Remodeling imbalance owing to failure of the resorptive process can result in dense (**sclerotic**) **bones**. **Bone sclerosis** is defined as “an abnormal increase in density and hardening of bone”
+- **Ankylosis** is a stiffness of a joint due to abnormal adhesion and rigidity of the bones of the joint, which may be the result of injury or disease.
+- subchondral erosions
+-  The formation of large "holes" in the body of the navicular bone itself, believed to be **enlarged vascular channels**
+- **Neurological Signs**
+- A 3-month-old paint colt presents to you after flipping over backward while being led by the owner the previous day. Clinical signs at the time of presentation are shown in the image (head tilt, flaccid ear, muzzle deviation). Based on the history and clinical signs, what cranial nerves are damaged and what is the most likely diagnosis?
+- Cranial nerves VII and VIII (left side); fracture of the basisphenoid bone
+- The correct answer is damage to cranial nerves VII (facial nerve) and VIII (vestibular nerve) on the left side caused by fracture of the basisphenoid bone. This is a common injury when a fractious young foal rears up and falls backward on the poll. The basisphenoid bone becomes injured resulting in injury to cranial nerves VII and VIII. Damage to the facial nerve results in the muzzle deviation (opposite direction of the side of injury, in this case deviated to the right), ptosis of the left eye and drooping of the left ear. Damage to the vestibular nerve results in the head tilt.
+- [[Breeding]]
+- You suspect that an 18-year old post-parturient Thoroughbred mare has uterine artery hemorrhage based on a low PCV (14%), tachycardia (heart rate 70 beats/min), and the history of foaling 12 hours ago. Which of the following drugs would potentially help in a hemorrhaging mare?
+  - Aminocaproic acid
+  - Aspirin
+  - Low molecular-weight heparin
+  - Tissue plasminogen activator
+- Ans?
+- Aminocaproic acid is the best choice of those listed. This medication is believed to facilitate clot stabilization by blocking the activation of plasminogen to plasmin. As you may recall, plasmin is the active enzyme that dissolves clots; therefore, aminocaproic acid inhibits fibrinolysis. The other medications listed would have an anti-coagulant effect and would be contraindicated in this mare.
+- Q. stallions which should definitely not be used for breeding?
+-  stallion with a previous infection with Taylorella equigenitalis. This organism is thought to be eradicated in the United States but is the causative agent of contagious equine metritis, which can lead to infertility (there is usually no clinically apparent disease in the stallion). It is okay to breed a stallion with a history of coital exanthema (Equine herpesvirus-3) as long as all lesions are cleared. A 180-degree rotation of the testicle is common and of no clinical significance as is a positive bacterial culture from a pre-ejaculate swab; however, heavy growth of Pseudomonas or Klebsiella may make you think twice, as they can be associated with causing endometritis in mares.
+- **Protozoal**
+- By what mechanism does Parascaris equorum typically cause colic in foals?
+- answer is intestinal impaction. In foals, a significant ascarid burden with Parascaris equorum can lead to intestinal impaction and associated colic. Thrombosis of the mesenteric artery occurs with Strongylus vulgaris infestations. Immune mediated hypersensitivities may occur in adult horses with Parascaris equorum infestations but is unlikely to be a significant cause of the morbidity seen in foals. Larval migration can occur with Parascaris equorum but typically will affect the lungs or liver and this stage of the parasite does not lead to colic.

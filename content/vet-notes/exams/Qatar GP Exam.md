@@ -1,0 +1,45 @@
+---
+title: "Qatar GP Exam"
+date: 2020-10-11
+---
+
+- Qatar Vet Licensing Process - 3-4 Exams in a year.
+
+### Regulations related Topics - for Qatar exam
+
+- Law No. 8 of 1995 on Practicing Veterinary Medicine [source](https://www.almeezan.qa/LawView.aspx?opt&LawID=4102&language=en)
+  - Article 2
+    - Any person who practices, either by himself or under the supervision of another, the following acts on an animal shall be deemed a practitioner of veterinary medicine
+      - 1 - Examining, diagnosing or assessing the progress of a disease.
+      - 2 - Dispensing, prescribing or giving drugs.
+      - 3 - Practising any medical or surgical procedure.
+      - 4 - Collecting a biological sample for making a medical diagnosis.
+      - 5 - Providing a certificate or medical report on an animal’s health.
+      - 6 -Conducting legitimate medical examinations or autopsies, or providing any medical reports thereon.
+  - Article 3
+    - Veterinary medicine shall only be practiced with a licence from the Ministry. The applicant shall hold a bachelor's degree or its equivalent in veterinary and animal surgery from a recognized college or institute.
+  - Article 4
+  - ==Article 14==
+    - Veterinary doctors shall perform their work according to the highest standards of professionalism, ethics and honesty. In particular, they shall not:
+      - 1.     Refuse to treat an animal.
+      - 2.     Conduct tests or research on animals without the approval of the Ministry.
+      - 3.     Combine their practice with any other activity or business.
+      - 4.     Advertise their services in a manner inconsistent with the dignity of their profession.
+      - 5.     Promote establishments or medical products, either directly or indirectly.
+      - 6.     Allow the use of their name in the promotion of medicines, drugs or animal treatments, or lend their name to any commercial purpose.
+      - 7.     Publish false information or information not documented in the doctors’ registry about their degrees, honours or type of specialization in any medical publication or anywhere on the door of their office or their home.
+  - Article 15
+    - Where a veterinary doctor suspects that an animal is infected with an epidemic or contagious disease, he shall immediately inform the competent veterinary medical centre and follow the decisions and instructions issued by the Ministry on epidemic or contagious diseases, whether or not such diseases are confined to animals or shared between humans and animals
+- Cold Chain Components
+  - The cold chain has three main components: **transport and storage of medicine, trained personnel, and efficient management procedures**. All three elements must combine to ensure safe vaccine transport and storage.
+- Prescription Requirement
+  - **Controlled Drug (CD) prescription writing requirements:**
+    - Patient name and address.
+    - Drug name.
+    - Dose ('as directed' on its own is not permitted)
+    - Formulation.
+    - Strength (where appropriate)
+    - Total quantity/dosage units of the preparation in both words and figures (for liquids, total volume in ml)
+    - Prescriber signature and address.
+- Controlled drugs Classes
+  - The five classes of drugs are **narcotics, depressants, stimulants, hallucinogens, and anabolic steroids**.

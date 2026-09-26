@@ -1,0 +1,98 @@
+---
+title: "Anesthesia monitoring"
+date: 2020-10-11
+---
+
+- **ECG Leads**
+- Similar: Newspaper comes to the front door black ink on white paper. Christmas tree goes out the back door at the end of the season. Red lights on a green tree.
+- 4 quick tips for optimizing your ECG acquisition.
+- 1) Proper Patient Positioning and Restraint
+- 2) Conventional Lead Placement
+- 3) Optimal ECG Settings: paper speed and gain (scale)
+- 4) Benefits of a 6 lead vs single lead II ECG
+- **3) Proper ECG Settings: paper speed (mm/sec) and gain (scale in mm/mV)**, will make it easier to interpret your ECG data. Standard gain setting is 10 mm/mV, but can be adjusted as needed for best interpretation. Two paper speeds should be acquired.
+- Blood Pressure
+- Hypotensive episodes are common during anesthesia. So what are the facts? How should we view hypotension occurring during anesthesia? This requires a careful examination of basic physiology, experimental studies, and case reports.
+- **Arterial Blood Sampling**
+- **Equine**
+- Arteries commonly used for blood sampling in horses include facial (most often used in anesthetized animals), transverse facial, carotid, and metatarsal (in recumbent foals and anesthetized animals). In addition to these sites, arterial sampling on foals can include brachial and palmar (digital) arteries.
+- The facial artery is accessible in the area under the mandible to the facial crest. This site is commonly used for arterial catheterization in anesthetized animals
+- The transverse facial artery lies caudal to the lateral canthus of the eye.
+- **Camelid**
+- The auricular (ear) artery is often used in llamas and alpacas for arterial sampling
+- **Bovine, Ovine, and Caprine**
+- Arteries used for sampling in these animals include the transverse facial, carotid, auricular, and dorsal metatarsal.
+- **Arterial Catheterization**
+- A short OTN catheter can be placed in the artery of an anesthetized patient. Arteries commonly catheterized in the horse include the transverse facial and dorsal metatarsal arteries. Arteries commonly catheterized in food animals include the transverse facial, dorsal metatarsal, and auricular arteries.
+- **Basic physiology**
+  - The function of the circulation is to maintain flow of blood though tissue capillaries, delivering oxygen and may other substances to the surrounding tissues, as well as removing waste products and products of metabolism from these tissues. All blood vessels, including capillaries are collapsible tubes only kept open by the fact that the pressure within the arteries, veins and capillaries is higher than the external pressure exerted upon them by the tissues they provide with a flow of blood. Flow of blood though any tissue is given by the simple formula:
+  - IBP and NIBP
+  - Arterial blood pressure (**BP**) was measured noninvasively (**NIBP**) via a cuff placed over either the ventral coccygeal artery or the metacarpal artery, and invasively (**IBP**) via a catheter in either the facial artery or the metatarsal artery.
+  - Although invasively measured blood pressure (invBP) is regarded as a “gold standard” in critically ill cardiac patients, the non-invasive BP is still widely used, at least at the initiation of medical care. The erroneous interpretation of BP can lead to clinical errors. We therefore investigated the agreement of both methods with respect to some common clinical situation.
+  - SpO2
+  - During **anaesthesia** the **SpO2** should be 95% or above. If **SpO2** is 94% or below, the patient must be assessed quickly to identify and treat the cause. **SpO2** OF < 90% IS A CLINICAL EMERGENCY AND SHOULD BE TREATED URGENTLY.
+  - A normal SpO2 level is vital to maintaining the health of all tissue in the body. As previously mentioned, hypoxemia is low oxygen saturation in the blood. Hypoxemia is directly related to hypoxia, which is low oxygen saturation in the body’s tissue. Hypoxemia often causes hypoxia, if the oxygen levels are quite low, and remain so. Cyanosis is a good indicator of hypoxemia becoming hypoxia.
+  - etCO2
+- **CAPNOGRAPHY PROVIDES BREATH-TO-BREATH VENTILATION DATA**
+  - Waveform capnography represents the amount of carbon dioxide (CO2) in exhaled air, which assesses ventilation. It consists of a number and a graph. The number is **capnometry**, which is the partial pressure of CO2 detected at the end of exhalation. This is **end-tidal CO2 (ETCO2)** which is **normally 35-45 mm Hg**.
+  - In people with healthy lungs, the brain responds to changes in CO2 levels in the bloodstream to control ventilation. We assess this by observing chest rise and fall, assessing respiratory effort, counting respiratory rate, and listening to breath sounds. ETCO2 adds an objective measurement to those findings. The patient’s respiratory rate should increase as CO2 rises, and decrease as CO2 falls.
+  - **Secondary degrre AV block **
+  - break in rhythym - non pathological arrythmia
+  - Normal QRS complex
+  - P wave not followed by QRS complex
+  - **Interprept ECG**
+  - https://geekymedics.com/how-to-read-an-ecg/
+    - The first method of calculating the heart rate doesn’t work when the R-R interval differs significantly throughout the ECG and therefore another method is required
+      - Count the number of complexes on the rhythm strip *(each rhythm strip is 10 seconds long)*
+      - Multiply the number of complexes by 6 *(giving you the average number of complexes in 1 minute)*
+  - ***e.g. 10 complexes on a rhythm strip X 6 = 60 beats per minute***
+  - **____**
+  - **Irregular rhythms can be either:**
+    - **Regularly irregular **(i.e. a recurrent pattern of irregularity)
+    - **Irregularly irregular** (i.e. completely disorganised)
+  - ***Hint –****If P-waves are absent and there is an irregular rhythm it may suggest atrial fibrillation*
+  - https://www.ncbi.nlm.nih.gov/books/NBK535395/
+  - Inverse ratio ventilation (IRV) is an alternative strategy for mechanical ventilation that reverses the classical inspiratory/expiratory scheme. This is achieved by modifying the inspiratory to expiratory (I:E) ratio, typically with the intention to increase oxygenation by increasing the mean airway pressure (MAP). Discussion of IRV requires an understanding of basic ventilator management which can be reviewed in a separate article. Here we discuss additional terms necessary to the utilization of IRV.
+  - **I:E Ratio**
+  - The I:E ratio denotes the proportions of each breath cycle devoted to the inspiratory and expiratory phases. The duration of each phase will depend on this ratio in conjunction with the overall respiratory rate. The total time of a respiratory cycle is determined by dividing 60 seconds by the respiratory rate. Inspiratory time and expiratory time are then determined by portioning the respiratory cycle based on the set ratio. For instance, a patient with a respiratory rate of 10 breaths per minute will have a breath cycle lasting 6 seconds. A typical I:E ratio for most situations would be 1:2, if we apply this ratio to the patient above, the 6-second breath cycle will break down to 2 seconds of inspiration and 4 seconds of expiration. Increasing the I:E ratio to 1:3 will result in 1.5 seconds of inspiration and 4.5 seconds of expiration. Thus, a "higher" I:E ratio results in less inspiratory time and more expiratory time in the same length of the breath cycle.
+  - **MONITORING**
+  - http://www.anaesthesia.med.usyd.edu.au/resources/lectures/ventilation_clt/ventilation.html
+  - **ECG**
+  - **Direct arterial blood pressure **
+  - **etCO2**
+  - **Oxygen saturation pO2**
+  - **Anesthetic gases**
+  - **Temprature**
+  - **Blood Gas Analysis**
+  - Hypoventilation under anesthesia may lead to Respiratory acidosis?
+  - Primary Resp acidosis with renal compensation= Dec pH, Inc PaCO2 , Inc HCO3
+  - **Appropriate mechanical ventilation should correct the increased pCO2 and acidemia quickly.**
+  - **Questions:**
+  - Why is it important to palpate pulse during the anesthesia? (hint* sometimes ECG shows HR higher but the pulse is significantly low... 160 > 80)
+  - **DRUGS**:
+  - Anti-cholinergics like atropine or glycopyrrolate are given as pre-meds to INCREASE heart rate, DECREASE salivation and DECREASE airway secretions.
+  - Remember that many anesthetic drugs (like opiates, barbiturates, gas anesthetics) promote bradycardia (slowed heart rate) and some dissociative anesthetics (like ketamine, tiletamine) cause excessive salivation.
+  - Atropine slows the gut, so there is concern that it might cause colic in HORSES. This is less likely with another anti-cholinergic, glycopyrrolate, so it is sometimes used to prevent bradycardia (slow heart rate) in anesthetized horses.
+  - **During surgery in a dog anesthetized for enucleation of the left eye, the heart rate slows down every time the surgeon manipulates the globe.**
+  - What following is the correct name for this response?
+  - The oculo-cardiac reflex (OCR) is slowing of the heart rate when intraocular pressure (IOP) increases. This may occur when the globe is manipulated during any eye surgery, but is more common during an enucleation.
+  - Direct pressure on the globe or traction on the extraocular muscles stimulates the trigeminal nerve, which relays this input to the brain.
+  - Vagal centers are stimulated which send impulses to the heart, causing [bradycardia](http://www.merckvetmanual.com/circulatory_system/heart_disease_and_heart_failure/diagnosis_of_heart_disease.html#v3259447) and occasionally even cardiac arrest.
+  - Stimulation of the OCR by applying pressure to the eyeball(s) is also a treatment for supraventricular tachycardia in awake patients.
+  - Respiration becomes completely abdominal in Stage III, plane 4 and stops in Stage IV.
+  - Stage IV is an *overdose* of anesthesia -the patient will be very close to death.
+  - *Abdominal* respiration means that only the diaphragm is working, the intercostal muscles of the chest are not. So the abdomen is seen moving in and out as the diaphragm contracts up and down, respectively.
+  - The respiratory rate and tidal volume will be decreased, eyes will be central, and pupils very dilated. Blood pressure and heart rate eventually also decrease.
+  - The inhalant anesthetic should be turned off immediately to decrease anesthetic depth, and the patient ventilated with 100% oxygen.
+  - For more, see [Anesthetic Monitoring](https://instruction.cvhs.okstate.edu/vmed5412/pdf/15AnestheticMonitoring2006.pdf) and [Monitoring Anesthetic Depth](https://instruction.cvhs.okstate.edu/vmed5412/lect012.htm) by Lyon Lee DVM, PhD.
+  - **48 mmHg  **Click here to see an illustration of [the answer.](https://zukureview.com/images/Adams%20images/Q11517feedback.jpg)
+  - The pulse pressure is the systolic arterial pressure (SAP) minus the diastolic arterial pressure (DAP). Also called **pulse strength**, this is what you feel when a palpating a pulse. It is helpful when evaluating the cardiovascular status of an anesthetized patient, however it cannot be used alone.
+  - Vascular tone (vasoconstriction, vasodilation), hypertension, hypotension, blood volume, cardiac output, central venous pressure, and the size of the artery all affect the strength of the pulse pressure.
+  - A strong pulse pressure does NOT guarantee that good blood pressure or adequate perfusion is present. For example, a patient with a pressure of 120/80 has the same pulse pressure as one with 90/50. The mean pressure in the former is 93 mmHg, while the latter has a mean of 63 mmHg, which is barely adequate.
+  - A patient with vasodilation and very pink mucous membranes (mm) may have a bounding pulse pressure AND still be hypotensive. Conversely, a patient who is somewhat vasoconstricted will have paler mm but may still have good perfusion pressure.
+  - Clinical signs of mm color, capillary refill time, and pulse strength must be combined with assessment of anesthetic depth AND objective measurements such as arterial blood pressure, heart rate, central venous pressure, etc. when monitoring anesthesia.
+  - **Anesthesia Planes**
+  - Stage 3, plane III is deep general anesthesia (GA) in dogs and cats -the eyes roll ventrally, pupils are dilated and there is no palpebral reflex.Some practitioners describe Stage 3, plane III as "early overdose."Stage 3, plane II medium GA is preferred for most invasive surgical procedures.
+  - The eyes of cattle also roll ventrally and have no palpebral reflex at Stage 3, plane III.
+  - There is variability between patients, protocols and procedures, and some authors differ when describing differences between stages of GA.For example, dilation of the pupil is affected by depth but also by adjunct drugs such as anti-cholinergics (atropine etc.) and paralytic agents (atracurium).
+  - For more, see [Anesthetic Monitoring](https://instruction.cvhs.okstate.edu/vmed5412/pdf/15AnestheticMonitoring2006.pdf) and [Monitoring Anesthetic Depth](https://instruction.cvhs.okstate.edu/vmed5412/lect012.htm) by Lyon Lee DVM, PhD.

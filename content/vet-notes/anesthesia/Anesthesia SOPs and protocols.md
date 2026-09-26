@@ -1,0 +1,256 @@
+---
+title: "Anesthesia SOPs and protocols"
+date: 2020-10-11
+---
+
+- [https://m.smiths-medical.com/products/veterinary/anesthesia/anesthesia-equipment/lds-](https://m.smiths-medical.com/products/veterinary/anesthesia/anesthesia-equipment)
+- 3000-large-animal-anesthesia
+- Advanced monitoring equipment such as side-line gas (CO2 and isoflurane) analysis, ECG, pulse oxymetry, direct and indirect blood pressure, body temperature and blood gas analysis are available at all times to detect and immediately address any serious complication that may occur during general anesthesia.
+- rachel bassett CVT, VTS
+- **Machine Check Points/Names** SOPs
+  - Wake up valve/O2 Flush --- don't hook this to the patient, high risk of causing trauma
+  - Flutter valves: uni directional valves for inhale and exhale
+  - APL valve-- will always stay open unless giving manual ventilation. Close this before the leak test and open this after the test is performed. To avoid occlusion of expiratory valves with soda lime granules when circuit is opened after the leak test.
+  - Don't let animal breathe when airway pressure on mannometer is above 24 cm of water
+  - If no leak, mannometer should hold the pressure . And if leak, then pressurize the system by influxing oxygen and spread soap solution around the suspected areas
+- **Premedication**
+- refers to the administration of an agent or agents before induction of general anesthesia to calm and relax the patient, ease induction and recovery, minimize adverse effects, reduce the amount of general anesthetic needed, provide muscle relaxation, or provide pain control. A variety of tranquilizers, sedatives, anesthetics, and anticho- linergics are used alone or in combination for this purpose. Premedication is also referred to as preanesthesia.
+- **Sedation** is a state of calm or drowsiness;
+- **tranquilization** is a state of relaxation and reduced anxiety. Many tranquil- izers also produce some degree of sedation. Consequently, these terms are often used interchangeably, even though they have somewhat different meanings.
+- **General anesthesia is a state of unconsciousness produced by controlled, reversible drug-induced intoxication of the central nervous system resulting in absence of pain sensation over the entire body and a greater or lesser degree of muscular relaxation. **
+- **Neuroleptanalgesia** is a state of profound sedation and analgesia produced by simultaneous administration of an opioid and a tranquilizer. Neuroleptanalgesia is commonly used to perform minor procedures, such as wound treatment or radiography, and to induce general anesthesia in compro- mised patients.
+- **Balanced Anesthesia**
+- The objectives of anesthesia are to produce loss of sensa- tion in the whole body or a body part or region, and to provide muscle relaxation, analgesia, and alteration of con- sciousness appropriate to the procedure. In addition, patient safety must be preserved and adverse effects minimized, with special attention to respiratory and cardiovascular function. This can seldom be achieved with the use of only one drug.
+- The use of drugs with comple- mentary effects, referred to as balanced anesthesia, enables the anesthetist to fulfill these diverse objectives. Although many protocols are commonly used, premedication with acepromazine, anesthetic induction with a ketamine- diazepam mixture, anesthetic maintenance with sevoflurane gas, and administration of a morphine infusion for pain control constitute one example of balanced anesthesia.
+- **Protocol**
+- Fasting
+- Swallowing reflexes become sluggish, lower esophageal sphincter tone decreases, and patients may experience nausea or vomiting during anesthetic procedures. To avoid asp. pneumonia,  postanesthesia esophagitis, and esophageal stricture.
+- Horses: Food 8-12 hours;  Water 0-2 h
+- Cattles: Food 24-48h;  Water  8-12 h
+- **Patient History**
+- **Physical Examination/Assesment**
+- Observe the patient’s level of consciousness (e.g., bright, alert, and responsive; quiet, alert and responsive; lethar- gic; obtunded; stuporous; comatose).
+- **Diagnostic** **Tests**
+- Blood work, urinanalysis,  etc
+- **Patient Stabilization**
+- Abnormalities identified during patient evaluation must be treated before the anesthetic is administered. This patient stabilization includes treatment or correction of dehydra- tion, anemia, cardiac arrhythmias, respiratory compromise, major organ failure, or electrolyte or acid-base imbalance, and may involve administration of antibiotics, analgesics, fluids, blood, oxygen, or a wide variety of other agents.
+- **ASA Physical status classification**
+- From P1 to P5= Minimum risk-low risk- moderate risk-high risk-extreme risk
+- Any surgery that is an emergency, regardless of ASA class, is additionally assigned the letter “E.”
+- SA, American Society of Anesthesiologists;
+- **Anesthetiv agents**
+- **Anesthetic drugs with its receptor and mechanism **
+- **Phenylephrine - alpha 1 agonist - vasoconstriction**
+- Blood pressure (BP) is determined by cardiac output (CO) and systemic vascular resistance (SVR).CO = heart rate (HR) X stroke volume (SV)
+- Depending on circumstances, blood pressure should increase under anesthesia when stroke volume or heart rate increase and when systemic vascular resistance increases (peripheral vasoconstriction).
+- Vasoconstriction is produced by alpha-1 stimulation.Phenylephrine, norepinephrine, and dopamine produce vasoconstriction via alpha-1 receptors.
+- Increased heart rate and/or myocardial contractility will increase SV via stimulation of beta-1 receptors.Dobutamine and dopamine increase cardiac contractility via beta-1 receptors.
+- HR can also be increased by anticholinergic drugs that block parasympathetic input to the heart.Atropine blocks cholinergic muscarinic receptors to produce a parasympatholytic effect - increasing HR
+- **Ruminants**
+- Sedative/opioid combination (neuroleptanalgesia) is most popular (e.g. xylazine and butorphanol; acepromazine and morphine), and provides better restraint and analgesia (the combination is synergistic, not merely additive) as preanesthetic medication
+- Acepromazine 0.025-0.05 mg/kg i.v
+- Diazepam 0.02 – 0.1 mg/kg IV  but in large ruminants they are usually administered as induction agent (e.g. combined with ketamine)
+- Xylazine
+- 0.01 – 0.1 mg/kg IV (1/10th of equine dose) in cattle • 0.1 mg/kg IV provides sedation without recumbency but 0.2 -0.3  mg/kg IV provides recumbency in llamas • 0.1 mg/kg IV will induce recumbency and light plane of anesthesia for an hour in cattle but recumbency may be induced even at a lower dose
+- Camelids are prone to vagal arrhythmias during intubation, and use of anticholinergics is recommended; atropine 0.01-0.02 mg/kg IV, glycopyrrolate 2-5 mcg/kg IV
+- Drug combinations • More consistent degree of sedation can be obtained by sedative/opioids combination • Common combination is use of xylazine 0.02 mg/kg IV with butorphanol 0.02 mg/kg IV, which produces a peak sedative effect within 5 minutes
+- Ketamine and Tiletamine are dissocaitive anesthetics used for pre medication or induction but they can make eyes stay open. Instill an ointment like Lacri-lube to protect corneas
+- Cats are also susceptible to Laryngospasm if larynx touch harshly in gas anesthesia.  Spray with topical lidocaine to prevent laryngospasm.
+- DiAZEPAM should be avoided in following condition;  sign hepatic dis (severe hepato toxicity in cats), renal dis, shock, coma, aggression
+- **Horse**
+- Xylaz + Butarphanol  --- In all aplha 2 agonists, Immediately after sedation, BRADYCARDIA will develop and is sometimes accompanied by transient second degree  AV block and decrease in resp. rate.
+- Butarphanol is mixed opoid kappa aggonist-mu and doesnt cause bradycardia.
+- Alpha 2 agonists can be reversed by Yohimbine, Tolazoline, Atipamezole.
+- Induction combination in horses;
+- Ketamine + thiopental + Guaifenesin
+- *Guaifenesin is an anti tussive and decongestantat med and also works as muscle relaxant. And is also used for excitement free induction and recovery anesthesia in horses.
+- Naloxone is an reversal agent agent against opiate (butarphanol)
+- Non-rebreathing circuits
+- Best suited for small animals under 7 kg. These systems require high fresh gas flow rates 100-300 ml/kg/min to remove exhaled gases. These systems will work partial rebreathing at or below gas flow rate of 130 ml/kg/min
+- **Congestive heart failure:**
+- Contraindicated anesthetics: Dexmedetomidine - an alpha 2 adrenergic agonist. Potential adverse effects include Bradycardia, AV block and possible death due to circulatory failure.
+- Safe anesthetics:
+- Benzodiazepines (diazepam, midazolam) and opoids (butarphanol) are safe in cardiac patients.
+- Etomidate, an injectable anesthetic, may be a useful alternative to propofol in cardiac patients because it has minimal cardiovascular effects.
+- Atropine is anti muscarinic agent that increase the HR.  Associated with increase risk of colic in horses.
+- **vitals**
+- 35.7 to 38.9 degrees C, being lowest in the morning and highest in the afternoon; high temperature in the morning is indicative of fever, while high afternoon
+- The heart rate ranged from 35 to 50 per min;
+- The mean respiratory rate was 11 per min and respiration was of thoracol-lumbar type.
+- **Adrenergic** involves the use of the neurotransmitters epinephrine and norepinehprine while **cholinergic** involves **acetylcholine**. 2. **Adrenergic** is called the sympathetic line (SNS) while **cholinergic** is called the parasympathetic line (PNS).
+- The **alpha**-**2** (**α2**) **adrenergic receptor** (or **adrenoceptor**) is a G protein-coupled **receptor** (GPCR) associated with the Gi heterotrimeric G-protein. ... Catecholamines like norepinephrine (noradrenaline) and epinephrine (adrenaline) signal through the **α2**-**adrenergic receptor** in the central and peripheral nervous systems.
+- ____
+- ISOFLURANE
+- https://beva.onlinelibrary.wiley.com/doi/full/10.1111/evj.12793
+- it was shown to cause more severe respiratory depression in terms of respiratory rate
+- Like isoflurane, both sevoflurane and desflurane cause dose‐related respiratory depression and a reduction in respiratory rate and have a low apnoeic index [16](https://beva.onlinelibrary.wiley.com/doi/full/10.1111/evj.12793#evj12793-bib-0016), [28](https://beva.onlinelibrary.wiley.com/doi/full/10.1111/evj.12793#evj12793-bib-0028)-[30](https://beva.onlinelibrary.wiley.com/doi/full/10.1111/evj.12793#evj12793-bib-0030).
+- PIVA
+- The list of drugs, and combinations of drugs, used for PIVA techniques in horses is extensive, but consists mainly of α2‐adrenoceptor agonists, ketamine, lidocaine and opioids.
+- Unknown?
+- specific anatomical and functional features of the equine respiratory tract. Anatomical factors such as collateral ventilation, hypoxic pulmonary vasoconstriction (HPV) and functional residual capacity (FRC) influence the ability to compensate for adverse anaesthetic effects.
+- https://www.ncbi.nlm.nih.gov/books/NBK535395/
+- Inverse ratio ventilation (IRV) is an alternative strategy for mechanical ventilation that reverses the classical inspiratory/expiratory scheme. This is achieved by modifying the inspiratory to expiratory (I:E) ratio, typically with the intention to increase oxygenation by increasing the mean airway pressure (MAP). Discussion of IRV requires an understanding of basic ventilator management which can be reviewed in a separate article. Here we discuss additional terms necessary to the utilization of IRV.
+- **I:E Ratio**
+- The I:E ratio denotes the proportions of each breath cycle devoted to the inspiratory and expiratory phases. The duration of each phase will depend on this ratio in conjunction with the overall respiratory rate. The total time of a respiratory cycle is determined by dividing 60 seconds by the respiratory rate. Inspiratory time and expiratory time are then determined by portioning the respiratory cycle based on the set ratio. For instance, a patient with a respiratory rate of 10 breaths per minute will have a breath cycle lasting 6 seconds. A typical I:E ratio for most situations would be 1:2, if we apply this ratio to the patient above, the 6-second breath cycle will break down to 2 seconds of inspiration and 4 seconds of expiration. Increasing the I:E ratio to 1:3 will result in 1.5 seconds of inspiration and 4.5 seconds of expiration. Thus, a "higher" I:E ratio results in less inspiratory time and more expiratory time in the same length of the breath cycle.
+- **Questions:**
+- Why is it important to palpate pulse during the anesthesia? (hint* sometimes ECG shows HR higher but the pulse is significantly low... 160 > 80)
+- **DRUGS**:
+- Anti-cholinergics like atropine or glycopyrrolate are given as pre-meds to INCREASE heart rate, DECREASE salivation and DECREASE airway secretions.
+- Remember that many anesthetic drugs (like opiates, barbiturates, gas anesthetics) promote bradycardia (slowed heart rate) and some dissociative anesthetics (like ketamine, tiletamine) cause excessive salivation.
+- Atropine slows the gut, so there is concern that it might cause colic in HORSES. This is less likely with another anti-cholinergic, glycopyrrolate, so it is sometimes used to prevent bradycardia (slow heart rate) in anesthetized horses.
+- **During surgery in a dog anesthetized for enucleation of the left eye, the heart rate slows down every time the surgeon manipulates the globe.**
+- What following is the correct name for this response?
+- The oculo-cardiac reflex (OCR) is slowing of the heart rate when intraocular pressure (IOP) increases. This may occur when the globe is manipulated during any eye surgery, but is more common during an enucleation.
+- Direct pressure on the globe or traction on the extraocular muscles stimulates the trigeminal nerve, which relays this input to the brain.
+- Vagal centers are stimulated which send impulses to the heart, causing [bradycardia](http://www.merckvetmanual.com/circulatory_system/heart_disease_and_heart_failure/diagnosis_of_heart_disease.html#v3259447) and occasionally even cardiac arrest.
+- Stimulation of the OCR by applying pressure to the eyeball(s) is also a treatment for supraventricular tachycardia in awake patients.
+- **A 2-year-old Standardbred gelding is presented with a corneal ulcer. To prepare for the ophthalmic exam, 2 ml of 2% lidocaine is injected into the region of the auriculopalpebral nerve.**
+- **Which of the following choices best describes the results of blocking this nerve?**
+- **Motor paralysis (akinesia) of the eyelid**.
+- The palpebral branch of the auriculopalpebral nerve (a branch of the facial nerve) provides motor innervation to the orbicularis oculi muscle. [Blockade of this nerve](http://www.merckvetmanual.com/pharmacology/systemic_pharmacotherapeutics_of_the_eye/local_anesthetics_for_the_eye.html) facilitates examination of the eye by preventing the horse from closing the eyelids.
+- This nerve is blocked just lateral or dorsal to upper edge of the zygomatic arch; the nerve is palpable in this location. Alternatively, it can be blocked in the spot just caudal to the mandible and below the zygomatic bone. No analgesia is produced with this block alone, the patient can still feel you touching the eyelid.
+- Desensitization of the upper 2/3 of the eyelid can be produced by blocking the frontal nerve (also called supraorbital n.) at the supraorbital foramen.
+- Desensitization of the cornea is achieved with a topical ophthalmic anesthetic such as proparacaine.
+- Dilation (mydriasis) of the pupil is typically produced when necessary for a fundic examination with a topical anticholinergic.
+- Sedation may also be necessary for some horses, especially when the eye is quite painful. Remember, they can still see you coming!
+- Refs: Tranquilli, Thurman, and Grimm's Vet Anes and Analgesia, 4th ed., pp. 606-7 (good pix/diagrams here),
+- MAC
+- 50% of animals exposed to a surgical stimulus will respond when maintained at the MAC, or the minimum alveolar concentration for that inhalant anesthetic.
+- With sedatives and analgesics in addition to the inhalant, most patients can be maintained at 1-1.5 MAC during general anesthesia.
+- MAC enables comparison between inhalants and provides another monitoring variable for the anesthetist.
+- Inhalants with high potency (need less drug) have a lower MAC. These are also more soluble in blood and tissues; e.g., halothane is more soluble, MAC is 0.88; desflurane is not, MAC is 7-9 in most animals.
+- The requirement (%) for less soluble drugs is greater, but induction is much faster. Anesthesia occurs only when the concentration of inhalant in the blood and alveoli are equal. Less soluble drugs achieve this equilibrium faster.
+- Since there is also less drug in the tissues, recovery is also faster compared to more soluble drugs. When the vaporizer is turned off, alveolar levels drop rapidly, followed by blood and tissue levels.
+- **Drugs contraindicated in Seizures**
+- Ketamine and xylazine are contraindicated in animals with a history of seizures.
+- Acepromazine was once thought to decrease seizure thresholds, but that information has since been proven incorrect.
+- Thiopental is contraindicated in animals with history of asthma, because it can cause apnea, and in Greyhounds (Greyhounds have prolonged recoveries following anesthesia with thiopental due to a deficiency in the hepatic enzyme responsible for the first step in the metabolism of that drug).  It is currently unavailable in the U.S. and Canada.
+- Morphine should not be used in cases with high intracranial pressure (like head trauma after being hit by a car).
+- Diazepam and phenobarbital are drugs used to TREAT seizures.
+- Refs: Plumb's Veterinary Drug Handbook, 7th ed. pp. 4-8, 762-9, 1397-1402 and Sams RA, Muir WW, Robinson EP. Comparative pharmacokinetics and anesthetic effects of methohexital, thiamylal, and thiopental in Greyhound dogs and non-Greyhound, mixed-breed dogs. Am J Vet Res 1985;46(8):1677-1683.
+- STRATEGY HINT: This is a "frequency" question. That is, you can see how the choices "ketamine" and "xylazine" are repeated, twice. In this case, even if you have no idea what the right answer may be, simply narrowing down to the answer choices included most frequently increase your chances of picking correctly!  Chances are that the correct choice will include the word that is repeated the most often.
+- NOTE - if you know the correct answer without the aid of study tricks like this, choose the answer your brain tells you is correct.
+- These kinds of study tricks are only a guide to use if you are lost, they are NOT a guarantee of getting the answer right every time.
+- **Which of the following types of nerve fibers carries motor impulses to skeletal muscle?**
+- **A-alpha** fibers carry motor input to skeletal muscle. They are myelinated and have very fast conduction velocities. This allows one to respond very quickly to a noxious/painful stimulus - e.g., moving the hand away from a hot iron.
+- A-beta, A-delta, and C fibers have specialized nerve endings that are receptors for non-noxious (A-beta) and noxious (A-delta and C) stimuli.
+- Receptors on A-beta fibers respond to touch, pressure, and proprioception. They are located in skin, muscles, and joints.
+- The nerve endings of A-delta and C fibers are the [nociceptors](http://www.merckvetmanual.com/management_and_nutrition/pain_assessment_and_management/pain_perception.html). They are located in skin, subcutaneous tissue, viscera, joints, periosteum, and muscle.
+- See very good video overview of pain physiology - [An introduction to pain pathways and mechanisms](http://www.youtube.com/watch?v=i5V_q7XqQN8) by Danielle R, Curran N, and Stephens R, from University College London Hospital, UK *and*Lamont LA, DVM, Tranquilli WJ, & Grimm KA. 2000. Physiology Of Pain. *Vet Clinics of NA: Small Animal Practice*;30(4): 703-28.
+- In NONrebreathing systems, there is NO remixing of inhaled and exhaled gasses. These systems run at HIGH fresh gas flow rates, 100-300 ml/kg/min.
+- A closed anesthetic rebreathing system only provides enough fresh gas flow to meet an animal's metabolic needs, about 5-10 ml/kg/min (depending on animal size. Flow is lower for larger animals and higher for smaller animals).
+- Semi-closed and partial rebreathing systems are the same thing. They run at intermediate flow rates where fresh gas is delivered in excess of metabolic consumption, from about 10 ml/kg/min (large animals) or 30 ml/kg/min (small animals).
+- [Ketamine](http://www.merckvetmanual.com/management_and_nutrition/pain_assessment_and_management/analgesic_pharmacology.html#v4643503) can cause seizures in some dogs (epilepsy is a form of seizure). Ketamine is contraindicated (do not use it) in dogs with increased intra-ocular pressure (like [glaucoma](http://www.merckvetmanual.com/eye_and_ear/ophthalmology/glaucoma.html)) and can cause respiratory depression.
+- Other contraindications include prior hypersensitivity reactions, animals to be used for human consumption, use of ketamine alone for general anesthesia and increased CSF pressure or head trauma.
+- Remember to protect a cat's eyes with ophthalmic ointment when using ketamine, because they remain open after injection.
+- Respiration becomes completely abdominal in Stage III, plane 4 and stops in Stage IV.
+- Stage IV is an *overdose* of anesthesia -the patient will be very close to death.
+- *Abdominal* respiration means that only the diaphragm is working, the intercostal muscles of the chest are not. So the abdomen is seen moving in and out as the diaphragm contracts up and down, respectively.
+- The respiratory rate and tidal volume will be decreased, eyes will be central, and pupils very dilated. Blood pressure and heart rate eventually also decrease.
+- The inhalant anesthetic should be turned off immediately to decrease anesthetic depth, and the patient ventilated with 100% oxygen.
+- For more, see [Anesthetic Monitoring](https://instruction.cvhs.okstate.edu/vmed5412/pdf/15AnestheticMonitoring2006.pdf) and [Monitoring Anesthetic Depth](https://instruction.cvhs.okstate.edu/vmed5412/lect012.htm) by Lyon Lee DVM, PhD.
+- **Which drug is best for fast anesthetic induction in a greyhound?**
+- Really fat animals and sighthounds (like greyhounds, afghans) have trouble excreting barbiturates like the 4 choices here.
+- Methohexital is a better choice for both because it does not absorb into fat and quickly induces anesthesia. (McCurnin & Bassert note alternatively could use propofol in sight hounds). Beware of RESPIRATORY DEPRESSION with barbiturates.
+- Thiopental is an ultra-short-acting barbiturate that CAN be stored in fat and slowly released. It is not currently available in the U.S.
+- Think of euthanasia with **PENTO**barb.Think of **PHENO**barb to control epilepsy/seizures.
+- **Sevo Vs Iso**
+- Sevoflurane has a more rapid induction and recovery compared to isoflurane. Sevoflurane is a good choice for debilitated and geriatric patients because it is more easily dosed “to effect”.
+- Sevoflurane is ***less*** of a respiratory irritant than isoflurane. Mask inductions are better tolerated and faster with sevoflurane.
+- Fetotoxicity has NOT been seen with sevoflurane in lab animal studies. However, definite safety during pregnancy has NOT been proven.
+- **Antidotes and Reversals**
+- Yohimbine is the reversal agent for xylazine. Remember "X goes with Y and Y goes with Z."
+- Yohimbine is also an antidote for amitraZ, the drug used to treat generalized demodicosis.
+- Remember 2 things about xylazine:
+- 1. Cattle are EXTREMELY SENSITIVE. Cow xylazine dose is about 1/10 the dose in dogs or horses2. Xylazine is used as an EMETIC in CATS (causes vomiting)
+- Pralidoxime is used to treat organophosphate toxicity, along with a sedative for seizures, diazepam (Valium ®) or pentobarbital) and atropine.
+- **Which choice is often used in combination with ketamine and thiopental to induce anesthesia in horses**
+- Guaifenesin is an anti-tussive (anti-cough) and decongestant med that also works as a muscle relaxant. Guaifenesin is often used to support excitement-free anesthesia induction and recovery in horses.
+- Naloxone is a reversal agent against opiate drugs (In horses, Butorphanol (Torbugesic®) is a commonly used opiate).
+- Halothane gas would not work to mask a horse down into anesthesia because you would expect problems restraining the animal in the excitement phase of induction. Phenobarbital is a long-acting barbiturate used to control epilepsy/seizures, not induce.
+- **48 mmHg**Click here to see an illustration of [the answer.](https://zukureview.com/images/Adams%20images/Q11517feedback.jpg)
+- The pulse pressure is the systolic arterial pressure (SAP) minus the diastolic arterial pressure (DAP). Also called **pulse strength**, this is what you feel when a palpating a pulse. It is helpful when evaluating the cardiovascular status of an anesthetized patient, however it cannot be used alone.
+- Vascular tone (vasoconstriction, vasodilation), hypertension, hypotension, blood volume, cardiac output, central venous pressure, and the size of the artery all affect the strength of the pulse pressure.
+- A strong pulse pressure does NOT guarantee that good blood pressure or adequate perfusion is present. For example, a patient with a pressure of 120/80 has the same pulse pressure as one with 90/50. The mean pressure in the former is 93 mmHg, while the latter has a mean of 63 mmHg, which is barely adequate.
+- A patient with vasodilation and very pink mucous membranes (mm) may have a bounding pulse pressure AND still be hypotensive. Conversely, a patient who is somewhat vasoconstricted will have paler mm but may still have good perfusion pressure.
+- Clinical signs of mm color, capillary refill time, and pulse strength must be combined with assessment of anesthetic depth AND objective measurements such as arterial blood pressure, heart rate, central venous pressure, etc. when monitoring anesthesia.
+- **Hypotension and sedation are characteristic effects of which one of the drugs listed below?**
+- [Acepromazine](http://www.merckvetmanual.com/pharmacology/systemic_pharmacotherapeutics_of_the_nervous_system/tranquilizers_sedatives_and_analgesics.html) causes vasodilation by blocking alpha-1 receptors in peripheral vasculature, producing hypotension.
+- A phenothiazine tranquilizer, acepromazine is both a dopamine and alpha-1 receptor antagonist. It works very well as a sedative in small animals, takes 20-30 minutes to take effect, and lasts 3-4 hours at clinical doses.
+- The behavioral and sedative effects are produced by a decrease in dopamine secretion in the basal ganglia and the limbic system in the brain. It blocks dopamine receptors in the chemoreceptor trigger zone of the medulla to produce its anti-emetic effect.
+- Maropitant is an antiemetic used in dogs, not associated with hypotension.Dobutamine and phenylephrine both act to increase blood pressure.Phenazopyridine is a urinary tract analgesic.
+- **Nitrous oxide (N2O) is contraindicated in horses - **beacuse it is highly diffusible and accumulates in 'spaces' in the body.
+- This causes distention of the intestines, which affects ventilation under anesthesia and may result in postoperative colic in horses.
+- N2O is also not good to use in dogs undergoing intestinal surgery, especially a gastric dilatation-volvulus (GDV).
+- **Anesthesia Planes**
+- Stage 3, plane III is deep general anesthesia (GA) in dogs and cats -the eyes roll ventrally, pupils are dilated and there is no palpebral reflex.Some practitioners describe Stage 3, plane III as "early overdose."Stage 3, plane II medium GA is preferred for most invasive surgical procedures.
+- The eyes of cattle also roll ventrally and have no palpebral reflex at Stage 3, plane III.
+- There is variability between patients, protocols and procedures, and some authors differ when describing differences between stages of GA.For example, dilation of the pupil is affected by depth but also by adjunct drugs such as anti-cholinergics (atropine etc.) and paralytic agents (atracurium).
+- For more, see [Anesthetic Monitoring](https://instruction.cvhs.okstate.edu/vmed5412/pdf/15AnestheticMonitoring2006.pdf) and [Monitoring Anesthetic Depth](https://instruction.cvhs.okstate.edu/vmed5412/lect012.htm) by Lyon Lee DVM, PhD.
+- **Anesthesia Drugs**
+- **Why are atropine or glycopyrrolate (anti-cholinergics) often given as a premedication to dogs and cats before inducing anesthesia with ketamine or tiletamine? (Dissociative anesthetics)**
+- Anti-cholinergics like atropine or glycopyrrolate are given as pre-meds to DECREASE salivation, DECREASE airway secretions and INCREASE heart rate.
+- They do NOT affect whether eyes are open or closed, but they do DILATE the pupils.
+- Remember that many anesthetic drugs (like opiates, barbiturates, gas anesthetics) promote bradycardia (slowed heart rate) and some dissociative anesthetics (like ketamine, tiletamine) cause excessive salivation.
+- **Duration of Anesthesia**
+- **Bupivicaine **can last 4–10 hours. Bupivicaine is the most frequently used local anesthetic for oral surgery because it has a long duration of action. It takes approximately 4–20 minutes to reach full effect.
+- Conversely, lidocaine takes effect in just 3–5 minutes but only lasts 1.5–2 hours.
+- **Interventions**
+- Which one of the following is the most correct explanation of how electrical defibrillation works in patients with cardiac arrest?
+- ** Shock stops all cells in heart simultaneously. Allows pacemaker cells to regain control of myocardial contraction**
+- [Defibrillation](http://www.merckvetmanual.com/emergency-medicine-and-critical-care/specific-diagnostics-and-therapy/cardiopulmonary-resuscitation) is performed with electrical shock to stop the activity of all myocardial cells at once.
+- Essentially, the heart is put into asystole, to allow the pacemaker cells to regain control of the cardiac rhythm.
+- Pacemaker cells can produce an effective depolarization and contraction only when the myocardial cells are able to respond.
+- They must not be actively contracting (or fibrillating) or in a refractory period.
+- Click here to download Vet Emergency and Critical Care with [CPCR guidelines for animals](http://onlinelibrary.wiley.com/doi/10.1111/vec.2012.22.issue-s1/issuetoc).
+- **Prevent laryngospasm by spraying larynx with 1-2% lidocaine.**
+- Laryngeal spasm is primarily a CAT problem associated with overzealous manipulation of the larynx by laryngoscope or during intubation.
+- Ref: Pasquini's, Tschauner's Guide to Sm An Clin, vol 1, 2nd ed. p. 129.
+- **auriculopalpebral nerve block**
+- A 2-year-old Standardbred gelding is presented with a corneal ulcer. To prepare for the ophthalmic exam, 2 ml of 2% lidocaine is injected into the region of the auriculopalpebral nerve.
+- Which of the following choices best describes the results of blocking this nerve?
+- **Motor paralysis (akinesia) of the eyelid**.
+- The palpebral branch of the auriculopalpebral nerve (a branch of the facial nerve) provides motor innervation to the orbicularis oculi muscle. [Blockade of this nerve](http://www.merckvetmanual.com/pharmacology/systemic_pharmacotherapeutics_of_the_eye/local_anesthetics_for_the_eye.html) facilitates examination of the eye by preventing the horse from closing the eyelids.
+- This nerve is blocked just lateral or dorsal to upper edge of the zygomatic arch; the nerve is palpable in this location. Alternatively, it can be blocked in the spot just caudal to the mandible and below the zygomatic bone. No analgesia is produced with this block alone, the patient can still feel you touching the eyelid.
+- Desensitization of the upper 2/3 of the eyelid can be produced by blocking the frontal nerve (also called supraorbital n.) at the supraorbital foramen.
+- Desensitization of the cornea is achieved with a topical ophthalmic anesthetic such as proparacaine.
+- Dilation (mydriasis) of the pupil is typically produced when necessary for a fundic examination with a topical anticholinergic.
+- Sedation may also be necessary for some horses, especially when the eye is quite painful. Remember, they can still see you coming!
+- Refs: Tranquilli, Thurman, and Grimm's Vet Anes and Analgesia, 4th ed., pp. 606-7 (good pix/diagrams here),.
+- **Which one of the following combinations is necessary to perform a corneal scraping in a horse?**
+- **An auriculopalpebral (AP) nerve block and topical proparacaine** will enable examination and treatment of the cornea. Sedation may also be necessary in very painful or nervous horses.
+- The auriculopalpebral nerve innervates the orbicularis oculi muscles. Blocking this nerve allows the examiner to hold the eyelids open easily, even though the horse can still feel the lids.
+- A supraorbital nerve block desensitizes the upper eyelid; this is very helpful in addition to an AP and topical.
+- Instillation of a topical anesthetic such as proparacaine onto the cornea is vital to allow manipulation, scraping for cytology, and debridement.
+- The infraorbital and maxillary nerve blocks do not block any part of the eye. A retrobulbar nerve block is used for enucleation.
+- An intracameral injection places anesthetic into the anterior chamber. This is invasive and not necessary for an ophthalmic exam.
+- See a [diagram](https://zukureview.com/images/Adams%20images/horseheaddrawingwith_nerve_blocks_labelled.jpg) of the locations of these blocks, courtesy Dr. JG Adams.
+- Refs: Muir, Hubbell, Bednarski, and Skarda's Handbook of Veterinary Anesthesia, 4th ed. pp. 100-3, Muir and Hubbell's Equine Anesthesia, 2nd ed. pp. 221-3.
+- **Physiologic Pain**
+- [Physiologic pain](http://www.merckvetmanual.com/management_and_nutrition/pain_assessment_and_management/pain_perception.html) is **a protective response to an actual or potentially damaging insult**. Basically, this is a normal healthy pain response - an automatic mechanism to avoid or minimize injury, which initiates the physiologic and physical response to pain.
+- Physiologic pain is also called ***nociceptive* pain**, as it involves the basic physiologic mechanisms of reception, transmission, and processing of stimuli that lead to perception of pain.Response to physiologic pain is behavioral, emotional, and physiologic; and both involuntary and voluntary.
+- Classic example - when your hand touches something hot, you unconsciously withdraw, move away, and your heart rate increases, etc.
+- The withdrawal and tachycardia are involuntary responses that occur almost immediately. The next event is behavioral and voluntary, where you move away, run cold water on the burn, and change how you handle the hot item, etc.The emotional component is when you exclaim "OUCH."
+- Stretching, tension, or inflammation of viscera causes *visceral* pain, e.g. colic in horses. *Neuropathic* pain is caused by damage to neural tissue.
+- See links with good pain information - [Taxonomy of pain](http://www.iasp-pain.org/Education/Content.aspx?ItemNumber=1698&navItemNumber=576) from the IASP, and [Pain Management Guidelines for Dogs & Cats](https://www.aaha.org/aaha-guidelines/pain-management-config/pain-management-intro/) from the AAHA, and the AAFP.
+- Refs: Gaynor & Muir Handbook of Vet Pain Mgt 2nd ed. pp. 14-30, 58, Greene, Vet Anes and Pain Mgt Secrets, pp. 323-7,.
+- **Anesthesia Equipment**
+- **Gases and Color codes:**
+- No matter what color the tank is, ALWAYS read the tag or label on the tank first to verify the gas contents inside. One instructor in Surgical Nursing and Anesthesia has reported seeing of a green tank containing carbon dioxide instead of oxygen!
+- That being said, oxygen tanks in the U.S are typically white or green. Nitrous oxide tanks, (laughing gas) are blue. (Try remembering-"Laughing gas chases the blues")
+- STRATEGY HINT: This is an "inclusion" question. That is, the choices "White or green" and " Red or brown" each INCLUDE more possibilities of being correct than the single-color choices of blue or yellow.
+- If you were completely lost and had nothing else to go on, you might increase your chances of guessing right by choosing between the two inclusive choices of "White or green" and " Red or brown".
+- This WILL NOT guarantee you always get a question right, but if you are lost, use whatever you can, including strategies like this.
+- Refs: Bassert and Thomas, McCurnin’s Clinical Textbook for Veterinary Technicians, 8th ed. p. 1091.
+- A Bain system is a tube within a tube.
+- New oxygen and anesthetic gas is inhaled down the inner tube, and exhaled gas exits through the outer tube. (Note there is a modified form of a circular system called a "universal F circuit" that is also a tube inside a tube).
+- A Bain anesthetic circuit run at a HIGH flow rate of ~300 ml/kg/min will not allow rebreathing of exhaled gasses.
+- At MODERATE flow rates (ie: ~20-300 ml/kg/min or less) the Bain circuit functions as a PARTIAL rebreathing system, and the animal rebreathes some of the exhaled gasses.
+- **Depth of Anesthesia**
+- Stage 3, plane III is deep general anesthesia (GA) in dogs and cats -the eyes roll ventrally, pupils are dilated and there is no palpebral reflex.Some practitioners describe Stage 3, plane III as "early overdose." Others describe "early overdose" as plane 4. Either way, it is a serious situation and the animal needs less anesthetic.Stage 3, plane II medium GA is preferred for most invasive surgical procedures.
+- The eyes of cattle also roll ventrally and have no palpebral reflex at Stage 3, plane III.
+- There is variability between patients, protocols and procedures, and some authors differ when describing differences between stages of GA.For example, dilation of the pupil is affected by depth but also by adjunct drugs such as anti-cholinergics (atropine etc.) and paralytic agents (atracurium).
+- Ileus and decreased cardiac output can be seen with high doses of isoflurane.
+- At high doses, cardiac output is DECREASED by all the inhalant anesthetics (including isoflurane) due to myocardial depression. This effect is most significant at deeper levels of anesthesia and in sick patients.
+- At anesthetic concentrations of isoflurane used clinically, cardiac output is usually within the normal range but blood pressure may be decreased due to vasodilation.
+- Vomiting, nausea, and respiratory depression are also seen with high doses of isoflurane.

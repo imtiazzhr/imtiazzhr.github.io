@@ -1,0 +1,271 @@
+---
+title: "General topics"
+date: 2020-10-11
+---
+
+- [[Leptospirosis]]
+- [[Leptospirosis in Dogs]] [source](https://www.merckvetmanual.com/generalized-conditions/leptospirosis/leptospirosis-in-dogs)
+  2.  Neonatal care
+- **Vaccine**
+- **DENKABAC 8 **   ---Lacks Clost.tetani  and C. haemolyticum, C. perfringens type B,
+- South American -Maxican company
+- 5ml Subcutaneous or deep intramuscular, from three months of age. It is recommended to revaccinate every six months. In areas of high incidence it is recommended to revaccinate two to three months after the first application
+- Clostridium chauvoei 1 x 108
+- Clostridium septicum 1 x 108
+- Clostridium novyi 1 x 108
+- Clostridium sordelli 1 x 108
+- Clostridium perfringens type C 1 x 107
+- Clostridium perfringens type D 1 x 107
+- Mannheimia haemolytica A1 (Pasteurella) 1 x 108
+- Pasteurella multocida A 1 x 108
+- Pasteurella multocida D 1 x 108
+- **Covexin 10**    ---Lacks Mannheimia haemolytica and P. multocida
+- by Zoetis
+- Clostridium chauvoei, novyi, septicum, tetani, sordellii, haemolyticum and perfringens types A,B,C,D
+- CATTLE: Initial vaccination 2 x2 ml doses  4-6 weeks apart by subcutaneous injection
+- **VAC-SULES MULTICLOSTRI 12P**
+- A SA -Uruguan company
+- Inj at 2 months of age
+- Purified and concentrated toxoids:
+- Clostridium perfringens type A
+- Clostridium perfringens type C
+- Clostridium perfringens type D
+- Clostridium septicum
+- Clostridium novyi type A
+- Clostridium novyi type B
+- Clostridium tetani
+- Clostridium sordellii
+- Clostridium chauvoei
+- Clostridium haemolyticum
+- Pasteurella multocida multocida
+- Mannheimia haemolytica
+- **One Shot Ultra® 8    -by Zoetis  50 doses for 190 Euros**
+- is for the vaccination of healthy beef and dairy cattle as an aid in the prevention of the following diseases of cattle:
+  - Blackleg (Clostridium chauvoei)
+  - Malignant edema (Cl. septicum)
+  - Red water (Cl. haemolyticum)
+  - Black disease (Cl. novyi)
+- **Ultrabac® 8**
+-  is for use in healthy cattle and sheep as an aid in preventing blackleg caused by Clostridium chauvoei, malignant edema caused by Cl. septicum, bacillary hemoglobinuria caused by Cl. haemolyticum, black disease caused by Cl. novyi, gas-gangrene caused by Cl. sordellii, and enterotoxemia and enteritis caused by Cl. perfringens types B, C, and D.
+- **Dosage and Administration:** Cattle- Administer 5 ml Ultrabac® 8 Subcutaneous, followed by a second dose 4-6 weeks later.Sheep- Administer 2.5 ml Subcutaneous, followed by a second dose 4-6 weeks later. For Cl. haemolyticum, repeat the dose every 5-6 months in animals subject to reexposure. Annual revaccination with a single dose is recommended.
+- Ultrabac® 8 is for the vaccination of healthy cattle and sheep as an aid in the prevention of the following clostridial diseases of cattle and sheep:
+  - Blackleg (Clostridium chauvoei)
+  - Malignant edema (Cl. septicum)
+  - Red water (Cl. haemolyticum)
+  - Black disease (Cl. novyi)
+  - Gas gangrene (Cl. sordellii)
+  - Enterotoxemia and Enteritis (Cl. perfringens types B, C and D)
+- Although Clostridium perfringens type B is not a significant problem in cattle and sheep living in North America, immunity is provided by the beta toxoid of type C and the epsilon toxoid of type D.
+- This clostridial combination vaccine contains killed cultures and does not require reconstitution prior to administration. Ultrabac® 8 should be administered subcutaneously to cattle and sheep, with a second dose 4-6 weeks later. Annual revaccination with a single dose is recommended. May be administered to pregnant cows and calves nursing pregnant cows. Do not administer within 21 days before slaughter.
+- Supplied as either a 10, 50 or 200 dose bottle. Needles and syringes sold separately.
+- **Clostridial diseases**
+- Type C is one of the more commonly encountered types of C. perfringens. It is especially virulent in calves less than 10 days old (and often less than five days old). Enterotoxemia due to C. perfringens Type C may result in severe bloody diarrhea, although oftentimes calves die before diarrhea develops.
+- Clostridium perfringens Type A has been increasingly identified as a cause of abomasal inflammation, which may result in abdominal distension (bloating) or abomasal ulcers in young calves. Varying degrees of diarrhea, and occasionally sudden onset of weakness and coma, have also been associated with Type A, which generally affects a slightly older (2-4 weeks old) calf.
+- Vaccination of young animals does not yield adequate protective immunity until they are at least 1–2 mo old. Therefore, most vaccination strategies target the pregnant dam so that maximal immunity is transferred to the neonate in colo
+- Kits
+- IDEXX Rota-Corona-k99 Ag Test
+- Calf Scour Test Kits (5’s)  - 50 Pound
+- The Salmonella 4 cows kit contains material for Fecal/Swab DNa extraction using a simple 96 deepwell-based extraxtion protocol (alternatively using single tubes) and qPCR mix pre-aliquoted in 8-strip tubes fitting your instrument.
+- A variable rate of seroprevalence of Blue tongue virus in camels has been reported from various parts of the world. Serotype specific antibodies have also been detected. However, there is no clinical disease reported in camels. Therefore, the nature of the Blue tongue infection in the camels along with its role in the maintenance of infection should be unfolded through further pathogenicity and carrier state studies.
+- **Dairy   Calves – Seen some cases of neurological signs with deaths**….? Could be related to the following – read on….
+- This season we have seen deaths in preweaned calves due to marked ruminal acidosis as a consequence of milk entering the rumen (so-called rumen drinkers) due to failure of the oesophageal groove to close.
+- Presenting signs vary with chronic rumen drinkers showing poor growth/illthrift to acute cases showing colic, neurological signs and death.
+- Milk entering the rumen is rapidly fermented, causing overgrowth of carbohydrate metabolising bacteria (mainly Streptococcus bovis) with production of volatile fatty acids and lactic acid. The ruminal fall in pH kills lactate-using microbes and increases growth of lactobacilli. Lactic acid is highly corrosive to the ruminal epithelium, causing rosions and ulcerations, leading the way for secondary infection by fungi and yeasts which can also tolerate the low rumen pH. In addition, lactic acid and VFAs increase the rumen osmolarity, causing decreased absorption of these acids and further build-up in the rumen exacerbating epithelial disruption and systemic dehydration.
+- Both D and L forms of Lactic acid are produced in the rumen and absorbed into the circulation. The L form is readily metabolised but the D form is not and accumulates in the circulation. Acute D-lactic acidosis has systemic and neurological effects ranging from depression, anorexia, ataxia, head-pressing, opisthotonus to coma and death.
+- The oesophageal groove fails to close with:
+- Tube feeding
+- Neonatal diarrhoea
+- Irregular feeding times
+- Low quality milk replacer
+- Milk/milk replacer fed at too low a temperature
+- Open bucket feeding (‘gulping’ larger volumes)
+- Stressors (transport etc)
+- **Assessing Colostrum Intake**
+- Intake of good quality colostrum is important in minimising infectious disease in new-born calves, and in ensuring good live weight gains during the first 12 to 18 months of age.  Inadequate colostrum intake is a relatively common finding with 33% of dairy calves across NZ and up to 80% of animals on individual farms showing failure of passive transfer (FPT) (1).  Encourage your farmers to check that their calves do not fall within the latter group!
+- Traditionally, we have assessed GGT activity as an indicator of colostrum intake and/or failure of passive transfer (FPT).  While GGT indicates the volume of colostrum ingested it doesn’t determine colostral quality and calves may be at risk of FPT with GGT that falls within the reference interval.  A study by Emma Cuttance (2) and colleagues determined that total protein (TP) is more accurate than GGT in estimating immunoglobulin (IgG) concentration in normal calves, finding that TP under 52 g/l is a sensitive indicator of FPT. Note that dehydration in scouring calves may increase TP potentially giving an elevated estimate of serum IgG concentration.
+- The price of TP is the same as that for GGT.
+  4.  Neurological exam
+- Hypothyroidism- can cause polyneuropathy with vestibular signs, resolves with treatment.
+-  Peripheral Vestibular System Disease ● Head tilt, circling, rolling, falling toward the side of the lesion. ● Pathologic nystagmus (horizontal or rotary) with fast phase away from the side of the lesion. ● Can see concurrent facial nerve paralysis or Horner’s syndrome with inner/middle ear lesions.
+-  vestibulocochlear nerve (CN VIII),
+-  ● The efferent pathway travels in the vestibulospinal tract to inhibit ipsilateral flexor and contralateral extensor muscles. They also descend in the medial longitudinal fasciculus (MLF) which projects to CN III, IV and VI to control eye position with respect to the head.
+- Clinical signs of lesions of the vagus nerve include dysphagia, abnormal vocalizing, inspiratory dyspnea, and megaesophagus. A lesion of CN VII (facial nerve) will result in asymmetry of facial expression. A lesion of CN V (trigeminal nerve) may result in atrophy of the masticatory muscles and an inability to close the mouth. Cranial nerve V is also involved in sensation of the face. CN III (oculomotor nerve) is involved in movement of the eye in horizontal and vertical planes; it has nothing to do with dysphonia. Presence of dysphonia may indicate a lesion in CN X
+  5. diagnostics
+- **Histopathology**
+-  Pathologic changes characteristic of meningitis include diffuse infiltration of leukocytes into the leptomeninges.
+-   In meningoencephalitis, the inflammation extends into the CNS parenchyma, resulting in leukocyte infiltration with large areas of perivascular cuffing. Necrosis and malacia of the CNS may be seen, with infiltrations of macrophages, neutrophils, and plasma cells.
+-  Grossly, this is seen as local areas of discoloration. Listeriosis uniquely causes microabscesses deep within the CNS parenchyma, which consist of accumulations of neutrophils and microglial cell reaction with central liquefactive necrosis.
+-  Technique: The tissues will be routinely stained with hematoxylin and eosin and interpreted by a board certified pathologist.
+- **Prepare slide for cytology: New methylene blue stained blood smear**
+- Material: slides, blood sample cbc tube, methylene blue stain
+  - Mix the blood by inverting test tube
+  - now take blood in pippet and add  5 drops in other tube
+  - take stain in pippet and add 5 drops in the same new blood tube
+  - gently agitate to mix and leave for 15 minutes
+  - now take two drops on two new slides
+  - mak slide by sliding another slide and ary dry, and evaluate under micropscope.... first under 10x, then 40x and then 100x and oil immersion lens
+- **Impression smear for cytologic examination**
+- **What o check in cytology**
+- if sample is diagnostic and properly stained we ll look for following three thiongs
+- all cells must be appropriately stained, not be lysed, have defined borders
+  -  do we have nucleated cells of interest
+  - are they appropriately spread
+  - are nucleated cells intact
+- ** The cerebellum** (“little brain”) is a structure that is located at the back of the brain, underlying the occipital and temporal lobes of the cerebral cortex
+-  The cerebellum has several functions relating to movement and coordination, including: Maintaining balance: The cerebellum has special sensors that detect shifts in balance and movement.
+- **  VIII (vestibulocochlear nerve)** : Cranial nerve VIII enters the cranial vault with the facial nerve, and penetrates the brain at the level of the rostral medulla oblongata.  Vestibular afferent axons synapse with neurons located in the vestibular nuclei and with neurons within the cerebellum
+-  Evidence of sensorineural hearing loss was obtained by measuring the brainstem evoked potential and by observing histopathologic changes consisting of cochlear nerve degeneration and perineural vasculitis in affected animals.
+- strangulating lipoma
+-  Epiploic foramen entrapment
+- Parts of GIT and clinical anatomy and pathology
+-  Neorickettsia risticii (Potomac Horse Fever)
+-  At what age does Galvayne's groove begin to appear in the horse?
+-  The correct answer is 9 years. This is useful for the purposes of aging horses. It is a longitudinal groove noted on I3. I1 erupts at 2.5 years, I2 erupts at 3.5 years, and I3 at 4.5 years. The canine tooth erupts at 5 years. The cup from I1 disappears at 6 years, I2 at 7 years, and I3 at 8 years. Galvayne's groove is half way down the tooth at 15 years and then completely down at 20 years of age
+- While on a routine call for teeth floats, you notice that there is a significant amount of fiddleneck in the horse pasture. What are the histopathologic findings that are associated with consumption of this plant?
+-  Megalocytosis, fibrosis, and biliary hyperplasia of the liver
+- The correct answer is megalocytosis, fibrosis, and biliary hyperplasia of the liver. Fiddleneck (Amsinckia intermedius) is a pyrrolizidine alkaloid. Nigropallidal encephalomalacia is seen as a result of consuming yellow star thistle.
+-  The correct answer is alfalfa hay. Alfalfa hay in California is thought to be particularly high in magnesium. This may be a predisposing factor which results in magnesium ammonium phosphate enteroliths
+-  You are treating a colicky 8-year old horse and pass a stomach tube to assess gastric reflux. The 20 liters of reflux is hemorrhagic, orange-brown in color, and foul-smelling. On physical exam, you find T=101.5F (38.6 C), HR=70, and RR=35 and overall depressed attitude. There are few auscultable gut sounds. Oral mucous membranes are injected. On rectal exam, there are multiple dilated fluid-filled loops of bowel palpated. Peritoneal fluid is serosanguinous with a 3.5 gm/dl protein and a WBC count of 7000. After decompressing the stomach, the horse appears less painful, but remains depressed. Based on these findings, what is the best tentative diagnosis?
+-  A 14-year old 500 kg multiparous mare presents for a 3 hour history of moderate to severe colic. Her current foal is 2 weeks of age. Upon physical examination the mare is uncomfortable with a heart rate of 70 beats/min, respiratory rate of 16 breaths/min and rectal temperature of 98.4F (36.9 C). A nasogastric tube is placed with no net gastric reflux obtained. A large gas filled section of intestine is noted on rectal examination. You administer 5 mg of detomidine IV which provides only brief sedation. Based on this limited information, what is the most likely cause of these clinical signs?
+-  The correct answer is large colon volvulus. Typically, horses with this problem demonstrate rapid onset of severe unrelenting pain and often occurs in postpartum broodmares. Gas distension of the colon may be significant and result in respiratory compromise because the distended colon presses on the diaphragm. Gastric reflux may not be present as the small intestine may not be obstructed in this process.
+- This is a surgical emergency; if surgery or necropsy is performed, the volvulus is typically located at the mesenteric attachment of the colon to the dorsal body wall. Because of the rapid onset, the prognosis is guarded to poor in many cases.
+-  Duodenitis-proximal jejunitis, also known as either anterior enteritis, or proximal enteritis best fits this case because of the characteristic reflux, fever, peritoneal fluid characteristics, rectal findings, the depression and relatively less pain than would be expected with an obstruction. The cause is still uncertain, but a relationship of this disease to positive cultures of reflux for Clostridium difficile has been found. Typically these cases are treated medically, which would include repeated decompression of the stomach, IV fluids, replacement of electrolyte deficiencies, analgesics and correction of any acid-base abnormalities.
+-  A valuable horse suddenly developed severe intractable diarrhea and fever 5 days ago. The owner has been giving it oral electrolytes free choice in the water, and offering it hay, grain, and green grass. It is brought to your clinic on a normal warm summer day looking thin, dehydrated, weak, and anorectic (see photo). You do a physical exam and find T=102F (38.9 C), HR=56, RR=24, with somewhat purplish oral mucous membranes. The urine is normal but has a small volume and looks concentrated. You run a PCV (45%), WBC count (normal at 7000/microliter) and total protein (TP). The TP is low at 3.5 gm/dL and the albumin is 1.4 gm/dL indicating a protein-losing enteropathy. Of the following, what is the best treatment for the low plasma proteins in this horse?
+-  Give IV plasma. The damaged bowel is leaking albumin out into the gut lumen, and the horse may develop other problems such as edema and poor healing ability if the protein levels are not boosted. The best way to do that in an animal with GI disease is by the IV route. Whole blood may raise the PCV to a level where sludging and circulatory problems develop in an already dehydrated horse. Another option to consider if plasma is not readily available is the use of synthetic colloidal solutions such as hetastarch.
+- You are an equine clinician working out in the field. You encounter a colic case and palpate a small intestinal obstruction. You decide to refer the case to a nearby hospital for surgical intervention. What is the most important thing to do before shipping the horse?
+-  Sedate
+-  Pass a nasogastric tube Correct Answer
+-  Belly tap
+-  Abdominal ultrasound Your Answer
+-  CBC and Chemistry
+-  The correct answer is to pass a nasogastric tube. It is crucial to do this, as horses are unable to vomit due to high lower esophageal sphincter tone. By passing the tube, you will allow reflux and relieve life-threatening gastric pressure. Sedation is important to help provide relief; however, gastric rupture will kill the horse first.
+- Horses living in a sandy region such as California and Florida tend to be predisposed to developing sand enteropathies. If one is suspected, which of the following treatments will be most effective?
+-  Mineral oil Your Answer
+-  Bismuth subsalicylate
+-  Psyllium Correct Answer
+-  Charcoal
+-  The correct answer is psyllium. Psyllium is a hemicellulose laxative that has the ability to bind with sand and help remove it from the gastrointestinal tract. Feeding the horse in a stall and/or utilizing hay racks will also help the inadvertent consumption of sand that may be ingested if a horse is eating on sandy ground. None of the other answer choices are as effective as psyllium.
+- Clostridium difficile is a spore-forming bacteria commonly associated with enterocolitis and diarrhea in adult horses and foals. Which of the following statements is NOT correct in regard to C. difficile in horses?
+-  Administration of non-steroidal anti-inflammatory medications. For example flunixin meglumine, is a risk factor for the development of C. difficile enterocolitis.
+-  C. difficile can survive for prolonged periods of time in the spore form.
+-  Transmission of C. difficile occurs via the oral-fecal route.
+-  The 2 main virulence toxins are toxin A and toxin B.
+-  C. difficile is a Gram-positive, rod shaped, obligate anaerobe.
+-  The correct answer is NSAID treatment is a risk factor for the development of C. difficile enterocolitis. Remember all the other answers are correct, so hopefully you can take away some of these important facts from this question. Risk factors for the development of disease include antibiotic treatment and hospitalization, but does not include administration of NSAIDs
+- Which of the following treatments is contraindicated in the treatment of choke?
+-  The correct answer is mineral oil. In horses, choke is caused by an obstruction in the esophagus. If mineral oil is used to relieve the obstruction, there is a risk of aspiration pneumonia. Aspiration of mineral oil is particularly harsh. Xylazine is commonly used to sedate the horse in order to pass a tube and then gently flush the esophagus with water. Lidocaine is given to help relieve discomfort and flunixin meglumine is given as a non-steroidal anti-inflammatory. If the choke does not resolve on your first try, give the horse 12-24 hours and maybe some IV fluids; then try again if necessary. This usually does the trick as long as you are not dealing with an anatomical choke (esophageal diverticulum) or a very severe case
+- 12 L of gastric reflux with a pH of 6.5 in a horse is most indicative of which of the following?
+-  The correct answer is obstruction. A pH that is greater than 5 suggests that small intestinal contents are refluxing into the stomach, resulting in an increased pH. Small intestinal ileus is another differential but was not an answer choice
+- A 5-year old female Quarterhorse has been tentatively diagnosed with duodenitis-proximal jejunitis (DPJ). What other cause of equine colic can DPJ closely resemble?
+-  The correct answer is small intestinal obstruction. Both small intestinal obstruction and duodenitis-proximal jejunitis (DPJ) present with similar clinical signs. The problem is that a small intestinal obstruction will be a surgical disease, and duodenitis-proximal jejunitis responds better to medical treatment. The cause of duodenitis-proximal jejunitis remains unknown. Clinical signs include acute colic with increased respiratory rate, heart rate, and pain. Additionally, there will be lots of gastric reflux. After decompression of the stomach via nasogastric intubation and removal of excess gastric/intestinal fluid, horses with DPJ may appear much more comfortable
+- While performing an ultrasound of a colic case it is noted that the ultrasonagrapher is unable to visualize the left kidney. What is the tentative diagnosis?
+-  The correct answer is nephrosplenic entrapment. The kidney is obscured as a result of a left dorsal displacement of the large colon over the nephrosplenic ligament. Large horses may be predisposed to this
+-  A 13-year old Hanoverian brood mare presents for an acute onset of lethargy, anorexia, and explosive, watery, diarrhea. The diarrhea began approximately 14 hours after the initial signs of anorexia and lethargy. Clinicopathologic findings include neutropenia 2300/ul (normal 2,900-8,500/ul) with toxic neutrophils along with the typical electrolyte abnormalities seen with diarrhea Sodium 115 mEq/L (128-142 mEq/L) and Chloride 83 mEq/L (98-109 mEq/L). Which of the following pathogens is most commonly known for being able to cause a presentation such as the one described in this horse?
+-  The correct answer is Salmonella. Salmonella can cause several different clinical presentations including subclinical infection, self limiting diarrhea, and acute diarrhea with endotoxemia.
+- Parascaris equorum and Strongyloides westeri are both parasites that may cause diarrhea. Parascaris equorum infestations may result in lethargy, depression, and respiratory signs. Occasionally, they result in intestinal obstruction and subsequent perforation. Strongyloides westeri is associated with diarrhea in foals and not in adult horses. Mares usually harbor this organism in their tissues and then transmit the parasite in the milk, thus infecting foals. Ivermectin administered to the mare will usually kill any Strongyloides westeri harbored by the mare.
+- Clinical signs of Ehrlichia equi include lethargy, anorexia, fever, limb edema and hematology changes such as neutropenia and thrombocytopenia. One might confuse Ehrlichia equi with Ehrlichia risticii (Neorickettsia risticii), the latter causing lethargy, anorexia, fever, diarrhea, and laminitis. However, keep in mind that less than 60% of horses with Potomac Horse Fever develop diarrhea.
+- Diagnosis of E. risticii requires measurement of paired serum titer via immuno-fluorescent antibodies or detection of the organism via PCR in the blood or feces. Diagnosis of Salmonella requires serial cultures of feces for 3-5 days. Diagnosis of Strongyloides westeri and Parascaris equorum is by demonstration of eggs in the feces.
+-   A horse requires about 1.3 g protein per kilogram body weight or about 40 g of protein per 1000 calories. This corresponds to about 12% of dry matter intake. Obviously, other factors play some role, including the quality of the protein source. In general, excess protein does not cause horses any health problems, but it can be an unnecessary expense for owners. Too little protein can result in malnutrition problems
+- A 2-day old white foal presents for colic. The foal was normal at birth and is the progeny of 2 valuable Overo horses. What should you suspect?
+-  The correct answer is ileocolonic agangliosis. The other name for this condition is lethal white foal syndrome. This is an autosomal recessive trait seen in Overo horses. The foals are white with blue irises. Diagnosis is confirmed by histopathology showing a lack of ganglia in the colon. Most develop colic and die by 2 days of age.
+- A Paint horse mare gives birth to an all white foal (see image). What clinical sign would you expect to see in a foal with lethal white syndrome?
+- The correct answer is constipation. Lethal white foals have aganglionosis of the intestines which leads to hypomotility, megacolon, constipation, colic, and death.
+- Foal Diarrhoea
+-  The correct answer is foal heat diarrhea. Although any of these answers could be correct, sometimes this is all you have to go on for some exam questions. To answer this question you need to know at what time periods foals get what diarrhea and the severity.
+- Foal heat diarrhea is mainly seen at the age of 7-14 days and is usually very mild in nature, making this the best answer choice.
+- Rhodococcus equi will result in diarrhea in foals that are between the ages of 1-4 months; however, remember that this organism primarily causes respiratory disease, so look for that too.
+- Clostridium perfringens Types A, B, and C will usually result in an acute to peracute diarrhea in foals, leaving most of them dead in 48 hours if treatment is not instituted.
+- Primary lactose intolerance is rare in foals
+-  A 10-day old, 130 pound thoroughbred colt is presented to you for a 2-day history of watery diarrhea. The foal gestational period was 327 days with a normal parturition reported. Serum IgG concentration, measured at 1 day of age, was 550 mg/dL. The foal produces watery diarrhea during the examination (see image) and nurses once per hour. The colt appears dull but responsive. The vital parameters taken as the foal rests are as follows:
+- Temperature 102.9F (39.4 C)
+- Pulse 120 beats/min
+- Respiratory Rate 80 breaths/min
+- Based on the limited information presented here, what is the LEAST likely cause of the diarrhea noted in this case?
+- Septicemia
+-  Rotavirus
+-  Salmonella sp.
+-  Clostridium perfringens
+-  Foal Heat Diarrhea
+-  Based on the more concerning clinical signs, foal heat diarrhea is the least likely cause. Foal heat diarrhea is associated with the mare's first estrous cycle after parturition, typically occurring between 8-12 days after parturition. Almost always, foal heat diarrhea is transient and not associated with clinical signs (ie. lethargy, inappetance, fever); it is also self-limiting. The cause of foal heat diarrhea is not exactly known, but hormonal changes, diet changes and/or intestinal floral changes are some possible causes. The other possible answers are all causes of diarrhea in the foal and can be associated with significant clinical signs and changes in blood parameters (CBC, biochemistry profile).
+- This case also tests your knowledge of healthy foals. Some things to recognize in this question include: the gestation length is slightly short (normal gestational period ~ 340 days), the serum IgG is low (normal IgG > 800 mg/dL), the nursing activity is decreased (normally nurse 4-6 times/hour) and the colt has mild elevations in temperature, pulse and respiratory rate
+- A 4-week old foal is presented to you for evaluation of dysphagia and weakness. During your physical exam, you observe weakness and generalized muscle tremors. Upon further examination, you note weak tongue tone and dilated, non-responsive pupils. What is the most likely cause of these clinical signs?
+-  The correct answer is Clostridium botulinum (also known as Shaker Foal Syndrome). Foals (2 weeks-6 months) are susceptible to the toxicoinfectious form of botulism, where they ingest the spores which grow in their intestines and make the toxin. The toxin blocks the release of acetylcholine from the neuromuscular junction, thus resulting in flaccid paresis or paralysis. Adults usually will only show clinical signs if they ingest the preformed toxin. Clinical signs are shaking, flaccid paralysis, drooling, decreased muscle tone, weakness, and dyspnea. The weak tongue tone is considered a cardinal sign. With medical treatment, prognosis is favorable; however prognosis is poor if treatment is not instituted, as many die of respiratory paralysis or pneumonia within days
+- Subsoalr abscess
+-  The correct answer is subsolar abscess. Subsolar abscesses result from a puncture wound in the hoof from a penetrating foreign body or poor farrier work. Lameness is usually severe. Clinical signs may include pointing of the affected foot and increased heat and pain, which progresses to the coronary band. Edematous swelling of the pastern and fetlock may occur. In neglected cases, draining at the coronary band may occur in 2-3 weeks. Treatment consists of disinfectants and poultices. Ensuring adequate drainage is the mainstay of therapy. If a foreign body is present, it should be found and removed, and adequate drainage should be established.
+- Clinical Case# 01: You are examining a 16-year old pregnant mare with an acute onset of colic. On presentation, she has a heart rate of 64, respiratory rate of 32, and is pawing. CRT is approximately 3.0 seconds, and mucous membranes are red. Her rectal temperature is 101.3F (38.5 C). Gastrointestinal sounds are completely absent, and gastric reflux yielded 16L of brown- to yellow-colored fluid. Which of the following is a possible diagnosis?
+- a. Left dorsal colon displacement
+- b. Cecal impaction
+- c. Nephrosplenic entrapment
+- d. Right dorsal colon displacement
+- e.  Mesenteric rent
+- The correct answer is a mesenteric rent. A mesenteric rent can result in a strangulating intestinal obstruction. Other causes of strangulating intestinal obstructions include intussusceptions, hernias, epiploic foramen incarceration, volvulus, and strangulating lipomas. Left dorsal colon displacement is the same thing as splenic entrapment and will typically not result in a colic presentation this severe
+-  Because cecal impaction usually develops gradually and exhibits mild to moderate signs of pain, and it may get ruptured before the development of severe abdominal pain. Often it develops secondary to other intestinal diseases . Also imp. to keep in mind that pelvic flexure region of the left colon and transverse colon are more susceptible areas of impaction.
+- Now there is an other problem at hand 　 ; how to differentiate between cecal impaction and large dorsal colon impaction?  Hint: pelvic flexure region of the left colon and transverse colon are more susceptible areas of impaction.
+- On which side do horse teeth need to be floated?
+-  Maxilla lingual and mandible lingual
+-  Maxilla buccal and mandible lingual Correct Answer
+-  Mandible buccal and maxilla lingual
+-  Maxilla buccal and mandible buccal
+
+### Explanation
+
+- The correct answer is maxilla buccal and mandible lingual. This is because the mandible is narrower than the maxilla thus predisposing points and hooks to form at the buccal surface of the maxilla and the lingual surface of the mandible. If these become sharp they can irritate tissues, cause difficulty in mastication, lacerate the tongue and cheek, and result in weight loss
+- A 10-year-old, male-castrated golden retriever has a 1-month history of mild lethargy and decreased appetite. On physical examination, he has pale mucous membranes and weak femoral pulses. His complete blood count (CBC) shows a decreased packed cell volume (PCV), decreased mean corpuscular volume (MCV), and decreased mean corpuscular hemoglobin concentration (MCHC). His biochemistry panel shows a mildly increased blood urea nitrogen (BUN) level and mildly increased serum alkaline phosphatase (ALP) level. Which of the following is the most likely cause of this dog’s anemia?
+- Immune-mediated hemolysis
+-  B.
+- Iron-deficiency secondary to chronic gastrointestinal bleeding
+-  C.
+- Nutritional deficiency of iron
+-  D.
+- Renal disease causing reduced erythropoietin levels
+  6.  Horse racing
+- All modern **Thoroughbreds** trace back to **three** stallions imported into England from the Middle East in the late 17th and early 18th centuries:
+  - the Byerley Turk (1680s),
+  - the Darley Arabian (1704)
+  - the Godolphin Arabian (1729).
+    7.  Necropsy reports
+- Pneumonia
+- lung, pleural surface. Emphysematous lung showing many dark
+- deposits of inhaled carbon particles
+- Bronchial pattern of pulmonary consolidation
+- Lung, pleural surface. Consolidated lungtissue. Inflammation of the
+- smaller airways causes a pronounced bronchial pattern.
+- Diffuse pulmonary emphysema
+- Voluminous, pale lungs that fill the thoracic cavityand have distended
+- alveolar sacs. Cat.
+- Pale-gray, aerated, voluminous and non-collapsible lungs
+- there is extensive edema and emphysema, often with the formation of large, air-filled bullae in interlobular and subpleural regions.
+- Mycoplasmal and bacterial agents, including *Pasteurella multocida*, *Mannheimia haemolytica*, and *Mycoplasma bovis*, represent the most frequently isolated pathogenic organisms.
+- Lesions include cranioventral lung consolidation, bronchiolitis,
+- Pulmonary abscessation can occur as the pneumonia becomes chronic
+- This classification represents a group of respiratory diseases characterized by an acute onset of severe respiratory distress and a combination of lung lesions that include pulmonary edema and congestion, interstitial emphysema, alveolar epithelialization, and hyaline membrane formation.
+- Lesions are those of atypical interstitial pneumonia with prominent emphysema and edema in the lungs.
+- Verminous pneumonia
+- Lung, diaphragmatic lobe. Subpleural gray-white pneumonic nodules
+- produced bythe adult worms, eggs and larvae of Muellerius capillaris.
+- Sheep.
+- Renal cut surface.Chronic diffuse interstitial nephritis
+- Chronic passive congestion
+- Liver, cut surface. Dark congested liverwith pale arborescent areas of
+- hepatocellular regeneration around vessels. The latter results from loss
+- of hepatocytes in the congested centrolobular areas and subsequent
+- hyperplasia of remaining hepatocytes in the periportal areas.
+- **Calf died due to respiratory acidosis:**
+- clinical signs and pathologic findings of an atypical interstitial pneumonia.
+- Clinical signs include respiratory distress characterized by tachypnea and dyspnea
+- This classification represents a group of respiratory diseases characterized by an acute onset of severe respiratory distress and a combination of lung lesions that include pulmonary edema and congestion, interstitial emphysema, alveolar epithelialization, and hyaline membrane formation
+- There is an indistinct axial margin with underlying ill-defined lucent zones, involving the proximal half of the medial and lateral proximal sesamoid bones (
+- Death due to foreign body in rumen polythene bags and other non-biodegradable materials with improper waste disposal  constitute major predisposing factors to the development of this condition.
+- Calcium and phosphorous deficiency will cause capricious appetite in animals
+- As these plastic materials are indigestible, they are lodged in the rumen
+- Initially, due to ruminal contractions, polythene bags/plastics accumulated in rumen will get entangled with each other leading to the formation of hard mass Later on, this hard plastic mass obstructs the orifice between reticulum and omasum thereby causing hindrance to the ruminal movements
+
+## Polybezoars
+
+- Hard stone-like masses that are formed by the deposition of salts around polythenes in digestive tract are known as polybezoars. These polybezoars not only cause hindrance in food passage but also leads to pain and inflammation of rumen
+- **indigestible foreign bodies (IFB)**
+- Highly significant decrease in the haemoglobin, PCV and total erythrocytic count with leukocytosis and neutrophilia may be due to dietary deficiency (Mayer et al., 1992), presence of foreign bodies (Hailat et al., 1996) and sloughing, stunting, erosions, inflammatory response and the hyperplasia due to the pressure on the wall of the rumen caused by the foreign bodies (Hailat et al., 1996) (Table 1).
+-  Highly significant increase in BUN value may be due to faulty rumen fermentation and reduced microbial activity (Hobson, 1988). Hypoproteinemia and hypoalbuminaemia could be due to dietary malnutrition (Mayer et al., 1992) and stress reaction to infection. Hypocalcaemia might de due to dietary deficiency and failure of calcium absorption due to
+- reduced ruminal motility. Hypoglycaemia might be due to inadequate intake of feed (Ramakrishna, 1994). Hypophosphatemia noticed in the affected animals might be associated with shortage of feeds, perhaps especially of minerals and vitamins (Table 2).
+-  It can be concluded that rumen impaction mainly causes depression, anorexia, reduced milk yield, abdominal distension and loss of defecation. There are significant alterations in BUN, protein, albumin, calcium, glucose and phosphorus in the affected animals.
+- Over a period of time, this hard plastic mass leads to decrease in rumen motility and thereby cause ruminal atony and ruminal impaction [[33](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6200578/#ref33),[36](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6200578/#ref36)]. Ruminal impaction by plastic foreign body is asymptomatic and is diagnosed only after the accumulation of huge quantities of plastic materials in rumen

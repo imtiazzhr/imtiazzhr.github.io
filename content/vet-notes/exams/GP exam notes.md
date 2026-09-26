@@ -1,0 +1,239 @@
+---
+title: "GP exam notes"
+date: 2020-10-11
+---
+
+- Lyme disease
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvetsgate%2FtEZVMQj6RD.png?alt=media&token=fd8d1d4d-9642-474d-b835-596f6ae6ba50)
+- Anaplasmosis, formerly known as gall sickness, traditionally refers to a disease of ruminants caused by obligate intraerythrocytic bacteria of the order Rickettsiales, family Anaplasmataceae, genus Anaplasma. Cattle, sheep, goats, buffalo, and some wild ruminants can be infected with the erythrocytic Anaplasma. Anaplasmosis is characterized by progressive anemia due to extravascular destruction of infected and uninfected erythrocytes.
+- Tetracycline antibiotics and imidocarb are currently used for treatment. Cattle may be sterilized by treatment with these drugs and remain immune to severe anaplasmosis subsequently for at least 8 mo.
+- Prompt administration of tetracycline drugs (tetracycline, chlortetracycline, oxytetracycline, rolitetracycline, doxycycline, minocycline) in the early stages of acute disease (eg, PCV >15%) usually ensures survival. A commonly used treatment consists of a single IM injection of long-acting oxytetracycline at a dosage of 20 mg/kg. Blood transfusion to partially restore the PCV greatly improves the survival rate of more severely affected cattle. The carrier state may be eliminated by administration of a long-acting oxytetracycline preparation (20 mg/kg, IM, at least two injections with a 1-wk interval). Withholding periods for tetracyclines apply in most countries. Injection into the neck muscle rather than the rump is preferred.
+- Imidocarb is also highly efficacious against A marginale as a single injection (as the dihydrochloride salt at 1.5 mg/kg, SC, or as imidocarb dipropionate at 3 mg/kg). Elimination of the carrier state requires the use of higher repeated doses of imidocarb (eg, 5 mg/kg, IM or SC, two injections of the dihydrochloride salt 2 wk apart). Imidocarb is a suspected carcinogen with long withholding periods and is not approved for use in the USA or Europe.
+- *Sheep diseases**
+- *Enterotoxemia in Sheep**
+- This feed-related malady causes almost sudden death in sheep due to a toxin produced by Clostridium perfringens type D and sometimes type C. The organism appears to be widespread in nature. Under conditions of high carbohydrate consumption or high intake of immature succulent forage, the causative bacteria multiply rapidly and produce an ε toxin that increases intestinal permeability. Protection of lambs is possible by vaccinating twice at least 10 days apart with C perfringens type D toxoid or by administering antitoxin at birth
+- *white muscle disease ( study Se def in the later section. It is same as Se deficiency)**
+- Although several feedstuffs are fairly rich in selenium and vitamin E, it may be a good management practice in deficient areas to inject lambs shortly after birth with a preparation of vitamin E and selenium designed for parenteral use. The use of a selenium and/or vitamin E supplemented trace mineral mixture (up to 90 ppm) as the only source of salt fed may be useful as a preventive measure.
+- *Heartwater disease**
+- [https://www.merckvetmanual.com/generalized-conditions/heartwater/overview-of-heartwater](https://www.merckvetmanual.com/generalized-conditions/heartwater/overview-of-heartwater)
+- *Rift Valley Fiver**
+- [https://www.merckvetmanual.com/generalized-conditions/rift-valley-fever/overview-of-rift-valley-fever](https://www.merckvetmanual.com/generalized-conditions/rift-valley-fever/overview-of-rift-valley-fever)
+- Rift Valley fever (RVF) is a peracute or acute, mosquito-borne, zoonotic disease of domestic and wild ruminants .The disease is endemic in many tropical and subtropical regions of Africa, Madagascar, and the Arabian Peninsula. RVF virus belongs to the genus Phlebovirus and is a typical Bunyavirus. Outbreaks are usually associated with periods of abnormally heavy rainfall or, in some cases, with localized flooding due to dam building or flood irrigation. People are readily infected through blood aerosols from infected animals during slaughter, or by exposure to infected animal tissues, aborted fetuses, mosquito bites, and laboratory procedures.
+- Clinical signs of RVF tend to be nonspecific, rendering it difficult to recognize individual cases. The incubation period is 12–36 hr in lambs, and a biphasic fever of up to 108°F (42°C) may develop. Affected animals are listless and reluctant to move or feed and may show signs of abdominal pain.
+- *Sheep**: generalized febrile response, lethargy, hematemesis, hematochezia, and nasal discharge, although infection may also be inapparent. mortality in lambs 90-100%. In adult 20-30%
+- *Disease in adult cattle** is often inapparent, but they may show anorexia, lacrimation, salivation, nasal discharge, dysgalactia, and a bloody or fetid diarrhea, with a mortality of 5%–10%. Sometimes, abortion may be the only sign of infection; the aborted fetus is usually autolyzed.
+- *Diagnosis:**
+- Suspect in heavy rain fall, necrotic hepatitis. Serologic tests to detect Antibody against RVF virus, rt-PCR, ELISA. Complement fixation, ELISA, agar gel diffusion tests, or staining of organ impression smears.
+- *DDx**
+- Wesselsbron disease (see [Wesselsbron Disease](https://www.merckvetmanual.com/generalized-conditions/wesselsbron-disease)) and other insect-borne viral diseases tend to occur under the same climactic conditions. RVF mortality associated with hepatic lesions should be distinguished from hepatotoxic plant and algal intoxications; bacterial septicemias such as pasteurellosis, salmonellosis, and anthrax; and other viral infections such as Nairobi sheep disease and peste des petits ruminants. When abortion is the only finding, other important diseases such as brucellosis, leptospirosis, chlamydiosis, campylobacteriosis, Coxiella burnetii infection, and salmonellosis should be eliminated.
+- *Prevention and Treatment:**
+- The mouse neuro-adapted **Smithburn strain** of RVF virus can readily be produced in large quantities, is inexpensive, and induces a durable immunity 6–7 days after inoculation.
+- Possible future recombinant DNA vaccines and viral strains with deletions of the major virulence genes should offer a better alternative. Control of vectors, movement of stock to high-lying areas, and confinement of stock in insect-proof stables are usually impractical, instituted too late, and of little value.
+- *Wesselsbron disease** is an acute, arthropod-borne flavivirus infection of mainly sheep, cattle, and goats in sub-Saharan Africa. Infection is common, but clinical disease is infrequent although likely under-reported. Newborn lambs and goat kids are most susceptible, and mortality may occur.
+- In drier areas, however, seroprevalence is generally lower, with irregular disease outbreaks occurring, usually in conjunction with Rift Valley fever (see [Rift Valley Fever](https://www.merckvetmanual.com/generalized-conditions/rift-valley-fever)) when abnormally heavy rains lead to an abundance of floodwater-breeding mosquitoes.
+- *It resembles RVF virus but Wesselsbron has neurological signs associated with it, usually milder, producing much lower mortality, fewer abortions, and less destructive liver lesions.**the liver is yellowish to orange brown.
+- *Nairobi sheep disease (NSD)** is a tickborne viral disease of sheep and goats characterized by fever and hemorrhagic gastroenteritis, abortion, and high mortality.
+- NSD virus is classified in the genus Nairovirus, family Bunyaviridae, and is possibly the most pathogenic virus known for sheep and goats.
+- In natural outbreaks, disease usually occurs 5–6 days after susceptible animals move to areas infested with R appendiculatus. Clinical signs begin with a steep rise in body temperature (41°–42°C [105.8°–107.6°F) that persists for 1–7 days. Leukopenia and viremia usually coincide with the febrile phase. Diarrhea usually appears 1–3 days after the onset of fever and worsens as infection progresses. Illness is manifest by depression; anorexia; mucopurulent, blood-stained, nasal discharge; occasional conjunctivitis; and fetid dysentery that causes painful straining. Pregnant animals frequently abort.
+- Two types of experimental vaccines have been developed—a modified-live virus vaccine attenuated in mouse brain and an inactivated oil adjuvant vaccine. A single dose of the modified-live vaccine produces rapid immunity; however, revaccination is necessary to maintain full protection. Two doses of the inactivated vaccine are required to elicit good protection. Neither of these vaccines is produced commercially.
+- Differential diagnoses include peste des petits ruminants (see [Peste des Petits Ruminants](https://www.merckvetmanual.com/generalized-conditions/peste-des-petits-ruminants)), Rift Valley fever (see [Rift Valley Fever](https://www.merckvetmanual.com/generalized-conditions/rift-valley-fever)), heartwater (see [Heartwater](https://www.merckvetmanual.com/generalized-conditions/heartwater)), and salmonellosis (see [Salmonellosis](https://www.merckvetmanual.com/digestive-system/salmonellosis)).
+- *Mange**
+- [https://www.merckvetmanual.com/integumentary-system/mange/overview-of-mange](https://www.merckvetmanual.com/integumentary-system/mange/overview-of-mange)
+- Mange is a contagious disease characterized by crusty or scaly skin, pruritus, and alopecia. Mange is a general term for cutaneous acariasis and is the result of infestation with one of several genera of parasitic mites, including Chorioptes, Demodex, Psorobia (formerly Psorergates), Psoroptes, Sarcoptes, and others. The term "scabies" most appropriately refers to infestation with Sarcoptes sp mites (ie, sarcoptic mange); however, this term is commonly misused to refer to any type of mange.
+- Sarcoptes scabiei var bovis is a highly contagious disease of cattle.
+- *Demodectic Mange (Follicular Mange, Bovine Demodicosis):**
+- Three species of Demodex are known to infest cattle: D bovis, D ghanensis, and D tauri. D bovis is the most common and infests hair follicles of cattle worldwide. D ghanensis infests meibomian glands of cattle from Ghana, and D tauri has been recovered from hair follicles and sebaceous glands of cattle from Czechoslovakia. Species of Demodex are host specific and not zoonotic.
+- *Dermatophytosis Treatment**
+- Trichophyton verrucosum is the usual cause of ringworm in cattle, but T mentagrophytes, T equinum, Microsporum gypseum, M nanum, M canis, and others have been isolated.
+- Agents reported to be of use include washes or sprays of 4% lime sulfur, 0.5% sodium hypochlorite (1:10 household bleach), 0.5% chlorhexidine, 1% povidone-iodine, natamycin, and enilconazole. Individual lesions can be treated with miconazole or clotrimazole lotions.
+- A live attenuated fungal vaccine is in use in some countries other than the USA.
+- Treatment is generally topical because systemic therapy is expensive and of unproven efficacy. Whole-body rinses as described earlier for cattle may be recommended, and individual lesions treated with clotrimazole or miconazole preparations.
+- *Paratuberculosis (**Johne’s disease)
+- is a chronic, contagious granulomatous enteritis characterized in cattle by persistent diarrhea, progressive weight loss, debilitation, and eventually death. It is considered a listed disease by the OIE, meaning it is a priority disease for international trade. The etiologic agent, Mycobacterium paratuberculosis, also known as Mycobacterium avium subsp paratuberculosis, is believed capable of infecting and causing disease in all other ruminants (eg, sheep, goats, llamas, deer) and in captive and free-ranging wildlife.
+- Infection is acquired early in life—often soon after birth—but clinical signs rarely develop in cattle <2 yr old, because progression to clinical disease occurs slowly. Resistance to infection increases with age, and cattle exposed as adults are much less likely to become infected.
+- After ingestion and uptake in the Peyer’s patches of the lower small intestine, this intracellular pathogen infects macrophages in the GI tract and associated lymph nodes.
+- *Cx**
+- Paratuberculosis in cattle is characterized by weight loss and diarrhea in the late phases of infection, but infected animals can appear healthy for months to years. In cattle, diarrhea may be constant or intermittent; in sheep, goats, and other ruminants, diarrhea may not be seen.
+- It typically does not contain blood, mucus, or epithelial debris and is passed without tenesmus. Throughout weeks or months, the diarrhea becomes more severe, further weight loss occurs, coat color may fade, and ventral and intermandibular edema may develop due to a protein-losing enteropathy. This leads to low concentrations of total protein and albumin in plasma, although gamma globulin levels are normal.
+- *Dx**
+- Various tests, culture, PCR, ELISA. Tests of cell-mediated immunity, such as the intradermal Johnin test, lymphocyte transformation test, and interferon-γ, are used more on a research basis and may be negative in advanced clinical cases.
+- Serologic tests are rapid, low-cost methods for antemortem confirmation of a clinical diagnosis; sensitivity is >85% in clinically affected animals. They are also useful to detect infection in clinically normal cattle in the later stages of infection that are shedding large numbers of M paratuberculosis; sensitivity is ~45%. Of the serologic tests, those based on ELISA technology offer the highest sensitivity and specificity and are best used to determine the infection prevalence in a herd.
+- *Tx and Vaccine**
+- Vaccination of calves <1 mo old can reduce disease incidence but does not prevent shedding or new cases of infection in the herd.
+- Listeriosis
+- [https://www.merckvetmanual.com/generalized-conditions/listeriosis/overview-of-listeriosis](https://www.merckvetmanual.com/generalized-conditions/listeriosis/overview-of-listeriosis)
+- Listeria monocytogenes is a small, motile, gram-positive, nonsporeforming, extremely resistant, diphtheroid coccobacillus that grows under a wide temperature range 4°–44°C (39°–111°F).
+- [[Listeriosis]] is primarily a winter-spring disease of feedlot or housed ruminants. **The less acidic pH of spoiled silage enhances multiplication of L monocytogenes.**
+- *Pathogenesis:**
+- Listeria organisms that are ingested or inhaled tend to cause septicemia, abortion, and latent infection. Those that gain entry to tissues have a predilection to localize in the intestinal wall, medulla oblongata, and placenta or to cause encephalitis via minute wounds in buccal mucosa.
+- The various manifestations of infection occur in all susceptible species and are associated with characteristic clinical syndromes: abortion and perinatal mortality in all species, encephalitis or meningoencephalitis in adult ruminants, septicemia in neonatal ruminants and monogastric animals, and septicemia with myocardial or hepatic necrosis (or both) in poultry.
+- *It is essentially a localized infection of the brain stem that develops when L monocytogenes ascends the trigeminal nerve. Clinical signs vary according to the function of damaged neurons but often are unilateral and include depression (ascending reticular activating system), ipsilateral weakness (long tracts), trigeminal and facial nerve paralysis, and less commonly, circling (vestibulocochlear nucleus). Neurologic signs indicating bilateral cranial nerve deficits are occasionally seen in lambs <4 mo old.**
+- Initially, affected animals are anorectic, depressed, and disoriented. **They may propel themselves into corners, lean against stationary objects, or circle toward the affected side. Facial paralysis with a drooping ear, deviated muzzle, flaccid lip, and lowered eyelid often develops on the affected side,** as well as lack of a menace response and profuse, almost continuous, salivation; food material often becomes impacted in the cheek due to paralysis of the masticatory muscles. Terminally affected animals fall and, unable to rise, lie on the same side; involuntary running movements are common.
+- *Diagnosis**
+- Samples of lumbosacral CSF can be collected under local anesthesia. In cases of listeriosis, the CSF has an increased protein concentration (0.6–2 g/L [normal 0.3 g/L]) and a mild pleocytosis composed of large mononuclear cells.
+- [[Listeriosis]] is confirmed only by isolation and identification of L monocytogenes. Specimens of choice are brain from animals with CNS involvement and aborted placenta and fetus.
+- *DDx**
+- Rabies, BSE, Pregnancy toxemia, Ketosis in cattle,
+- *Rx and control**
+- L monocytogenes is susceptible to penicillin (the drug of choice), ceftiofur, erythromycin, and trimethoprim/sulfonamide. High doses are required because of the difficulty in achieving minimum bactericidal concentrations in the brain.
+- Penicillin G should be given at 44,000 U/kg body wt, IM, daily for 1–2 wk; the first injection should be accompanied by the same dose given IV. Supportive therapy, including fluids and electrolytes, is required for animals having difficulty eating and drinking. High-dose dexamethasone (1 mg/kg, IV) at first examination is considered beneficial. If silage is being fed, use of the particular silage should be discontinued on a trial basis. Spoiled silage should be avoided. **Corn ensiled before being too mature and grass silage containing additives are likely to have a more acid pH, which discourages multiplication of L monocytogenes.**
+- Zoonotic Risks:
+- 12 caes per million, very rare incidences, the organism present in the milk and can survive pasteurization.
+- Clostridial diseases  can be divided into two categories: 1) those in which the organisms actively invade or when locally dormant spores are activated and reproduce in the tissues of the host, with the production of toxins that enhance the spread of infection (the gas-gangrene group, the clostridial cellulitides group); and 2) those characterized by toxemia resulting from the absorption of toxins produced by organisms within the digestive system (the enterotoxemias), in devitalized tissue (tetanus), or in food or carrion outside the body (botulism). Clostridial diseases are not spread from animal to animal.
+- Clostridia are relatively large, anaerobic, sporeforming, rod-shaped, gram-positive organisms. They are found either as living cells (vegetative forms) or as dormant spores. Their natural habitats are soils and intestinal tracts of animals, including people. Dormant spores of several clostridial species have been found in healthy muscular tissue of horses and cows. The endospores are oval, sometimes spherical, and are located centrally, subterminally, or terminally. The vegetative forms of clostridia in tissue fluids of infected animals occur singly, in pairs, or rarely in chains. Differentiation of the various pathogenic and related species is based on cultural characteristics, spore shape and position, biochemical reactions, and the antigenic specificity of toxins or surface antigens. The genomes of many clostridia have been sequenced and are available online. Pathogenic strains or their toxins may be acquired by susceptible animals by either wound contamination or ingestion. Diseases thus produced are a constant threat to successful livestock production in many parts of the world.
+- *Bacillary Haemoglobinuria (C haemolyticum)**
+- Bacillary hemoglobinuria is an acute, infectious, toxemic disease caused by Clostridium haemolyticum.
+- C haemolyticum is a soilborne organism naturally found in the GI tract of some cattle. It can survive for long periods in contaminated soil or in bones from carcasses of infected animals. After ingestion, latent spores ultimately become lodged in the liver. The incubation period is extremely variable, and onset depends on the presence of a locus of anaerobiosis in the liver. Such a nidus for germination is most often caused by liver fluke (Fasciola hepatica) infection, rarely by high nitrate content of the diet, accidental liver puncture, liver biopsy, or any other cause of localized necrosis. When conditions for anaerobiosis are favorable, the spores germinate, and the resulting vegetative cells multiply and produce β toxin (phospholipase C). This causes intravascular hemolysis, resulting in hemolytic anemia and hemoglobinuria.
+- *Clinical signs**
+- Cattle may be found dead without premonitory signs. Usually, there is a sudden onset of severe depression, fever, abdominal pain, dyspnea, dysentery, and hemoglobinuria. Anemia and jaundice are present in varying degrees. Edema of the brisket may occur. Hgb and RBC levels are quite low. The duration of clinical signs varies from ~12 hr in pregnant cows to ~3–4 days in other cattle. Mortality in untreated animals is ~95%. Some cattle suffer from subclinical attacks of the disease and thereafter act as immune carriers.
+- *Diagnosis and Treatment**
+- Diagnosis can be confirmed by isolating C haemolyticum from the liver infarct, but the organism is difficult to culture. Rapid and accurate diagnosis can be made by demonstrating the organism in the liver tissue by a fluorescent antibody or immunohistochemical test or by demonstrating the toxin in the fluid in the peritoneal cavity or in a saline extract of the infarct. PCR has also been used to diagnose clinical bacillary hemoglobinuria in a cow in Japan..The general clinical picture and postmortem findings usually permit a tentative diagnosis. The most striking sign is the typical port-wine-colored urine, which foams freely when voided or on agitation.
+- Early treatment with penicillin or tetracyclines at high doses is essential. Whole blood transfusions and fluid therapy also are helpful early in the disease. Clostridial vaccination
+- *Big head ( swollen head)**
+- Big head is an acute, infectious disease, caused by Clostridium novyi, C sordellii, or rarely C chauvoei, characterized by a nongaseous, nonhemorrhagic, edematous swelling of the head, face, and neck of young rams. This infection is initiated in young rams by fighting or continual butting of one another. It has also been associated with the practice of dipping immediately after shearing. The bruised and battered subcutaneous tissues provide conditions suitable for growth of pathogenic clostridia, and the breaks in the skin offer an opportunity for their entrance. Treatment is with broad-spectrum antibiotics or penicillin.
+- Anaplasmosis, Babesiosis, Theliariases, Leptospirosis
+- Parasites
+- Ticks  are obligate ectoparasites of most types of terrestrial vertebrates virtually wherever these animals are found. Two of the three families of ticks parasitize livestock: the Argasidae (argasids, “soft ticks”) and the Ixodidae (ixodids, “hard ticks”).In addition, ticks can harm their hosts directly by inducing toxicosis (eg, sweating sickness [see [Sweating Sickness](https://www.merckvetmanual.com/generalized-conditions/sweating-sickness)], tick paralysis [see [Tick Paralysis](https://www.merckvetmanual.com/nervous-system/tick-paralysis)] caused by salivary fluids containing toxins), skin wounds susceptible to secondary bacterial infections and screwworm infestations, and anemia and death.
+- International movement of animals infected with the tick-transmitted blood parasites Theileria, Babesia, and Anaplasma spp and Ehrlichia(Cowdria) ruminantium is widely restricted.
+- There are four developmental stages: egg, larva, nymph, and adult. All larvae have three pairs of legs; all nymphs and adults have four. Adults have a distinctive genital and anal area on the ventral body surface
+- *Parturient Paresis in Cows**
+- *(Milk fever, Hypocalcemia)**
+- [https://www.merckvetmanual.com/metabolic-disorders/disorders-of-calcium-metabolism/parturient-paresis-in-cows?query=milk%20fever%20hypocalcemia](https://www.merckvetmanual.com/metabolic-disorders/disorders-of-calcium-metabolism/parturient-paresis-in-cows?query=milk%20fever%20hypocalcemia)
+- Parturient paresis is an acute to peracute, afebrile, flaccid paralysis of mature dairy cows that occurs most commonly at or soon after parturition. It is manifest by changes in mentation, generalized paresis, and circulatory collapse.
+- *Deficiencies / Nutritional diseases**
+- *Deficiencies most likely to cause anemia include**:
+- cobalamin (B12)
+- copper
+- iron
+- niacin
+- pyridoxine (B6)
+- riboflavin
+- vitamin C (important only in primates and guinea pigs)
+- vitamin E
+- Iron deficiency is rarely nutritional in origin—it most commonly occurs secondary to [chronic blood loss](https://www.merckvetmanual.com/circulatory-system/anemia/blood-loss-anemia-in-animals). Young animals have minimal iron stores, and milk contains very little iron.
+- Copper deficiency can develop in ruminants fed forage grown in copper-deficient soil. Copper is necessary for the metabolism of iron.
+- Ruminants also develop a secondary cobalamin deficiency when grazing on cobalt-deficient pasture. Treatment with oral cobalt or parenteral cobalamin is indicated.
+- *Overview of Dystrophies Associated with Calcium, Phosphorus, and Vitamin D**
+- *[Nutritional Myodegeneration](https://www.merckvetmanual.com/musculoskeletal-system/myopathies-in-ruminants-and-pigs/nutritional-myopathies-in-ruminants-and-pigs)**(White muscle disease, Stiff lamb disease, Nutritional muscular dystrophy) /mulberry heart disease (MHD)/Hepatosis dietetica (HD)
+- Selenium is an essential component of five antioxidant selenoproteins, and vitamin E acts as an antioxidant within lipid bilayers. Muscle degeneration is the result of oxidant damage to cell membranes and proteins, leading to a loss of cellular integrity.
+- Nutritional myodegeneration (NMD) is an acute, degenerative disease of cardiac and skeletal muscle caused by a dietary deficiency of selenium or vitamin E in young, rapidly growing calves, lambs, and kids. Dams usually consumed selenium-deficient diets during gestation. Selenium deficiency appears to be more important than vitamin E in preventing NMD. NMD occurs worldwide in areas where the soil (and therefore the derived grains and forage) is deficient in selenium, and storage conditions do not preserve vitamin E in forages. Soil in the northeastern and eastern seaboards and northwestern regions of the USA are particularly deficient in selenium. Vitamin E deficiency occurs most commonly when animals are fed poor-quality hay, straw, or root crops.
+- Selenium is an essential component of five antioxidant selenoproteins, and vitamin E acts as an antioxidant within lipid bilayers. Muscle degeneration is the result of oxidant damage to cell membranes and proteins, leading to a loss of cellular integrity. Young, rapidly growing animals usually are affected, although the disease has also been reported in yearling and adult cattle. When cardiac muscle is primarily affected, animals may be found in respiratory distress, have cardiac arrhythmias, or be found dead.
+- *Dx**
+- Blood levels of the selenium-containing glutathione peroxidase are reduced. Supportive evidence of NMD includes increased levels of CK, AST, and LDH. Definitive diagnosis is based on demonstration of low whole blood selenium (normal range >0.1 ppm) or liver content (normal cattle 0.9–1.75 mcg/g of dry matter, sheep 0.9–3.5 mcg/g dry matter). The critical concentration of vitamin E (α-tocopherol) in plasma is 1.1–2 ppm in large animals. Vitamin E deteriorates rapidly in plasma samples. Therefore, plasma samples for α-tocopherol analysis should be put on ice immediately, protected from light by wrapping in foil, and stored at –21°F (–70°C) if analysis is to be delayed.
+- *PM Findings:** Bilaterally symmetric myodegeneration is a consistent finding in NMD. Skeletal muscle degeneration is characterized by pale discoloration and a dry appearance of affected muscle, white streaks in muscle bundles, calcification, and intramuscular edema. The white streaks seen in cardiac and skeletal muscle bundles represent bands of coagulation necrosis or, in chronic cases, fibrosis and calcification. In calves, the left ventricle and septum are most frequently involved, but both ventricles are usually involved in lambs. Histologically, affected muscle fibers may be hypercontracted and fragmented, with some mineralization of muscle fibers and others undergoing macrophage infiltration.
+- *DDx**
+- Differential diagnoses include infectious diseases resulting in septicemia, pneumonia, and toxemia; cardiac anomalies; cardiotoxic agents such as those found in plants (oleander, senna, yew, white snakeroot, and gossypol toxicity from cottonseed); and the ionophore antibiotics.spinal cord compression, cerebellar disease, suppurative and nonsuppurative meningitis/myelitis, polyarthritis, neurotoxins such as organophosphates, tetanus, pelvic fractures, parasitic myositis, clostridial myositis, and traumatic injuries.
+- *Rx**
+- The label dosage for selenium is 0.055–0.067 mg/kg (2.5–3 mg/45 kg), IM or SC.
+- Vit E is usually available with Se as a preservative so separate injectionn is essential.
+- Injectable vitamin E products that contain 300 and 500 IU vitamin E per mL as d-α-tocopherol are available.
+- Recommended levels of supplementation for calves range from 15 to 60 mg of dl-α-tocopherol acetate per kg of dry feed.
+- Under current federal regulations in the USA, selenium can be incorporated into the total ration of ruminants and other species to a level of 0.3 ppm. In salt/mineral mixtures formulated for free-choice feeding, selenium can be incorporated at 90 ppm for sheep and 120 ppm for cattle.
+- Federal regulations limit the intake of supplemental selenium to 0.7 mg/head/day in sheep and 3 mg/head/day in cattle.
+- Alternatively, individual animals can be supplemented by periodic (30- to 60-day intervals) injections of selenium/vitamin E preparations to help maintain body concentrations and assist in transplacental transfer of selenium.
+- *Hypokalemic myopathy**
+- occurs in dairy cattles with serum K level < 2.5 mmol/L
+- Hypokalemic myopathy in dairy cattle occurs when serum potassium concentrations are <2.5 mmol/L, producing severe signs of muscle weakness. Anorexia and enhanced potassium excretion due to the administration of one or more doses of isoflupredone acetate to ketotic cows are common causes of hypokalemia. Isoflupredone acetate has both glucocorticoid and mineralocorticoid activity, resulting in a decrease in mean plasma potassium concentration by 25% 2 days after a single injection (20 mg) and 46% in cows 3 days after two injections.
+- Clinical signs of hypokalemic myopathy include severe weakness, recumbency, abnormal position of the head and neck, rumen hypomotility or atony, abnormal feces, anorexia, and tachycardia. Cardiac dysrhythmia is also common. Diagnosis is based on clinical signs combined with serum potassium of <2.5 mmol/L. Other common clinical chemistry abnormalities include ketosis, metabolic alkalosis, and increased serum CK and AST activities. Muscle biopsies reveal a vacuolar myopathy.
+- Restoration of whole-body potassium balance can be difficult, and serum potassium concentrations do not necessarily reflect muscle potassium concentrations. Recommended supplementation includes potassium chloride given IV (16 g/l00 kg) and PO (26 g/100 kg) for approximately 5 days. Treatment should also be directed at resolving the primary cause of ketosis and anorexia as well as providing supportive care. Survival has been reported to be 22%–79%.
+- *Other imp concepts:**
+- Normochromic, normocytic anaemia (Fig. 23-3) is frequently the result of an underlying chronic, nonhaematological disease.
+- *Poultry**
+- *Avian encephalomyelitis**
+- Ataxia (loss of equilibrium), paralysis and tremors of the head, neck, or the whole body are observed.
+- ● Clinical signs appear when chicks are 1-2 weeks of age.A 20-30 nm diameter picornavirus that can survive for a considerable period in the poultry house. ● AE virus are enterotropic and are spread in feces.
+- *transmission**
+- Under natural conditions, infection occurs by fecal-oral transmission. ● In chicks, the virus replicates in Purkinje cells and the molecular layer of the cerebellum. ● The virus multiplies in the intestines and is shed in the droppings that contaminate the environment.
+- Dx:
+- A tentative diagnosis can be made on the clinical signs, the flock history, and history of the breeder source. ● A positive diagnosis can be made based on serology tests, histopathology of the brain, or virus isolation and identification. The best tissues to collect in chicks for histopathology diagnosis are brain, pancreas and duodenum.
+- **Marek's disease**
+- Marek's disease is a herpesvirus infection, primarily of young chickens, that causes lymphoma of T lymphocytes. Tumors may occur in the nerves, ovaries, testes, viscera, eye, muscle, and skin. MD is ubiquitous throughout the world. The leg paralysis was often referred to as range paralysis.
+- In acute outbreaks, birds become severely depressed and uncoordinated followed by unilateral or bilateral paralysis of legs and wings.
+- Ocular Marek’s disease is characterized by decreased pupil size and irregular diameter (“grey eye”).
+- *Cause:**
+- The disease is caused by a cell-associated(intra cellular) herpesvirus. There are three serotypes of MD virus: The oncoviruses (tumor-causing) are serotype 1; non-oncogenic viruses are serotype 2; and the herpes virus turkey (HVT) is serotype 3.
+- Viral replication occurs in three phases of virus-cell interactions: Productive, latent and transformation.
+- Transforming infection: Occurs in only T lymphocytes and is caused by only the virulent serotype 1 Marek’s disease viruses.
+- *Transmission**:
+- Infectious virus is produced only in feather follicle epithelium and spreads by direct or indirect contact between birds. ● The infectious virus contaminates the premises through infected molted feathers and dander. ● Birds become infected when they inhale dust containing the virus. Many apparently normal birds are carriers that can transmit the infection. ● Some birds have been found to shed the virus from skin for as long as eighteen months.
+- *Dx/Gross lesions/**
+- Birds can have one or both neural and visceral lesions. ● Affected nerves (sciatic, brachial and pelvic plexus) are characterized by swelling, loss of cross-striations, and are gray or yellow. ● Lymphoid tumors may be found in the gonads, ● heart, liver, lung, kidney, spleen, bursa, intestines, muscle, and skin
+- PCR for MD viral nucleic acid can be conducted on peripheral blood white cell buffy coats or lymphoid tumors as confirmation; this is not readily available for backyard chickens because of expense and lack of laboratory testing.
+- *Rx:**
+- ● There is no effective treatment for chickens with Marek's disease.
+- *Vaccination** against MD is effective in controlling the disease. ● Marek’s disease vaccine is usually administered on day 1 or injected into the embryo three days prior to hatch (in ovo). ● There are three types of vaccines commercially available: the HVT serotype 3, natural occurring avirulent isolates of serotype 2, and non-oncogenic strains of serotype 1 (Rispens).
+- *Infectious Coryza /**Hemophilosis/Hemophilus (Avibacterium) paragallinarum infection
+- Rapidly spreading and debilitating upper respiratory infection that occurs primarily in laying chickens and causes distinctive foul odor with swelling of infraorbital sinuses and edema of the face. Has largely been eliminated by good management practices, especially all-in, all-out programs.
+- Conjunctival sacs and infraorbital sinuses contain foul-smelling caseous exudate
+- Reduced egg production and reduced feed consumption; oculonasal discharge with edema of face and eyelids.
+- One or both infraorbital sinuses filled with yellow, cheesy exudate. ● Eyelids may be swollen or adhered shut by exudate; facial edema/swelling.
+- *Rx:**
+- water medication is recommended immediately until medicated feed is available. Erythromycin and oxytetracycline are usually beneficial. Several new-generation antibiotics (eg, fluoroquinolones, macrolides) are active against infectious coryza.
+- *Transmission**
+- Rapidly transmitted from bird to bird by contact, oculonasal secretions, aerosolized cough droplets and contaminated feed or drinking water.
+- Dx: Gross lesions; bacterial culture of exudate.
+- *DDx**
+- A chronic disease of a variety of birds, especially chickens and turkeys, characterized by nasal exudate, coughing and debilitation. It has been a major problem in the poultry industry for over 60 years. Commercial breeder flocks are monitored for MG by the National Poultry Improvement Plan (NPIP).
+- M. gallisepticum, M. synoviae and M. meleagridis have the ability to agglutinate turkey or chicken erythrocytes, a feature that is utilized in the hemagglutination-inhibition assay to detect antibodies to these agents.
+- *Epidemiology/ Transmission**
+- ● Transovarian: transmitted from breeder birds to offspring through egg ● Horizontal infection via infected aerosols ● “Chronic respiratory disease” of chickens is usually complicated by Escherichia coli infection, Newcastle disease virus or infectious bronchitis virus. ● MG alone produces mild lesions in chickens. MG can be a common inhabitant of the upper respiratory tract of clinically healthy birds.
+- *Clinical Signs** ● Adult laying hens: signs are rare, but include decreased egg production; decreased feed consumption and increased medication costs.
+- *Broiler chickens:** “Chronic respiratory disease” with coughing, sneezing (snicks), oculonasal discharge, poor feed conversion and air sac condemnations at processing.
+- ● **Turkey**: “Infectious sinusitis”; swelling of one or both infraorbital sinuses, with nasal exudate on wings and air sac condemnations at processing.
+- *Diagnosis** ● History, gross necropsy, histopathology, serum plate agglutination test, culture or polymerase chain reaction (trachea or sinus exudate). ● PCR has become the diagnostic test of choice and is available at a number of veterinary diagnostic labs.
+- *Treatment** ● Usually does not eliminate infection and does not prevent egg transmission of infection. Treatment with tylosin can reduce the clinical signs, but will not eliminate the infection.
+- *Prevention** ● Vaccination: administered to chickens only; vaccine can kill turkeys (F strain). ● A killed injectable (bacterin) or live spray vaccine is commercially available. ● Flock owners are encouraged to purchase chicks and poults from NPIP Mycoplasma certified-free breeder flocks.
+- *Anti microbial therapy**
+- Lyme disease
+- *Sheep diseases**
+- *Enterotoxemia in Sheep**
+- *Heartwater disease**
+- *Rift Valley Fiver**
+- *Diagnosis:**
+- *DDx**
+- *Prevention and Treatment:**
+- *Mange**
+- *Dermatophytosis Treatment**
+- *Paratuberculosis (**Johne’s disease)
+- *Cx**
+- *Dx**
+- *Tx and Vaccine**
+- Listeriosis
+- *Pathogenesis:**
+- *Diagnosis**
+- *DDx**
+- *Rx and control**
+- Zoonotic Risks:
+- *Clinical signs**
+- *Diagnosis and Treatment**
+- *Big head ( swollen head)**
+- Parasites
+- *Parturient Paresis in Cows**
+- *(Milk fever, Hypocalcemia)**
+- *Deficiencies / Nutritional diseases**
+- cobalamin (B12)
+- copper
+- iron
+- niacin
+- pyridoxine (B6)
+- riboflavin
+- vitamin E
+- *Dx**
+- *DDx**
+- *Rx**
+- *Hypokalemic myopathy**
+- *Other imp concepts:**
+- *Poultry**
+- *Avian encephalomyelitis**
+- *transmission**
+- Dx:
+- **Marek's disease**
+- *Cause:**
+- *Transmission**:
+- *Dx/Gross lesions/**
+- *Rx:**
+- *Rx:**
+- *Transmission**
+- *DDx**
+- *Epidemiology/ Transmission**
+- *Anti microbial therapy**

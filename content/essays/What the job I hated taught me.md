@@ -1,5 +1,5 @@
 ---
-date: 2026-09-26
+date: 2020-12-06
 description: I didn't choose veterinary medicine because I loved it. Here's how it became my career anyway, and what the path taught me.
 tags:
   - career
@@ -8,7 +8,7 @@ draft: false
 
 I never imagined I'd end up on a clinician's path. In my wildest dreams I didn't picture fracture repairs in racehorses and camels, arthroscopies, endurance and show events, diagnostic imaging and sports medicine. For a long time, veterinary medicine was the thing I liked least. It ended up being my career.
 
-This started as a note I wrote in Doha in 2020, while I waited for flights to resume. I've tidied it up, but the story is the same.
+I wrote this in Doha in December 2020, while I waited for flights to resume.
 
 ## A rough start
 
@@ -30,7 +30,7 @@ In early 2019 I spent time at an equine hospital in Oman with my friend Dr Waqar
 
 To keep improving, I also took part-time work at the government racecourse and at small animal clinics in Doha, building the skills I'd need for the ECFVG (the route for foreign vets to practise in the US). In mid-2019 I started a small private practice of my own. That practice turned into the idea for a company, Vetmor, and a way to bring Pakistani vets and assistants to work in the Middle East.
 
-Since then I've run my own ambulatory camel practice in Qatar, worked in clinics across the Gulf, and moved to a hospital in Abu Dhabi. I still work with horses and camels, and now wildlife too.
+*Update, 2026:* since I wrote this, I've run my own ambulatory camel practice in Qatar, worked in clinics across the Gulf, and moved to a hospital in Abu Dhabi. I still work with horses and camels, and now wildlife too.
 
 ## What it taught me
 

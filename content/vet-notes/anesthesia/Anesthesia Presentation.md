@@ -1,0 +1,105 @@
+---
+title: "Anesthesia Presentation"
+date: 2020-10-11
+---
+
+- **Anesthesia**
+- Can be defined as a reversible state of unconsciousness, produced by a controlled intoxication of the nervous system.
+- Starvation for up to 18 h pre-operatively is routine to reduce the risk of hypoxemia developing due to the effect of a full intestine on the diaphragm of an animal which is recumbent for a prolonged period.
+  - The aim of premedication [Anesthesia: premedication - overview](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-premedication-overview) is to provide good patient co-operation, reduced anxiety, smooth induction, provide analgesia and muscle relaxation, without excessive adverse cardiopulmonary effects. Many of the drugs used for premedication also reduce the requirements for intravenous and inhalational anesthetics.
+  - A combination of sedatives, tranquilizers and analgesics [Anesthesia: analgesia - overview](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-analgesia-overview) may be used alone or in combination.
+  - Induction [Anesthesia: induction - overview](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-induction-overview) is usually by administration of an intravenous agent. Drugs used for induction have a rapid onset and bypass the excitement phases of anesthesia.
+  - The aim of induction is a safe, smooth descent into unconsciousness with minimum movement by the horse.
+- **Hypoxemia**
+  - This is a major problem in equine anesthesia [Anesthesia: monitoring - respiratory management](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-monitoring-respiratory-management).
+  - Pressure of abdominal organs on the diaphragm → decreased lung volume compared with that of the conscious animal. Pre-operative starvation to decrease the volume of gastrointestinal contents is routine.
+- Premedication
+- **Phenothiazines -**ACP
+  - **Dose for premediaction**: 0.01-0.05 mg/kg (slow IV or IM).
+  - generalized depression of the CNS,
+  - Side-effects of ACP include arterial hypotension, unreliable sedative,Priapism -so contraindicates its use in breeding stallions, dehydration, reduced PCV,  splenic engorgement, It has an antihistamine effect and should not be used in horses undergoing allergy testing. ACP provides no analgesia, so as a premedicant it is usually combined with an agent with analgesic properties, eg butorphanol. In excited or frightened animals, the effect of acepromazine is greatly reduced and catecholamine-induced hypotension may occur after administration to these patients.
+- **Alpha-2 adrenergic agonists (xylaz, detomidine, Romifidine)**
+  - They produce profound and reliable sedation and the magnitude and duration are dose-dependent.
+    - All alpha-2 agonists provide good analgesia through binding and activation of central alpha-2 receptors. Analgesia appears to be synergistic with the opioids.
+    - All alpha-2 agonists provide good muscle relaxation (with the possible exception of romifidine).
+  - Cardiovascular side effects are profound:
+    - Peripheral vasoconstriction and subsequent period of hypertension.
+    - Arrythmias can occur most commonly second degree AV block
+  - Respiratory effects are mild but some depression does occur with minor changes in blood pH, PaCO2 and PaO2. However, relaxation of the alar folds and laryngeal muscles does occur and this can increase the risk of upper airway obstruction.
+  - **Alpha-2 agonists are antagonizable **with alpha-2 antagonists such as yohimbine and atipamezole; atipamezole has been used to successfully antagonize the effects of detomidine in horses.
+  - Xylaz
+  - ncontrolled excitement → collapse and convulsions. Can treat with an infusion of guaifenesin [Guaifenesin](https://www.vetstream.com/clinical-reference/equis/generics/Guaifenesin) to produce relaxation, diazepam [Diazepam](https://www.vetstream.com/clinical-reference/equis/generics/Diazepam) for the convulsions, oxygen to relieve respiratory depression and IV fluids to counteract hypotension.
+- **Benzodiazepines (Midazolam, Diazepam)**[["Benzodiazepines have moderate sedative properties as well as anti-convulsant activity."] ["Likely to produce excitement or panic, due to muscle relaxation, in the adult and therefore not recommended, but provides good sedation in foals."]]
+  - Antagonizable with flumazenil.
+- **Opioid agonists and mixed agonist-antagonists**
+  - These include morphine [Morphine](https://www.vetstream.com/clinical-reference/equis/generics/Morphine), a pure opioid agonist, butorphanol [Butorphanol](https://www.vetstream.com/clinical-reference/equis/generics/Butorphanol) and pentazocine [Pentazocine](https://www.vetstream.com/clinical-reference/equis/generics/Pentazocine), both mixed agonist-antagonists, and buprenorphine, a partial agonist.
+- **Induction**
+  - **Ketamine**
+    - Ketamine [Ketamine hydrochloride](https://www.vetstream.com/clinical-reference/equis/generics/Ketamine-hydrochloride) is a dissociative anesthetic which produces excitement when given as a sole agent, therefore xylazine [Xylazine](https://www.vetstream.com/clinical-reference/equis/generics/Xylazine) (1.1 mg/kg IV), romifidine [Romifidine](https://www.vetstream.com/clinical-reference/equis/generics/Romifidine)  (80-100 µg/kg IV) or detomidine [Detomidine hydrochloride](https://www.vetstream.com/clinical-reference/equis/generics/Detomidine-hydrochloride) (20 ug/kg IV) premedication are used to sedate the patient before administering the ketamine (2.2 mg/kg IV).
+    - The duration of anesthesia varies between 7 and 20 min
+- **Guaifenesin (glyceryl guaicol ether or GGE)**
+  - Guaifenesin [Guaifenesin](https://www.vetstream.com/clinical-reference/equis/generics/Guaifenesin) is a muscle relaxant.
+  - Although guaifenesin may have a sedative-like effect, it is not an anesthetic and so should not be used as a sole agent, but to smooth the transition from standing to recumbency.
+  - It has minimal cardiopulmonary effects when administered alone but relaxes pharyngeal and laryngeal musculature.
+  - Guaifenesin is usually obtained as a 5-10% solution or as a powder which may be dissolved in water or 5% dextrose solution. Administration at concentrations >10% is not recommended as intravascular hemolysis may result.
+- **Ketamine and guaifenesin**
+  - Guaifenesin [Guaifenesin](https://www.vetstream.com/clinical-reference/equis/generics/Guaifenesin) may be administered with ketamine [Ketamine hydrochloride](https://www.vetstream.com/clinical-reference/equis/generics/Ketamine-hydrochloride) to improve muscle relaxation after suitable premedication.
+  - Guaifenesin may be infused up to 55 mg/kg until the horse is ataxic and then ketamine at 1.7-2.2 mg/kg is administered as a bolus.
+- Monitoring
+  - Electrocardiography [Cardiovascular: ECG (electrocardiography)](https://www.vetstream.com/clinical-reference/equis/technique/Cardiovascular-ECG-(electrocardiography)) can give a guide as to the heart rate and produce an audible 'bleep' for each QRS complex detected.
+  - Machines display the ECG waveform visually.
+  - There is no substitute for the finger on the peripheral pulse, which can convey information about the heart rate, etc.
+- **Pulse oximetry** [Anesthesia: monitoring - respiratory management](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-monitoring-respiratory-management)
+  - Non-invasive measurement of hemoglobin saturation.
+  - Place probe on the tongue or lip.
+  - SpO2 goal is >95% if breathing 100% oxygen.
+- **Invasive and non-invasive blood pressure**  [Anesthesia: monitoring - cardiac output and blood pressure](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-monitoring-cardiac-output-and-blood-pressure) "In adult horses, the goal for MAP is between 60 and 70 mmHg." "Ideally need to maintain mean arterial pressure (MAP) of 60-80 mmHg. MAP less than 60 mmHg greatly increases the risk of underperfusing muscle masses resulting in anesthetic related myopathy/neuropathy. " "Diastolic pressure should be maintained above 40 mmHg to ensure adequate myocardial perfusion."
+  - Blood pressure can be measured non-invasively using oscillometry. Cuff widths should be 40-50% of the circumference of the limb or tail.
+  - Invasive blood pressure measurement requires the placement of an arterial catheter (facial artery, lateral metatarsal artery) and is associated with various risks. However, if performed correctly it is generally very safe and provides beat-by-beat information regarding blood pressure and facilitates serial arterial blood gas analysis.
+- **Arterial blood gas analysis** [Blood: gas analysis](https://www.vetstream.com/clinical-reference/equis/labtest/Blood-gas-analysis)
+  - Recommended if facilities and economics allow.
+  - Provides patient-side information about oxygen, carbon dioxide and pH.
+  - Facilitates accurate interventional therapy.
+- **Respiration monitors**[["The rate and nature of the respiration may be monitored by observing the movements of the animal's chest and the reservoir bag in the anesthetic circuit   " "[Anesthesia: machines - overview](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-machines-overview)" "  ."] ["Simple respiration monitors   " "[Anesthesia: monitoring - respiratory management](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-monitoring-respiratory-management)" "  and apnoea alarms are available, which emit an audible 'beep' for each breath."] ["Capnometers or capnographs usually indicate rate and the latter displays a graph of carbon dioxide exhalation. The pattern of carbon dioxide production can be diagnostic in certain conditions, eg rebreathing. End tidal carbon dioxide (ETCO2) is closely related to PaCO2 in the normal lung; maintain ETCO2 between 40 and 65 mmHg in the anesthetized horse."]]
+  - Arterial pressure can be measured invasively by catheterizing a peripheral artery   [Cardiovascular: arterial catheterization](https://www.vetstream.com/clinical-reference/equis/freeform/Cardiovascular-arterial-catheterization)  (commonly facial, transverse facial or dorsal metatarsal) and using a pressure transducer or anaeroid manometer. Alternatively indirect (non-invasive) measurement using a pressure cuff and Doppler ultrasound can be performed.
+  - Digital palpation of the pulse   [Cardiovascular: arterial pulse palpation](https://www.vetstream.com/clinical-reference/equis/technique/Cardiovascular-arterial-pulse-palpation)  is useful and easily done. This allows appreciation of heart rate and rhythm and indicates the systolic/diastolic pressure difference. A rough idea of arterial pressure can be gained by the ease with which the pulse can be manually occluded in the vessel.
+  - Mucous membrane color will give an idea of adequacy of peripheral perfusion.
+  - Capillary refill time is an extremely unreliable guide to cardiovascular status.
+  - Consider intravenous fluid therapy   [Fluid therapy: overview](https://www.vetstream.com/clinical-reference/equis/freeform/Fluid-therapy-overview)  to support the cardiovascular system during anesthesia.
+  - Use of IPPV can also contribute to hypotension.
+  - ncreased heart rates during maintenance of anesthesia can indicate a light anesthetic plane, low concentration of oxygen in the blood, raised concentration of carbon dioxide, hypovolemia or circulatory shock.
+- **Temperature**
+  - Mainly of value in foals and in sick, hypovolemic or shocked adults.
+  - A clinical thermometer placed in the rectum is usually adequate although many multiparameter monitors are equipped with esophageal probes.
+- **Respiratory gas analyzers**
+  - Most will measure the concentrations of several gases, including oxygen, carbon dioxide, nitrous oxide and the gaseous anesthetics. These are usually combined with capnography.
+- **Blood gas analyzers**
+  - Blood gas analyzers can measure arterial oxygen and carbon dioxide levels and the pH.
+  - Many also calculate the acid-base status.
+  - **Summary of Monitoring**
+    - This takes on a great importance in equine anesthesia   [Anesthesia: monitoring - overview](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-monitoring-overview)  .
+    - Quality of respiration (rate, depth and rhythm) should be continually monitored   [Anesthesia: monitoring - respiratory management](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-monitoring-respiratory-management)  .
+    - Digital palpation of the pulse should be regularly carried out, note being taken of both the rate and quality   [Anesthesia: monitoring - heart](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-monitoring-heart)  .
+    - The capillary refill time and color of mucus membranes can give a good guide to the state of peripheral tissue perfusion.
+    - Ocular signs, such as the position of the eye, palpebral reflex, sponteneous blinking, and the presence or absence of nystagmus can all be useful, but some variation is seen with different anesthetic agents and at different stages of the procedure.
+  - The palpebral reflex can fatigue if too frequently tested, eg when the horse is in lateral recumbency the upper eye may have reduced response to stimulation, whereas the lower (unstimulated) eye will respond vigorously.
+    - Anal reflex can be monitored, but is somewhat unreliable as an indicator of depth.
+    - Response to stimulation can be observed.
+    - Blood pressure may be monitored either directly (by catheterizing the facial, transverse facial or greater metatarsal arteries and using an aneroid manometer and pressure veil, or more sophisticated transducer/amplifier/recorder systems), or indirectly (using an inflatable cuff and Doppler ultrasound, or oscillometric monitors, eg Critikon-Dinamap)   [Anesthesia: monitoring - cardiac output and blood pressure](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-monitoring-cardiac-output-and-blood-pressure)  .
+    - Electrocardiography (ECG)   [Cardiovascular: ECG (electrocardiography)](https://www.vetstream.com/clinical-reference/equis/technique/Cardiovascular-ECG-(electrocardiography))  .
+    - Blood gas analysis   [Blood: gas analysis](https://www.vetstream.com/clinical-reference/equis/labtest/Blood-gas-analysis)  .
+    - End-tidal carbon dioxide levels (capnography).
+    - Pulse oximetry.
+- **Recovery**
+  - For smooth anesthetic recovery   [Anesthesia: recovery - overview](https://www.vetstream.com/clinical-reference/equis/freeform/Anesthesia-recovery-overview)  , the horse should be stimulated as little as possible.
+  - Most of the characteristics for a good recovery area are similar to those for an induction area.
+  - Sedating with a small dose of an alpha-2 agonist may encourage the horse to remain recumbent for longer and thus eliminate more of the inhalational agent before attempting to recover to the standing position. Fast recoveries are not necessarily good recoveries.
+  - There should be enough space in front of the horse to allow movement forward during attempts to stand.
+  - Oxygen supplementation during the recovery period may be of some value, especially in those individuals suffering from nasal edema and partial upper airway obstruction, where a nasotracheal or nasopharyngeal tube may be used to administer oxygen. It can be taped in place for the period of recovery.
+  - Alternatively, the endotracheal tube can be secured to the interdental space and left *in situ* until the horse is standing, and oxygen can be insufflated through it. However, the insufflation of oxygen at the rates possible from flowmeters, fails to match peak inspiratory flow in an adult horse; the benefits are therefore contentious.
+  - Provide a minimum of 15 l/min for an adult horse by insufflation.
+  - Do not remove the endotracheal tube until the horse swallows spontaneously. Use a mouth speculum to prevent biting of the tube.
+  - If signs of excitement are demonstrated, additional sedation, eg 0.1 mg/kg xylazine   [Xylazine](https://www.vetstream.com/clinical-reference/equis/generics/Xylazine)  IV, may be administered.
+  - **Hypoxemia-**Oxygen may be administered via the nasotracheal tube if hypoxemia is suspected.
+  - **Post-anesthetic myoneuropathy --Signs**: include muscle fasciculations, rigidity, distress, pain inability to rise and lameness or stiffness on gaining the feet.Palpation of affected muscle groups (frequently triceps or gluteals, depending on positioning during surgery) may reveal hard, swollen muscles.
+  - **Treatment**: is symptomatic, with non-steroidal anti-inflammatories (NSAIDs) and opiates to treat the pain, sedatives to help in nursing and in severe cases diuresis using intravenous crystalloids
