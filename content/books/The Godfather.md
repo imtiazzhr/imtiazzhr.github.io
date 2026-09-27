@@ -3,7 +3,7 @@ title: "The Godfather"
 author: "Mario Puzo"
 year: 1969
 genre: "Novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/the-godfather.jpg"
 goodreads: "https://www.goodreads.com/book/show/22034.The_Godfather"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-godfather.jpg|170]]
 
 **Mario Puzo** · 1969 · Novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 The Godfather follows the Corleones, one of the most powerful Mafia families in New York in the years after the Second World War. The family's head, Don Vito Corleone, rules through favours, loyalty and the quiet threat of violence, and sees himself as a protector of those who come to him for justice. His youngest son, Michael, a decorated war veteran, wants nothing to do with the family business.
 

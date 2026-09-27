@@ -3,7 +3,7 @@ title: "In an Instant"
 author: "Suzanne Redfearn"
 year: 2020
 genre: "Novel"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/in-an-instant.jpg"
 goodreads: "https://www.goodreads.com/book/show/51037979-in-an-instant"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[in-an-instant.jpg|170]]
 
 **Suzanne Redfearn** · 2020 · Novel
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Sixteen-year-old Finn Miller is heading to the mountains for a snowy ski weekend with her family, her best friend Mo, neighbours and a young man they stopped to help. Their overloaded camper goes off the road and tumbles down the mountainside, and Finn dies at once. Suspended between worlds, she watches the survivors fight the freezing cold and then struggle to live with what happened.
 

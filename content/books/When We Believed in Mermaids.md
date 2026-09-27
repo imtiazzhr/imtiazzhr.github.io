@@ -3,7 +3,7 @@ title: "When We Believed in Mermaids"
 author: "Barbara O'Neal"
 year: 2019
 genre: "Novel"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/when-we-believed-in-mermaids.jpg"
 goodreads: "https://www.goodreads.com/book/show/43717362-when-we-believed-in-mermaids"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[when-we-believed-in-mermaids.jpg|170]]
 
 **Barbara O'Neal** · 2019 · Novel
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 When We Believed in Mermaids is a family drama about two sisters and a secret. Kit, an emergency room doctor in Santa Cruz, has spent fifteen years grieving her sister Josie, who was believed killed in a terrorist attack on a train. Then Kit glimpses a woman who looks like Josie in news footage of a nightclub fire in Auckland, and she travels to New Zealand to find the truth.
 

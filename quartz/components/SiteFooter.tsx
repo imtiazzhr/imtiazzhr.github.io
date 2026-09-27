@@ -10,7 +10,7 @@ const SOCIAL: [label: string, href: string][] = [
 ]
 const TOPICS: [label: string, href: string][] = [
   ["Essays", "/essays/"],
-  ["Articles", "/articles/"],
+  ["Books", "/books/"],
   ["Vet notes", "/vet-notes/"],
   ["Horses", "/tags/horses"],
   ["Camels", "/vet-notes/species/camel-diseases"],
@@ -19,7 +19,7 @@ const TOPICS: [label: string, href: string][] = [
   ["Falcons", "/tags/falcons"],
   ["Anesthesia", "/vet-notes/anesthesia/"],
   ["Diagnostics", "/vet-notes/diagnostics/"],
-  ["Licensing exams", "/vet-notes/exams/"],
+  ["Exams & licensing", "/vet-notes/exams/"],
 ]
 // Paste an email-newsletter form address here (e.g. Buttondown or Substack) to show a sign-up box
 const NEWSLETTER_FORM_ACTION = ""
@@ -42,7 +42,10 @@ function SiteFooter({ displayClass }: QuartzComponentProps) {
       <div class="sf-block">
         <p class="sf-title">Receive my updates</p>
         <p>
-          Follow me via <a href="/index.xml">RSS</a>
+          Follow me via{" "}
+          <a href="/index.xml" data-router-ignore>
+            RSS
+          </a>
           {follow.map(([label, href]) => (
             <span>
               , <a href={href} target="_blank" rel="me noopener noreferrer">{label}</a>

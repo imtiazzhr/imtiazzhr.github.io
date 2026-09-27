@@ -3,7 +3,7 @@ title: "The Most Fun We Ever Had"
 author: "Claire Lombardo"
 year: 2019
 genre: "Novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/the-most-fun-we-ever-had.jpg"
 goodreads: "https://www.goodreads.com/book/show/41880044-the-most-fun-we-ever-had"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-most-fun-we-ever-had.jpg|170]]
 
 **Claire Lombardo** · 2019 · Novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Claire Lombardo's debut novel follows the Sorensons, a family in the Chicago area. David and Marilyn fell in love in the 1970s and remain devoted to each other, a marriage their four adult daughters both admire and resent. By 2016, each daughter is unsettled. Wendy, widowed young, is drinking and drifting; Violet, a lawyer turned stay-at-home mother, battles anxiety; Liza, a newly tenured academic, faces an unplanned pregnancy; and Grace, the youngest, is hiding the truth about her life.
 

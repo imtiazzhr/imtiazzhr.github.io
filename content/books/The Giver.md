@@ -3,7 +3,7 @@ title: "The Giver"
 author: "Lois Lowry"
 year: 1993
 genre: "Children's novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/the-giver.jpg"
 goodreads: "https://www.goodreads.com/book/show/3636.The_Giver"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-giver.jpg|170]]
 
 **Lois Lowry** · 1993 · Children's novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 The Giver is set in a Community that appears ideal. There is no crime, hunger or conflict. Families, spouses and careers are assigned, language is kept precise, and life follows strict rules designed to remove pain and uncertainty. Jonas, about to turn twelve, waits to learn what role he will be given.
 

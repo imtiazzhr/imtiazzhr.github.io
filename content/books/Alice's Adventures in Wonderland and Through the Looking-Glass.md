@@ -3,7 +3,7 @@ title: "Alice's Adventures in Wonderland and Through the Looking-Glass"
 author: "Lewis Carroll"
 year: 1865
 genre: "Children's novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/alice-s-adventures-in-wonderland-and-through-the-looking-glass.jpg"
 goodreads: "https://www.goodreads.com/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[alice-s-adventures-in-wonderland-and-through-the-looking-glass.jpg|170]]
 
 **Lewis Carroll** · 1865 · Children's novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 This volume brings together Lewis Carroll's two Alice books. In the first, published in 1865, a bored Alice follows a White Rabbit down a hole into Wonderland, where she keeps growing and shrinking and meets the Caterpillar, the Cheshire Cat, the Mad Hatter and the furious Queen of Hearts. In the sequel, published in 1871, she climbs through a mirror into a world laid out like a chessboard and crosses it as a pawn, meeting Tweedledum and Tweedledee, Humpty Dumpty and the White Knight.
 

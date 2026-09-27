@@ -3,7 +3,7 @@ title: "Becoming"
 author: "Michelle Obama"
 year: 2018
 genre: "Memoir"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/becoming.jpg"
 goodreads: "https://www.goodreads.com/book/show/38746485-becoming"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[becoming.jpg|170]]
 
 **Michelle Obama** · 2018 · Memoir
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Michelle Obama's memoir is divided into three parts, tracing her own development, her partnership with Barack Obama and her public life. She grew up in a small upstairs flat on Chicago's South Side in a close-knit family, while her father kept working for years despite multiple sclerosis. She went on to Princeton and Harvard Law School, then joined a corporate law firm, where she was asked to mentor a summer associate named Barack Obama.
 

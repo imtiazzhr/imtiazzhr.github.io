@@ -1,6 +1,8 @@
 ---
 date: 2024-01-14
 description: The practical version of my planning system. Goals, 12-week cycles, projects and one weekly page, with a rule of three at every level.
+aliases:
+  - articles/how-i-plan-my-work-in-12-week-cycles
 tags:
   - planning
   - obsidian

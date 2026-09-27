@@ -4,7 +4,7 @@ subtitle: "A True Story of Murder, Family Secrets, and the Unbreakable Bond of S
 author: "Gregg Olsen"
 year: 2019
 genre: "True crime"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/if-you-tell.jpg"
 goodreads: "https://www.goodreads.com/book/show/45299992-if-you-tell"
 tags:
@@ -17,7 +17,7 @@ tags:
 *A True Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood*
 
 **Gregg Olsen** · 2019 · True crime
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 If You Tell is a true crime account of the Knotek sisters, Nikki, Sami and Tori, who grew up in Raymond, a small town in Washington State. Behind closed doors, their mother, Shelly Knotek, subjected them to years of cruel, degrading abuse, with the involvement of her husband, Dave. Her control extended to other vulnerable people who came to live in the house, and three of them died.
 

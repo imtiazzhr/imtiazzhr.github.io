@@ -3,7 +3,7 @@ title: "The Richest Man In Babylon"
 author: "George S. Clason"
 year: 1926
 genre: "Personal finance"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/the-richest-man-in-babylon.jpg"
 goodreads: "https://www.goodreads.com/book/show/55930159-the-richest-man-in-babylon"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-richest-man-in-babylon.jpg|170]]
 
 **George S. Clason** · 1926 · Personal finance
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 George S. Clason began writing parables set in ancient Babylon in the 1920s, and banks and insurance companies distributed them as pamphlets to teach basic money habits. Collected as a book, they remain popular for their simple, memorable lessons.
 

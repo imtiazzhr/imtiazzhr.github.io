@@ -3,7 +3,7 @@ title: "The Importance of Being Earnest"
 author: "Oscar Wilde"
 year: 1895
 genre: "Play"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/the-importance-of-being-earnest.jpg"
 goodreads: "https://www.goodreads.com/book/show/92303.The_Importance_of_Being_Earnest"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-importance-of-being-earnest.jpg|170]]
 
 **Oscar Wilde** · 1895 · Play
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 The Importance of Being Earnest is a comic play, first staged in London in 1895, which Oscar Wilde subtitled 'A Trivial Comedy for Serious People'. Jack Worthing lives a respectable life in the country but escapes to London by pretending to be his invented wayward brother, Ernest. His friend Algernon Moncrieff has a similar trick: an imaginary sick friend called Bunbury who gets him out of dull social duties.
 

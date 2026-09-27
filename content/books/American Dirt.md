@@ -3,7 +3,7 @@ title: "American Dirt"
 author: "Jeanine Cummins"
 year: 2020
 genre: "Novel"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/american-dirt.jpg"
 goodreads: "https://www.goodreads.com/book/show/50634450-american-dirt"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[american-dirt.jpg|170]]
 
 **Jeanine Cummins** · 2020 · Novel
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Lydia runs a bookshop in Acapulco and lives a comfortable life with her journalist husband and their eight-year-old son, Luca. A charming customer who shares her love of books turns out to be the leader of a powerful drug cartel. After her husband publishes a profile exposing him, gunmen murder much of her extended family at a party, and only Lydia and Luca survive.
 

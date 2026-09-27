@@ -4,7 +4,7 @@ subtitle: "Science as a Candle in the Dark"
 author: "Carl Sagan"
 year: 1995
 genre: "Science"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/the-demon-haunted-world.jpg"
 goodreads: "https://www.goodreads.com/book/show/12513560-the-demon-haunted-world"
 tags:
@@ -17,7 +17,7 @@ tags:
 *Science as a Candle in the Dark*
 
 **Carl Sagan** · 1995 · Science
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Carl Sagan argues that science is our best tool for separating truth from wishful thinking, and that a society which loses the habit of sceptical inquiry becomes easy to mislead. He examines popular beliefs of the 1990s, including alien abductions, a supposed face on Mars, faith healing and recovered memories of abuse, and sets them beside the witch hunts of earlier centuries.
 

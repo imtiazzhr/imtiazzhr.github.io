@@ -4,7 +4,7 @@ subtitle: "Being Human in the Age of Artificial Intelligence"
 author: "Max Tegmark"
 year: 2017
 genre: "Technology"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/life-3-0.jpg"
 goodreads: "https://www.goodreads.com/book/show/34274957-life-3-0"
 tags:
@@ -17,7 +17,7 @@ tags:
 *Being Human in the Age of Artificial Intelligence*
 
 **Max Tegmark** · 2017 · Technology
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Life 3.0 is physicist Max Tegmark's guide to the debate about artificial intelligence and its long-term consequences. He frames the history of life in three stages: Life 1.0, whose hardware and software are shaped by evolution; Life 2.0, such as humans, who can learn and redesign much of their own software; and Life 3.0, which could redesign both its software and its hardware.
 

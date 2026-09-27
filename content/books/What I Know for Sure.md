@@ -3,7 +3,7 @@ title: "What I Know for Sure"
 author: "Oprah Winfrey"
 year: 2014
 genre: "Essays"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/what-i-know-for-sure.jpg"
 goodreads: "https://www.goodreads.com/book/show/21531503-what-i-know-for-sure"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[what-i-know-for-sure.jpg|170]]
 
 **Oprah Winfrey** · 2014 · Essays
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 This book gathers short essays from the monthly column Oprah Winfrey wrote for O, The Oprah Magazine over fourteen years, revised and collected in one volume. The column's name came from a question the film critic Gene Siskel once asked her about what she knew for certain. The pieces are grouped into eight themes: joy, resilience, connection, gratitude, possibility, awe, clarity and power.
 

@@ -3,7 +3,7 @@ title: "Wonder"
 author: "R.J. Palacio"
 year: 2012
 genre: "Children's novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/wonder.jpg"
 goodreads: "https://www.goodreads.com/book/show/11387515-wonder"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[wonder.jpg|170]]
 
 **R.J. Palacio** · 2012 · Children's novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 August Pullman, known as Auggie, is a ten-year-old New Yorker born with a severe facial difference. After years of surgeries and home-schooling, he starts fifth grade at a private school, where other children stare, whisper and sometimes bully him. The novel follows his first year there as he makes friends, faces cruelty and tries to be treated like any other kid.
 

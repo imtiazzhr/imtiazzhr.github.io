@@ -3,7 +3,7 @@ title: "The Fault in Our Stars"
 author: "John Green"
 year: 2012
 genre: "Young adult novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/the-fault-in-our-stars.jpg"
 goodreads: "https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-fault-in-our-stars.jpg|170]]
 
 **John Green** · 2012 · Young adult novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Sixteen-year-old Hazel Grace Lancaster has cancer that has spread to her lungs. An experimental drug has bought her time, but she carries an oxygen tank everywhere and has few illusions about her future. At a support group her mother insists she attend, she meets Augustus Waters, a charming seventeen-year-old who lost a leg to bone cancer.
 

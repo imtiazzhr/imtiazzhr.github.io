@@ -4,7 +4,7 @@ subtitle: "An Easy & Proven Way to Build Good Habits & Break Bad Ones"
 author: "James Clear"
 year: 2018
 genre: "Productivity"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/atomic-habits.jpg"
 goodreads: "https://www.goodreads.com/book/show/40121378-atomic-habits"
 tags:
@@ -17,7 +17,7 @@ tags:
 *An Easy & Proven Way to Build Good Habits & Break Bad Ones*
 
 **James Clear** · 2018 · Productivity
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 James Clear argues that lasting change comes from small habits compounding over time rather than from dramatic goals or bursts of motivation. Getting slightly better each day can add up to large results, although progress often stays invisible for a while before it shows. He recommends focusing on systems rather than goals, and on identity rather than outcomes, since each habit acts as a vote for the kind of person you want to become.
 

@@ -3,7 +3,7 @@ title: "The Art Spirit"
 author: "Robert Henri"
 year: 1923
 genre: "Art"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/the-art-spirit.jpg"
 goodreads: "https://www.goodreads.com/book/show/55141843-the-art-spirit"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-art-spirit.jpg|170]]
 
 **Robert Henri** · 1923 · Art
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 The Art Spirit gathers the teaching notes, letters and talks of Robert Henri, an American painter and influential teacher of the early twentieth century. The material was compiled by his former student Margery Ryerson and reads as a series of short reflections rather than a structured manual.
 

@@ -1,6 +1,6 @@
 ---
 title: Essays
-description: Personal essays by Imtiaz Zahoor.
+description: Essays and practical guides by Imtiaz Zahoor.
 ---
 
-Longer personal pieces: what I think and why.
+Personal essays and a few practical guides: what I think and why, and how I do things.

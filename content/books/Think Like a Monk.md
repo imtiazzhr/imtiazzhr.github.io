@@ -4,7 +4,7 @@ subtitle: "Train Your Mind for Peace and Purpose Everyday"
 author: "Jay Shetty"
 year: 2020
 genre: "Self-help"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/think-like-a-monk.jpg"
 goodreads: "https://www.goodreads.com/book/show/50758250-think-like-a-monk"
 tags:
@@ -17,7 +17,7 @@ tags:
 *Train Your Mind for Peace and Purpose Everyday*
 
 **Jay Shetty** · 2020 · Self-help
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Jay Shetty spent three years living as a Hindu monk before returning to ordinary life and building a career as a podcaster and coach. In this book he adapts what he learned, drawing largely on Vedic teachings such as the Bhagavad Gita, for people with jobs, families and busy schedules.
 

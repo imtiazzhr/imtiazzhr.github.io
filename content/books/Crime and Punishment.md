@@ -3,7 +3,7 @@ title: "Crime and Punishment"
 author: "Fyodor Dostoevsky"
 year: 1866
 genre: "Classic novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/crime-and-punishment.jpg"
 goodreads: "https://www.goodreads.com/book/show/7144.Crime_and_Punishment"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[crime-and-punishment.jpg|170]]
 
 **Fyodor Dostoevsky** · 1866 · Classic novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Rodion Raskolnikov, a proud and penniless former student in St Petersburg, has persuaded himself that exceptional people may break moral rules in the service of a greater good. To test the idea, he murders an elderly pawnbroker he considers harmful and worthless, and then, in panic, kills her sister as well. The crime happens early; the novel is about what follows.
 

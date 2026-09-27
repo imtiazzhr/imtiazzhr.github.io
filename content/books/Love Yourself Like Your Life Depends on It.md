@@ -3,7 +3,7 @@ title: "Love Yourself Like Your Life Depends on It"
 author: "Kamal Ravikant"
 year: 2012
 genre: "Self-help"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/love-yourself-like-your-life-depends-on-it.jpg"
 goodreads: "https://www.goodreads.com/book/show/52846633-love-yourself-like-your-life-depends-on-it"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[love-yourself-like-your-life-depends-on-it.jpg|170]]
 
 **Kamal Ravikant** · 2012 · Self-help
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Kamal Ravikant wrote this short book after a period of illness, grief and professional failure left him at a low point. He made a private vow to love himself and describes the simple practices that helped him recover.
 

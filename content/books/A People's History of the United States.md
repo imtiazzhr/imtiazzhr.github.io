@@ -3,7 +3,7 @@ title: "A People's History of the United States"
 author: "Howard Zinn"
 year: 1980
 genre: "History"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/a-people-s-history-of-the-united-states.jpg"
 goodreads: "https://www.goodreads.com/book/show/37761175-a-people-s-history-of-the-united-states"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[a-people-s-history-of-the-united-states.jpg|170]]
 
 **Howard Zinn** · 1980 · History
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 A People's History of the United States retells American history from the viewpoint of people often left out of textbooks: Indigenous Americans, enslaved Africans, women, industrial workers, immigrants, soldiers and protesters. Howard Zinn begins with Christopher Columbus's arrival in the Caribbean and continues through slavery, the Revolution, westward expansion, the labour movement, the world wars, civil rights and Vietnam, with later editions reaching into the twenty-first century.
 

@@ -4,7 +4,7 @@ subtitle: "An Antidote to Chaos"
 author: "Jordan B. Peterson"
 year: 2018
 genre: "Self-help"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/12-rules-for-life.jpg"
 goodreads: "https://www.goodreads.com/book/show/33792742-12-rules-for-life"
 tags:
@@ -17,7 +17,7 @@ tags:
 *An Antidote to Chaos*
 
 **Jordan B. Peterson** · 2018 · Self-help
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Jordan Peterson, a clinical psychologist, offers twelve rules for living a meaningful life in a world he sees as a constant tension between order and chaos. Too much order becomes rigid and oppressive; too much chaos leaves people lost and anxious. His answer is voluntary responsibility: facing life's suffering directly and taking on burdens that give it purpose.
 

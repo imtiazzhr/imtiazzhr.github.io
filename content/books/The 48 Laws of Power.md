@@ -3,7 +3,7 @@ title: "The 48 Laws of Power"
 author: "Robert Greene"
 year: 1998
 genre: "Strategy"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/the-48-laws-of-power.jpg"
 goodreads: "https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-48-laws-of-power.jpg|170]]
 
 **Robert Greene** · 1998 · Strategy
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Robert Greene distils thousands of years of political intrigue, court life, warfare and confidence tricks into forty-eight rules for gaining and keeping power. Each law is illustrated with historical stories, from the courts of French kings and Renaissance Italy to ancient China and twentieth-century con artists, showing people who followed the law and people who paid for ignoring it. Most chapters also explain when reversing the law makes more sense.
 

@@ -3,7 +3,7 @@ title: "Islam: A Concise Introduction"
 author: "Javed Ahmad Ghamidi"
 year: 2009
 genre: "Religion"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/islam-a-concise-introduction.jpg"
 goodreads: "https://www.goodreads.com/book/show/21150113-islam"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[islam-a-concise-introduction.jpg|170]]
 
 **Javed Ahmad Ghamidi** · 2009 · Religion
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Javed Ahmad Ghamidi, a Pakistani scholar of the Quran and Islamic law, wrote this work in Urdu as a condensed version of Mizan, his longer treatise on the contents of Islam. Shehzad Saleem translated it into English. It presents his conclusions plainly, leaving out most of the technical argument behind them.
 

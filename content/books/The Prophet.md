@@ -3,7 +3,7 @@ title: "The Prophet"
 author: "Kahlil Gibran"
 year: 1923
 genre: "Poetry"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/the-prophet.jpg"
 goodreads: "https://www.goodreads.com/book/show/2547.The_Prophet"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-prophet.jpg|170]]
 
 **Kahlil Gibran** · 1923 · Poetry
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 The Prophet is a short book of poetic essays. Its frame is simple: a wise man named Almustafa has lived for twelve years in the city of Orphalese and is about to board the ship that will take him home. Before he leaves, the townspeople ask him to share his wisdom, and he speaks in turn on love, marriage, children, giving, work, joy and sorrow, freedom, pain, self-knowledge, friendship, prayer, beauty, death and other subjects.
 

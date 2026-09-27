@@ -25,7 +25,7 @@ I'm fuelled by coffee, curiosity and a love for deep conversations.
 
 ## Why this site
 
-For years I've told myself I would write more. This is me finally doing it. You'll find [[essays/index|essays]] on work and life, practical [[articles/index|articles]], and my [[vet-notes/index|clinical notes]], all linked together the way I keep them in my own notes.
+For years I've told myself I would write more. This is me finally doing it. You'll find [[essays/index|essays]] on work and life, a few practical guides, and my [[vet-notes/index|clinical notes]], all linked together the way I keep them in my own notes.
 
 If something here helps you, or you think I've got something wrong, I'd like to hear about it.
 

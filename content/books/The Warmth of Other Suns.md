@@ -4,7 +4,7 @@ subtitle: "The Epic Story of America's Great Migration"
 author: "Isabel Wilkerson"
 year: 2010
 genre: "History"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/the-warmth-of-other-suns.jpg"
 goodreads: "https://www.goodreads.com/book/show/8171378-the-warmth-of-other-suns"
 tags:
@@ -17,7 +17,7 @@ tags:
 *The Epic Story of America's Great Migration*
 
 **Isabel Wilkerson** · 2010 · History
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Isabel Wilkerson tells the story of the Great Migration, the movement of roughly six million Black Americans out of the South between 1915 and 1970. She presents it not as a routine economic shift but as a flight from the Jim Crow caste system, closer to an immigrant story than to ordinary internal migration.
 

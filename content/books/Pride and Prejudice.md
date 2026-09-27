@@ -3,7 +3,7 @@ title: "Pride and Prejudice"
 author: "Jane Austen"
 year: 1813
 genre: "Classic novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/pride-and-prejudice.jpg"
 goodreads: "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[pride-and-prejudice.jpg|170]]
 
 **Jane Austen** · 1813 · Classic novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 The Bennets have five daughters and no son, so their home will pass to a distant cousin, and good marriages matter. When wealthy Mr Bingley takes a nearby estate, he is quickly drawn to Jane, the eldest. His friend Mr Darcy, who is even richer, seems cold and proud, and he slights the lively second daughter, Elizabeth, at a local ball.
 

@@ -4,7 +4,7 @@ subtitle: "Notes on Startups, or How to Build the Future"
 author: "Peter Thiel"
 year: 2014
 genre: "Business"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/zero-to-one.jpg"
 goodreads: "https://www.goodreads.com/book/show/18050143-zero-to-one"
 tags:
@@ -17,7 +17,7 @@ tags:
 *Notes on Startups, or How to Build the Future*
 
 **Peter Thiel** · 2014 · Business
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Based on a course Peter Thiel taught at Stanford and written with Blake Masters, Zero to One argues that real progress comes from creating something new, going from zero to one, rather than copying what already works, going from one to n. Thiel believes the future will not improve by itself, so founders need a definite plan and the confidence to think for themselves.
 

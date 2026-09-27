@@ -4,7 +4,7 @@ subtitle: "How to Create Your Business Culture"
 author: "Ben Horowitz"
 year: 2019
 genre: "Business"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/what-you-do-is-who-you-are.jpg"
 goodreads: "https://www.goodreads.com/book/show/44797779-what-you-do-is-who-you-are"
 tags:
@@ -17,7 +17,7 @@ tags:
 *How to Create Your Business Culture*
 
 **Ben Horowitz** · 2019 · Business
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Ben Horowitz, co-founder of the venture firm Andreessen Horowitz, argues that culture is not a list of values on a wall. It is the set of behaviours that guide how people act and decide when no manager is watching. A company's culture is defined by what its people actually do, starting with its leaders.
 

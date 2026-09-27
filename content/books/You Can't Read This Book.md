@@ -4,7 +4,7 @@ subtitle: "Censorship in an Age of Freedom"
 author: "Nick Cohen"
 year: 2012
 genre: "Politics"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/you-can-t-read-this-book.jpg"
 goodreads: "https://www.goodreads.com/book/show/13490346-you-can-t-read-this-book"
 tags:
@@ -17,7 +17,7 @@ tags:
 *Censorship in an Age of Freedom*
 
 **Nick Cohen** · 2012 · Politics
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 The British journalist Nick Cohen argues that censorship did not disappear with the internet and the spread of liberal democracy. It changed shape. He identifies three main forces that silence people: religious intimidation, the power of money, and the reach of the state.
 

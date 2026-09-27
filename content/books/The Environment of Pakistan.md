@@ -3,7 +3,7 @@ title: "The Environment of Pakistan"
 author: "Huma Naz Sethi"
 year: 2003
 genre: "Geography"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/the-environment-of-pakistan.png"
 goodreads: "https://www.goodreads.com/book/show/8231179-the-environment-of-pakistan"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-environment-of-pakistan.png|170]]
 
 **Huma Naz Sethi** · 2003 · Geography
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 This is a school textbook by Huma Naz Sethi, written for the Cambridge O Level Pakistan Studies course, specifically the paper on the geography and environment of Pakistan. It surveys the country's physical landscape, from its mountain ranges to the plains of the Indus, along with its climate, water resources and natural resources such as forests, minerals and energy. It also covers agriculture, industry, transport, population and environmental problems.
 

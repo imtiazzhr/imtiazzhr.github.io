@@ -3,7 +3,7 @@ title: "Catch-22"
 author: "Joseph Heller"
 year: 1961
 genre: "Classic novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/catch-22.jpg"
 goodreads: "https://www.goodreads.com/book/show/168668.Catch_22"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[catch-22.jpg|170]]
 
 **Joseph Heller** · 1961 · Classic novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Catch-22 is a satirical novel set on a small island off the Italian coast during the Second World War. Captain John Yossarian, a bombardier in an American air squadron, has one overriding aim: to stay alive. His superiors keep raising the number of combat missions the men must fly before they can go home, and his attempts to escape run into circular military logic.
 

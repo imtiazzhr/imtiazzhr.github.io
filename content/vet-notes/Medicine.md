@@ -1,5 +1,5 @@
 ---
-title: "Medicine"
+title: "Vet medicine"
 date: 2020-10-11
 ---
 

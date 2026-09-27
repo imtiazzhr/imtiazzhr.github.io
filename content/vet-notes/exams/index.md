@@ -1,5 +1,5 @@
 ---
-title: "Exams and licensing"
+title: "Exams & licensing"
 description: "Notes for the UAE and Qatar vet licensing exams, and for new interns."
 ---
 

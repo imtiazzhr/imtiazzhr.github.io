@@ -3,7 +3,7 @@ title: "Normal People"
 author: "Sally Rooney"
 year: 2018
 genre: "Novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/normal-people.jpg"
 goodreads: "https://www.goodreads.com/book/show/41057294-normal-people"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[normal-people.jpg|170]]
 
 **Sally Rooney** · 2018 · Novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Connell and Marianne grow up in the same small town in County Sligo, in the west of Ireland. At school, Connell is popular and quietly clever, while Marianne is sharp, wealthy and friendless. Connell's mother cleans for Marianne's family, and the two begin an intense relationship that Connell keeps hidden from his friends.
 

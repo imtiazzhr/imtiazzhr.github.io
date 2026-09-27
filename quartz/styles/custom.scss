@@ -56,53 +56,88 @@ body[data-slug="index"] .center > hr {
   display: none;
 }
 
+// Home page colours: warm hairlines and small blue labels, after Andy Matuschak's home page
+:root {
+  --iz-rule: #e6dac4;
+  --iz-label: #3a6fae;
+  --iz-muted: #6b6a66;
+}
+:root[saved-theme="dark"] {
+  --iz-rule: #3a342a;
+  --iz-label: #7fb0ec;
+  --iz-muted: #a09d96;
+}
+
+// ---------- Home header: photo, name, contacts and sections side by side ----------
 .iz-hero {
-  padding: 4.5rem 0 1rem;
-}
-.iz-avatar {
-  width: 88px;
-  height: 88px;
-  border-radius: 50%;
   display: grid;
-  place-items: center;
-  background: var(--secondary);
-  color: var(--light);
-  font: 500 1.7rem/1 $serif;
-  letter-spacing: 0.02em;
-  margin-bottom: 1.75rem;
-  overflow: hidden;
-  & img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    margin: 0;
-    border-radius: 0;
-  }
+  grid-template-columns: 112px 1fr;
+  grid-template-areas: "avatar id";
+  align-items: center;
+  column-gap: 1.6rem;
+  padding: 4.5rem 0 0;
 }
-.iz-kicker {
+article img.iz-avatar {
+  grid-area: avatar;
+  width: 112px;
+  height: 112px;
+  border-radius: 50%;
+  object-fit: cover;
   margin: 0;
-  font-size: 1.15rem;
-  color: var(--gray);
 }
-.iz-headline {
-  font-family: $serif;
-  font-weight: 500;
-  font-size: clamp(1.85rem, 4.1vw, 2.7rem);
-  line-height: 1.12;
-  letter-spacing: -0.015em;
+.iz-id {
+  grid-area: id;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-areas: "name social" "sub sub" "nav nav";
+  align-items: baseline;
+  column-gap: 1rem;
+  min-width: 0;
+}
+.iz-name {
+  grid-area: name;
+  margin: 0;
+  font: 700 1.6rem/1.2 $serif;
+  letter-spacing: -0.01em;
   color: var(--dark);
-  margin: 0.4rem 0 1rem;
 }
-.iz-sub {
-  margin: 0 0 1.5rem;
-  color: var(--darkgray);
-  font-size: 1.05rem;
-}
-.iz-nav {
+.iz-social {
+  grid-area: social;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.35rem 1.25rem;
-  margin-bottom: 0.5rem;
+  justify-content: flex-end;
+  align-items: baseline;
+  gap: 0.2rem 0.95rem;
+  & a {
+    color: var(--iz-label) !important;
+    background: none !important;
+    opacity: 1 !important;
+    line-height: 1.4 !important;
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    text-decoration: none !important;
+    &:hover {
+      color: var(--secondary) !important;
+      text-decoration: underline !important;
+      text-underline-offset: 3px;
+    }
+  }
+  & .external-icon {
+    display: none;
+  }
+}
+.iz-sub {
+  grid-area: sub;
+  margin: 0.35rem 0 0.6rem;
+  color: var(--darkgray);
+  font-size: 0.98rem;
+}
+.iz-nav {
+  grid-area: nav;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.15rem;
 }
 .iz-nav a {
   color: var(--dark) !important;
@@ -118,81 +153,113 @@ body[data-slug="index"] .center > hr {
     text-decoration-color: var(--secondary) !important;
   }
 }
-// the paragraph right after the hero is the short bio
-body[data-slug="index"] .iz-hero + p,
-body[data-slug="index"] .iz-hero + p + p {
-  font-size: 1.08rem;
+// On phones: photo beside the name and contacts, the rest full width underneath
+@media all and ($mobile) {
+  .iz-hero {
+    grid-template-columns: 72px 1fr;
+    grid-template-areas: "avatar name" "avatar social" "sub sub" "nav nav";
+    column-gap: 1rem;
+    padding-top: 2.5rem;
+  }
+  article img.iz-avatar {
+    width: 72px;
+    height: 72px;
+  }
+  .iz-id {
+    display: contents;
+  }
+  .iz-name {
+    align-self: end;
+  }
+  .iz-social {
+    align-self: start;
+    justify-content: flex-start;
+    margin-top: 0.3rem;
+  }
+  .iz-sub {
+    margin-top: 1.1rem;
+  }
+}
+
+// The opening line, then the short bio
+.iz-headline {
+  font-family: $serif;
+  font-weight: 400;
+  font-size: 1.32rem;
+  line-height: 1.45;
+  letter-spacing: -0.005em;
+  color: var(--dark);
+  margin: 2.4rem 0 1rem;
+  @media all and ($mobile) {
+    font-size: 1.16rem;
+    margin-top: 1.9rem;
+  }
+}
+body[data-slug="index"] .iz-headline + p,
+body[data-slug="index"] .iz-headline + p + p {
+  font-size: 1.05rem;
   line-height: 1.7;
   color: var(--darkgray);
 }
 
-// Section labels: "Start here", "Writing", "Library"
-.iz-label,
+// ---------- Home sections: serif heading, a one-line intro, then labelled groups ----------
 body[data-slug="index"] article h2 {
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  font: 400 0.78rem/1.4 var(--bodyFont);
-  color: var(--gray);
-  margin: 2.75rem 0 0.9rem;
+  clear: both;
+  font: 700 1.4rem/1.25 $serif;
+  letter-spacing: -0.01em;
+  color: var(--dark);
+  text-transform: none;
+  margin: 3.6rem 0 0.3rem;
   border: 0;
 }
-body[data-slug="index"] article h2 a.internal {
+body[data-slug="index"] article h2 + p {
+  font-style: italic;
+  color: var(--iz-muted);
+  margin: 0 0 1.4rem;
+}
+body[data-slug="index"] article :is(h2, h3) a[role="anchor"] {
   display: none; // heading anchor icon
 }
 
-// "Start here": a clean list with dotted underlines, no boxes
-.iz-start {
+// Each h3 becomes a small vertical label beside its list
+body[data-slug="index"] article h3 {
+  float: left;
+  clear: left;
+  writing-mode: vertical-rl;
+  margin: 0.72rem 0 1rem 0.35rem;
+  padding: 0;
+  font: 400 0.7rem/1 var(--bodyFont);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--iz-label);
+}
+body[data-slug="index"] article h3 + ul,
+body[data-slug="index"] article h3 + .bases-inline {
+  margin: 0 0 1.6rem 2.7rem;
+}
+// a flex box won't sit beside the floated label, so let the Bases list flow like the others
+body[data-slug="index"] article h3 + .bases-inline {
+  display: block;
+  width: auto;
+}
+body[data-slug="index"] article h3 + ul {
   list-style: none;
   padding: 0;
-  margin: 0;
-  & li {
-    display: grid;
-    grid-template-columns: 5.5rem 1fr;
-    column-gap: 1rem;
-    align-items: baseline;
-    padding: 0.55rem 0;
+  & > li {
     margin: 0;
+    padding: 0.5rem 0;
+    line-height: 1.5;
   }
-  & span {
-    font-size: 0.72rem;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--gray);
+  & > li + li {
+    border-top: 1px solid var(--iz-rule);
   }
   & a {
-    font-family: $serif;
-    font-size: 1.2rem;
-    color: var(--dark) !important;
-    background: none !important;
-    text-decoration: underline dotted !important;
-    text-decoration-color: var(--gray) !important;
-    text-decoration-thickness: 1px !important;
-    text-underline-offset: 5px;
-    &:hover {
-      color: var(--secondary) !important;
-      text-decoration-color: var(--secondary) !important;
-    }
-  }
-  & em {
-    grid-column: 2;
-    font-style: normal;
-    font-size: 0.92rem;
-    color: var(--gray);
-    margin-top: 0.15rem;
-  }
-  @media all and ($mobile) {
-    & li {
-      grid-template-columns: 1fr;
-    }
-    & em {
-      grid-column: 1;
-    }
+    font-size: 1.05rem;
   }
 }
 
-// "Writing": the inline Bases list, styled like a quiet dated index
+// "Writing": the inline Bases list, one ruled row per essay with its date on the right
 body[data-slug="index"] .bases-inline {
-  margin: 0;
   & .bases-view-meta,
   & .bases-view-tabs,
   & .list-bullet,
@@ -200,8 +267,11 @@ body[data-slug="index"] .bases-inline {
     display: none;
   }
   & .bases-list-item {
-    border-top: 1px solid var(--lightgray);
-    padding: 0.75rem 0;
+    padding: 0.5rem 0;
+    line-height: 1.5;
+  }
+  & .bases-list-item + .bases-list-item {
+    border-top: 1px solid var(--iz-rule);
   }
   & .bases-list-item-properties {
     display: flex;
@@ -210,25 +280,31 @@ body[data-slug="index"] .bases-inline {
     gap: 1rem;
   }
   & .bases-list-property:first-child a {
-    font-family: $serif;
-    font-size: 1.2rem;
-    font-weight: 500;
-    color: var(--dark);
+    font-size: 1.05rem;
+    color: var(--secondary);
     text-decoration: none;
     &:hover {
-      color: var(--secondary);
+      text-decoration: underline;
+      text-underline-offset: 3px;
     }
   }
   & .bases-list-property:last-child {
-    color: var(--gray);
-    font-size: 0.9rem;
+    color: var(--iz-muted);
+    font-size: 0.88rem;
     white-space: nowrap;
     font-variant-numeric: tabular-nums;
   }
 }
 
-// "Library": book covers in a tidy grid (the list right after the Library heading)
-body[data-slug="index"] article h2#books + ul,
+@media all and ($mobile) {
+  body[data-slug="index"] article h3 + ul,
+  body[data-slug="index"] article h3 + .bases-inline {
+    margin-left: 2.2rem;
+  }
+}
+
+// "Books": covers in a tidy grid (the list after the Books intro), and on the Books page
+body[data-slug="index"] article h2#books + p + ul,
 body[data-slug="books/index"] article h2 + ul {
   list-style: none;
   padding: 0;
@@ -262,10 +338,6 @@ body[data-slug="books/index"] article h2 + ul {
   & a:hover img {
     transform: translateY(-3px) rotate(-1deg);
   }
-}
-body[data-slug="index"] article h2#books + ul + p {
-  color: var(--gray);
-  font-size: 0.92rem;
 }
 
 // ---------- Vet notes: a quiet disclaimer strip on every note ----------
@@ -363,7 +435,7 @@ footer.site-footer {
 }
 
 // No external-link arrows on book covers or email links
-body[data-slug="index"] article h2#books + ul .external-icon,
+body[data-slug="index"] article h2#books + p + ul .external-icon,
 a[href^="mailto:"] .external-icon {
   display: none;
 }

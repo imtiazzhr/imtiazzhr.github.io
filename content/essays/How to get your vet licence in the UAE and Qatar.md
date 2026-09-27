@@ -3,6 +3,7 @@ date: 2024-10-25
 description: The attestations, documents and exams you need to practise as a vet in the UAE and Qatar, step by step.
 aliases:
   - Registration process
+  - articles/how-to-get-your-vet-licence-in-the-uae-and-qatar
 tags:
   - licensing
   - uae

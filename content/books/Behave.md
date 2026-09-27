@@ -4,7 +4,7 @@ subtitle: "The Biology of Humans at Our Best and Worst"
 author: "Robert M. Sapolsky"
 year: 2017
 genre: "Science"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/behave.jpg"
 goodreads: "https://www.goodreads.com/book/show/31170723-behave"
 tags:
@@ -17,7 +17,7 @@ tags:
 *The Biology of Humans at Our Best and Worst*
 
 **Robert M. Sapolsky** · 2017 · Science
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Behave asks why people act as they do, from kindness to violence. Neuroscientist and primatologist Robert Sapolsky answers by rewinding the clock on a single behaviour. He starts with the brain activity a second before an action, then works back through the hormones of the previous hours, changes to the brain over months, adolescence, childhood, life in the womb, genes, culture and, finally, millions of years of evolution.
 

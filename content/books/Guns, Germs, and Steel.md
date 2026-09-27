@@ -4,7 +4,7 @@ subtitle: "The Fates of Human Societies"
 author: "Jared Diamond"
 year: 1997
 genre: "History"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/guns-germs-and-steel.jpg"
 goodreads: "https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel"
 tags:
@@ -17,7 +17,7 @@ tags:
 *The Fates of Human Societies*
 
 **Jared Diamond** · 1997 · History
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Guns, Germs, and Steel starts from a question Jared Diamond was asked by Yali, a New Guinean politician: why white colonists had so much more material wealth than New Guineans. Diamond rejects explanations based on race or intelligence and argues that geography and environment shaped the fates of human societies.
 

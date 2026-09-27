@@ -3,7 +3,7 @@ title: "Educated"
 author: "Tara Westover"
 year: 2018
 genre: "Memoir"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/educated.jpg"
 goodreads: "https://www.goodreads.com/book/show/35133922-educated"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[educated.jpg|170]]
 
 **Tara Westover** · 2018 · Memoir
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Tara Westover grew up on a mountain in rural Idaho, the youngest of seven children in a survivalist family that distrusted government, doctors and public schools. She never went to school, spent her teenage years working in her father's scrapyard, and saw serious injuries treated at home with her mother's herbal remedies. One of her brothers became violent towards her.
 

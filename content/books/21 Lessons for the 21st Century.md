@@ -3,7 +3,7 @@ title: "21 Lessons for the 21st Century"
 author: "Yuval Noah Harari"
 year: 2018
 genre: "Current affairs"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/21-lessons-for-the-21st-century.jpg"
 goodreads: "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[21-lessons-for-the-21st-century.jpg|170]]
 
 **Yuval Noah Harari** · 2018 · Current affairs
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 21 Lessons for the 21st Century turns from the distant past and far future of Harari's earlier books to the problems of the present. In a series of short essays he examines how technology, politics, religion and misinformation are reshaping the world, and how individuals might keep their bearings.
 

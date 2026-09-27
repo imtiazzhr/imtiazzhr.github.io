@@ -4,7 +4,7 @@ subtitle: "Unlocking the Power of Sleep and Dreams"
 author: "Matthew Walker"
 year: 2017
 genre: "Health"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/why-we-sleep.jpg"
 goodreads: "https://www.goodreads.com/book/show/34466963-why-we-sleep"
 tags:
@@ -17,7 +17,7 @@ tags:
 *Unlocking the Power of Sleep and Dreams*
 
 **Matthew Walker** · 2017 · Health
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 In Why We Sleep, neuroscientist Matthew Walker sets out what sleep is, how it works and what happens when we do not get enough of it. He explains the two main forces that govern sleep, the body clock and the build-up of sleep pressure, and the roles of deep non-REM sleep and dreaming REM sleep.
 

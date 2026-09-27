@@ -3,7 +3,7 @@ title: "The Help"
 author: "Kathryn Stockett"
 year: 2009
 genre: "Novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/the-help.jpg"
 goodreads: "https://www.goodreads.com/book/show/4667024-the-help"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[the-help.jpg|170]]
 
 **Kathryn Stockett** · 2009 · Novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Set in Jackson, Mississippi, in the early 1960s, The Help is told by three women. Aibileen is a Black maid raising her seventeenth white child while grieving the loss of her own son. Her friend Minny is a gifted cook whose sharp tongue keeps costing her jobs. Skeeter Phelan, a young white woman just back from university, wants to be a writer and cannot find out why the maid who raised her has disappeared.
 

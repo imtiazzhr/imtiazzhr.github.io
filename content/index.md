@@ -1,35 +1,34 @@
 ---
 title: "imtiaz's notes"
-description: Veterinary clinician in Abu Dhabi. Essays, articles and clinical notes on veterinary work, productivity, philosophy and technology.
+description: Veterinary clinician in Abu Dhabi. Essays and clinical notes on veterinary work, productivity, philosophy and technology.
 ---
 
 <div class="iz-hero">
-  <div class="iz-avatar"><img src="./attachments/imtiaz.jpg" alt="Imtiaz Zahoor" width="176" height="176"></div>
-  <p class="iz-kicker">Hi, I'm Imtiaz.</p>
-  <p class="iz-headline">I'm a veterinary clinician. I treat animals, and write about the work, productivity, philosophy, technology and building things on the side.</p>
-  <p class="iz-sub">DVM · Equine and camel medicine, lameness and diagnostic imaging · Abu Dhabi</p>
-  <nav class="iz-nav"><a href="./essays/">Essays</a><a href="./articles/">Articles</a><a href="./vet-notes/">Vet notes</a><a href="./books/">Books</a><a href="./now">Now</a><a href="./about">About</a><a href="./cv">CV</a></nav>
+  <img class="iz-avatar" src="./attachments/imtiaz.jpg" alt="Imtiaz Zahoor" width="112" height="112">
+  <div class="iz-id">
+    <p class="iz-name">Imtiaz Zahoor</p>
+    <nav class="iz-social" aria-label="Contact"><a href="mailto:imtiazdvm@gmail.com">Email</a><a href="https://x.com/imtiazzhr">X</a><a href="https://www.instagram.com/imtiazzhr">Instagram</a><a href="https://www.facebook.com/imtiazzhr">Facebook</a><a href="./index.xml" data-router-ignore>RSS</a></nav>
+    <p class="iz-sub">DVM · Equine and camel medicine, lameness and diagnostic imaging · Abu Dhabi</p>
+    <nav class="iz-nav" aria-label="Sections"><a href="./essays/">Writing</a><a href="./projects">Projects</a><a href="./books/">Books</a><a href="./vet-notes/">Vet notes</a><a href="./now">Now</a><a href="./about">About</a><a href="./cv">CV</a></nav>
+  </div>
 </div>
 
-I'm a veterinary clinician with about ten years of experience in equine and camel practice across Pakistan, Qatar, Oman, Saudi Arabia and the UAE. My work centres on sports medicine, lameness, diagnostic imaging and reproduction. My [[vet-notes/index|clinical notes]] began in 2020 while I was preparing for licensing exams, and they have since helped many colleagues prepare for theirs.
+<p class="iz-headline">I'm a veterinary clinician. I treat animals, and write about the work, productivity, philosophy, technology and building things on the side.</p>
 
-Outside the clinic I write about productivity, philosophy and technology, and I build things, including software for veterinary practices. You can find my [[cv|CV here]], or [email me](mailto:imtiazdvm@gmail.com).
+👋 Welcome! You've found my working notes. I've spent about ten years in equine and camel practice across Pakistan, Qatar, Oman, Saudi Arabia and the UAE. The notes began in 2020 with my own cases and licensing exams, and many vets have since used them to pass theirs.
 
-<p class="iz-label">Start here</p>
-<ul class="iz-start">
-  <li><span>Story</span><a href="./essays/what-the-job-i-hated-taught-me">What the job I hated taught me</a><em>From failed interviews to camel sports medicine.</em></li>
-  <li><span>Clinical</span><a href="./vet-notes/">Clinical vet notes</a><em>More than a hundred linked notes on diseases, anesthesia, imaging and drugs in horses, camels and livestock.</em></li>
-  <li><span>Guide</span><a href="./articles/how-to-get-your-vet-licence-in-the-uae-and-qatar">How to get your vet licence in the UAE and Qatar</a><em>Attestations, documents and exams, step by step.</em></li>
-</ul>
+I write them mainly for myself, as a place to think, so if a note seems confusing or thin, that's probably why. I keep updating them, and I'd love to hear from you if something could be better: [email me](mailto:imtiazdvm@gmail.com).
 
 ## Writing
+
+Essays on the work, productivity, philosophy and technology, plus a few practical guides.
+
+### Essays
 
 ```base
 filters:
   and:
-    - or:
-        - file.inFolder("essays")
-        - file.inFolder("articles")
+    - file.inFolder("essays")
     - file.name != "index"
 formulas:
   when: date(note.date).format("MMM YYYY")
@@ -44,7 +43,47 @@ views:
         direction: DESC
 ```
 
+## For veterinary professionals
+
+Where to start in my clinical notes, whether you're preparing for a licensing exam or working up a case.
+
+### Exams
+
+- [[Important topics]]
+- [[UAE Vet Exam]]
+- [[Qatar GP Exam]]
+- [[Preparation Strategy for interns|Preparation strategy for interns]]
+- [[How to get your vet licence in the UAE and Qatar|Getting licensed in the UAE and Qatar]]
+
+### Species
+
+- [[Equine notes|Horses]]
+- [[Camel Diseases|Camels]]
+- [[Bovines|Cattle]]
+- [[Sheep and goats]]
+- [[Falcon diseases|Falcons]]
+
+### Subjects
+
+- [[Medicine]]
+- [[Emergency care and fluid therapy]]
+- [[Anesthesia overview|Anesthesia]]
+- [[Clinical Pathology|Clinical pathology]]
+- [[Diagnostic Imaging|Diagnostic imaging]]
+- [[Equine and camel ultrasound]]
+- [[Pharmacology notes|Pharmacology]]
+
+### Diseases
+
+- [[Laminitis]]
+- [[Trypanosomiasis]]
+- [[Ketosis]]
+- [[Pregnancy Toxemia|Pregnancy toxemia]]
+- [[vet-notes/diseases/index|All disease notes, A–Z →]]
+
 ## Books
+
+A few of the books I've read. See [[books/index|all books]], with summaries and key insights.
 
 - [![The 12 Week Year](attachments/books/the-12-week-year.jpg)](books/The%2012%20Week%20Year.md)
 - [![Thinking, Fast and Slow](attachments/books/thinking-fast-and-slow.jpg)](books/Thinking,%20Fast%20and%20Slow.md)
@@ -70,5 +109,3 @@ views:
 - [![The Subtle Art of Not Giving a F*ck](attachments/books/the-subtle-art-of-not-giving-a-f-ck.jpg)](books/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F-ck.md)
 - [![Jinnah of Pakistan](attachments/books/jinnah-of-pakistan.jpg)](books/Jinnah%20of%20Pakistan.md)
 - [![Shahaab Nama](attachments/books/shahaab-nama.png)](books/Shahaab%20Nama.md)
-
-A few of the books I've read. See [[books/index|all 93 books]], with summaries and key insights.

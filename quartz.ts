@@ -28,10 +28,28 @@ for (const name of ["folder-page", "@quartz-community/folder-page"]) {
   componentRegistry.setOptionOverrides(name, { sort: folderSort })
 }
 
-// Sidebar order: Essays, Articles, Books, Vet notes, About, CV, Now; everything inside stays A to Z.
-// (This function runs in the visitor's browser, so it must not use anything defined outside it.)
+// Sidebar: Essays, Books, Exams & licensing, Vet medicine, Clinical vet notes, About, Now, CV.
+// Exams and the Medicine hub live inside vet-notes/, but the sidebar lifts them to the top level;
+// their URLs stay the same. Projects is linked from the home page only.
+// (These functions run in the visitor's browser, so they must not use anything defined outside them.)
+const explorerFilter = (node: any) => node.slugSegment !== "tags" && node.slugSegment !== "projects"
+const explorerMap = (node: any) => {
+  if (!node.slugSegments || node.slugSegments.length !== 0) return
+  const vet = node.children.find((c: any) => c.slugSegment === "vet-notes")
+  if (!vet) return
+  const lift: Record<string, string> = { exams: "Exams & licensing", medicine: "Vet medicine" }
+  for (const key of Object.keys(lift)) {
+    const child = vet.children.find((c: any) => c.slugSegment === key)
+    if (!child) continue
+    vet.children = vet.children.filter((c: any) => c !== child)
+    child.displayName = lift[key]
+    node.children.push(child)
+  }
+}
 const explorerSort = (a: any, b: any) => {
-  const top: Record<string, number> = { essays: 1, articles: 2, books: 3, "vet-notes": 4, about: 5, cv: 6, now: 7 }
+  const top: Record<string, number> = {
+    essays: 1, books: 2, exams: 3, medicine: 4, "vet-notes": 5, about: 6, now: 7, cv: 8,
+  }
   const ra = top[a.slugSegment]
   const rb = top[b.slugSegment]
   if (ra !== undefined || rb !== undefined) return (ra ?? 99) - (rb ?? 99)
@@ -39,7 +57,11 @@ const explorerSort = (a: any, b: any) => {
   return String(a.displayName).localeCompare(String(b.displayName), undefined, { numeric: true, sensitivity: "base" })
 }
 for (const name of ["explorer", "@quartz-community/explorer"]) {
-  componentRegistry.setOptionOverrides(name, { sortFn: explorerSort })
+  componentRegistry.setOptionOverrides(name, {
+    sortFn: explorerSort,
+    filterFn: explorerFilter,
+    mapFn: explorerMap,
+  })
 }
 
 const config = await loadQuartzConfig()

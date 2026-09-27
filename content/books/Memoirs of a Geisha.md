@@ -3,7 +3,7 @@ title: "Memoirs of a Geisha"
 author: "Arthur Golden"
 year: 1997
 genre: "Novel"
-shelf: "Want to read"
+shelf: "Read"
 cover_image: "attachments/books/memoirs-of-a-geisha.jpg"
 goodreads: "https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha"
 tags:
@@ -14,7 +14,7 @@ tags:
 ![[memoirs-of-a-geisha.jpg|170]]
 
 **Arthur Golden** · 1997 · Novel
-<span class="book-shelf">Want to read</span>
+<span class="book-shelf">Read</span>
 
 Written by an American author but presented as the memoir of a famous geisha, the novel follows Chiyo, a girl from a poor fishing village who is sold at the age of nine and taken to Kyoto's Gion district in the late 1920s. Separated from her sister, she works as a servant in a geisha house, where its star, the beautiful and cruel Hatsumomo, sets out to crush her.
 

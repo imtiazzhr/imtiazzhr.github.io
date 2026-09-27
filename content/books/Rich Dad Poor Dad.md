@@ -4,7 +4,7 @@ subtitle: "What the Rich Teach Their Kids About Money That the Poor and Middle C
 author: "Robert T. Kiyosaki"
 year: 1997
 genre: "Personal finance"
-shelf: "Currently reading"
+shelf: "Read"
 cover_image: "attachments/books/rich-dad-poor-dad.jpg"
 goodreads: "https://www.goodreads.com/book/show/39924789-rich-dad-poor-dad"
 tags:
@@ -17,7 +17,7 @@ tags:
 *What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!*
 
 **Robert T. Kiyosaki** · 1997 · Personal finance
-<span class="book-shelf">Currently reading</span>
+<span class="book-shelf">Read</span>
 
 Robert Kiyosaki contrasts the financial outlooks of two father figures. His own father, a well-educated senior government official, worked hard for a salary yet struggled with money. His best friend's father, who never finished school, built businesses and became wealthy. Kiyosaki treats him as his real financial mentor.
 
