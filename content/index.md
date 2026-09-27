@@ -13,11 +13,13 @@ description: Veterinary clinician in Abu Dhabi. Essays and clinical notes on vet
   </div>
 </div>
 
-<p class="iz-headline">I'm a veterinary clinician. I treat animals, and write about the work, productivity, philosophy, technology and building things on the side.</p>
+Hi, 👋 Welcome to my writing and clinical notes.
 
-👋 Welcome! You've found my working notes. I've spent about ten years in equine and camel practice across Pakistan, Qatar, Oman, Saudi Arabia and the UAE. The notes began in 2020 with my own cases and licensing exams, and many vets have since used them to pass theirs.
+I make a living treating animals, and write about the work, productivity, AI, and building things on the side. I’m also tinkering with AI, which I think could usher in a new era of personalized software—helping people build tools around their own needs, have more fun with technology, and discover new ways of getting things done.
 
-I write them mainly for myself, as a place to think, so if a note seems confusing or thin, that's probably why. I keep updating them, and I'd love to hear from you if something could be better: [email me](mailto:imtiazdvm@gmail.com).
+For the clinical notes, I’ve spent about ten years in large-animal practice, mainly working with horses and camels, across Pakistan, Qatar, Oman, Saudi Arabia, and the UAE. I started these notes in 2019 to document my own cases and prepare for licensing exams. Since then, they’ve also helped many other veterinarians prepare for theirs.
+
+I mostly write them for myself—a place to think, learn, and keep track of what I’ve seen. So some notes may be rough, incomplete, or confusing outside their original context. I keep revisiting and improving them, and if you spot something that could be better, I’d genuinely love to hear from you. [Email me](mailto:imtiazdvm@gmail.com).
 
 ## Writing
 

@@ -181,22 +181,14 @@ article img.iz-avatar {
   }
 }
 
-// The opening line, then the short bio
-.iz-headline {
-  font-family: $serif;
-  font-weight: 400;
-  font-size: 1.32rem;
-  line-height: 1.45;
-  letter-spacing: -0.005em;
-  color: var(--dark);
-  margin: 2.4rem 0 1rem;
+// The short bio under the header: plain paragraphs, all in one style
+body[data-slug="index"] .iz-hero + p {
+  margin-top: 2.4rem;
   @media all and ($mobile) {
-    font-size: 1.16rem;
     margin-top: 1.9rem;
   }
 }
-body[data-slug="index"] .iz-headline + p,
-body[data-slug="index"] .iz-headline + p + p {
+body[data-slug="index"] .iz-hero ~ p:not(h2 + p) {
   font-size: 1.05rem;
   line-height: 1.7;
   color: var(--darkgray);

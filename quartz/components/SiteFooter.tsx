@@ -23,6 +23,8 @@ const TOPICS: [label: string, href: string][] = [
 ]
 // Paste an email-newsletter form address here (e.g. Buttondown or Substack) to show a sign-up box
 const NEWSLETTER_FORM_ACTION = ""
+// Where "email newsletter" points. Until there's a newsletter service, it opens an email to me.
+const NEWSLETTER_URL = "mailto:imtiazdvm@gmail.com?subject=Subscribe%20to%20updates"
 
 const ICONS: Record<string, string> = {
   X: "M17.75 3h3.07l-6.72 7.68L22 21h-6.19l-4.85-6.34L5.4 21H2.33l7.19-8.21L2 3h6.35l4.38 5.8L17.75 3Zm-1.08 16.2h1.7L7.4 4.72H5.57L16.67 19.2Z",
@@ -36,26 +38,22 @@ const ICONS: Record<string, string> = {
 function SiteFooter({ displayClass }: QuartzComponentProps) {
   const year = new Date().getFullYear()
   const follow = SOCIAL.filter(([l]) => l !== "Email")
-  const email = SOCIAL.find(([l]) => l === "Email")
   return (
     <footer class={`site-footer ${displayClass ?? ""}`}>
       <div class="sf-block">
-        <p class="sf-title">Receive my updates</p>
+        <p class="sf-title">Let’s connect</p>
         <p>
-          Follow me via{" "}
+          If you’d like to hear occasional updates on my new work, you can subscribe to my{" "}
+          <a href={NEWSLETTER_URL}>email newsletter</a> or follow me via{" "}
           <a href="/index.xml" data-router-ignore>
             RSS
           </a>
-          {follow.map(([label, href]) => (
+          {follow.map(([label, href], i) => (
             <span>
-              , <a href={href} target="_blank" rel="me noopener noreferrer">{label}</a>
+              {i === follow.length - 1 ? ", or " : ", "}
+              <a href={href} target="_blank" rel="me noopener noreferrer">{label}</a>
             </span>
           ))}
-          {email ? (
-            <span>
-              , or <a href={email[1]}>email</a>
-            </span>
-          ) : null}
           .
         </p>
         {NEWSLETTER_FORM_ACTION ? (
