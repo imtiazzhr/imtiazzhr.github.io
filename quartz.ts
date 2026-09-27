@@ -3,6 +3,9 @@ import { registerCondition } from "./quartz/plugins/loader/conditions"
 import { PageTypeDispatcher } from "./quartz/plugins/pageTypes"
 import SiteFooter from "./quartz/components/SiteFooter"
 import ByLine from "./quartz/components/ByLine"
+import LinksToThisNote from "./quartz/components/LinksToThisNote"
+import { LinkContexts } from "./quartz/plugins/LinkContexts"
+import { NoIndexUnlisted } from "./quartz/plugins/NoIndexUnlisted"
 import { componentRegistry } from "./quartz/components/registry"
 
 // Layout conditions used in quartz.config.yaml
@@ -28,7 +31,7 @@ for (const name of ["folder-page", "@quartz-community/folder-page"]) {
   componentRegistry.setOptionOverrides(name, { sort: folderSort })
 }
 
-// Sidebar: Essays, Books, Exams & licensing, Vet medicine, Clinical vet notes, About, Now, CV.
+// Sidebar: Essays, Books, Exams & licensing, Vet medicine, Clinical vet notes, About, Now.
 // Exams and the Medicine hub live inside vet-notes/, but the sidebar lifts them to the top level;
 // their URLs stay the same. Projects is linked from the home page only.
 // (These functions run in the visitor's browser, so they must not use anything defined outside them.)
@@ -48,7 +51,7 @@ const explorerMap = (node: any) => {
 }
 const explorerSort = (a: any, b: any) => {
   const top: Record<string, number> = {
-    essays: 1, books: 2, exams: 3, medicine: 4, "vet-notes": 5, about: 6, now: 7, cv: 8,
+    essays: 1, books: 2, exams: 3, medicine: 4, "vet-notes": 5, about: 6, now: 7,
   }
   const ra = top[a.slugSegment]
   const rb = top[b.slugSegment]
@@ -78,6 +81,13 @@ for (const pageType of Object.values(layout.byPageType)) {
 const byline = ByLine()
 for (const target of [layout.defaults, layout.byPageType.content].filter(Boolean)) {
   target!.beforeBody = [...(target!.beforeBody ?? []), byline]
+}
+
+// "Links to this note" after every note, with the sentence each link sits in
+config.plugins.transformers.push(LinkContexts(), NoIndexUnlisted())
+const linksToThisNote = LinksToThisNote()
+for (const target of [layout.defaults, layout.byPageType.content].filter(Boolean)) {
+  target!.afterBody = [...(target!.afterBody ?? []), linksToThisNote]
 }
 
 // The page renderer was created inside loadQuartzConfig with the plain layout; swap in ours

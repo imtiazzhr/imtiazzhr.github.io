@@ -9,7 +9,7 @@ description: Veterinary clinician in Abu Dhabi. Essays and clinical notes on vet
     <p class="iz-name">Imtiaz Zahoor</p>
     <nav class="iz-social" aria-label="Contact"><a href="mailto:imtiazdvm@gmail.com">Email</a><a href="https://x.com/imtiazzhr">X</a><a href="https://www.instagram.com/imtiazzhr">Instagram</a><a href="https://www.facebook.com/imtiazzhr">Facebook</a><a href="./index.xml" data-router-ignore>RSS</a></nav>
     <p class="iz-sub">DVM · Equine and camel medicine, lameness and diagnostic imaging · Abu Dhabi</p>
-    <nav class="iz-nav" aria-label="Sections"><a href="./essays/">Writing</a><a href="./projects">Projects</a><a href="./books/">Books</a><a href="./vet-notes/">Vet notes</a><a href="./now">Now</a><a href="./about">About</a><a href="./cv">CV</a></nav>
+    <nav class="iz-nav" aria-label="Sections"><a href="./essays/">Writing</a><a href="./projects">Projects</a><a href="./books/">Books</a><a href="./vet-notes/">Vet notes</a><a href="./now">Now</a><a href="./about">About</a></nav>
   </div>
 </div>
 

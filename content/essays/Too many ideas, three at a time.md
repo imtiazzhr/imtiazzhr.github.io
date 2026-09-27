@@ -29,7 +29,7 @@ Twelve weeks sits in the middle. It's long enough to finish something real and s
 
 ## The rule that actually matters: three
 
-The idea of the twelve-week year isn't mine; plenty of people have written about it. The part that changed things for me is the limit I added on top: **no more than three goals in a cycle.**
+The idea of the [[The 12 Week Year|twelve-week year]] isn't mine; plenty of people have written about it. The part that changed things for me is the limit I added on top: **no more than three goals in a cycle.**
 
 Three is small enough to hold in my head. It forces me to choose, and choosing is the part I've always avoided. When a new idea turns up mid-cycle, and it always does, it doesn't get deleted. It gets *parked*: written down, dated, and left alone until the next cycle begins. Parking works because it's not a "no", only a "not now", and I can say "not now" to almost anything.
 
@@ -41,4 +41,4 @@ I'm writing this at the start of a new cycle, not the end, so treat it as a prom
 
 I'll write the review at the end of the cycle and tell you how it went.
 
-If you want the practical version, with the layers, the weekly page and the review, see [[How I plan my work in 12-week cycles]].
+If you want the practical version, with the layers, the weekly page and the review, see [[The 12-week planning system I actually stick to]].

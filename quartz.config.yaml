@@ -179,7 +179,7 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false # replaced by "Links to this note" (quartz/components/LinksToThisNote.tsx)
     layout:
       position: right
       priority: 50

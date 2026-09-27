@@ -19,7 +19,7 @@ These notes are mostly written for myself: they're roughly my thinking environme
 
 ## How to navigate
 
-Use search, the sidebar, or the links inside each note. Every note shows its **Backlinks** (the notes that mention it) and a small graph of related topics. The idea is to connect ideas, much like the synapses in our brains, so the notes stay evergreen and don't turn into information overload. After all, our brains are made for thinking and solving problems, not for storing every piece of information.
+Use search, the sidebar, or the links inside each note. Every note ends with **Links to this note** (the notes that mention it) and a small graph of related topics. The idea is to connect ideas, much like the synapses in our brains, so the notes stay evergreen and don't turn into information overload. After all, our brains are made for thinking and solving problems, not for storing every piece of information.
 
 ## The inspiration behind the notes
 

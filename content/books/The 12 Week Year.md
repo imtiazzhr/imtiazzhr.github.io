@@ -33,6 +33,6 @@ The system links a long-term personal vision to a small number of twelve-week go
 
 *Read it if you set ambitious annual goals but find most of the real work happens in a rush near the deadline.*
 
-My own planning system is built on this idea: see [[How I plan my work in 12-week cycles]].
+My own planning system is built on this idea: see [[The 12-week planning system I actually stick to]].
 
 [View on Goodreads →](https://www.goodreads.com/book/show/10009377-the-12-week-year)

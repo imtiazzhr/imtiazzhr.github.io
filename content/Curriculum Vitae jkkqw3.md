@@ -1,5 +1,8 @@
 ---
-title: CV
+title: Curriculum Vitae
+# Hidden: not linked anywhere, left out of search, the sidebar, RSS and the sitemap.
+# Share this link only with people who should see it: https://imtiazzhr.github.io/curriculum-vitae-jkkqw3
+unlisted: true
 description: "Curriculum vitae of Imtiaz Zahoor, DVM, veterinarian in equine and camel practice."
 ---
 

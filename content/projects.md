@@ -25,4 +25,4 @@ My open notes on horses, camels, cattle, sheep, goats and falcons. Many vets hav
 
 ## A 12-week planning system
 
-How I run my work in 12-week cycles, with only three goals at a time. [[How I plan my work in 12-week cycles|Read how it works →]]
+How I run my work in 12-week cycles, with only three goals at a time. [[The 12-week planning system I actually stick to|Read how it works →]]
