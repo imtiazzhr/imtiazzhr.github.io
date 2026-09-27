@@ -58,5 +58,17 @@ views:
 - [![Greenlights](attachments/books/greenlights.jpg)](books/Greenlights.md)
 - [![A Promised Land](attachments/books/a-promised-land.jpg)](books/A%20Promised%20Land.md)
 - [![As a Man Thinketh](attachments/books/as-a-man-thinketh.jpg)](books/As%20a%20Man%20Thinketh.md)
+- [![Sapiens](attachments/books/sapiens.jpg)](books/Sapiens.md)
+- [![Siddhartha](attachments/books/siddhartha.jpg)](books/Siddhartha.md)
+- [![Reminiscences of a Stock Operator](attachments/books/reminiscences-of-a-stock-operator.jpg)](books/Reminiscences%20of%20a%20Stock%20Operator.md)
+- [![The Alchemist](attachments/books/the-alchemist.jpg)](books/The%20Alchemist.md)
+- [![The Forty Rules of Love](attachments/books/the-forty-rules-of-love.jpg)](books/The%20Forty%20Rules%20of%20Love.md)
+- [![The Kite Runner](attachments/books/the-kite-runner.jpg)](books/The%20Kite%20Runner.md)
+- [![Animal Farm](attachments/books/animal-farm.jpg)](books/Animal%20Farm.md)
+- [![To Kill a Mockingbird](attachments/books/to-kill-a-mockingbird.jpg)](books/To%20Kill%20a%20Mockingbird.md)
+- [![Elon Musk](attachments/books/elon-musk.jpg)](books/Elon%20Musk.md)
+- [![The Subtle Art of Not Giving a F*ck](attachments/books/the-subtle-art-of-not-giving-a-f-ck.jpg)](books/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F-ck.md)
+- [![Jinnah of Pakistan](attachments/books/jinnah-of-pakistan.jpg)](books/Jinnah%20of%20Pakistan.md)
+- [![Shahaab Nama](attachments/books/shahaab-nama.png)](books/Shahaab%20Nama.md)
 
-Books I've read and kept notes on. Click a cover for a short summary, or see [[books/index|all my books]].
+A few of the books I've read. See [[books/index|all 93 books]], with summaries and key insights.

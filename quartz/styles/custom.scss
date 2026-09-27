@@ -229,7 +229,7 @@ body[data-slug="index"] .bases-inline {
 
 // "Library": book covers in a tidy grid (the list right after the Library heading)
 body[data-slug="index"] article h2#books + ul,
-body[data-slug="books/index"] article h2#books + ul {
+body[data-slug="books/index"] article h2 + ul {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -484,4 +484,27 @@ article a.internal,
 article a.external {
   padding: 0;
   border-radius: 0;
+}
+
+
+// Books page: section headings like the home page labels
+body[data-slug="books/index"] article h2 {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font: 400 0.78rem/1.4 var(--bodyFont);
+  color: var(--gray);
+  margin: 2.5rem 0 0.9rem;
+}
+body[data-slug="books/index"] article h2 a.internal {
+  display: none;
+}
+
+// Shelf label on each book page (Read / Currently reading / Want to read)
+.book-shelf {
+  display: inline-block;
+  margin-top: 0.35rem;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gray);
 }
