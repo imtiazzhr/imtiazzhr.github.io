@@ -7,7 +7,7 @@ tags:
 draft: false
 ---
 
-More owners now send me a chatbot's answer along with the photo of the swelling. Some of the answers are good. Some are confidently wrong. All of them are written in perfect English, which is part of the problem.
+More owners now send me a chatbot's answer along with the photo of the swelling, or affected limb or area. Some of the answers are good. Some are confidently wrong. All of them are written in perfect English, which is part of the problem.
 
 AI didn't arrive in veterinary practice with an announcement. It came in through the side doors: the software that reads radiographs, the analyser that counts worm eggs, the app that turns a consultation into a clinical note. In early 2024, a survey of almost 4,000 veterinary professionals by AAHA and Digitail found that 39% were already using AI tools, and most of them used them every day or every week.
 
