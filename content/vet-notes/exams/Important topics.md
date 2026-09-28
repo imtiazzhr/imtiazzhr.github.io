@@ -3,8 +3,7 @@ title: Important topics
 date: 2020-10-11
 aliases:
 ---
-
-*for [[Important topics]] and [[Qatar GP Exam]] - Diseases- [[vet-notes/index|vet medicine]]*
+*For [[UAE Vet Exam]] and [[Qatar GP Exam]] - Diseases- [[vet-notes/index|vet medicine]]*
 
 Source: [msdvetmanual.com](https://www.msdvetmanual.com/musculoskeletal-system/bovine-secondary-recumbency/overview-of-bovine-secondary-recumbency?query=downer%20cow)
 - [[Downer cow syndrome]] - [[Downer cow syndrome|Bovine Secondary Recumbency]] 
