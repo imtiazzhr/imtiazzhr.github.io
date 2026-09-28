@@ -2,15 +2,14 @@
 title: "Qatar GP Exam"
 date: 2020-10-11
 ---
-- ### Qatar Vet Licensing Process - 3-4 Exams in a year.
-    
-    - Different exams for Equine, GP, Small Animals, and Public Health. You can only keep one license at a time. If you change the employer, the license needs to be updated with 500 QAR as it is issued under the name of the company you are working for.
-    - Attestation of the Veterinary degree from the Ministry of Foreign Affaris (whatever name it has in your country)
-    - Attestation of the Veterinary degree from the Qatar Embassy from the country you graduated from.
-    - Attestation of the Veterinary degree from the Qatar Foreign Office in the Qatar - go to service centers in Al Rayan and Garrafa - ticket per page 150 AED
-    - Letter of experience - 3 years of clinical experience to be eligible.
-    - Apply for the license - Animal Resource Deppartment - submit the documents online including Degree, Transcripts, Passport, Visa, Qatar ID. and one Passport sized photo, filled form.
-    - You will be notified about the written exam date. An interview and hands-on exam of the passed candiadtes will be scheduled.
+### Qatar Vet Licensing Process - 3-4 Exams in a year.
+- Different exams for Equine, GP, Small Animals, and Public Health. You can only keep one license at a time. If you change the employer, the license needs to be updated with 500 QAR as it is issued under the name of the company you are working for.
+- Attestation of the Veterinary degree from the Ministry of Foreign Affaris (whatever name it has in your country)
+- Attestation of the Veterinary degree from the Qatar Embassy from the country you graduated from.
+- Attestation of the Veterinary degree from the Qatar Foreign Office in the Qatar - go to service centers in Al Rayan and Garrafa - ticket per page 150 AED
+- Letter of experience - 3 years of clinical experience to be eligible.
+- Apply for the license - Animal Resource Deppartment - submit the documents online including Degree, Transcripts, Passport, Visa, Qatar ID. and one Passport sized photo, filled form.
+- You will be notified about the written exam date. An interview and hands-on exam of the passed candiadtes will be scheduled.
 
 ### Regulations related Topics - for Qatar exam
 
