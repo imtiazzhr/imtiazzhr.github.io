@@ -84,7 +84,7 @@ date: 2024-10-25
     
     - You just need to enlist the diseases but I have added some context that might help with other short questions)
     - List of Notifiable Diseases Stated by Federal Law No. 8 of 2013 Regarding the Prevention and Control of Contagious and Epidemic Animal Diseases
-    - Viral Diseases
+    - ### Viral Diseases
         - 1. [[African Horse Sickness]]
             - African Horse Sickness is a highly contagious, often fatal disease of Equidae caused by the African horse sickness virus, an orbivirus. It is transmitted primarily by Culicoides spp. midges. The disease is characterized by high fever, respiratory distress, swelling of the head and neck, and sudden death. Diagnosis is based on clinical signs, virus isolation, PCR, and serological assays. Control measures include vector control, quarantine of infected animals, and vaccination where available. This disease does not typically present a significant zoonotic concern.
         - 2. [[Equine Encephalomyelitis]]
@@ -129,7 +129,7 @@ date: 2024-10-25
             - Camel Pox is a viral disease of camels caused by the Camel Pox Virus (CMLV), a capripoxvirus. It is transmitted through direct contact, aerosols, and fomites, as well as by biting insects. The disease is characterized by fever, nodular lesions on the skin, mucous membranes, and respiratory distress. Clinical signs include pock-like lesions on the nose, mouth, teats, and udders, along with swelling of the lymph nodes and decreased milk production. Diagnosis is based on clinical signs, PCR, virus isolation, and serological tests. Control measures include vaccination, quarantine of infected animals, vector control, and strict biosecurity practices. Camel Pox does not present a zoonotic concern but can cause significant morbidity and economic losses in camel populations.
         - 22. [[Crimean-Congo Hemorrhagic Fever]] (Zoonotic)
             - Crimean-Congo Hemorrhagic Fever (CCHF) is a viral zoonotic disease caused by the Crimean-Congo Hemorrhagic Fever Virus (CCHFV), a nairovirus. It is transmitted by ticks, primarily Hyalomma spp., and through contact with infected animal blood or tissues. The disease affects livestock such as cattle, sheep, goats, and can also infect humans. CCHF is characterized by sudden onset of fever, myalgia, dizziness, neck pain, backache, headache, sore eyes, photophobia, and in severe cases, hemorrhagic manifestations including petechiae, ecchymosis, and bleeding from mucosal surfaces. Diagnosis is based on clinical signs, PCR, virus isolation, and serological tests. Control measures include tick control, vaccination of livestock where available, safe handling and disposal of animal products, and public health interventions to prevent human infections. Crimean-Congo Hemorrhagic Fever poses a significant zoonotic risk, causing severe hemorrhagic illness in humans with high mortality rates.
-    - Bacterial Diseases
+    - ### Bacterial Diseases
         - 1. [[Glanders]]
             - Glanders is a contagious, acute or chronic, usually fatal disease of Equidae caused by Burkholderia mallei, a pathoadaptive clone derived from B pseudomallei - a gram negative anaerobic bacterium. it is disease characterized by the nodules in the upper respiratory tract, lungs, and skin, purulent nasal discharge, nasal mucosal ulceration, lung lesions, and ulcerating nodules along the subcutaneous lymphatics. Diagnosis is based on presence of nasal ulcers, complement fixation test reaction, positive mallein test, and culture and PCR. Control is based on isolation and culling of affected animals. This organism presents a significant zoonotic concern.
         - 2. [[Contagious Equine Metritis]]
@@ -152,7 +152,7 @@ date: 2024-10-25
             - _Salmonella gallinarum_, a Gram-negative facultative intracellular bacterium, causes Fowl Typhoid. Fowl Typhoid is a systemic, contagious bacterial disease of poultry. Transmission occurs through ingestion of contaminated feed, water, or feces. The disease is characterized by septicemia, high mortality rates, enlarged spleen and liver, airsacculitis, and diarrhea. Clinical signs include lethargy, ruffled feathers, decreased egg production, and sudden death in severe cases. Diagnosis is performed through bacteriological culture, PCR, and serological tests. Control measures include biosecurity measures, vaccination, and culling of infected birds. Fowl Typhoid is not zoonotic but can cause significant losses in poultry populations.
         - 11. [[Q Fever]] (Zoonotic)
             - _Salmonella gallinarum_, a Gram-negative facultative intracellular bacterium, causes Fowl Typhoid. Fowl Typhoid is a systemic, contagious bacterial disease of poultry. Transmission occurs through ingestion of contaminated feed, water, or feces. The disease is characterized by septicemia, high mortality rates, enlarged spleen and liver, airsacculitis, and diarrhea. Clinical signs include lethargy, ruffled feathers, decreased egg production, and sudden death in severe cases. Diagnosis is performed through bacteriological culture, PCR, and serological tests. Control measures include biosecurity measures, vaccination, and culling of infected birds. Fowl Typhoid is not zoonotic but can cause significant losses in poultry populations.
-    - Parasitic Diseases
+    - ### [[Parasitic Diseases]]
         - 1. [[Dourine]]
             - _Trypanosoma equiperdum_, a protozoan parasite, is transmitted sexually or through contaminated instruments. It is a sexually transmitted disease in horses characterized by progressive neurological degeneration, swelling of the genitalia, weakness, and eventual emaciation. **No vaccine is available.**
         - 2. [[Surra ]](Trypanosoma evansi)
@@ -161,7 +161,7 @@ date: 2024-10-25
             - The screwworm is caused by the larvae of the _Cochliomyia hominivorax_ fly, a parasitic species transmitted through open wounds or mucous membranes. It infests live tissues, causing painful, oozing wounds, tissue destruction, and secondary bacterial infections. **No vaccine is available.**
         - 4. [[Leishmaniosis ]]in Canines (Zoonotic)
             - _Leishmania_ species, protozoan parasites, are transmitted by sandflies (_Phlebotomus_ spp.). This zoonotic disease in canines presents symptoms such as skin lesions, hair loss, weight loss, enlarged lymph nodes, anemia, and kidney dysfunction. **Vaccines are available for dogs in some regions, but no vaccine exists for humans.**
-    - Prion Diseases
+    - ### Prion Diseases
         - 1. [[Bovine Spongiform Encephalopathy (BSE)]]
             - caused by _Prion_ proteins (_PrP^Sc_) , Neurodegenerative disease in cattle causing abnormal behavior, loss of coordination, difficulty standing, and death.
         - 2. [[Scrapie]]
