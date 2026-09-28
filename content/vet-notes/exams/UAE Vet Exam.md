@@ -7,6 +7,1584 @@ date: 2024-10-25
 
 - [[Notifiable diseases (UAE)]]
 
+- ## **See below the Questions from the Previous Exams and Answers.**
+    
+    - **Exam pattern and questions:** One hour exam consiting of Long/essay Qs, Short qs, MCQs. Mainly Large animal diseases and regulatory questions.
+- ## **Law and regulatory questions**
+    - **Q.** **The Ministry describes a practitioner vet as someone who can... (5 points) ?**
+        - The article 02 of Ministerial Decree 170 of the year 2003 states that Practitioner Veterinarians are those who are allowed by the ministry to practice and who:
+        - 1. Can **examine** animals, diagnose diseases, or conduct medical analyses.
+        - 2. Can **prescribe** medicines, perform treatments, or carry out surgical operations.
+        - 3. Can offer veterinary **consultations**, issue medical certificates, and prepare medical reports about animal health.
+        - 4. Can **take samples for laboratory analysis**, perform post-mortems, conduct X-rays, and evaluate the results for diagnosis.
+        - 5. Can **sell medicines and chemicals** used for animal treatment.
+    - **Q.** If a vet is **absent** from the veterinary establishment for 60 days, what must the owner do? (2 points) ?
+        - The article 16 of Ministerial Decree (170) of the year 2003 states that:
+        - 1. If the veterinarian of the establishment is absent for sixty days a year, whether consecutive or non-consecutive, the owner must close the establishment and inform the ministry and the relevant authority in the Emirate in writing that an alternative licensed veterinarian is working in the establishment during the colleague’s absence.
+        - 2. The decision of the ministry and the relevant authority should be made within thirty days from the date the owner receives the notice.
+    - **Q.** Legal and ethical obligations and **responsibilities** of the Veterinarian?
+        - The article 18, 19, 20, 21, & 22 of Ministerial Decree (170) of the year 2003 states the responsibilities of the Veterinarian:
+        - 1. The veterinarian must be punctual, honest, and uphold the good manners of the **professionalism**. He must contribute to and cooperate with health and veterinary institutions to maintain the health of humans and animals against zoonotic diseases.
+        - 2. If the veterinarian suspects an epidemic or contagious disease, he must **report it immediately** and inform the relevant bodies in the ministry and the Emirate to take the necessary precautionary measures. Additionally, he must investigate the contact information of the animal's owner.
+        - 3. If a veterinarian's **negligence** causes offense or harm to an animal due to lack of knowledge or experience, a show cause notice will be sent by the technical committee of the ministry. However, the veterinarian can appeal the technical committee's decision to the Minister.
+        - 4. Only veterinarians are permitted to prepare, issue, or alter medical **prescriptions**. Moreover, the concerned establishment must retain prescriptions subject to medicinal control for one year from their date of issuance.
+        - 5. The establishment and the veterinarian must comply with all decisions issued by the relevant authorities regarding veterinary medications.
+    - **Q.** **Punishment** for practicing vet medicine without a license?
+        - **Article 23 of Ministerial Decree No. 170 of 2003 states the punishment for a veterinarian or an assistant veterinarian as below:**
+            - Considering the punishments stipulated by the punitive law, he or she shall be imprisoned for a period not less than one calendar year and not exceeding three calendar years. Additionally, the individual will be fined a minimum of one thousand dirhams and a maximum of ten thousand dirhams. **Imprison (>1 ... <3Y) - Fine (3K - 10K AED)**
+            - In all cases, the court shall decide to close the establishment and confiscate all equipment and tools related to this profession.
+            - Accordingly, the license to practice the profession shall be considered cancelled, and the individual's name will be removed from the list of veterinarians effective from the final court decision for those who:
+            - 1. Have **not obtained a veterinary practice license** or any of the assistant profession licenses under his career.
+            - 2. Have submitted **forged documents** or data, or have used illegal means to obtain a license to practice the veterinary profession or any of the assistant professions.
+            - 3. Are unlicensed to practice the veterinary profession or any of the assistant professions and have used bulletins, banners, or any other means of publication with the intent to deceive the public. **Publiscied themselves without a license**
+        - **Article 24 of Ministerial Decree No. 170 of 2003 states:** Punishment if eligible for the license but still practicing without obtaining one?
+            - All veterinarians who have the legal right to obtain a practicing license and have practiced the profession before obtaining it shall be fined a minimum of one thousand dirhams and a maximum of five thousand dirhams.
+    - If FMD is suspected, what must the vet do first? (2 points) ?
+        - 1. Isolate the suspected cases, do not relocate the animals.
+        - 2. Immediately report the disease to the nearest point of contact for the authorities concerned with animal health in the emirate. The disease must be reported in the UAE according to Federal Law No. 8 of 2013 on the prevention and control of contagious and epidemic animal diseases.
+    - Disease reporting by the owner and the vet ?
+        - Articles 03, 04, 05, 06 & 07 of Ministerial Decision No. 275/2017 Regarding Disease Reporting:
+        - 1. Both the animal’s owner and the veterinarian shall report notifiable animal diseases to the Ministry or the Police Station.
+        - 2. The competent authority and the Police Station that receive the notification shall also notify the Ministry of the disease within 24 hours. The Ministry shall immediately verify the validity of the said notification.
+        - 3. The Minister shall issue a decision on declaring any infected zone. Said zone shall not be considered disease-free until the Minister issues a decision on this matter.
+        - 4. Moreover, the health conditions of animals are prohibited from being unveiled by the media without the Minister’s approval on the said matter.
+        - 5.The Ministry shall, upon receiving the notification, inform the Health Authority in order to take the necessary procedures and measures if any common diseases emerge.
+    - Responsibilities of the Ministry Regarding Prevention Procedures for Animal Diseases?
+        - **Article 08 of Ministerial Decision No. 275/2017 Regarding Prevention Procedures for Animal Diseases:**
+        - The Ministry shall perform the following tasks in cooperation with the competent authority:
+        - 1. Proceed with the Epidemiological Surveillance Program, conduct necessary tests to diagnose diseases, and apply required health procedures.
+        - 2. Raise awareness of animal diseases, their prevention, and their control.
+        - 3. Develop a program that includes a list of diseases requiring immunization, as well as the necessary prevention and health procedures.
+        - 4. Establish and maintain data on livestock and their populations.
+        - 5. Immunize animals against diseases and authorize others to perform immunizations provided that they are medically supervised.
+    - **Responsibility of the Competenet Authority, Ministry and Govt. Vet regarding Control of Animal Diseases?**
+        - Articles 09, 10, 11, 12, 13, 14, 15 & 16 of Ministerial Decision No. 275/2017 Regarding Control of Animal Diseases:
+        - 1. The competent authority shall take the necessary procedures stipulated in the implementing regulations of this Law upon detecting an infected zone.
+        - 2. Animals that are sick or suspected to be infected with any notifiable disease shall be isolated. The animal’s owner shall bear all food expenses during the isolation period.
+        - 3. It shall be prohibited to send pathological samples outside the country, import them, or conduct scientific tests on animals without prior approval from the Ministry.
+        - 4. The Ministry or the competent authority shall order the safe disposal of animals that have been proven to be infected with a contagious, epidemic, or common disease.
+        - 5. It shall be prohibited to trade or dispose of animals that are sick or suspected to be infected, or their products and wastes.
+        - 6. It shall be prohibited to dispose of dead or slaughtered animals, or any parts thereof, on roads, outdoors, in water sources or nearby, sewage, ponds, dams, valleys, and regional waters of the country.
+        - 7. If an animal dies due to disease, the governmental veterinarian or the veterinarian shall immediately issue the necessary instructions to safely dispose of the dead animal, its wastes, or any related tools and items, according to the provisions of the implementing regulations of this Law.
+        - **The governmental veterinarian shall take the following procedures:**
+            - 1. Reserve the animal that is sick or suspected to be infected.
+            - 2. Prohibit the sale, transport, or exchange of any products from sick animals or those suspected to be infected.
+            - 3. Examine any animal, immunize it, and take samples to perform tests deemed appropriate. The veterinarian may enter any establishment for this purpose.
+            - 4. Apply health procedures at establishments where sick or suspected animals are present.
+            - 5. Ensure that sterilization operations are conducted properly.
+            - 6. Perform any other procedures prescribed by the implementing regulations of this Law.
+    - Practitioner veterinarian qualification eligibility?
+        - The article 03 of Ministerial Decree (170) of the year 2003 states that Practitioner veterinarian shall have the following:
+        - 1. Bachelor's degree in Veterinary Medicine and Animal Treatment from a university recognized by the UAE.
+        - 2. A minimum of five years of practical experience is required to obtain a license as a Practitioner Veterinarian for expatriates, and a minimum of two years of experience is required for UAE citizens.
+        - 3. A minimum of one year of practical experience is required to obtain a trade license in Veterinary Medications (Veterinary Pharmacy). UAE citizens are exempt from this requirement.
+        - 4. Applicants wishing to practice in the field of animal treatment or laboratory diagnostics must successfully pass the tests and written exams administered by the technical committee. UAE citizens are exempt from this condition. Additionally, applicants for a trade license in veterinary medications need only submit their degrees and UAE equivalencies.
+- ## **Notifiable Diseases by Law?** See the short description of each disease.
+    
+    - You just need to enlist the diseases but I have added some context that might help with other short questions)
+    - List of Notifiable Diseases Stated by Federal Law No. 8 of 2013 Regarding the Prevention and Control of Contagious and Epidemic Animal Diseases
+    - Viral Diseases
+        - 1. [[African Horse Sickness]]
+            - African Horse Sickness is a highly contagious, often fatal disease of Equidae caused by the African horse sickness virus, an orbivirus. It is transmitted primarily by Culicoides spp. midges. The disease is characterized by high fever, respiratory distress, swelling of the head and neck, and sudden death. Diagnosis is based on clinical signs, virus isolation, PCR, and serological assays. Control measures include vector control, quarantine of infected animals, and vaccination where available. This disease does not typically present a significant zoonotic concern.
+        - 2. [[Equine Encephalomyelitis]]
+            - Equine Encephalomyelitis encompasses a group of viral diseases caused by Eastern, Western, and Venezuelan equine encephalitis viruses, which are alphaviruses transmitted by mosquitoes (Culex and Aedes species). These diseases are characterized by sudden onset of fever, neurological signs such as incoordination, ataxia, seizures, and sometimes death. Diagnosis is based on clinical signs, serology, PCR, and virus isolation. Control involves mosquito control, vaccination of susceptible horse populations, and minimizing exposure to vectors. These diseases are not considered zoonotic.
+        - 3. [[Equine Viral Arteritis]]
+            - Equine Viral Arteritis is a contagious, acute viral disease of horses caused by the Equine Viral Arteritis virus, an arterivirus. It is transmitted via respiratory secretions, venereal routes, and contaminated fomites. The disease is characterized by fever, nasal discharge, conjunctivitis, edema of the head and neck, and abortion in pregnant mares. Diagnosis is based on serological tests, PCR, and virus isolation. Control measures include isolation of infected animals, vaccination of stallions to eliminate carrier status, and biosecurity practices. Equine Viral Arteritis is not zoonotic.
+        - 4. [[Equine Infectious Anaemia]]
+            - Equine Infectious Anaemia (EIA) is a chronic, contagious disease of horses caused by the Equine Infectious Anaemia virus (EIAV), a retrovirus. It is transmitted primarily by biting flies such as Tabanidae and Stomoxys spp. The disease presents in acute, chronic, or inapparent forms, characterized by intermittent fever, anemia, swelling of lymph nodes, weight loss, and in severe cases, death. Diagnosis is based on serological tests like the Coggins test (agar gel immunodiffusion) and PCR. Control involves testing and culling of infected animals, insect control, and movement restrictions. EIA does not present a zoonotic concern.
+        - 5. [[Equine Influenza]]
+            - Equine Influenza is a highly contagious respiratory disease of horses caused by equine influenza virus (EIV), an orthomyxovirus. It is transmitted through respiratory droplets and fomites. The disease is characterized by sudden onset of high fever, coughing, nasal discharge, lethargy, and loss of appetite. Diagnosis is based on clinical signs, virus isolation, PCR, and serology. Control measures include vaccination, quarantine of affected horses, and strict biosecurity practices to prevent spread. Equine Influenza is not zoonotic.
+        - 6. [[Equine Rhinopneumonitis]]
+            - Equine Rhinopneumonitis, also known as Equine Herpesvirus-1 (EHV-1) infection, is a contagious respiratory disease of horses caused by EHV-1, a herpesvirus. It is transmitted via respiratory secretions and direct contact. The disease is characterized by fever, nasal discharge, coughing, neurological signs (in cases of neurological form), abortion in pregnant mares, and sometimes sudden death. Diagnosis is based on clinical signs, PCR, virus isolation, and serology. Control involves vaccination, isolation of infected animals, and biosecurity measures. EHV-1 can occasionally infect humans, but it is not considered a significant zoonotic threat.
+        - 7. [[Japanese Encephalitis]] (Zoonotic)
+            - Japanese Encephalitis is a viral zoonotic disease caused by the Japanese encephalitis virus (JEV), a flavivirus. It is transmitted by Culex mosquitoes, primarily Culex tritaeniorhynchus. The disease affects horses, pigs, and humans, with horses serving as dead-end hosts. It is characterized by acute fever, neurological signs such as ataxia, seizures, paralysis, and sometimes death. Diagnosis is based on clinical signs, serology (IgM antibodies), PCR, and virus isolation. Control measures include mosquito control, vaccination of horses and pigs, and public health interventions to reduce human infections. Japanese Encephalitis is a significant zoonotic concern, causing severe neurological disease in humans.
+        - 8. [[West Nile Fever]] (Zoonotic)
+            - West Nile Fever is a viral zoonotic disease caused by the West Nile virus (WNV), a flavivirus. It is transmitted by Culex mosquitoes, primarily Culex pipiens. The disease affects birds, horses, and humans, with birds being the primary reservoirs. It is characterized by fever, neurological signs such as ataxia, weakness, paralysis, and in severe cases, death. Diagnosis is based on clinical signs, serology (IgM antibodies), PCR, and virus isolation. Control involves mosquito control, vaccination of horses, and public health measures to prevent human infections. West Nile Fever poses a significant zoonotic risk, potentially causing severe neurological disease in humans.
+        - 9. [[Vesicular Stomatitis]]
+            - Vesicular Stomatitis is a viral, contagious disease affecting cattle, horses, and pigs, caused by Vesicular Stomatitis virus (VSV), a rhabdovirus. It is transmitted through biting flies, fomites, and direct contact. The disease is characterized by vesicles in the mouth, tongue, teats, and coronary bands, along with fever, lameness, and decreased milk production. Diagnosis is based on clinical signs, virus isolation, PCR, and serology. Control measures include quarantine, movement restrictions, vector control, and disinfection of contaminated premises. Vesicular Stomatitis does not present a zoonotic concern but is significant due to its clinical similarity to other vesicular diseases like Foot and Mouth Disease.
+        - 10. [[Rabies ]](Zoonotic)
+            - Rabies is an acute, fatal viral zoonotic disease caused by the Rabies virus, a lyssavirus. It is transmitted through the saliva of infected animals via bites or scratches. The disease affects all warm-blooded animals, including humans. Rabies is characterized by neurological signs such as agitation, hydrophobia, paralysis, and coma, leading to death if untreated. Diagnosis is confirmed through direct fluorescent antibody testing, PCR, and serology. Control involves vaccination of animals, post-exposure prophylaxis in humans, and public education on preventing exposure. Rabies is a significant zoonotic concern, causing fatal encephalitis in humans.
+        - 11. [[Foot and Mouth Disease]]
+            - Foot and Mouth Disease (FMD) is a highly contagious viral disease affecting cloven-hoofed animals, caused by the Foot and Mouth Disease Virus (FMDV), an aphthovirus. It is transmitted through aerosols, direct contact, fomites, and contaminated feed. The disease is characterized by fever, vesicles in the mouth and on the feet, lameness, drooling, and decreased milk production. Diagnosis is based on clinical signs, virus isolation, PCR, and serology. Control measures include vaccination, movement restrictions, quarantine, culling of infected and exposed animals, and strict biosecurity practices. FMD is not considered zoonotic but has severe economic implications due to trade restrictions and production losses.
+        - 12. [[Lumpy Skin Disease]]
+            - Lumpy Skin Disease (LSD) is a viral disease of cattle caused by the Lumpy Skin Disease Virus (LSDV), a capripoxvirus. It is transmitted by biting insects such as mosquitoes, flies, and ticks. The disease is characterized by fever, nodules on the skin, enlarged lymph nodes, nasal discharge, conjunctivitis, and sometimes abortion in pregnant cows. Diagnosis is based on clinical signs, PCR, virus isolation, and serology. Control involves vaccination, vector control, movement restrictions, and culling of affected animals. LSD does not present a zoonotic concern but has significant economic impacts on the cattle industry.
+        - 13. [[Bluetongue]]
+            - Blue Tongue is a viral disease of ruminants caused by the Blue Tongue Virus (BTV), a Reovirus. It is transmitted by Culicoides spp. midges. The disease primarily affects sheep, cattle, goats, and deer. Clinical signs include fever, excessive salivation, swelling of the face and tongue (which may appear blue), lameness, and weight loss. Diagnosis is based on clinical signs, PCR, virus isolation, and serology. Control measures include vaccination, vector control, and movement restrictions. Blue Tongue is not considered zoonotic but can cause significant morbidity and mortality in affected animal populations.
+        - 14. [[Rinderpest]]
+            - Rinderpest, also known as cattle plague, was a highly contagious viral disease of cattle and other cloven-hoofed animals caused by the Rinderpest Virus (RPV), a morbillivirus. It was transmitted through direct contact, aerosols, and fomites. The disease was characterized by high fever, oral erosions, diarrhea, lymphoid necrosis, and high mortality rates. Rinderpest has been declared eradicated globally as of 2011 through successful vaccination and control programs. Thus, vaccination is no longer applicable, and the disease does not pose a current zoonotic concern.
+        - 15. [[Peste des Petits Ruminants (PPR)]] or [[Ovine Rinderpest]]
+            - Peste des Petits Ruminants (PPR), also known as Ovine Rinderpest, is a highly contagious viral disease affecting small ruminants such as sheep and goats. It is caused by the Peste des Petits Ruminants Virus (PPRV), a morbillivirus, and is transmitted through direct contact, aerosols, and fomites. The disease is characterized by fever, ocular and nasal discharge, oral lesions, diarrhea, pneumonia, and high mortality rates in young animals. Diagnosis is based on clinical signs, PCR, virus isolation, and serological tests. Control measures include vaccination, movement restrictions, quarantine of affected flocks, and culling of infected animals. PPR does not present a zoonotic concern but has significant economic impacts on small ruminant industries.
+        - 16. [[Rift Valley Fever]] (Zoonotic)
+            - Rift Valley Fever (RVF) is a viral zoonotic disease caused by the Rift Valley Fever Virus (RVFV), a phlebovirus. It is transmitted by mosquitoes, particularly Aedes and Culex species, as well as through contact with infected animal tissues. The disease affects cattle, sheep, goats, camels, and humans. RVF is characterized by fever, hemorrhagic manifestations, ocular disease, encephalitis, and high rates of abortion in pregnant animals. Diagnosis is based on clinical signs, PCR, virus isolation, and serological assays. Control measures include mosquito control, vaccination of livestock, movement restrictions, and public health interventions to prevent human infections. Rift Valley Fever poses a significant zoonotic risk, capable of causing severe illness in humans, including hemorrhagic fever and neurological complications.
+        - 17. [[Sheep & Goat Pox]]
+            - Sheep & Goat Pox is a viral disease caused by the Sheep Pox Virus (SPPV) and Goat Pox Virus (GTPV), both capripoxviruses. It is transmitted through direct contact, aerosols, and fomites, as well as by biting insects. The disease is characterized by fever, nodules on the skin, respiratory distress, and lymphadenopathy. Clinical signs include pustular lesions on the mucous membranes of the mouth, respiratory tract, and on the skin of the limbs and torso. Diagnosis is based on clinical signs, PCR, virus isolation, and serological tests. Control measures include vaccination, quarantine of infected animals, vector control, and movement restrictions. Sheep & Goat Pox does not present a zoonotic concern but can cause significant morbidity and mortality in affected herds.
+        - 18. [[Newcastle Disease]]
+            - Newcastle Disease (ND) is a highly contagious viral disease of birds caused by the Newcastle Disease Virus (NDV), a paramyxovirus. It is transmitted through direct contact, aerosols, and fomites. The disease affects a wide range of bird species, including domestic poultry and wild birds. Clinical signs vary based on the virulence of the strain but generally include respiratory distress, nervous manifestations (tremors, paralysis, twisted neck), digestive disturbances, and high mortality rates in severe cases. Diagnosis is based on clinical signs, PCR, virus isolation, and serological tests. Control measures involve vaccination, biosecurity practices, quarantine of affected flocks, and culling of infected birds. Newcastle Disease does not present a significant zoonotic concern but can cause substantial economic losses in the poultry industry.
+        - 19. [[Avian Influenza]] (Zoonotic)
+            - Avian Influenza (AI) is a viral zoonotic disease caused by Avian Influenza Viruses (AIV), which are type A influenza viruses. It is transmitted through direct contact with infected birds, aerosols, and contaminated environments. The disease affects domestic poultry and wild birds, with certain strains posing a risk to humans. Clinical signs in birds include respiratory distress, decreased egg production, swollen wattles, conjunctivitis, and high mortality rates in highly pathogenic strains. In humans, AI can cause severe respiratory illness and has pandemic potential. Diagnosis is based on clinical signs, PCR, virus isolation, and serological assays. Control measures include vaccination of poultry, culling of infected flocks, movement restrictions, and biosecurity practices. Avian Influenza is a significant zoonotic concern, particularly with highly pathogenic strains like H5N1 and H7N9, which can cause severe disease in humans.
+        - 20. [[Infectious Laryngotracheitis]]
+            - Infectious Laryngotracheitis (ILT) is a highly contagious respiratory disease of chickens caused by the Infectious Laryngotracheitis Virus (ILTV), a herpesvirus. It is transmitted through direct contact, aerosols, and fomites. The disease is characterized by acute onset of fever, dyspnea (difficulty breathing), coughing, sneezing, and mucosal lesions in the upper respiratory tract. Clinical signs include conjunctivitis, nasal discharge, and swelling of the comb and wattles. Diagnosis is based on clinical signs, PCR, virus isolation, and serological tests. Control measures include vaccination, strict biosecurity practices, and culling of infected birds. Infectious Laryngotracheitis does not present a zoonotic concern but can cause significant production losses in poultry flocks.
+        - 21. [[Camel Pox Virus]]
+            - Camel Pox is a viral disease of camels caused by the Camel Pox Virus (CMLV), a capripoxvirus. It is transmitted through direct contact, aerosols, and fomites, as well as by biting insects. The disease is characterized by fever, nodular lesions on the skin, mucous membranes, and respiratory distress. Clinical signs include pock-like lesions on the nose, mouth, teats, and udders, along with swelling of the lymph nodes and decreased milk production. Diagnosis is based on clinical signs, PCR, virus isolation, and serological tests. Control measures include vaccination, quarantine of infected animals, vector control, and strict biosecurity practices. Camel Pox does not present a zoonotic concern but can cause significant morbidity and economic losses in camel populations.
+        - 22. [[Crimean-Congo Hemorrhagic Fever]] (Zoonotic)
+            - Crimean-Congo Hemorrhagic Fever (CCHF) is a viral zoonotic disease caused by the Crimean-Congo Hemorrhagic Fever Virus (CCHFV), a nairovirus. It is transmitted by ticks, primarily Hyalomma spp., and through contact with infected animal blood or tissues. The disease affects livestock such as cattle, sheep, goats, and can also infect humans. CCHF is characterized by sudden onset of fever, myalgia, dizziness, neck pain, backache, headache, sore eyes, photophobia, and in severe cases, hemorrhagic manifestations including petechiae, ecchymosis, and bleeding from mucosal surfaces. Diagnosis is based on clinical signs, PCR, virus isolation, and serological tests. Control measures include tick control, vaccination of livestock where available, safe handling and disposal of animal products, and public health interventions to prevent human infections. Crimean-Congo Hemorrhagic Fever poses a significant zoonotic risk, causing severe hemorrhagic illness in humans with high mortality rates.
+    - Bacterial Diseases
+        - 1. [[Glanders]]
+            - Glanders is a contagious, acute or chronic, usually fatal disease of Equidae caused by Burkholderia mallei, a pathoadaptive clone derived from B pseudomallei - a gram negative anaerobic bacterium. it is disease characterized by the nodules in the upper respiratory tract, lungs, and skin, purulent nasal discharge, nasal mucosal ulceration, lung lesions, and ulcerating nodules along the subcutaneous lymphatics. Diagnosis is based on presence of nasal ulcers, complement fixation test reaction, positive mallein test, and culture and PCR. Control is based on isolation and culling of affected animals. This organism presents a significant zoonotic concern.
+        - 2. [[Contagious Equine Metritis]]
+            - _Taylorella equigenitalis_, a Gram-negative facultative anaerobic bacterium, causes Contagious Equine Metritis (CEM). CEM is a highly contagious, acute reproductive disease affecting mares and stallions. It is transmitted primarily through artificial insemination and direct contact. The disease is characterized by acute endometritis, abnormal vaginal discharge, fever, and infertility in mares. Diagnosis is achieved through culture, PCR, and serological assays. Control measures include quarantine of affected animals, disinfection of reproductive equipment, and culling of infected stallions. There is no available vaccine for CEM, and it does not present a zoonotic risk.
+        - 3. [[Leptospirosis]](Zoonotic)
+            - _Leptospira interrogans_ serovars are the causative agents of Leptospirosis, a zoonotic, acute or chronic disease affecting various animals including dogs, cattle, and rodents. It is transmitted via direct contact with infected urine or contaminated water and soil. Leptospirosis is characterized by fever, jaundice, renal dysfunction, hemorrhage, and in severe cases, death. Clinical signs vary based on the affected organ systems, including liver, kidneys, and central nervous system. Diagnosis is based on serological tests such as the Microscopic Agglutination Test (MAT), PCR, and culture. Control involves vaccination, rodent control, and minimizing exposure to contaminated environments. Leptospirosis poses a significant zoonotic concern, capable of causing severe illness in humans.
+        - 4. [[Paratuberculosis]]
+            - _Mycobacterium avium_ subspecies _paratuberculosis_ (MAP), an acid-fast bacillus, is the causative agent of Paratuberculosis, also known as Johne's Disease. This chronic, contagious disease primarily affects ruminants such as cattle, sheep, and goats. It is transmitted via ingestion of contaminated feed, water, or through the environment. Paratuberculosis is characterized by chronic diarrhea, weight loss, decreased milk production, and eventual death. Clinical signs include progressive emaciation, decreased appetite, and poor body condition. Diagnosis is based on fecal culture, PCR, serological assays, and histopathological examination of intestinal tissues. Control measures include testing and culling of infected animals, herd management practices to reduce transmission, and maintaining good sanitation. Paratuberculosis is not considered zoonotic but poses significant economic losses in livestock industries.
+        - 5. [[Anthrax]](Zoonotic)
+            - _Bacillus anthracis_, a Gram-positive, spore-forming bacterium, is the causative agent of Anthrax. Anthrax is an acute, highly contagious, and often fatal zoonotic disease affecting herbivorous animals such as cattle, sheep, goats, and wildlife. Transmission occurs through ingestion or inhalation of spores from contaminated soil or vegetation. Anthrax is characterized by sudden death with minimal premonitory symptoms, blood-filled blisters on the skin (cutaneous anthrax), severe respiratory distress (inhalational anthrax), and gastrointestinal symptoms (gastrointestinal anthrax). Diagnosis is confirmed through bacteriological culture, PCR, and serological tests. Control involves vaccination of livestock, proper disposal of carcasses, and implementing strict biosecurity measures. Anthrax is a significant zoonotic concern, as it can be transmitted to humans, leading to severe illness or death.
+        - 6. [[Contagious Pleuropneumonia]]
+            - _Mycoplasma mycoides_ subspecies _mycoides_, a wall-less Gram-negative bacterium, causes Contagious Pleuropneumonia (CPP). CPP is a highly contagious, acute to chronic respiratory disease of cattle. Transmission occurs via respiratory secretions and direct contact between infected and susceptible animals. The disease is characterized by fever, severe respiratory distress, coughing, nasal discharge, pleuritis, and high mortality rates in acute cases. Clinical signs include rapid onset of labored breathing, increased respiratory rate, and depression. Diagnosis is based on clinical signs, serological tests, PCR, and culture. Control measures include vaccination, quarantine of infected animals, and movement restrictions. CPP is not zoonotic but causes significant economic losses in the cattle industry.
+        - 7. [[Brucellosis]](Zoonotic)
+            - _Brucella abortus_ and _Brucella melitensis_, Gram-negative coccobacilli, are the causative agents of Brucellosis. Brucellosis is a chronic, contagious, zoonotic disease affecting various livestock including cattle, sheep, goats, and pigs. Transmission occurs through ingestion of contaminated feed, contact with infected animals, or inhalation of aerosols. The disease is characterized by abortion, infertility, orchitis in males, and arthritis. Infected animals may show intermittent fever, lethargy, and decreased milk production. Diagnosis is performed using serological tests such as the Rose Bengal Test, Complement Fixation Test, PCR, and culture. Control measures involve vaccination, test-and-slaughter programs, and implementing biosecurity measures. Brucellosis poses a significant zoonotic risk, capable of causing undulant fever in humans.
+        - 8. [[Tuberculosis ]](Zoonotic) - [[Paratuberculosis]]
+            - _Mycobacterium bovis_, an acid-fast bacillus, is the causative agent of Tuberculosis (TB). TB is a chronic, contagious, and zoonotic disease primarily affecting cattle, deer, and other mammals, including humans. Transmission occurs through inhalation or ingestion of contaminated materials. In animals, TB is characterized by weight loss, chronic cough, lethargy, and emaciation. Infected animals may also exhibit decreased milk production and poor body condition. Diagnosis is based on skin tests (such as the tuberculin test), culture, PCR, and histopathological examination. Control measures include test-and-slaughter policies, vaccination (where applicable), and strict movement controls. Tuberculosis is a significant zoonotic concern, as it can cause severe respiratory illness in humans.
+        - 9. [[Fowl Cholera]]
+            - _Pasteurella multocida_, a Gram-negative facultative anaerobic bacterium, is the causative agent of Fowl Cholera. Fowl Cholera is an acute, highly contagious bacterial disease of poultry. Transmission occurs through direct contact with infected birds, contaminated environments, or carriers. The disease is characterized by sudden death, respiratory distress, swollen wattles, nasal discharge, swollen joints, and sinuses. Clinical signs include respiratory distress, difficulty breathing, and sudden mortality spikes in flocks. Diagnosis is based on clinical signs, bacteriological culture, PCR, and serological tests. Control measures involve good hygiene practices, vaccination, and culling of affected flocks. Fowl Cholera poses a significant economic threat to the poultry industry but is not considered zoonotic.
+        - 10. [[Fowl Typhoid]]
+            - _Salmonella gallinarum_, a Gram-negative facultative intracellular bacterium, causes Fowl Typhoid. Fowl Typhoid is a systemic, contagious bacterial disease of poultry. Transmission occurs through ingestion of contaminated feed, water, or feces. The disease is characterized by septicemia, high mortality rates, enlarged spleen and liver, airsacculitis, and diarrhea. Clinical signs include lethargy, ruffled feathers, decreased egg production, and sudden death in severe cases. Diagnosis is performed through bacteriological culture, PCR, and serological tests. Control measures include biosecurity measures, vaccination, and culling of infected birds. Fowl Typhoid is not zoonotic but can cause significant losses in poultry populations.
+        - 11. [[Q Fever]] (Zoonotic)
+            - _Salmonella gallinarum_, a Gram-negative facultative intracellular bacterium, causes Fowl Typhoid. Fowl Typhoid is a systemic, contagious bacterial disease of poultry. Transmission occurs through ingestion of contaminated feed, water, or feces. The disease is characterized by septicemia, high mortality rates, enlarged spleen and liver, airsacculitis, and diarrhea. Clinical signs include lethargy, ruffled feathers, decreased egg production, and sudden death in severe cases. Diagnosis is performed through bacteriological culture, PCR, and serological tests. Control measures include biosecurity measures, vaccination, and culling of infected birds. Fowl Typhoid is not zoonotic but can cause significant losses in poultry populations.
+    - Parasitic Diseases
+        - 1. [[Dourine]]
+            - _Trypanosoma equiperdum_, a protozoan parasite, is transmitted sexually or through contaminated instruments. It is a sexually transmitted disease in horses characterized by progressive neurological degeneration, swelling of the genitalia, weakness, and eventual emaciation. **No vaccine is available.**
+        - 2. [[Surra ]](Trypanosoma evansi)
+            - **Surra (Trypanosoma evansi):** _Trypanosoma evansi_, a protozoan parasite, is transmitted by biting flies such as Tabanidae. Surra affects various animals including camels, horses, and cattle, leading to intermittent fever, anemia, edema, weakness, and sometimes sudden death. **No widely available vaccine exists.**
+        - 3. [[Screwworm]]
+            - The screwworm is caused by the larvae of the _Cochliomyia hominivorax_ fly, a parasitic species transmitted through open wounds or mucous membranes. It infests live tissues, causing painful, oozing wounds, tissue destruction, and secondary bacterial infections. **No vaccine is available.**
+        - 4. [[Leishmaniosis ]]in Canines (Zoonotic)
+            - _Leishmania_ species, protozoan parasites, are transmitted by sandflies (_Phlebotomus_ spp.). This zoonotic disease in canines presents symptoms such as skin lesions, hair loss, weight loss, enlarged lymph nodes, anemia, and kidney dysfunction. **Vaccines are available for dogs in some regions, but no vaccine exists for humans.**
+    - Prion Diseases
+        - 1. [[Bovine Spongiform Encephalopathy (BSE)]]
+            - caused by _Prion_ proteins (_PrP^Sc_) , Neurodegenerative disease in cattle causing abnormal behavior, loss of coordination, difficulty standing, and death.
+        - 2. [[Scrapie]]
+            - caused by _Prion_ proteins (_PrP^Sc_) , Intense itching (pruritus), behavioral changes, loss of coordination, tremors, and progressive paralysis in sheep and goats.
+- ## **MCQs - One liners**
+    
+    - Caprine disease with ulcers in hairless areas of the skin? #[[Sheep & Goat Pox]]
+    - Poultry disease with edema of wattles, cyanosis, and death? #[[Newcastle Disease]]
+    - Name a disease that causes abortion in women from cats? #[[Toxoplasmosis]]
+    - Name a zoonotic poultry disease that can be fatal in humans? #[[Avian Influenza]] - (particularly highly pathogenic strains such as H5N1 and H7N9).
+    - Equine disease with mucopurulent nasal discharge, a crusted muzzle, and nodules in the nasal mucosa? #Glanders
+    - Bovine disease with nodules all over the skin, mortalities, and rhinitis? #[[Lumpy Skin Disease]]
+    - What organism causes Pullorum?
+        - _Salmonella enterica_ serotype Pullorum
+    - What antibody level must be present for export purposes for a Rabies Neutralising Antigen Test?
+        - Ans: 0.5 IU/ml
+    - Blue Tongue is spread by mosquitoes. True/False
+        - False - Blue Tongue is primarily spread by Culicoides midges (biting flies), not mosquitoes. While both are arthropod vectors, midges are the main transmitters of the Blue Tongue virus.
+    - On arrival at the abattoir, a carcass is showing signs of pneumonia. Is the carcass accepted or turned away? True or False?
+        - True - turned away
+    - What type of vaginal epithelial cells are present in dioestrus?
+        - columnar epithelial cells
+    - Rinderpest causes eruptions on the nose and feet. - True/False
+        - Conflicting data - Rinderpest is characterized by high fever, oral erosions, diarrhea, dehydration, and lymphoid necrosis. It does not typically cause eruptions on the nose and feet; those are more characteristic of Foot and Mouth Disease.
+    - Haemorrhagic septicaemia is a disease of ruminants, pigs, and camelids. - True/False
+        - True
+- ## **Short Questions and Terminologies**
+    
+    - [[Parameters]]
+    - Camel vaccine?
+        - Clostridial and pastruella at the age of 14d, 42d, 6 months, annual
+        - Camel pox at the age of 6m, then annual booster
+    - Rabies vaccine frequency? 3:1:3 > First at the age of 3 months then annual booster
+    - Cats vaccination schedule? 8w > 12w > 16w > 1Y > 3Y
+        - Once the kitten is around 6-8 weeks old, first dose is administered every 3-4 weeks, until the kitten is16 weeks old. After this, periodic boosters should be repeated annually, and then every three years.
+        - Core: Feline Distemper (panleukopenia, FPV) , Feline Calicivirus, Feline Herpesvirus Type I (an upper respiratory disease), Rabies . Feline leukemia virus (FeLV) - considered a core vaccine in kittens and one-year-old cats.
+        - Non-core: Feline Leukemia Virus, Bordetella, Chylamydophila Felis, Feline Immunodeficiency Virus
+    - Dogs vaccination?
+        - Core: DHLPP -
+            - **Rabies:** Rabies are a very common virus that attack dogs and can turn them violent. To keep them safe, your dogs need to be given the rabies vaccine at 3-months of age, and then one each year after that. 
+            - **Canine Distemper Virus (CDV):** Distemper is a viral disease in dogs that can cause deadly breathing problems, and affect your dog’s nervous system. To keep your canine friends safe, the CDV vaccines needs to be given between the age of 6-16 weeks: 2 doses which are given 4 weeks apart.
+            - **Canine Parvo Virus:** This virus affects your puppy’s stomach and to save them from continued stomach problems, the vaccine for this needs to be given between 6-16 weeks of age. 
+            - **Infectious Canine Hepatitis: Adenovirus-Type 1, Adenovirus-Type 2**; Just like humans, our dogs need to be protected against hepatitis which affects their livers and can cause severe breathing problems.
+        - puppies receive a series of DHPPi/L vaccinations starting at **around 6 to 8 weeks of age**, with subsequent doses administered **every 2-4 weeks until they reach 16 weeks old**. Adult dogs require regular booster shots to maintain immunity, usually given annually.
+        - DHPPi/L: Distemper ,Hepatitis (Adenovirus Type 2), Parvovirus, Parainfluenza, Leptospirosis
+        - CANIGEN® DHPPi is a modified live vaccine containing canine distemper virus, infectious canine hepatitis, canine parvovirus and canine parainfluenza virus, inactivated L. Canicola and L. Icterohaemorrhagiae.
+        - Puppies receive a standard schedule of vaccinations during their first year of life. First vaccinations begin at 6 weeks of age, this is the puppy vaccination, which protects them from Distemper, Hepatitis & Parvo Virus. At 9 and 12 weeks the Puppy will receive boosters for Parvo, Hepatitis & Distemper but will now also be vaccinated against Leptospirosis and Parainfluenza.
+        - The Rabies vaccine is given at 12 weeks old. After this initial year, the core vaccinations of Rabies, Parvovirus, Adenovirus, and Distemper should be administered annually, biannually or every three years depending on the brand used and the registration of the vaccine, besides the rules and regulations of the country.
+        - Non-core:
+            - Parainfluenza: The vaccine for this virus keeps your dog safe from ‘canine cough’ and should be given to them between the age of 6-8 weeks.
+            - Bordetella bronchiseptica: This virus also causes severe breathing problems in dogs, along with the infamous ‘kennel cough’. 2 vaccines, at any time in their early years, need to b given to keep them safe and healthy.
+            - Lyme disease
+            - Leptospirosis
+            - Canine influenza
+    - Cats and Dog anesthetics? [[Canine & Feline Anesthesia]]
+        - Pre-anesthetics: Acepromazine, Diazepam/Midazolam,
+        - Induction: Ketamine, propofol, thiopental
+        - Inhalation: Sev, Iso, Halo
+    - Name three different classes of anesthetic drugs and explain how they work?
+        - **Local Anesthetics:** lidocaine and bupivacaine, block nerve conduction by inhibiting voltage-gated sodium channels on neuronal cell membranes.
+        - **Intravenous (IV) Anesthetics:** propofol, thiopental, and ketamine
+        - **Inhalational Anesthetics:** Iso and Sevo - administered as gases or vapors
+    - **Q. [[Analgesics, Sedatives, and Anesthetics Used in Reptiles]]?** #ANESTHESIA
+        - Premedication: Medazolam 1–2 mg/kg, IM
+            - Tortoises, lizards, snakes. Tiletamine/zolazepam 3–12 mg/kg, IM
+            - [[Morphine]] is not analgesic for snakes. Causes pronounced respiratory depression in turtles.
+        - Gaseous:
+            - [[Isoflurane]] 1%–5% - Routine gaseous agent; subanesthetic levels provide short-term sedation. Mask down or conscious (sedated) intubation possible in some species.
+            - [[Sevoflurane]] 2%–7% - Very similar effects to those of isoflurane but recoveries appear to be faster. Preferred agent for critical or large reptiles.
+    - five common indications for performing a paracentesis
+        - Evaluation of Abdominal Fluid Accumulation (Ascites)
+        - Therapeutic Removal of Excess Abdominal Fluid
+        - Diagnostic Sampling for Cytological and Microbiological Analysis
+        - Detection of Hemorrhage in the Abdomen (Hemoperitoneum)
+        - Assessment of Peritonitis or Other Abdominal Infections
+    - CNS disease in sheep with nymphomania?
+        - _Maedi-Visna_ is caused by the **Ovine Progressive Pneumonia Virus (OPPV)**, a **lentivirus** belonging to the **Retroviridae** family.
+    - Which disease transmitted by cats can affect both humans and animals, causing abortion in pregnant women, and which disease transmitted from birds to humans causes respiratory infections and can lead to death?
+        - [[Toxoplasmosis]] is a zoonotic disease transmitted primarily by cats. In pregnant women, infection with _Toxoplasma gondii_ can lead to severe complications, including abortion, stillbirth, or congenital defects in the fetus.
+        - [[Listeriosis]] Pregnant animals and women should be protected from infection because of danger to the fetus, with possible abortion, stillbirth, and infection of neonates. Although listeriosis in humans is rare (upper estimate of 12 cases per million population per year), mortality can reach 50%. Most human cases involve older patients, pregnant women, or immunocompromised individuals. In ruminants with meningoencephalitis, L monocytogenes is usually confined to the brain and presents little risk of transmission, unless the brain is handled during necropsy.
+        - [[Avian Influenza]] particularly highly pathogenic strains such as H5N1 and H7N9, is a zoonotic disease transmitted from birds to humans. It causes severe respiratory infections that can lead to pneumonia, acute respiratory distress syndrome (ARDS), and death.
+    - What is Infectious Bursal Disease? What species are affected? What are the symptoms?
+        - **Infectious Bursal Disease (IBD)**, also known as **Gumboro Disease**, is a highly contagious viral infection affecting poultry, primarily young chickens. It is caused by the **Infectious Bursal Disease Virus (IBDV)**, a member of the **Birnaviridae** family. IBD targets the immune system by infecting and destroying B lymphocytes in the **bursa of Fabricius**, leading to immunosuppression and increased susceptibility to secondary infections.
+    - Which waterborne disease can cause illness in both humans and animals, characterized by acute onset with hematuria, fever, hemoglobinuria, and death? #Leptospirosis
+    - Incubation period:
+        - The **incubation period** is the interval between the initial exposure to an infectious agent (such as a bacterium or virus) and the onset of clinical symptoms of the disease it causes. During this time, the pathogen replicates within the host without producing noticeable symptoms. The length of the incubation period varies depending on:
+            - **Type of Pathogen**: Different microorganisms have characteristic incubation periods.
+            - **Dose of Exposure**: Higher doses may shorten the incubation period.
+            - **Host Factors**: Age, immune status, and genetic factors can influence the duration.
+    - Mortality rate:
+        - The **mortality rate** is a measure of the frequency of occurrence of death within a defined population during a specified time period. It quantifies the number of deaths in a population, scaled to the size of that population, per unit of time. Typically expressed per 1,000 or 100,000 individuals, the mortality rate is calculated using the formula:
+        -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvetmed%2F1nDxtOvT2e.png?alt=media&token=8f7c3fdc-72c9-42a2-b9ff-e1bdaf4fd70c) where nnn is the factor that scales the rate to a standard population size (e.g., 3 for per 1,000).
+    - Incidence rate:
+        - The **incidence rate** refers to the rate at which new cases of a particular disease occur in a population over a specified period. It reflects the risk of individuals in the population developing the disease during that time frame. The incidence rate is calculated as: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvetmed%2FRoqd1HsPAg.png?alt=media&token=b5197c3d-65c0-45ae-9d1d-c8feacab2542) 
+    - Morbidity rate:
+        - The **morbidity rate** quantifies the prevalence or incidence of a disease within a population. It represents the proportion of individuals experiencing illness, injury, or disability. Morbidity rates can be expressed as:
+            - **Prevalence Rate**: The total number of existing cases (both new and pre-existing) of a disease in a population at a given time, divided by the total population. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvetmed%2Fr8TfuCtK0z.png?alt=media&token=114ca052-cae3-410e-bc79-d25ad553524b) 
+            - **Incidence Rate**: As defined above, focusing on new cases occurring in a population over a specific period.
+            - Morbidity rates are essential for assessing the health burden of diseases and planning public health interventions.
+    - Rose Bengal Test:
+        - It is a rapid serological assay used to detect antibodies against _Brucella_ species. It is an agglutination test - where the patient's serum is mixed with a standardized antigen suspension of killed _Brucella_ organisms stained with Rose Bengal dye. A positive result is indicated by visible clumping (agglutination), suggesting the presence of anti-_Brucella_ antibodies.
+    - Antibiotic Sensitivity Test
+        - An antibiotic sensitivity test, also known as antimicrobial susceptibility testing (AST), determines the susceptibility of bacteria isolated from a clinical specimen to various antimicrobial agents. This helps guide effective antimicrobial therapy.
+        - Disk Diffusion Method (Kirby-Bauer Test) , Broth Dilution Tests, E-test (Epsilometer Test)
+    - What is the Coggins test?
+        - The Coggins test is a serological assay used to detect Equine Infectious Anaemia Virus (EIAV) antibodies in horses. It involves the Agar Gel Immunodiffusion (AGID) method to identify the presence of specific antibodies, thereby diagnosing EIAV infection. A positive test result indicates that the horse is infected and should be isolated or culled to prevent disease spread.
+- ## **Long Questions**
+    
+    - [[Brucellosis]]
+        - Keys: #ubiquitous - #[[Diseases]] - #grade1 - GP Exam? [source](https://www.msdvetmanual.com/reproductive-system/brucellosis-in-large-animals/brucellosis-in-cattle#Key-Points_v80794600)
+            - [[Disease Overview]]
+                - Brucellosis is a contagious disease caused by bacteria of the genus Brucella. Taxonomically, the genus Brucella is divided into ten classified species and subdivided into biovars.
+                - Brucella bacteria are Gram-negative coccobacilli that are non-motile and nonspore-forming. They grow anaerobically and certain strains need a 5% to 10% carbon dioxide atmosphere.
+                
+            - [[Clinical Signs]]
+                - Clinical signs - Brucellosis is characterized by abortion and to a lesser extent by orchitis and infection of the accessory sex glands in males. Infections may cause stillborn calves, retained placenta and fetal death. The disease can generally cause significant loss of productivity through late first calving age, long calving interval time, low herd fertility and comparatively low milk production.
+                - In humans, the disease, which is often referred to as ‘undulant fever’ or ‘Malta fever’ is a serious public health problem. Brucella melitensis and B. abortus are the two species most commonly found in human cases, and B. melitensis is responsible for the most serious infections. #HIGHLIGHTS
+                
+            - [[Dx and DDx]]
+                
+            - [[Treatment and Control]]
+                
+            - [[Disease Summary]]
+            - [[Additional Reference]]
+                
+    - [[Peste des Petits Ruminants (PPR)]]
+    - [[Glanders]]
+    - [[Trypanosomiasis]] - #[[Surra ]]
+        - Keys: species species - subject - Grade 1 2 3 topic - GP Exam? - [source](msdvetmanual.com/circulatory-system/blood-parasites/trypanosomiasis?query=trypanosomiasis)
+            - [[Disease Overview]]
+                - ((TMtdxtRax))
+                - Trypanosomosis in camels is a protozoal disease caused by _[Trypanosoma](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/trypanosoma)_ evansi (T. evansi) which is transmitted by hematophagous [flies](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/diptera) including _Tabanus_ and _Stomoxys._
+                - The trypanosomes that cause tsetse-transmitted trypanosomiasis (sleeping sickness)
+                - [[Dourine]] is a chronic venereal disease of horses that is transmitted during coitus and caused by _T equiperdum_. The disease is recognized on the Mediterranean coast of Africa and in the Middle East, southern Africa, and South America; distribution is probably wider.
+                    - Signs may develop over weeks or months. Early signs include mucopurulent discharge from the urethra in stallions and from the vagina in mares, followed by gross edema of the genitalia. Later, characteristic plaques 2–10 cm in diameter appear on the skin, and the horse becomes progressively emaciated. Mortality in untreated cases is 50%–70%.
+                - [[Chagas' disease]], or American trypanosomiasis, is a zoonotic, vectorborne disease transmitted by triatomine bugs and caused by _T cruzi_.
+            - [[Transmission]] - [[Life Cycle]]
+                - Most tsetse transmission is cyclic and begins when blood from a trypanosome-infected animal is ingested by the fly. The trypanosome alters its surface coat, multiplies in the fly, then alters its surface coat again, and becomes infective. _T brucei_ spp migrate within the tsetse from the gut and eventually to the salivary glands; the cycle for _T congolense_ stops at the hypopharynx, and the salivary glands are not invaded; the entire cycle for _T vivax_ occurs in the proboscis. Therefore, the location within the tsetse can be useful in identifying the parasite species. The animal-infective form in the tsetse salivary gland is referred to as the metacyclic form. The life cycle in the tsetse may be as short as 1 wk with _T vivax_ or extend to a few weeks for _T brucei_ spp.
+                - [[Pathogenesis]]
+                    - Infected tsetse inoculate metacyclic trypanosomes into the skin of animals, where the trypanosomes reside for a few days and cause localized inflammation (chancres). They enter the lymph and lymph nodes, then the bloodstream, where they divide rapidly by binary fission. In _T congolense_ infection, the organisms attach to endothelial cells and localize in capillaries and small blood vessels. _T brucei_ species and _T vivax_ invade tissues and cause tissue damage in several organs.
+                    - The immune response is vigorous, and immune complexes cause inflammation, which contributes to fever and other signs and lesions of the disease. Antibodies against the surface-coat glycoproteins kill the trypanosomes. However, trypanosomes have a large family of genes that code for variable surface-coat glycoproteins that are switched in response to the antibody response, evading immunity. This antigenic variation results in persistence of the organism. Antigenic variation has prevented development of a protective vaccine and permits reinfections when animals are exposed to a new antigenic type.
+            - [[Clinical Signs]]
+                - Severity of disease varies with species and age of the animal infected and the species of trypanosome involved. The incubation period is usually 1–4 wk. The primary clinical signs are intermittent fever, anemia, and weight loss. Cattle usually have a chronic course with high mortality, especially if there is poor nutrition or other stress factors. Ruminants may gradually recover if the number of infected tsetse flies is low; however, stress results in relapse.
+            - [[Dx and DDx]]
+                
+            - [[Treatment and Control]]
+                
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                
+    - [[Biosecurity of Animals]], [source](https://www.msdvetmanual.com/public-health/biosecurity/principles-of-biosecurity-of-animals#Disease-Transmission_v51546368)
+        - **all procedures implemented to reduce the risk and consequence of infection with a disease-causing agent.** This broad definition recognizes that disease is a complex interaction between the host, the disease-causing agent, and the environment. Biosecurity can be considered in terms of individual animals or populations of animals (flocks or herds), economic entities (production facilities or companies), or geographic regions (counties, states, countries, or continents), thus facilitating compartmentalization for trade purposes. Importantly, it addresses strategies for both disease prevention (eradication) and control (limiting the consequence of infection).
+        - ^^Biosecurity is the implementation of measures that reduce the risk of the introduction and spread of disease agents; it requires the adoption of a set of attitudes and behaviors by people to reduce risk in all activities involving domestic, captive/exotic, and wild animals and their products (FAO/OIE/World Bank, 2008).^^
+        - **Bioexclusion** centers on the prevention of disease introduction and relies on external biosecurity practices. In contrast, **biocontainment** centers on preventing the spread of disease within a farm or group of animals, or to other farms or groups of animals, and relies on implementation of internal biosecurity practices.
+        - Thus, disease control and prevention relies on the interrelated processes of bioexclusion, surveillance, and biocontainment.
+        - Disease Transmission in Biosecurity
+            - Understanding disease transmission is central to designing proper biosecurity protocols. Diseases can be transmitted in many ways, and direct animal-to-animal contact as well as contact with contaminated fomites are some of the most common transmission routes. Contaminated semen and natural mating can be sources of sexually transmitted diseases.
+            - Many **fomites** (inanimate objects) act as carriers of disease-causing agents. Survival of agents on fomites may depend on the composition of the particular fomite and how easily it can be disinfected. Examples of fomites considered high risk include trailers, vehicles, maintenance and repair tools, boxes, materials used to remove dead animals, loading chutes, etc.
+            - **Vectors** are also capable of transmitting diseases; among the most significant vectors are birds, bats, rodents, feral and wild animals, stray and domestic animals, and insects.
+            - **Air** can be a source of diseases, particularly in areas of high animal density. **Contaminated water and feed** and consumption of contaminated, **raw, untreated animal products** have also been implicated in disease transmission. **Manure, bedding, and carcasses** can also be a source of agents unless disposed of properly. Lastly, **people** can act as both mechanical and biologic vectors, and training and awareness of personnel working with animals is necessary for proper implementation of biosecurity programs.
+        - **Disease Prevention in Biosecurity of Animals**
+            - Disease prevention depends on 1) stringent bioexclusion to avoid contact between the disease-causing agent and the host, 2) early detection of a breach in biosecurity through vigilant surveillance, and 3) rapid implementation of a ruthless biocontainment policy. This is feasible only if there is an effective way to detect infection; containing the infection through slaughter or other means, clean-out, and disinfection; and preventing dissemination of the disease-causing agent. Eradication is reserved for those diseases that pose a dire public health threat, that have a devastating effect on animal performance, or that severely compromise end-product quality. Elimination of diseases without a regulatory framework is common in food animals if these diseases are economically significant and their elimination is advantageous for the producers.
+        - **Disease Control in Biosecurity of Animals**
+            - In disease control strategies, the emphasis shifts from preventing disease to reducing its consequence or economic impact. Prevalence data are now used primarily to assess the level of protection and challenge, not merely the presence or absence of disease. Although biosecurity still relies on principles of prevention, disease-control programs focus more on limiting the extent and consequence of exposure. Many biosecurity measures aimed at preventing or eradicating epidemic disease also produce beneficial by-products, such as establishment of a firm foundation for control of erosive/endemic diseases and enhancement of host resistance through immunization.
+        - **The Three Levels of Biosecurity of Animals** [source](https://www.msdvetmanual.com/management-and-nutrition/biosecurity/the-three-levels-of-biosecurity-of-animals)
+            - Conceptual Biosecurity of Animals
+                - primary level, location of the facility
+            - Structural Biosecurity of Animals
+                - secondary level, physical barriers, showers, construction
+            - Procedural Biosecurity of Animals
+                - Tertiary level , procedures according to the situation and diseases
+- ---
+- # Additional Preparation Material
+    
+- Please visit [[🩺 Medicine]] and [[vet medicine]] for all the topics. I have added a few here which are relevant to the UAE Licensing exam.
+- [[Respiratory Viruses in camels]]
+    - metagenomic sequencing analysis on nasopharyngeal swab samples from 108 MERS-CoV-positive dromedary camels
+    -  Until now, three coronaviruses have been identified in camels: MERS-CoV, human OC43-related camel coronavirus HKU23 and human 229E-related camel alpha-CoV.
+    - MERS-CoV RNA and antibodies have been detected in camels from UAETotal ribonucleic acid (RNA) was extracted and purified using the EZ1 Virus Mini Kit 2.0 (QIAGEN) and stored at -80°C.
+    - Among the different viruses detected in this study, some were similar or nearly identical to previously described camel viruses (96–99.7% nt identity), such as camel MERS-CoV, camel alpha-CoV, camel CoV HKU23, dromedary astrovirus, Camelus dromedarius papillomavirus, Orf virus, and camelpox virus.
+    - Parainfluenza virus 3 (PIV3) has been shown to cause widespread respiratory infections and outbreaks in mammals, including humans.
+- ### **Misc NAVLE MCQs and Short Qs**
+    
+    - **Vesicular Stomatitis**
+        - Viral infection causing lesions on lips, nostrils, tongue, soft and hard palate. Can affect humantoo.
+    - [Borrelia burgdorferi](http://www.merckvetmanual.com/generalized_conditions/lyme_borreliosis/overview_of_lyme_borreliosis.html) is the causative agent of [[Lyme disease]].
+        - It is most commonly diagnosed in dogs, humans, cats, and horses, and causes a range of clinical signs from renal, neurologic, and cardiac abnormalities to joint disease.
+        - It is transmitted by Ixodes spp. ticks but only after the tick has been attached for more than 24 hours.Direct detection of the bacteria is difficult and time-consuming; serologic assays are commonly used for diagnosis.Since a positive titer indicates exposure and not necessarily clinical disease, interpretation of titer results can be problematic.
+        - When Lyme disease is suspected, the treatment of choice is doxycycline for at least 4 weeks.Relapse after apparently successful treatment is possible.
+        - Check out the ACVIM consensus statement on Lyme disease [in dogs](https://www.ncbi.nlm.nih.gov/pubmed/16594606) and [horses](https://www.onlinelibrary.wiley.com/doi/full/10.1111/jvim.15042).
+    - Bartonella henselae is the causative agent of [cat scratch disease](http://www.merckvetmanual.com/public_health/zoonoses/zoonotic_diseases.html) (**zoonotic pyogranulomatous lymphadenitis)** in cats and people.
+    - Click here to read more about [cat scratch disease in people](https://www.cdc.gov/bartonella/symptoms/index.html) on the CDC website.
+    - Immunity following vaccination appears to be short-lived, and it is recommended that foals, young horses and performance or show horses at high risk be revaccinated at 3-month intervals, as with influenza. Combination vaccines containing influenza and herpes viruses are convenient for booster vaccinations against these respiratory viruses in high-risk horses.
+    - [Rinderpest](http://www.merckvetmanual.com/generalized_conditions/rinderpest/overview_of_rinderpest.html) and [Peste Des Petits Ruminants](http://www.merckvetmanual.com/generalized_conditions/peste_des_petits_ruminants/overview_of_peste_des_petits_ruminants.html#v3276020) are both caused by a morbillivirus and both cause a syndrome characterized by fever, necrotic stomatitis, gastroenteritis/diarrhea. #HIGHLIGHTS
+    - In 2011, the United Nations Food and Agriculture Organization (FAO) and the World Organisation for Animal Health (OIE) officially declared that [rinderpest was eradicated globally](http://www.fao.org/ag/againfo/programmes/en/grep/home.html). But because it is a classic, severe, reportable, stomatitis-type disease, it's unlikely that vets will be allowed to forget rinderpest on DDXs for years.
+    - [Canine distemper](http://www.merckvetmanual.com/generalized_conditions/canine_distemper/overview_of_canine_distemper.html) and human measles are also caused by morbilliviruses.
+    - [Pseudorabies](http://www.merckvetmanual.com/nervous_system/pseudorabies/overview_of_pseudorabies.html) and Aujesky's are the same disease. Aphthous fever is just another name for [foot and mouth disease](http://www.merckvetmanual.com/generalized_conditions/foot-and-mouth_disease/overview_of_foot-and-mouth_disease.html) (FMD).
+    - [Bluetongue](http://www.merckvetmanual.com/generalized_conditions/bluetongue/overview_of_bluetongue.html) is almost exclusively a sheep disease that is mild in cows. In contrast, [malignant catarrhal fever](http://www.merckvetmanual.com/generalized_conditions/malignant_catarrhal_fever/overview_of_malignant_catarrhal_fever.html) (MCF) is almost 100% fatal once see clinical signs.
+    - Refs: Pasquini's Guide to Bovine Clinics, 4th ed. pp 8-11.
+    - Actinomyces bovis 
+        - is the cause of [lumpy jaw](http://www.merckvetmanual.com/generalized_conditions/actinomycosis/overview_of_actinomycosis.html) in cattle. Actinomyces bovis is a slender gram-positive rod that is part of the normal mouth flora.
+        - Remember "MY lumpY" for lumpy jaw (ie: MYces, lumpY)
+        - It enters soft tissue after damage from traumatic feed (stems, grass awns) or foreign objects (baling wire) then causes damage/granulomatous abscesses in the mandible, maxilla, or other bony structure of the head.
+    - Actinobacillus ligniersi causes [wooden tongue](http://www.merckvetmanual.com/generalized_conditions/actinobacillosis/overview_of_actinobacillosis.html) (remember LIGNIN is what makes WOOD).
+    - [Fusobacterium necrophorum](http://www.merckvetmanual.com/respiratory_system/respiratory_diseases_of_cattle/necrotic_laryngitis_in_cattle.html) is associated with anything rotten. Think foot rot, quittor, necrotic stomatitis, calf diphtheria, necrotic rhinitis.
+    - Acremonium spp. are fungi that cause [Mycetomas](http://www.merckvetmanual.com/generalized_conditions/fungal_infections/mycetomas.html).
+    - Refs: Smith, Large Animal Internal Medicine, 5th edition, pp 743-744. Images courtesy of Steve Loncosky and Kevin Terra.
+    - Aspergillus is the fungus most commonly associated with [guttural pouch mycosis](http://www.merckvetmanual.com/respiratory_system/respiratory_diseases_of_horses/guttural_pouch_disease_in_horses.html#v3294289).Aspergillus spp. typically form plaques on the caudodorsal aspect of the medial compartment of the guttural pouch, causing damage to the internal carotid artery and cranial and sympathetic nerves.
+    - This results in the clinical signs of epistaxis, dysphagia, and Horner's syndrome. Spontaneous and severe hemorrhage may result in sudden death.
+    - [Actinomyces spp.](http://www.merckvetmanual.com/generalized_conditions/actinomycosis/overview_of_actinomycosis.html) are the cause of lumpy jaw in cattle, infections associated with foxtail migration in dogs, and pyogranulomatous porcine mastitis. Actinomyces spp. are occasionally isolated from submandibular abscesses in horses.
+    - The toxins produced by the growth of [Fusarium spp.](http://www.merckvetmanual.com/toxicology/mycotoxicoses/fumonisin_toxicosis.html) on corn (fumonisins) are the cause of equine leukoencephalomalacia (moldy corn poisoning), a central nervous system disease characterized by blindness, circling, ataxia, and obtundation.
+    - [Conidiobolus spp.](http://www.merckvetmanual.com/generalized_conditions/fungal_infections/zygomycosis.html) infection results in the development of ulcerative, pyogranulomatous lesions, most commonly of the nasal mucosa and subcutaneous tissues of horses.Refs: Smith, Large Animal Internal Medicine, 3rd ed. pp. 535-7.
+    - Aspergillus is the fungus most commonly associated with [guttural pouch mycosis](http://www.merckvetmanual.com/respiratory_system/respiratory_diseases_of_horses/guttural_pouch_disease_in_horses.html#v3294289).Aspergillus spp. typically form plaques on the caudodorsal aspect of the medial compartment of the guttural pouch, causing damage to the internal carotid artery and cranial and sympathetic nerves.
+    - This results in the clinical signs of epistaxis, dysphagia, and Horner's syndrome. Spontaneous and severe hemorrhage may result in sudden death.[Actinomyces spp.](http://www.merckvetmanual.com/generalized_conditions/actinomycosis/overview_of_actinomycosis.html) are the cause of lumpy jaw in cattle, infections associated with foxtail migration in dogs, and pyogranulomatous porcine mastitis. Actinomyces spp. are occasionally isolated from submandibular abscesses in horses.The toxins produced by the growth of [Fusarium spp.](http://www.merckvetmanual.com/toxicology/mycotoxicoses/fumonisin_toxicosis.html) on corn (fumonisins) are the cause of equine leukoencephalomalacia (moldy corn poisoning), a central nervous system disease characterized by blindness, circling, ataxia, and obtundation.[Conidiobolus spp.](http://www.merckvetmanual.com/generalized_conditions/fungal_infections/zygomycosis.html) infection results in the development of ulcerative, pyogranulomatous lesions, most commonly of the nasal mucosa and subcutaneous tissues of horses.Refs: Smith, Large Animal Internal Medicine, 3rd ed. pp. 535-7.
+    - Ehrlichia ruminantium is the organism responsible for [heartwater disease](http://www.merckvetmanual.com/generalized_conditions/heartwater/overview_of_heartwater.html) of ruminants, a tick-borne foreign disease characterized by high fevers, lung edema and hydropericardium. The causative organism was FORMERLY classified as Cowdria ruminantium.
+    - Molecular testing has led to the reclassification of several organisms that cause infectious disease...
+    - [Equine granulocytic ehrlichiosis](http://www.merckvetmanual.com/generalized_conditions/equine_granulocytic_ehrlichiosis/overview_of_equine_granulocytic_ehrlichiosis.html) (EGE) was originally classified as Ehrlichia equi, but is now classified as **Anaplasma phagocytophilum**.
+    - [Potomac Horse Fever](http://www.merckvetmanual.com/digestive_system/intestinal_diseases_in_horses_and_foals/potomac_horse_fever.html) (PHF), formerly classified as Ehrlichia risticii, is now called **NEO**rickettsia risticii.
+    - [Histophilus somni](http://www.merckvetmanual.com/generalized_conditions/histophilosis/overview_of_histophilosis.html), the cause of thrombotic meningoencephalitis (TEME), was formerly called Haemophilus somnus. Follow this link to see a [necropsy image of TEME](http://www.merckvetmanual.com/multimedia/v9180593).
+    - Mannheimia haemolytica, a primary cause of [pneumonic pasteurellosis](http://www.merckvetmanual.com/respiratory_system/respiratory_diseases_of_cattle/bacterial_pneumonia_in_cattle.html#v3293525), was formerly called Pasteurella hemolytica.
+    - Refs: Pasquini's Guide to Bov Clin, 4 th ed. pp. 63, 254, 261, Pasquini's Guide to Equine Clinics, 3rd ed. pp. 43, 142.
+    - This 2 year old mare in the picture presents for an intermittent left thoracic limb lameness which resolves after working the horse. On physical exam, a palmar metacarpal bulge and inflammation could be palpated. What is your diagnosis?
+        - Ans? tendonitis. The intermittent lameness and bulge at the metacarpals are classic for bowed tendon or tendonitis.
+        - intra-articular sodium hyaluronate injections ?
+    - [[Osselets]]
+        - Osselets are inflammation of the periosteum on the dorsal distal epiphyseal surface of the third metacarpal bone and fetlock joint. As in this case, they are often (but not always) bilateral. Osselets typically begin from chronic stress injury to the front fetlock(s) from repeated concussive forces during racing and hard training. Horses with long or upright pasterns may be predisposed. The major clinical signs are increasing lameness and a short choppy gait. Thickening and soreness of the fetlock are also frequently seen. Early diagnosis and intervention is important because once the condition progresses to osteoarthritis, the prognosis is much worse. If recognized early and treated with rest, anti-inflammatory medications, and intra-articular sodium hyaluronate injections, many horses can recover completely.
+    - Low ringbone is osteoarthritis of the distal interphalangeal (coffin) joint. High ringbone is osteoarthritis of the proximal interphalangeal (pastern) joint. Sidebones are ossification of the collateral (alar) cartilages of P3. Navicular syndrome affects the heel.
+    - Q. Radiographic abnormalities associated with chronic laminitis in horses include which of the following?
+        - A change in the angulation of P3 Correct Answer
+        - A distinct lucent line between P3 and the hoof wall on the lateral projection
+        - Osteophyte formation along the solar margin
+        - Osteophyte formation between P2 and P3
+        - The **answer** is ? Expand this block
+            - a change in the angulation of P3. Inflammation and degeneration of the lamina can be seen radiographically as rotation of P3 relative to the hoof. Osteophyte formation is not an indication of laminitis. A distinct lucent line is normally seen between the margin of P3 and the hoof on the lateral view of a foot.
+    - Which of the following is not considered a predisposing factor to a horse developing laminitis?
+        - Application of horse shoes Correct Answer
+        - High carbohydrate diet
+        - Acute systemic disease
+        - Endometritis
+        - Excessive weight bearing on a single limb
+        - The correct answer is?
+            - application of horse shoes. Laminitis is an inflammatory condition of the lamina in one or more feet of a horse. It is often a manifestation of systemic disturbances such as endometritis and salmonellosis. A high carbohydrate diet (carbohydrate overload), excessive weight bearing on an individual leg, and corticosteroid administration also predispose a horse to laminitis. Application of horse shoes has no association with development of laminitis
+    - A 10-month old Arabian presents for persistent superficial and deep digital flexor tendon contracture. What surgical option does this patient have?
+        - Distal check desmotomy and proximal check desmotomy Correct Answer
+        - Deep digital flexor tenotomy Your Answer
+        - Distal check desmotomy only
+        - Ans??
+            - Proximal check desmotomy onlyThe correct answer is distal check desmotomy and proximal check desmotomy. The distal check desmotomy relieves the deep digital flexor contracture while proximal check desmotomy relieves superficial digital flexor contracture. If the contracture is severe, it may recur 2-4 months after surgery. At such time, a suspensory desmotomy is an option but subluxation at the proximal interphalangeal joint is a common consequence.
+    - [[Radiography]]
+        - Bone remodelling is an active and dynamic process that relies on the correct balance between bone resorption by osteoclasts and bone deposition by osteoblasts.
+        - The **remodeling** cycle consists of three consecutive phases: resorption, during which osteoclasts digest old **bone**; reversal, when mononuclear cells appear on the **bone** surface; and formation, when osteoblasts lay down new **bone** until the resorbed **bone** is completely replaced.
+        - **Enthesophyte formation** is new bone at the site of attachment of a tendon, ligament, or joint capsule to bone.
+        - **Osteoporosis** defines a group of skeletal disorders that are characterized by loss of bone mass (osteopenia) with the remaining bone appearing normal.
+        - There is P3 osteopenia and remodeling of the distal aspect of P3.
+        - **Pathogenesis:** Osteoporosis results from **bone resorption exceeding bone formation**.
+        - **Note:** When inadequate bone mineralization is microscopically evident, the disease should not be called osteoporosis.
+        - **Causes:** Disuse osteoporosis is caused by lack of physical exercise, reduction in weight bearing and immobilization of the limbs. Osteoporosis of senility may be partially due to reduced physical activity. Malnutrition, hyperadrenocorticism, prolonged use of corticosteroids, thyrotoxicosis, hyperparathyroidism and other hormone imbalances also can cause osteoporosis.
+        - subchondral sclerosis?
+        - A **sclerotic** lesion is an unusual hardening or thickening of your **bone**.
+        - Remodeling imbalance owing to failure of the resorptive process can result in dense (**sclerotic**) **bones**. **Bone sclerosis** is defined as “an abnormal increase in density and hardening of bone”
+        - **Ankylosis** is a stiffness of a joint due to abnormal adhesion and rigidity of the bones of the joint, which may be the result of injury or disease.
+        - subchondral erosions
+        - The formation of large "holes" in the body of the navicular bone itself, believed to be **enlarged vascular channels**
+    - **Neurological Signs**
+        - A 3-month-old paint colt presents to you after flipping over backward while being led by the owner the previous day. Clinical signs at the time of presentation are shown in the image (head tilt, flaccid ear, muzzle deviation). Based on the history and clinical signs, what cranial nerves are damaged and what is the most likely diagnosis?
+        - Ans??
+            - Cranial nerves VII and VIII (left side); fracture of the basisphenoid bone
+            - The correct answer is damage to cranial nerves VII (facial nerve) and VIII (vestibular nerve) on the left side caused by fracture of the basisphenoid bone. This is a common injury when a fractious young foal rears up and falls backward on the poll. The basisphenoid bone becomes injured resulting in injury to cranial nerves VII and VIII. Damage to the facial nerve results in the muzzle deviation (opposite direction of the side of injury, in this case deviated to the right), ptosis of the left eye and drooping of the left ear. Damage to the vestibular nerve results in the head tilt.
+    - [[Breeding]]
+        - You suspect that an 18-year old post-parturient Thoroughbred mare has uterine artery hemorrhage based on a low PCV (14%), tachycardia (heart rate 70 beats/min), and the history of foaling 12 hours ago. Which of the following drugs would potentially help in a hemorrhaging mare?
+            - Aminocaproic acid
+            - Aspirin
+            - Low molecular-weight heparin
+            - Tissue plasminogen activator
+            - Ans?
+                - Aminocaproic acid is the best choice of those listed. This medication is believed to facilitate clot stabilization by blocking the activation of plasminogen to plasmin. As you may recall, plasmin is the active enzyme that dissolves clots; therefore, aminocaproic acid inhibits fibrinolysis. The other medications listed would have an anti-coagulant effect and would be contraindicated in this mare.
+        - Q. stallions which should definitely not be used for breeding?
+            - stallion with a previous infection with Taylorella equigenitalis. This organism is thought to be eradicated in the United States but is the causative agent of contagious equine metritis, which can lead to infertility (there is usually no clinically apparent disease in the stallion). It is okay to breed a stallion with a history of coital exanthema (Equine herpesvirus-3) as long as all lesions are cleared. A 180-degree rotation of the testicle is common and of no clinical significance as is a positive bacterial culture from a pre-ejaculate swab; however, heavy growth of Pseudomonas or Klebsiella may make you think twice, as they can be associated with causing endometritis in mares.
+    - **Protozoal**
+        - By what mechanism does Parascaris equorum typically cause colic in foals?
+        - answer is intestinal impaction. In foals, a significant ascarid burden with Parascaris equorum can lead to intestinal impaction and associated colic. Thrombosis of the mesenteric artery occurs with Strongylus vulgaris infestations. Immune mediated hypersensitivities may occur in adult horses with Parascaris equorum infestations but is unlikely to be a significant cause of the morbidity seen in foals. Larval migration can occur with Parascaris equorum but typically will affect the lungs or liver and this stage of the parasite does not lead to colic.
+- Parameters and Short Interview Qs
+    - Parameters
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvetmed%2FBML66Djcci.png?alt=media&token=f24e7892-6c22-4af2-8349-f2db6c58e5cd)
+        - Sheep T 38.3–39.9 (100.9–103.8) , Pulse , HR , CRT , GIT movements
+        - Goat T 38.5–39.7 (101.3–103.5) , Pulse , HR , CRT , GIT movements
+        - Camel T , Pulse , HR , CRT , GIT movements
+        - Cattle T 38.0–39.3 (100.4–102.8),
+    - Mastitis vs Edema ... types of mastitis
+    - Drenching pneumonia
+    - [[Dystocia]]
+        - Dystocia can be due to fetomaternal disproportion, fetal maldisposition (abnormal presentation, position, or posture), uterine inertia, or failure/incomplete cervical dilation.
+        - Stage 1 of labor and cervical dilation lasts 6–12 hours for doelings and ewe lambs and 4–8 hours in adults. Stage 2 of labor begins with rupture of the allantochorion and ends with expulsion of a fetus. It lasts 1–4 hours in doelings and ewe lambs and 30 minutes to 1 hour in adults.
+        - CBC/BIOCHEMISTRY/URINALYSIS
+            - Hypocalcemia, and pregnancy toxemia (ketosis with an elevated anion gap).
+            - Elevated creatinine kinase, and lactic acidosis (uterine torsion, and exhaustion).
+            - Anemia (uterine rupture). Loss of blood and parasites can cause a ewe or doe to be very anemic and weak and hence predispose to dystocia as well.
+            - Neutrophilia and increased fibrinogen (inflammatory/infectious process).
+            - Urinalysis: Ketonuria (pregnancy toxemia), presence of bacteria and neutrophils (cystitis), increased protein (amyloidosis).
+        - [[Dx and DDx]]
+            - Vaginoscopy is helpful if no fetal parts are visible at the vulva (incomplete cervical dilation) and in very small patients.
+            - Vaginal examination with sterile obstetric lube and gloved hand to assess cervical dilation and fetal abnormalities and abnormalities of presentation, position, and posture.
+        - [[Treatment and Control]]
+            - Medical management of dystocia includes standard therapies such as analgesia, fluids, oxytocin, and antibiotics.
+    - [[Diagnostic Work up]]
+        - [[Parasitic Diseases]] - Anemia, hypoproteinemia, electrolyte and acid-base abnormalities, azotemia, or hepatic and biliary enzyme elevation may be present depending on etiology.
+        - Skin Problems: Skin scraping or microscopic evaluation of crusts can provide a positive diagnosis and species identification in mange mite conditions. Potassium hydroxide preparation (10–20% KOH), allows identification of dermatophytes from skin.
+            - Cytological examination
+    - [[Treatment and Control]] [[Dosage]] of [[Parasitic Diseases]]
+        - Nematodes
+            - Fenbendazole 10–20 mg/kg PO ◦ 20 mg/kg PO for 3 consecutive days if Trichuris ◦ 20 mg/kg PO for 5 days if Nematodirus
+            - Albendazole 10 mg/kg PO (given only once)
+            - Ivermectin 0.2–0.3 mg/kg PO; 0.4–0.6 mg/kg if whipworms present
+            - Levamisole 5–8 mg/kg PO once
+            - Pyrantel pamoate 25 mg/kg PO for 3 days Cestodes
+            - Fenbendazole 50 mg/kg PO for 5 days
+            - Praziquantal 2–5 mg/kg PO
+            - Pyrantel pamoate 25 mg/kg PO for 3 days r Albendazole 10 mg/kg PO (given only once) Trematodes
+            - Clorsulon 7 mg/kg PO
+            - Albendazole 10 mg/kg PO (given only once)
+        - Coccidia Treatment
+            - Sulfadimethoxine 55 mg/kg orally on day 1, followed by 22.5 mg/kg PO once daily for 5 days
+            - Ponazuril 20 mg/kg PO once (reportedly used 3 days in a row)
+            - Toltrazuril 20 mg/kg PO once (metabolized to ponazuril)
+            - Prevention
+                - Amprolium 5 mg/kg diluted in water for 21 days
+                - Decoquinate 0.5 mg/kg orally in feed for 28 days
+    - [[Pregnancy Toxemia]]
+        - Serum concentrations of both NEFAs (>0.4 mEq/L) and BHB (subclinical/moderate ketosis >15 mg/dL; clinical ketosis > 25 mg/dL) are increased.
+        - Hypoproteinemia (hypoalbuminemia and hypoglobulinemia) can be observed in clinical cases of pregnancy toxemia and could potentially be attributed to hepatic and/or renal failure.
+        - In later stages of pregnancy toxemia, hyperglycemia (often associated with fetal death), hypokalemia, elevated creatinine, and elevated BUN may be evident.
+        - Elevated ketones on urinalysis; ketonuria is present and usually detected before
+        - Glucose levels should be evaluated before initiation of treatment. Severe hypoglycemia should be treated by administration of 250–500 mL of 10–20% glucose solution IV followed by slower infusion of a 5–10% glucose solution.
+        - Propylene glycol (60–200 mL PO q12h for 6 days), glycerol, calcium propionate, sodium propionate, or liquid molasses are routinely used as glucose precursors.
+        - Dexamethasone (10–20 mg IM) with parturition in ewes generally occurring 36–48 hours following administration. Recombinant bovine somatotropin (0.15 mg/kg q24h SC or single injection of 160 mg of slow-release formulation SC) may increase efficiency of glucose and ketone usage. (Not currently approved for use in
+        - Recombinant bovine somatotropin (0.15 mg/kg q24h SC or single injection of 160 mg of slow-release formulation SC) may increase efficiency of glucose and ketone usage. (Not currently approved for use in small ruminants in the US.)
+    - Diarrhoea in sheep and goat
+    - Parasites of sheep and goat. Blood parasites.
+    - Anemia
+    - Lameness
+    - Pregnancy?
+    - Tympany and Bloat? Impaction? Differential Diagnosis?
+    - ruminal acidosis
+        - Acute ruminal acidosis is the most dramatic form of indigestion in ruminants and, in some cases, can lead to death in <24 hours. Subacute ruminal acidosis (SARA) results from chronic indigestion leading to short- or long-term production inefficiencies.
+        - Ruminal acidosis results from ingestion of excessive quantities of rapidly fermentable carbohydrates (RFC). Therefore, it represents a major challenge for ruminants on high-concentrate diets (e.g., feedlot cattle).
+        - Rumen pH of 4.5–5.0 and 5.2–5.5 are used as benchmarks for acute and chronic ruminal acidosis, respectively.
+        - Acute ruminal acidosis: Excessive consumption of RFC leads to a rapid fermentation with production of short-chain fatty acids and both D- and L-lactic acid. This causes a decrease in ruminal pH to physiologically inappropriate levels.
+        - Under low pH conditions, lactate-producing bacteria (e.g., Lactobacillus spp.) also grow faster, increase in number, and produce excessive amounts of D- and L-lactate.
+        - [[Treatment and Control]]
+            - Rumen pH of 4.5–5.0 (normal 6.0–7.0 on roughage and 5.5–6.5 on grain).
+            - Magnesium hydroxide (500 g/450 kg body weight) can be administered once the rumen has been evacuated.
+            - Ringer’s solution or isotonic 0.9% saline at 20 mL/kg/h (highest rate reached through a 14-gauge catheter) is recommended for fluid replacement. r Maintenance fluid rate: Recommended 2–4 mL/kg/h of lactated Ringer’s solutions or isotonic 0.9% saline.
+            - Calcium, magnesium, and phosphates should be supplement to correct deficits.
+            - Cows with more severe acidemia (base deficits <10 mmol/L): Administer isotonic sodium bicarbonate (156 mmol/L).
+            - Bicarbonate requirements—calculate from values of base deficit (BD) obtained from the blood gas measurement. Bicarbonate (mmol) = body weight (kg) × base deficit (mmol/L) × 0.3.
+            - Analgesic and anti-inflammatory drugs—flunixin meglumine or meloxicam to decrease the effects of the systemic inflammatory response.
+            - Antimicrobials—oxytetracycline and penicillin (ceftiofur in camelids) can be administrated to prevent or treat bacteremia and liver abscess development.
+            - Broad-spectrum antimicrobial therapy can predispose to mycotic rumenitis.
+            - Prevention of polioencephalomalacia: Administer thiamine HCl (10 mg/kg, IM or IV q4h).
+    - [[Hypocalcemia]] in Small Ruminants [[Treatment and Control]]
+        - Plasma calcium levels for subclinical hypocalcemia are <8.0 mg/dL (<2.0 mmol/L)
+        - Calcium: 1 g Ca/45 kg of BW intravenous, response to therapy should be rapid (within 5–10 minutes). r Subcutaneous or oral calcium may be administered subsequently for a longer-acting effect in severe cases. Care must be taken to administer in small boluses (no more than 50 mL per site) using clean technique or to ensure oral calcium is administered carefully or directly into the rumen (avoid calcium chloride boluses due to esophageal irritation).
+    - [[Hypomagnesemia]] - [[Treatment and Control]]
+        - Animals with hypomagnesemia are often hypocalcemic as well and should receive therapy containing calcium.
+        - Administer intravenous calcium borogluconate solution containing 5% Mg (500 mL for adult cattle; 50–100 mL for calves and small ruminants).
+        
+    - Pox virus infection
+        - Sheep pox and goat pox result from infection by sheeppox virus (SPPV) or goatpox virus (GTPV), closely related members of the genus Capripoxvirus in the family Poxviridae. SPPV is mainly thought to affect sheep and GTPV primarily to affect goats,
+        - ocular and nasal secretions, Lymph nodes aspiration,
+        - The disease in either species must be differentiated from the milder infection, contagious ecthyma (orf), which mainly causes crusty, proliferative lesions around the mouth.
+        - Fever and a variable degree of systemic disturbance develop. Eyelids become swollen, and mucopurulent discharge crusts the nostrils. Widespread skin lesions develop and are most readily seen on the muzzle, ears, and areas free of wool or long hair. Palpation can detect lesions not readily seen. Lesions start as erythematous areas on the skin and progress rapidly to raised, circular plaques with congested borders caused by local inflammation, edema, and epithelial hyperplasia.
+    - Caesarian section
+    - [[Treatment and Control]] - [[Dosage]]
+        - Ketaconazole
+        - Fluconazole
+        - Iatraconazole
+        - Atropine sulphate 0.25 mg/kg ; 1/3rd IV, rest IM
+        - Oxytetracycline 20 mg/kg IM
+        - Postparturient Haemoglobinuria: IV 60g Sodium acid phosphate in 300 ml distilled water and similiar dose s/c
+        - Babesia: imidocarb (imizole) 2 mg/kg + Diminazine aceturate 12mg/kg bwt
+        - CCPP: Tylosin 10 mg/kg
+        - F. necrophorum - Sulfamethazine 150 mg/kg for 3-5 days
+        - F hepatica: Triclabendazole 10mg/kg in sheep. albendazole 7.5 mg/kg ,
+        - tapeworm: albendazole 10 mg/kg + prazoquantel 1mg/kg
+        - [[Mastitis]]: TMP + sulphadiazine ... Penicillin G intramammary . Anti-inflammatory therapy may include flunixin meglumine (1 mg/kg IV q12–24h, up to 3 days) or dexamethasone (0.44 mg/kg IM/SQ/IV, once).
+        - HS: Ampicillin 10 mg/kg, Chloramphenicol 10 mg/kg,
+        - Black leg: Procaine peniccilin 40,000 IU/kg
+        - Cymelarsan
+        - Buparavaquone
+        - Interstitial Pneumonia
+            - Furosemide (1 mg/kg IM or IV, q24h or q12h).
+            - Flunixin meglumine (1.1–2.2 mg/kg IV, q24h or divided q12h).
+            - Dexamethasone (0.05 to 0.2 mg/kg IM or IV, once or twice).
+            - Antibiotics may be indicated to prevent secondary bacterial pneumonia.
+        - Camel Pharmacology
+            - Antimicrobials
+                - Sulfadimidine or sulfamethoxypyridazine are used at the dose of 55–70 mg/kg bw IV q24h. Penicillin G dosage: 10,000–20,000 IU per kg bw, SQ or IM, q24h. Long-acting penicillin (Procaine penicillin 150 mg/mL and benzathine penicillin 115 mg/mL) 20–30 mL/500 kg q72h. Enrofloxacin 1.6–3 mg/kg bw, q12h (oral solution is used at 2.5 mg/kg). maximum dose of 5 mg/kg is used in cases of pasteurellosis or salmonellosis. Oxytetracycline: 5–10 mg/kg bw IM q24h; long-acting tetracycline can be used at 20 mg/kg q48h. Chloramphenicol: 10–30 mg/kg bw IM, q12h (not approved in many countries; illegal in Canada and the United States). Streptomycin: 8 mg/kg bw IM, q12h. Rifampin and erythromycin have also been used in camels for specific conditions at the same dosage and length of treatment as equines. Gentamycin 3–4 mg/kg bw IM, q12h. Gentamycin is known to be extremely nephrotoxic in young camels and dehydrated animals. Ampicillin: 4–8 mg/kg bw IV, q24h. Tylosin 10 mg/kg bw q8h.
+                - Metronidazole: 5–10 mg/kg Griseofulvin: 0.25 g/45 kg (not available in some countries; illegal for use in Canada and US). Trimethoprim (2.7 mg/kg bw)/Sulfadiazine (13.3 mg/kg bw) daily IM or IV.
+            - Camel Anthelmintics and Other Antiparasitic Drugs
+                - All types of bovine anthelmintics can be used safely in camels at the same or slightly higher dosage. Levamisole has been reported ineffective and possibly toxic in camels. Oral: albendazole 7.5 mg/kg, oxfendazole 5–7.5 mg/kg, Fenbendazole (6–7.5 mg/kg, morantel tartrate 35 g/500 kg bw). Subcutaneous: ivermectin (0.2 mg/kg), moxidectin 0.15 mg /kg bw (helminths, suckling lice, and mange mites). Pour On: ivermectin 5 mg/10 kg bw. Monensin is very toxic and can be fatal in camels.
+            - [[Deramatologic Infections]]
+                - Topical insecticide (permethrins or macrocyclic lactones) every 2 weeks for 2 or 3 treatments will treat and prevent lice infestation if bedding, grooming equipment and other fomites are cleaned as well.
+                - Diazinon, pyrethroids, carbaryl or tetrachlorvinos might be indicated for other ectoparasite disorders. Dermatophilosis responds to parenteral penicillin or tetracycline. Corticosteroid agents (dexamethasone, methylprednisolone) are indicated for immune-mediated or hypersensitivity disorders.
+                - Coccidioidomycosis (systemic) has been treated with fluconazole (2.27 mg/kg, PO). For topical infection, agents such as nystatin or thiabendazole may be useful.
+                - Dermatophilosis responds to ceftiofur, penicillin, or oxytetracycline given for a minimum of 5–7 days. Topical cleaning of crusts with disinfectants such as dilute chlorhexidine (25 mL per liter of saline) can also be performed.
+            - Sedation
+                - Sedation and anesthesia ◦ Xylazine 0.25–0.5 mg/kg IM (0.1–0.25 mg/kg IV) ◦ Ketamine (3–5 mg/kg, IV) with xylazine ◦ Detomidine (25–75 μg/kg, IV) ◦ Butorphanol (0.05–0.1 mg/kg, IM). Antiparasites: similar to bovine, do not use ionophores. Antibiotics: similar to bovine, avoid aminoglycosides.
+            - Other Drugs Diuretics: furosemide 0.25–1 mg/kg in the adult. Topical ointments: similar dosages as in cattle. Buparvaquone, treatment of theileriosis (125 mg/kg bw, IM repeat in 48–72h if necessary). Trypanocide: bis(aminoethylthio)-4 metaminophenylarsine dihydrochloride (Cymelarsan® ): 25 mg/100 kg bw IM, safe in pregnant animals
+    - Blood Tests
+        - Parasites
+        - Bacterial
+        - Skin
+        
+    - Parameters
+        - Sheep T 38.3–39.9 (100.9–103.8) , Pulse , HR , CRT , GIT movements
+        - Goat T 38.5–39.7 (101.3–103.5) , Pulse , HR , CRT , GIT movements
+        - Camel T , Pulse , HR , CRT , GIT movements
+        - Cattle T 38.0–39.3 (100.4–102.8),
+    - Mastitis vs Edema ... types of mastitis
+    - Drenching pneumonia
+    - [[Dystocia]]
+        - Dystocia can be due to fetomaternal disproportion, fetal maldisposition (abnormal presentation, position, or posture), uterine inertia, or failure/incomplete cervical dilation.
+        - Stage 1 of labor and cervical dilation lasts 6–12 hours for doelings and ewe lambs and 4–8 hours in adults. Stage 2 of labor begins with rupture of the allantochorion and ends with expulsion of a fetus. It lasts 1–4 hours in doelings and ewe lambs and 30 minutes to 1 hour in adults.
+        - CBC/BIOCHEMISTRY/URINALYSIS
+            - Hypocalcemia, and pregnancy toxemia (ketosis with an elevated anion gap).
+            - Elevated creatinine kinase, and lactic acidosis (uterine torsion, and exhaustion).
+            - Anemia (uterine rupture). Loss of blood and parasites can cause a ewe or doe to be very anemic and weak and hence predispose to dystocia as well.
+            - Neutrophilia and increased fibrinogen (inflammatory/infectious process).
+            - Urinalysis: Ketonuria (pregnancy toxemia), presence of bacteria and neutrophils (cystitis), increased protein (amyloidosis).
+        - [[Dx and DDx]]
+            - Vaginoscopy is helpful if no fetal parts are visible at the vulva (incomplete cervical dilation) and in very small patients.
+            - Vaginal examination with sterile obstetric lube and gloved hand to assess cervical dilation and fetal abnormalities and abnormalities of presentation, position, and posture.
+        - [[Treatment and Control]]
+            - Medical management of dystocia includes standard therapies such as analgesia, fluids, oxytocin, and antibiotics.
+    - [[Diagnostic Work up]]
+        - [[Parasitic Diseases]] - Anemia, hypoproteinemia, electrolyte and acid-base abnormalities, azotemia, or hepatic and biliary enzyme elevation may be present depending on etiology.
+        - Skin Problems: Skin scraping or microscopic evaluation of crusts can provide a positive diagnosis and species identification in mange mite conditions. Potassium hydroxide preparation (10–20% KOH), allows identification of dermatophytes from skin.
+            - Cytological examination
+    - [[Treatment and Control]] [[Dosage]] of [[Parasitic Diseases]]
+        - Nematodes
+            - Fenbendazole 10–20 mg/kg PO ◦ 20 mg/kg PO for 3 consecutive days if Trichuris ◦ 20 mg/kg PO for 5 days if Nematodirus
+            - Albendazole 10 mg/kg PO (given only once)
+            - Ivermectin 0.2–0.3 mg/kg PO; 0.4–0.6 mg/kg if whipworms present
+            - Levamisole 5–8 mg/kg PO once
+            - Pyrantel pamoate 25 mg/kg PO for 3 days Cestodes
+            - Fenbendazole 50 mg/kg PO for 5 days
+            - Praziquantal 2–5 mg/kg PO
+            - Pyrantel pamoate 25 mg/kg PO for 3 days r Albendazole 10 mg/kg PO (given only once) Trematodes
+            - Clorsulon 7 mg/kg PO
+            - Albendazole 10 mg/kg PO (given only once)
+        - Coccidia Treatment
+            - Sulfadimethoxine 55 mg/kg orally on day 1, followed by 22.5 mg/kg PO once daily for 5 days
+            - Ponazuril 20 mg/kg PO once (reportedly used 3 days in a row)
+            - Toltrazuril 20 mg/kg PO once (metabolized to ponazuril)
+            - Prevention
+                - Amprolium 5 mg/kg diluted in water for 21 days
+                - Decoquinate 0.5 mg/kg orally in feed for 28 days
+    - [[Pregnancy Toxemia]]
+        - Serum concentrations of both NEFAs (>0.4 mEq/L) and BHB (subclinical/moderate ketosis >15 mg/dL; clinical ketosis > 25 mg/dL) are increased.
+        - Hypoproteinemia (hypoalbuminemia and hypoglobulinemia) can be observed in clinical cases of pregnancy toxemia and could potentially be attributed to hepatic and/or renal failure.
+        - In later stages of pregnancy toxemia, hyperglycemia (often associated with fetal death), hypokalemia, elevated creatinine, and elevated BUN may be evident.
+        - Elevated ketones on urinalysis; ketonuria is present and usually detected before
+        - Glucose levels should be evaluated before initiation of treatment. Severe hypoglycemia should be treated by administration of 250–500 mL of 10–20% glucose solution IV followed by slower infusion of a 5–10% glucose solution.
+        - Propylene glycol (60–200 mL PO q12h for 6 days), glycerol, calcium propionate, sodium propionate, or liquid molasses are routinely used as glucose precursors.
+        - Dexamethasone (10–20 mg IM) with parturition in ewes generally occurring 36–48 hours following administration. Recombinant bovine somatotropin (0.15 mg/kg q24h SC or single injection of 160 mg of slow-release formulation SC) may increase efficiency of glucose and ketone usage. (Not currently approved for use in
+        - Recombinant bovine somatotropin (0.15 mg/kg q24h SC or single injection of 160 mg of slow-release formulation SC) may increase efficiency of glucose and ketone usage. (Not currently approved for use in small ruminants in the US.)
+    - Diarrhoea in sheep and goat
+    - Parasites of sheep and goat. Blood parasites.
+    - Anemia
+    - Lameness
+    - Pregnancy?
+    - Tympany and Bloat? Impaction? Differential Diagnosis?
+    - ruminal acidosis
+        - Acute ruminal acidosis is the most dramatic form of indigestion in ruminants and, in some cases, can lead to death in <24 hours. Subacute ruminal acidosis (SARA) results from chronic indigestion leading to short- or long-term production inefficiencies.
+        - Ruminal acidosis results from ingestion of excessive quantities of rapidly fermentable carbohydrates (RFC). Therefore, it represents a major challenge for ruminants on high-concentrate diets (e.g., feedlot cattle).
+        - Rumen pH of 4.5–5.0 and 5.2–5.5 are used as benchmarks for acute and chronic ruminal acidosis, respectively.
+        - Acute ruminal acidosis: Excessive consumption of RFC leads to a rapid fermentation with production of short-chain fatty acids and both D- and L-lactic acid. This causes a decrease in ruminal pH to physiologically inappropriate levels.
+        - Under low pH conditions, lactate-producing bacteria (e.g., Lactobacillus spp.) also grow faster, increase in number, and produce excessive amounts of D- and L-lactate.
+        - [[Treatment and Control]]
+            - Rumen pH of 4.5–5.0 (normal 6.0–7.0 on roughage and 5.5–6.5 on grain).
+            - Magnesium hydroxide (500 g/450 kg body weight) can be administered once the rumen has been evacuated.
+            - Ringer’s solution or isotonic 0.9% saline at 20 mL/kg/h (highest rate reached through a 14-gauge catheter) is recommended for fluid replacement. r Maintenance fluid rate: Recommended 2–4 mL/kg/h of lactated Ringer’s solutions or isotonic 0.9% saline.
+            - Calcium, magnesium, and phosphates should be supplement to correct deficits.
+            - Cows with more severe acidemia (base deficits <10 mmol/L): Administer isotonic sodium bicarbonate (156 mmol/L).
+            - Bicarbonate requirements—calculate from values of base deficit (BD) obtained from the blood gas measurement. Bicarbonate (mmol) = body weight (kg) × base deficit (mmol/L) × 0.3.
+            - Analgesic and anti-inflammatory drugs—flunixin meglumine or meloxicam to decrease the effects of the systemic inflammatory response.
+            - Antimicrobials—oxytetracycline and penicillin (ceftiofur in camelids) can be administrated to prevent or treat bacteremia and liver abscess development.
+            - Broad-spectrum antimicrobial therapy can predispose to mycotic rumenitis.
+            - Prevention of polioencephalomalacia: Administer thiamine HCl (10 mg/kg, IM or IV q4h).
+    - [[Hypocalcemia]] in Small Ruminants [[Treatment and Control]]
+        - Plasma calcium levels for subclinical hypocalcemia are <8.0 mg/dL (<2.0 mmol/L)
+        - Calcium: 1 g Ca/45 kg of BW intravenous, response to therapy should be rapid (within 5–10 minutes). r Subcutaneous or oral calcium may be administered subsequently for a longer-acting effect in severe cases. Care must be taken to administer in small boluses (no more than 50 mL per site) using clean technique or to ensure oral calcium is administered carefully or directly into the rumen (avoid calcium chloride boluses due to esophageal irritation).
+    - [[Hypomagnesemia]] - [[Treatment and Control]]
+        - Animals with hypomagnesemia are often hypocalcemic as well and should receive therapy containing calcium.
+        - Administer intravenous calcium borogluconate solution containing 5% Mg (500 mL for adult cattle; 50–100 mL for calves and small ruminants).
+        
+    - Pox virus infection
+        - Sheep pox and goat pox result from infection by sheeppox virus (SPPV) or goatpox virus (GTPV), closely related members of the genus Capripoxvirus in the family Poxviridae. SPPV is mainly thought to affect sheep and GTPV primarily to affect goats,
+        - ocular and nasal secretions, Lymph nodes aspiration,
+        - The disease in either species must be differentiated from the milder infection, contagious ecthyma (orf), which mainly causes crusty, proliferative lesions around the mouth.
+        - Fever and a variable degree of systemic disturbance develop. Eyelids become swollen, and mucopurulent discharge crusts the nostrils. Widespread skin lesions develop and are most readily seen on the muzzle, ears, and areas free of wool or long hair. Palpation can detect lesions not readily seen. Lesions start as erythematous areas on the skin and progress rapidly to raised, circular plaques with congested borders caused by local inflammation, edema, and epithelial hyperplasia.
+    - Caesarian section
+    - [[Treatment and Control]] - [[Dosage]]
+        - Ketaconazole
+        - Fluconazole
+        - Iatraconazole
+        - Atropine sulphate 0.25 mg/kg ; 1/3rd IV, rest IM
+        - Oxytetracycline 20 mg/kg IM
+        - Postparturient Haemoglobinuria: IV 60g Sodium acid phosphate in 300 ml distilled water and similiar dose s/c
+        - Babesia: imidocarb (imizole) 2 mg/kg + Diminazine aceturate 12mg/kg bwt
+        - CCPP: Tylosin 10 mg/kg
+        - F. necrophorum - Sulfamethazine 150 mg/kg for 3-5 days
+        - F hepatica: Triclabendazole 10mg/kg in sheep. albendazole 7.5 mg/kg ,
+        - tapeworm: albendazole 10 mg/kg + prazoquantel 1mg/kg
+        - [[Mastitis]]: TMP + sulphadiazine ... Penicillin G intramammary . Anti-inflammatory therapy may include flunixin meglumine (1 mg/kg IV q12–24h, up to 3 days) or dexamethasone (0.44 mg/kg IM/SQ/IV, once).
+        - HS: Ampicillin 10 mg/kg, Chloramphenicol 10 mg/kg,
+        - Black leg: Procaine peniccilin 40,000 IU/kg
+        - Cymelarsan
+        - Buparavaquone
+        - Interstitial Pneumonia
+            - Furosemide (1 mg/kg IM or IV, q24h or q12h).
+            - Flunixin meglumine (1.1–2.2 mg/kg IV, q24h or divided q12h).
+            - Dexamethasone (0.05 to 0.2 mg/kg IM or IV, once or twice).
+            - Antibiotics may be indicated to prevent secondary bacterial pneumonia.
+        - Camel Pharmacology
+            - Antimicrobials
+                - Sulfadimidine or sulfamethoxypyridazine are used at the dose of 55–70 mg/kg bw IV q24h. Penicillin G dosage: 10,000–20,000 IU per kg bw, SQ or IM, q24h. Long-acting penicillin (Procaine penicillin 150 mg/mL and benzathine penicillin 115 mg/mL) 20–30 mL/500 kg q72h. Enrofloxacin 1.6–3 mg/kg bw, q12h (oral solution is used at 2.5 mg/kg). maximum dose of 5 mg/kg is used in cases of pasteurellosis or salmonellosis. Oxytetracycline: 5–10 mg/kg bw IM q24h; long-acting tetracycline can be used at 20 mg/kg q48h. Chloramphenicol: 10–30 mg/kg bw IM, q12h (not approved in many countries; illegal in Canada and the United States). Streptomycin: 8 mg/kg bw IM, q12h. Rifampin and erythromycin have also been used in camels for specific conditions at the same dosage and length of treatment as equines. Gentamycin 3–4 mg/kg bw IM, q12h. Gentamycin is known to be extremely nephrotoxic in young camels and dehydrated animals. Ampicillin: 4–8 mg/kg bw IV, q24h. Tylosin 10 mg/kg bw q8h.
+                - Metronidazole: 5–10 mg/kg Griseofulvin: 0.25 g/45 kg (not available in some countries; illegal for use in Canada and US). Trimethoprim (2.7 mg/kg bw)/Sulfadiazine (13.3 mg/kg bw) daily IM or IV.
+            - Camel Anthelmintics and Other Antiparasitic Drugs
+                - All types of bovine anthelmintics can be used safely in camels at the same or slightly higher dosage. Levamisole has been reported ineffective and possibly toxic in camels. Oral: albendazole 7.5 mg/kg, oxfendazole 5–7.5 mg/kg, Fenbendazole (6–7.5 mg/kg, morantel tartrate 35 g/500 kg bw). Subcutaneous: ivermectin (0.2 mg/kg), moxidectin 0.15 mg /kg bw (helminths, suckling lice, and mange mites). Pour On: ivermectin 5 mg/10 kg bw. Monensin is very toxic and can be fatal in camels.
+            - [[Deramatologic Infections]]
+                - Topical insecticide (permethrins or macrocyclic lactones) every 2 weeks for 2 or 3 treatments will treat and prevent lice infestation if bedding, grooming equipment and other fomites are cleaned as well.
+                - Diazinon, pyrethroids, carbaryl or tetrachlorvinos might be indicated for other ectoparasite disorders. Dermatophilosis responds to parenteral penicillin or tetracycline. Corticosteroid agents (dexamethasone, methylprednisolone) are indicated for immune-mediated or hypersensitivity disorders.
+                - Coccidioidomycosis (systemic) has been treated with fluconazole (2.27 mg/kg, PO). For topical infection, agents such as nystatin or thiabendazole may be useful.
+                - Dermatophilosis responds to ceftiofur, penicillin, or oxytetracycline given for a minimum of 5–7 days. Topical cleaning of crusts with disinfectants such as dilute chlorhexidine (25 mL per liter of saline) can also be performed.
+            - Sedation
+                - Sedation and anesthesia ◦ Xylazine 0.25–0.5 mg/kg IM (0.1–0.25 mg/kg IV) ◦ Ketamine (3–5 mg/kg, IV) with xylazine ◦ Detomidine (25–75 μg/kg, IV) ◦ Butorphanol (0.05–0.1 mg/kg, IM). Antiparasites: similar to bovine, do not use ionophores. Antibiotics: similar to bovine, avoid aminoglycosides.
+            - Other Drugs Diuretics: furosemide 0.25–1 mg/kg in the adult. Topical ointments: similar dosages as in cattle. Buparvaquone, treatment of theileriosis (125 mg/kg bw, IM repeat in 48–72h if necessary). Trypanocide: bis(aminoethylthio)-4 metaminophenylarsine dihydrochloride (Cymelarsan® ): 25 mg/100 kg bw IM, safe in pregnant animals
+    - Blood Tests
+        - Parasites
+        - Bacterial
+        - Skin
+        
+- [[Clostridial Diseases]]
+    - Clostridia are prokaryotic bacteria of the phylum Firmicutes, which are large, anaerobic, spore-forming, rod-shaped, gram-positive organisms. They can be living cells (vegetative forms) or dormant spores. Their natural habitats are soils and intestinal tracts of animals, including humans.
+    - Dormant spores of several clostridial species have been found in healthy muscular tissue of horses and cows. The endospores are oval, sometimes spherical, and are located centrally, subterminally, or terminally. The vegetative forms of clostridia in tissue fluids of infected animals occur singly, in pairs, or rarely in chains.
+    - Clostridial diseases are not spread from animal to animal or from animals to humans. They have been classified into three forms:
+        - histotoxic diseases
+        - neurotoxic diseases
+        - enteric diseases
+    - [[Bacillary hemoglobinuria ]] - [[Red Water Disease]]
+        - is an acute, infectious, toxemic disease with high mortality caused by _Clostridium haemolyticum_. It affects primarily cattle but has also been found in sheep and rarely in dogs, horses, pigs, elk; and possibly camelids.
+        - _C haemolyticum_ (also called _C novyi_ Type D) is a soilborne organism
+        - Bacillary hemoglobinuria is an acute toxemia caused by Clostridium haemolyticum, a soil-borne organism. After ingestion, spores remain in the liver until stimulated to germinate by conditions of anaerobiosis. Many affected cattle are found dead, with no premonitory signs. Port-wine–colored urine is the most prominent clinical sign. Early treatment with high-dose penicillin or tetracyclines is essential. Mortality in untreated animals is ~95%. Control is via vaccination with a C haemolyticum bacterin given once or twice yearly, depending on endemicity of the disease.
+        - When conditions for anaerobiosis are favorable, the spores germinate, and the resulting vegetative cells multiply and produce beta toxin (phospholipase C). This causes intravascular hemolysis, resulting in hemolytic anemia and hemoglobinuria.
+        - [[Clinical Signs]]
+            - Cattle may be found dead without premonitory clinical signs. Usually, there is a sudden onset of severe depression, fever, abdominal pain, dyspnea, severe diarrhea , and hemoglobinuria.
+            - Hgb and RBC levels are quite low. The duration of clinical signs varies from ~12 hours in pregnant cows to ~3–4 days in other cattle. Mortality in untreated animals is ~95%. Some cattle suffer from subclinical attacks of the disease and thereafter are immune carriers.
+        - [[Dx and DDx]]
+            - Presumptive with clinical findings: port wine–colored urine; dark liquid feces
+            - Liver infarct at post-mortem, with diagnostic confirmation via PCR assay, IFAT, or other laboratory testing
+        - [[Treatment and Control]]
+            - Early treatment with penicillin or tetracyclines at high doses is essential. Whole blood transfusions and fluid therapy also are helpful early in the disease; however, the prognosis is guarded.
+            - Prevention involves vaccination of cattle and control of liver flukes.
+            
+    - [[Big Head Disease]] - [🔗](https://www.msdvetmanual.com/generalized-conditions/clostridial-diseases/bacillary-hemoglobinuria-in-animals)
+        - Big head is an acute, infectious disease caused by _Clostridium novyi_, _C sordellii_, or rarely _C chauvoei_, characterized by a nongaseous, nonhemorrhagic, edematous swelling of the head, face, and neck of young rams. This infection is initiated in young rams by fighting or continual butting of one another. It has also been associated with the practice of dipping immediately after shearing. The bruised and battered subcutaneous tissues provide conditions suitable for growth of pathogenic clostridia, and the breaks in the skin offer an opportunity for their entrance. Treatment is with parenteral administration of broad-spectrum antimicrobials or penicillin.
+    - [[Blackleg Disease]]
+        - Blackleg is an acute, febrile, highly fatal, worldwide disease of cattle and sheep caused by _Clostridium chauvoei_ and characterized by emphysematous swelling and necrotizing myositis that commonly affects large muscles (clostridial myositis)
+        - Blackleg is an acute, highly fatal disease of cattle and sheep caused by Clostridium chauvoei. In cattle, characteristic lesions of emphysematous swelling of the musculature often develop without a history of wounds. In contrast, the disease in sheep is almost always the result of a wound infection after shearing cuts, docking, castration, and similar. The disease is highly fatal. Control is via administration of a multivalent vaccine containing antigens for multiple clostridial organisms.
+        - Usually, onset is sudden, and a few animals may be found dead without premonitory signs. Acute, severe lameness, more commonly affecting the hind legs, and marked depression are common.
+        - Characteristic edematous and crepitant swellings develop in the hip, shoulder, chest, back, neck, or elsewhere. At first, the swelling is focal, hot, and painful.
+    - [[Black Disease]] - [[Infectious Necrotic Hepatitis]] in Animals
+        - Infectious necrotic hepatitis is an acute toxemia primarily of sheep caused by Clostridium novyi type B. Death is sudden, often without clinical signs, and seems to be limited to animals infected with liver flukes. The most characteristic gross lesions are grayish yellow, necrotic foci in hepatic tissue, caused by young, migrating flukes. Control is by disrupting the life cycle of the liver fluke (by reducing populations of the intermediate snail host) and by active immunization with C novyi toxoid.
+        - The etiologic agent of infectious necrotic hepatitis, _Clostridium novyi_ type B, is soilborne and part of the intestinal microbiota. It is also present in the liver of herbivores; it may be present on skin surfaces and dormant in muscles and is a potential source of wound infections. Fecal contamination of pasture by carrier animals is the most important source of infection. The organism multiplies in areas of liver necrosis caused by migration of liver flukes and produces a powerful necrotizing toxin (alpha toxin). The disease is worldwide, wherever sheep and liver flukes are both found, and is increasing in cattle where liver flukes are accidentally introduced.
+        - Typically, death is sudden, without clear clinical signs. Affected animals often are 2–4 years old, tend to lag behind the flock, assume sternal recumbency, and die within a few hours.
+        - Differentiation from acute fascioliasis may be difficult, but peracute deaths of animals with typical lesions found on a necropsy examination should arouse suspicion of infectious necrotic hepatitis.
+    - [[Malignant Edema]] in Animals
+        - Clostridium septicum, the cause of malignant edema, is found in soil and intestinal contents of all species of animals. Infection generally occurs via contamination of wounds. Clinical signs develop within 2 days, including systemic signs (eg, fever) and localized swellings in muscles and intermuscular connective tissues. A fatal toxemia often results. Confirmation of diagnosis is by laboratory testing. Treatment consists of antimicrobials and supportive therapy. Control is via immunization using a bacterin, often in a multivalent vaccine.
+        - _C septicum_ also causes [[Braxy]] in sheep, a highly fatal infection characterized by toxemia and inflammation of the abomasal wall. This disease seems to be confined mostly to European sheep fed on “frosted” pasture.
+    - [[Enterotoxemia]] in Sheep - [[Pulpy Kidney Disease]]
+        - _C perfringens_ type D. enterotoxemia, a classic enterotoxemia of sheep, is seen less frequently in goats and rarely in cattle. It has a worldwide distribution and affects animals of any age. It is most common in lambs either <2 weeks old or weaned in feedlots and on a high-carbohydrate diet or, less often, on lush, green pastures. The disease has been suspected in well-nourished beef calves nursing high-producing cows grazing lush pasture and in sudden death syndrome in feedlot cattle; however, supportive laboratory evidence in the latter is lacking.
+        - Usually, sudden deaths in the best-conditioned lambs are the first indication of enterotoxemia. In some cases, excitement, incoordination, and seizures occur before death. Opisthotonos, circling, and pushing the head against fixed objects are common neurologic clinical signs; frequently, hyperglycemia or glycosuria is present. Diarrhea may develop.
+        - [[Dx and DDx]]
+            - Sudden death in overfed sheep
+            - Demonstration of epsilon toxin in small-intestinal fluid
+        - [[Treatment and Control]]
+            - Immunization
+            - Dietary changes in feedlot lambs
+            - Enterotoxemia in feedlot lambs can be controlled by reducing the amount of concentrate in the diet.
+    - Clinical Findings of Enterotoxemia Caused by _Clostridium perfringens_ Types B and C
+        - Lamb dysentery is an acute disease of lambs <3 weeks old. Many may die before clinical signs are seen, but some newborn lambs stop nursing, become listless, and remain recumbent. Fetid, blood-tinged diarrhea is common, and death usually occurs within a few days. In calves, there is acute diarrhea, dysentery, abdominal pain, seizures, and opisthotonos. Death may occur in a few hours, but less severely affected lambs may survive for a few days, and recovery is possible. Pigs become acutely ill within a few days of birth, and there is diarrhea, dysentery, reddening of the anus, and a high fatality rate; most affected piglets die within 12 hours. In foals, there is acute dysentery, toxemia, and rapid death. Struck in adult sheep is characterized by death without premonitory clinical signs.
+    
+    - Clostridia are prokaryotic bacteria of the phylum Firmicutes, which are large, anaerobic, spore-forming, rod-shaped, gram-positive organisms. They can be living cells (vegetative forms) or dormant spores. Their natural habitats are soils and intestinal tracts of animals, including humans.
+    - Dormant spores of several clostridial species have been found in healthy muscular tissue of horses and cows. The endospores are oval, sometimes spherical, and are located centrally, subterminally, or terminally. The vegetative forms of clostridia in tissue fluids of infected animals occur singly, in pairs, or rarely in chains.
+    - Clostridial diseases are not spread from animal to animal or from animals to humans. They have been classified into three forms:
+        - histotoxic diseases
+        - neurotoxic diseases
+        - enteric diseases
+    - [[Bacillary hemoglobinuria ]] - [[Red Water Disease]]
+        - is an acute, infectious, toxemic disease with high mortality caused by _Clostridium haemolyticum_. It affects primarily cattle but has also been found in sheep and rarely in dogs, horses, pigs, elk; and possibly camelids.
+        - _C haemolyticum_ (also called _C novyi_ Type D) is a soilborne organism
+        - Bacillary hemoglobinuria is an acute toxemia caused by Clostridium haemolyticum, a soil-borne organism. After ingestion, spores remain in the liver until stimulated to germinate by conditions of anaerobiosis. Many affected cattle are found dead, with no premonitory signs. Port-wine–colored urine is the most prominent clinical sign. Early treatment with high-dose penicillin or tetracyclines is essential. Mortality in untreated animals is ~95%. Control is via vaccination with a C haemolyticum bacterin given once or twice yearly, depending on endemicity of the disease.
+        - When conditions for anaerobiosis are favorable, the spores germinate, and the resulting vegetative cells multiply and produce beta toxin (phospholipase C). This causes intravascular hemolysis, resulting in hemolytic anemia and hemoglobinuria.
+        - [[Clinical Signs]]
+            - Cattle may be found dead without premonitory clinical signs. Usually, there is a sudden onset of severe depression, fever, abdominal pain, dyspnea, severe diarrhea , and hemoglobinuria.
+            - Hgb and RBC levels are quite low. The duration of clinical signs varies from ~12 hours in pregnant cows to ~3–4 days in other cattle. Mortality in untreated animals is ~95%. Some cattle suffer from subclinical attacks of the disease and thereafter are immune carriers.
+        - [[Dx and DDx]]
+            - Presumptive with clinical findings: port wine–colored urine; dark liquid feces
+            - Liver infarct at post-mortem, with diagnostic confirmation via PCR assay, IFAT, or other laboratory testing
+        - [[Treatment and Control]]
+            - Early treatment with penicillin or tetracyclines at high doses is essential. Whole blood transfusions and fluid therapy also are helpful early in the disease; however, the prognosis is guarded.
+            - Prevention involves vaccination of cattle and control of liver flukes.
+            
+    - [[Big Head Disease]] - [🔗](https://www.msdvetmanual.com/generalized-conditions/clostridial-diseases/bacillary-hemoglobinuria-in-animals)
+        - Big head is an acute, infectious disease caused by _Clostridium novyi_, _C sordellii_, or rarely _C chauvoei_, characterized by a nongaseous, nonhemorrhagic, edematous swelling of the head, face, and neck of young rams. This infection is initiated in young rams by fighting or continual butting of one another. It has also been associated with the practice of dipping immediately after shearing. The bruised and battered subcutaneous tissues provide conditions suitable for growth of pathogenic clostridia, and the breaks in the skin offer an opportunity for their entrance. Treatment is with parenteral administration of broad-spectrum antimicrobials or penicillin.
+    - [[Blackleg Disease]]
+        - Blackleg is an acute, febrile, highly fatal, worldwide disease of cattle and sheep caused by _Clostridium chauvoei_ and characterized by emphysematous swelling and necrotizing myositis that commonly affects large muscles (clostridial myositis)
+        - Blackleg is an acute, highly fatal disease of cattle and sheep caused by Clostridium chauvoei. In cattle, characteristic lesions of emphysematous swelling of the musculature often develop without a history of wounds. In contrast, the disease in sheep is almost always the result of a wound infection after shearing cuts, docking, castration, and similar. The disease is highly fatal. Control is via administration of a multivalent vaccine containing antigens for multiple clostridial organisms.
+        - Usually, onset is sudden, and a few animals may be found dead without premonitory signs. Acute, severe lameness, more commonly affecting the hind legs, and marked depression are common.
+        - Characteristic edematous and crepitant swellings develop in the hip, shoulder, chest, back, neck, or elsewhere. At first, the swelling is focal, hot, and painful.
+    - [[Black Disease]] - [[Infectious Necrotic Hepatitis]] in Animals
+        - Infectious necrotic hepatitis is an acute toxemia primarily of sheep caused by Clostridium novyi type B. Death is sudden, often without clinical signs, and seems to be limited to animals infected with liver flukes. The most characteristic gross lesions are grayish yellow, necrotic foci in hepatic tissue, caused by young, migrating flukes. Control is by disrupting the life cycle of the liver fluke (by reducing populations of the intermediate snail host) and by active immunization with C novyi toxoid.
+        - The etiologic agent of infectious necrotic hepatitis, _Clostridium novyi_ type B, is soilborne and part of the intestinal microbiota. It is also present in the liver of herbivores; it may be present on skin surfaces and dormant in muscles and is a potential source of wound infections. Fecal contamination of pasture by carrier animals is the most important source of infection. The organism multiplies in areas of liver necrosis caused by migration of liver flukes and produces a powerful necrotizing toxin (alpha toxin). The disease is worldwide, wherever sheep and liver flukes are both found, and is increasing in cattle where liver flukes are accidentally introduced.
+        - Typically, death is sudden, without clear clinical signs. Affected animals often are 2–4 years old, tend to lag behind the flock, assume sternal recumbency, and die within a few hours.
+        - Differentiation from acute fascioliasis may be difficult, but peracute deaths of animals with typical lesions found on a necropsy examination should arouse suspicion of infectious necrotic hepatitis.
+    - [[Malignant Edema]] in Animals
+        - Clostridium septicum, the cause of malignant edema, is found in soil and intestinal contents of all species of animals. Infection generally occurs via contamination of wounds. Clinical signs develop within 2 days, including systemic signs (eg, fever) and localized swellings in muscles and intermuscular connective tissues. A fatal toxemia often results. Confirmation of diagnosis is by laboratory testing. Treatment consists of antimicrobials and supportive therapy. Control is via immunization using a bacterin, often in a multivalent vaccine.
+        - _C septicum_ also causes [[Braxy]] in sheep, a highly fatal infection characterized by toxemia and inflammation of the abomasal wall. This disease seems to be confined mostly to European sheep fed on “frosted” pasture.
+    - [[Enterotoxemia]] in Sheep - [[Pulpy Kidney Disease]]
+        - _C perfringens_ type D. enterotoxemia, a classic enterotoxemia of sheep, is seen less frequently in goats and rarely in cattle. It has a worldwide distribution and affects animals of any age. It is most common in lambs either <2 weeks old or weaned in feedlots and on a high-carbohydrate diet or, less often, on lush, green pastures. The disease has been suspected in well-nourished beef calves nursing high-producing cows grazing lush pasture and in sudden death syndrome in feedlot cattle; however, supportive laboratory evidence in the latter is lacking.
+        - Usually, sudden deaths in the best-conditioned lambs are the first indication of enterotoxemia. In some cases, excitement, incoordination, and seizures occur before death. Opisthotonos, circling, and pushing the head against fixed objects are common neurologic clinical signs; frequently, hyperglycemia or glycosuria is present. Diarrhea may develop.
+        - [[Dx and DDx]]
+            - Sudden death in overfed sheep
+            - Demonstration of epsilon toxin in small-intestinal fluid
+        - [[Treatment and Control]]
+            - Immunization
+            - Dietary changes in feedlot lambs
+            - Enterotoxemia in feedlot lambs can be controlled by reducing the amount of concentrate in the diet.
+    - Clinical Findings of Enterotoxemia Caused by _Clostridium perfringens_ Types B and C
+        - Lamb dysentery is an acute disease of lambs <3 weeks old. Many may die before clinical signs are seen, but some newborn lambs stop nursing, become listless, and remain recumbent. Fetid, blood-tinged diarrhea is common, and death usually occurs within a few days. In calves, there is acute diarrhea, dysentery, abdominal pain, seizures, and opisthotonos. Death may occur in a few hours, but less severely affected lambs may survive for a few days, and recovery is possible. Pigs become acutely ill within a few days of birth, and there is diarrhea, dysentery, reddening of the anus, and a high fatality rate; most affected piglets die within 12 hours. In foals, there is acute dysentery, toxemia, and rapid death. Struck in adult sheep is characterized by death without premonitory clinical signs.
+    
+    - Clostridia are prokaryotic bacteria of the phylum Firmicutes, which are large, anaerobic, spore-forming, rod-shaped, gram-positive organisms. They can be living cells (vegetative forms) or dormant spores. Their natural habitats are soils and intestinal tracts of animals, including humans.
+    - Dormant spores of several clostridial species have been found in healthy muscular tissue of horses and cows. The endospores are oval, sometimes spherical, and are located centrally, subterminally, or terminally. The vegetative forms of clostridia in tissue fluids of infected animals occur singly, in pairs, or rarely in chains.
+    - Clostridial diseases are not spread from animal to animal or from animals to humans. They have been classified into three forms:
+        - histotoxic diseases
+        - neurotoxic diseases
+        - enteric diseases
+    - [[Bacillary hemoglobinuria ]] - [[Red Water Disease]]
+        - is an acute, infectious, toxemic disease with high mortality caused by _Clostridium haemolyticum_. It affects primarily cattle but has also been found in sheep and rarely in dogs, horses, pigs, elk; and possibly camelids.
+        - _C haemolyticum_ (also called _C novyi_ Type D) is a soilborne organism
+        - Bacillary hemoglobinuria is an acute toxemia caused by Clostridium haemolyticum, a soil-borne organism. After ingestion, spores remain in the liver until stimulated to germinate by conditions of anaerobiosis. Many affected cattle are found dead, with no premonitory signs. Port-wine–colored urine is the most prominent clinical sign. Early treatment with high-dose penicillin or tetracyclines is essential. Mortality in untreated animals is ~95%. Control is via vaccination with a C haemolyticum bacterin given once or twice yearly, depending on endemicity of the disease.
+        - When conditions for anaerobiosis are favorable, the spores germinate, and the resulting vegetative cells multiply and produce beta toxin (phospholipase C). This causes intravascular hemolysis, resulting in hemolytic anemia and hemoglobinuria.
+        - [[Clinical Signs]]
+            - Cattle may be found dead without premonitory clinical signs. Usually, there is a sudden onset of severe depression, fever, abdominal pain, dyspnea, severe diarrhea , and hemoglobinuria.
+            - Hgb and RBC levels are quite low. The duration of clinical signs varies from ~12 hours in pregnant cows to ~3–4 days in other cattle. Mortality in untreated animals is ~95%. Some cattle suffer from subclinical attacks of the disease and thereafter are immune carriers.
+        - [[Dx and DDx]]
+            - Presumptive with clinical findings: port wine–colored urine; dark liquid feces
+            - Liver infarct at post-mortem, with diagnostic confirmation via PCR assay, IFAT, or other laboratory testing
+        - [[Treatment and Control]]
+            - Early treatment with penicillin or tetracyclines at high doses is essential. Whole blood transfusions and fluid therapy also are helpful early in the disease; however, the prognosis is guarded.
+            - Prevention involves vaccination of cattle and control of liver flukes.
+            
+    - [[Big Head Disease]] - [🔗](https://www.msdvetmanual.com/generalized-conditions/clostridial-diseases/bacillary-hemoglobinuria-in-animals)
+        - Big head is an acute, infectious disease caused by _Clostridium novyi_, _C sordellii_, or rarely _C chauvoei_, characterized by a nongaseous, nonhemorrhagic, edematous swelling of the head, face, and neck of young rams. This infection is initiated in young rams by fighting or continual butting of one another. It has also been associated with the practice of dipping immediately after shearing. The bruised and battered subcutaneous tissues provide conditions suitable for growth of pathogenic clostridia, and the breaks in the skin offer an opportunity for their entrance. Treatment is with parenteral administration of broad-spectrum antimicrobials or penicillin.
+    - [[Blackleg Disease]]
+        - Blackleg is an acute, febrile, highly fatal, worldwide disease of cattle and sheep caused by _Clostridium chauvoei_ and characterized by emphysematous swelling and necrotizing myositis that commonly affects large muscles (clostridial myositis)
+        - Blackleg is an acute, highly fatal disease of cattle and sheep caused by Clostridium chauvoei. In cattle, characteristic lesions of emphysematous swelling of the musculature often develop without a history of wounds. In contrast, the disease in sheep is almost always the result of a wound infection after shearing cuts, docking, castration, and similar. The disease is highly fatal. Control is via administration of a multivalent vaccine containing antigens for multiple clostridial organisms.
+        - Usually, onset is sudden, and a few animals may be found dead without premonitory signs. Acute, severe lameness, more commonly affecting the hind legs, and marked depression are common.
+        - Characteristic edematous and crepitant swellings develop in the hip, shoulder, chest, back, neck, or elsewhere. At first, the swelling is focal, hot, and painful.
+    - [[Black Disease]] - [[Infectious Necrotic Hepatitis]] in Animals
+        - Infectious necrotic hepatitis is an acute toxemia primarily of sheep caused by Clostridium novyi type B. Death is sudden, often without clinical signs, and seems to be limited to animals infected with liver flukes. The most characteristic gross lesions are grayish yellow, necrotic foci in hepatic tissue, caused by young, migrating flukes. Control is by disrupting the life cycle of the liver fluke (by reducing populations of the intermediate snail host) and by active immunization with C novyi toxoid.
+        - The etiologic agent of infectious necrotic hepatitis, _Clostridium novyi_ type B, is soilborne and part of the intestinal microbiota. It is also present in the liver of herbivores; it may be present on skin surfaces and dormant in muscles and is a potential source of wound infections. Fecal contamination of pasture by carrier animals is the most important source of infection. The organism multiplies in areas of liver necrosis caused by migration of liver flukes and produces a powerful necrotizing toxin (alpha toxin). The disease is worldwide, wherever sheep and liver flukes are both found, and is increasing in cattle where liver flukes are accidentally introduced.
+        - Typically, death is sudden, without clear clinical signs. Affected animals often are 2–4 years old, tend to lag behind the flock, assume sternal recumbency, and die within a few hours.
+        - Differentiation from acute fascioliasis may be difficult, but peracute deaths of animals with typical lesions found on a necropsy examination should arouse suspicion of infectious necrotic hepatitis.
+    - [[Malignant Edema]] in Animals
+        - Clostridium septicum, the cause of malignant edema, is found in soil and intestinal contents of all species of animals. Infection generally occurs via contamination of wounds. Clinical signs develop within 2 days, including systemic signs (eg, fever) and localized swellings in muscles and intermuscular connective tissues. A fatal toxemia often results. Confirmation of diagnosis is by laboratory testing. Treatment consists of antimicrobials and supportive therapy. Control is via immunization using a bacterin, often in a multivalent vaccine.
+        - _C septicum_ also causes [[Braxy]] in sheep, a highly fatal infection characterized by toxemia and inflammation of the abomasal wall. This disease seems to be confined mostly to European sheep fed on “frosted” pasture.
+    - [[Enterotoxemia]] in Sheep - [[Pulpy Kidney Disease]]
+        - _C perfringens_ type D. enterotoxemia, a classic enterotoxemia of sheep, is seen less frequently in goats and rarely in cattle. It has a worldwide distribution and affects animals of any age. It is most common in lambs either <2 weeks old or weaned in feedlots and on a high-carbohydrate diet or, less often, on lush, green pastures. The disease has been suspected in well-nourished beef calves nursing high-producing cows grazing lush pasture and in sudden death syndrome in feedlot cattle; however, supportive laboratory evidence in the latter is lacking.
+        - Usually, sudden deaths in the best-conditioned lambs are the first indication of enterotoxemia. In some cases, excitement, incoordination, and seizures occur before death. Opisthotonos, circling, and pushing the head against fixed objects are common neurologic clinical signs; frequently, hyperglycemia or glycosuria is present. Diarrhea may develop.
+        - [[Dx and DDx]]
+            - Sudden death in overfed sheep
+            - Demonstration of epsilon toxin in small-intestinal fluid
+        - [[Treatment and Control]]
+            - Immunization
+            - Dietary changes in feedlot lambs
+            - Enterotoxemia in feedlot lambs can be controlled by reducing the amount of concentrate in the diet.
+    - Clinical Findings of Enterotoxemia Caused by _Clostridium perfringens_ Types B and C
+        - Lamb dysentery is an acute disease of lambs <3 weeks old. Many may die before clinical signs are seen, but some newborn lambs stop nursing, become listless, and remain recumbent. Fetid, blood-tinged diarrhea is common, and death usually occurs within a few days. In calves, there is acute diarrhea, dysentery, abdominal pain, seizures, and opisthotonos. Death may occur in a few hours, but less severely affected lambs may survive for a few days, and recovery is possible. Pigs become acutely ill within a few days of birth, and there is diarrhea, dysentery, reddening of the anus, and a high fatality rate; most affected piglets die within 12 hours. In foals, there is acute dysentery, toxemia, and rapid death. Struck in adult sheep is characterized by death without premonitory clinical signs.
+    
+- [[Brucellosis]]
+    - Keys: #ubiquitous - #[[Diseases]] - #grade1 - GP Exam? [source](paste link here)
+        - [[Disease Overview]]
+            - Brucellosis is a contagious disease caused by bacteria of the genus Brucella. Taxonomically, the genus Brucella is divided into ten classified species and subdivided into biovars.
+            - Brucella bacteria are Gram-negative coccobacilli that are non-motile and nonspore-forming. They grow anaerobically and certain strains need a 5% to 10% carbon dioxide atmosphere.
+            
+        - [[Clinical Signs]]
+            - Clinical signs - Brucellosis is characterized by abortion and to a lesser extent by orchitis and infection of the accessory sex glands in males. Infections may cause stillborn calves, retained placenta and fetal death. The disease can generally cause significant loss of productivity through late first calving age, long calving interval time, low herd fertility and comparatively low milk production.
+            - In humans, the disease, which is often referred to as ‘undulant fever’ or ‘Malta fever’ is a serious public health problem. Brucella melitensis and B. abortus are the two species most commonly found in human cases, and B. melitensis is responsible for the most serious infections. #HIGHLIGHTS
+            
+        - [[Dx and DDx]]
+            
+        - [[Treatment and Control]]
+            
+        - [[Disease Summary]]
+        - [[Additional Reference]]
+            
+- [[Anthrax]] - Splenic fever, Siberian ulcer, Charbon, Milzbrand
+    - Keys: Splenic fever, Siberian ulcer, Charbon, Milzbrand - subject - Grade 1 2 3 topic - GP Exam? - [source](Link here)
+        - [[Disease Overview]]
+            - Anthrax is a zoonotic disease caused by the sporeforming bacterium _Bacillus anthracis_. Anthrax is most common in wild and domestic herbivores (eg, cattle, sheep, goats, camels, antelopes) but can also be seen in people exposed to tissue from infected animals, to contaminated animal products, or directly to _B anthracis_ spores under certain conditions. Depending on the route of infection, host factors, and potentially strain-specific factors, anthrax can have several different clinical presentations. In herbivores, anthrax commonly presents as an acute septicemia with a high fatality rate, often accompanied by hemorrhagic lymphadenitis. In dogs, people, horses, and pigs, it is usually less acute although still potentially fatal.
+            - _B anthracis_ spores can remain viable in soil for many years. During this time, they are a potential source of infection for grazing livestock but generally do not represent a direct risk of infection for people. Grazing animals may become infected when they ingest sufficient quantities of these spores from the soil.
+        - [[Pathogenesis]]
+            - After wound inoculation, ingestion, or inhalation, spores infect macrophages, germinate, and proliferate. In cutaneous and GI infection, proliferation can occur at the site of infection and in the lymph nodes draining the site of infection. Lethal toxin and edema toxin are produced by _B anthracis_ and respectively cause local necrosis and extensive edema, which are frequent characteristics of the disease. As the bacteria multiply in the lymph nodes, toxemia progresses and bacteremia may ensue. With the increase in toxin production, the potential for disseminated tissue destruction and organ failure increases. After vegetative bacilli are discharged from an animal after death (by carcass bloating, scavengers, or postmortem examination), the oxygen content of air induces sporulation. Spores are relatively resistant to extremes of temperature, chemical disinfection, and dessication. Necropsy is discouraged because of the potential for blood spillage and vegetative cells to be exposed to air, resulting in large numbers of spores being produced. Because of the rapid pH change after death and decomposition, vegetative cells in an unopened carcass quickly die without sporulating.
+        - [[Clinical Signs]]
+            - In acute anthrax of cattle and sheep, there is an abrupt fever and a period of excitement followed by depression, stupor, respiratory or cardiac distress, staggering, convulsions, and death. Often, the course of disease is so rapid that illness is not observed and animals are found dead. Body temperature may reach 107°F (41.5°C), rumination ceases, milk production is materially reduced, and pregnant animals may abort. There may be bloody discharges from the natural body openings. Some infections are characterized by localized, subcutaneous, edematous swelling that can be quite extensive. Areas most frequently involved are the ventral neck, thorax, and shoulders.
+        - [[Dx and DDx]]
+            
+        - [[Treatment and Control]]
+            
+        - [[Disease Summary]]
+            
+        - [[Additional Reference]]
+            
+    - Keys: Splenic fever, Siberian ulcer, Charbon, Milzbrand - subject - Grade 1 2 3 topic - GP Exam? - [source](Link here)
+        - [[Disease Overview]]
+            - Anthrax is a zoonotic disease caused by the sporeforming bacterium _Bacillus anthracis_. Anthrax is most common in wild and domestic herbivores (eg, cattle, sheep, goats, camels, antelopes) but can also be seen in people exposed to tissue from infected animals, to contaminated animal products, or directly to _B anthracis_ spores under certain conditions. Depending on the route of infection, host factors, and potentially strain-specific factors, anthrax can have several different clinical presentations. In herbivores, anthrax commonly presents as an acute septicemia with a high fatality rate, often accompanied by hemorrhagic lymphadenitis. In dogs, people, horses, and pigs, it is usually less acute although still potentially fatal.
+            - _B anthracis_ spores can remain viable in soil for many years. During this time, they are a potential source of infection for grazing livestock but generally do not represent a direct risk of infection for people. Grazing animals may become infected when they ingest sufficient quantities of these spores from the soil.
+        - [[Pathogenesis]]
+            - After wound inoculation, ingestion, or inhalation, spores infect macrophages, germinate, and proliferate. In cutaneous and GI infection, proliferation can occur at the site of infection and in the lymph nodes draining the site of infection. Lethal toxin and edema toxin are produced by _B anthracis_ and respectively cause local necrosis and extensive edema, which are frequent characteristics of the disease. As the bacteria multiply in the lymph nodes, toxemia progresses and bacteremia may ensue. With the increase in toxin production, the potential for disseminated tissue destruction and organ failure increases. After vegetative bacilli are discharged from an animal after death (by carcass bloating, scavengers, or postmortem examination), the oxygen content of air induces sporulation. Spores are relatively resistant to extremes of temperature, chemical disinfection, and dessication. Necropsy is discouraged because of the potential for blood spillage and vegetative cells to be exposed to air, resulting in large numbers of spores being produced. Because of the rapid pH change after death and decomposition, vegetative cells in an unopened carcass quickly die without sporulating.
+        - [[Clinical Signs]]
+            - In acute anthrax of cattle and sheep, there is an abrupt fever and a period of excitement followed by depression, stupor, respiratory or cardiac distress, staggering, convulsions, and death. Often, the course of disease is so rapid that illness is not observed and animals are found dead. Body temperature may reach 107°F (41.5°C), rumination ceases, milk production is materially reduced, and pregnant animals may abort. There may be bloody discharges from the natural body openings. Some infections are characterized by localized, subcutaneous, edematous swelling that can be quite extensive. Areas most frequently involved are the ventral neck, thorax, and shoulders.
+        - [[Dx and DDx]]
+            
+        - [[Treatment and Control]]
+            
+        - [[Disease Summary]]
+            
+        - [[Additional Reference]]
+            
+- Rabies
+    - Rabies is caused by lyssaviruses in the Rhabdovirus family, _Lyssavirus_ genus.
+    - Rabies is an acute, progressive encephalomyelitis caused by lyssaviruses. It occurs worldwide in mammals, with dogs, bats, and wild carnivores the principle reservoirs. Typical signs include acute behavioral change and progressive paralysis. The disease is fatal once clinical signs appear, but treatment with local wound care, immune globulin, and vaccination can prevent disease in humans following exposure. Vaccines are available for domestic animals, wildlife, and people to prevent rabies and help control spread in reservoir populations.
+    - Three forms are described and include 1) cerebral or furious: aggressive behavior, photophobia, hyperesthesia, straining, and convulsions), 2) brainstem or dumb form: depression and dementia with ataxia, excessive drooling and pharyngeal paralysis and 3) spinal cord or paralytic form: progressive ascending paralysis. Common cattle signs in order of most common are salivation, bellowing, aggressiveness, paresis or paralysis and straining.
+    - [[Clinical Signs]]
+        - Clinical signs of rabies are rarely definitive. Rabid animals of all species usually exhibit typical signs of CNS disturbance, with minor variations among species. **The most reliable signs, regardless of species, are acute behavioral changes and unexplained progressive paralysis.** Behavioral changes may include sudden anorexia, signs of apprehension or nervousness, irritability, and hyperexcitability (including priapism). The animal may seek solitude. Ataxia, altered phonation, and changes in temperament are apparent. Uncharacteristic aggressiveness may develop—a normally docile animal may suddenly become vicious. Commonly, rabid wild animals may lose their fear of people, and normally nocturnal species may be seen wandering about during the daytime.
+        - The clinical course may be divided into three general phases—prodromal, acute excitative, and paralytic/endstage. However, this division is of limited practical value because of the variability of signs and the irregular lengths of the phases. During the prodromal period, which lasts ~1–3 days, animals show only vague nonspecific signs, which intensify rapidly. The disease progresses rapidly after the onset of paralysis, and death is virtually certain a few days thereafter. Some animals die rapidly without marked clinical signs.
+- [[Bovine Ephemeral Fever]]
+    - Keys: #Bovines - #[[viral disease]] - #Diseases - #grade1 - #NAVLE - [source](https://www.msdvetmanual.com/generalized-conditions/bovine-ephemeral-fever/bovine-ephemeral-fever)
+        - [[Disease Overview]]
+            - Bovine ephemeral fever virus (BEFV) is classified as a member of the genus _Ephemerovirus_ in the family Rhabdoviridae (single-stranded, negative sense RNA).
+        - [[Clinical Signs]]
+            - Signs of bovine ephemeral fever, which occur suddenly and vary in severity, can include:
+            - biphasic to polyphasic fever (40°–42°C [104°–107.6°F])
+            - shivering
+            - inappetence
+            - tearing
+            - serous nasal discharge
+            - drooling
+            - pulmonary emphysema
+            - increased heart rate
+            - tachypnea or dyspnea
+            - atony of forestomachs
+            - depression
+            - stiffness and lameness
+            - a sudden decrease in milk yield
+        - [[Dx and DDx]]
+            - Clinical signs
+            - PCR identification of the virus
+        - [[Treatment and Control]]
+            - Antibiotic treatment to control secondary infection and rehydration with isotonic fluids may be warranted.
+            - NSAIDs
+        - [[Disease Summary]]
+            - Bovine ephemeral fever is an arthropod-borne viral disease of cattle and water buffalo that causes milk production losses, recumbency, and sometimes death. Diagnosis is mostly performed by PCR. Treatment includes administration of NSAIDs, accompanied by supportive care to recumbent cows. Vaccine effectiveness varies.
+        - [[Additional Reference]]
+            
+- Lumpy skin disease
+    - Lumpy skin disease is an infectious, eruptive, occasionally fatal disease of cattle characterized by nodules on the skin and other parts of the body. Secondary bacterial infection often aggravates the condition.
+    - Lumpy skin disease (LSD) is a disease of cattle and buffalo caused by a capripox virus.
+    - [[Clinical Signs]]
+        - Infected cattle develop **fever, lacrimation, nasal discharge, and hypersalivation, followed by the characteristic eruptions on the skin** and other parts of the body in ~50% of susceptible cattle. The incubation period is 4–14 days.
+        - The **nodules are well circumscribed, round, slightly raised, firm, and painful** and involve the entire cutis and the mucosa of the GI, respiratory, and genital tracts. Nodules may develop on the muzzle and within the nasal and buccal mucous membranes. The skin nodules contain a firm, creamy-gray or yellow mass of tissue. Regional lymph nodes are swollen, and edema develops in the udder, brisket, and legs. Secondary infection sometimes occurs and causes extensive suppuration and sloughing; as a result, the animal may become extremely emaciated, and euthanasia may be warranted. In time, the nodules either regress, or necrosis of the skin results in hard, raised areas (“sit-fasts”) clearly separated from the surrounding skin. These areas slough to leave ulcers, which heal and scar.
+        - The disease may be confused with the less clinically important **pseudo-lumpy skin disease**, which is caused by a herpesvirus (bovine herpesvirus 2).
+- [[Rift Valley Fever]] in Sheep
+    - Keys: species species - subject - Grade 1 2 3 topic - GP Exam? - [source](Link here)
+        - [[Disease Overview]]
+            - Rift Valley fever (RVF) is a peracute or acute, mosquito-borne, zoonotic disease of domestic and wild ruminants in Africa, Madagascar, and the Arabian Peninsula. Large outbreaks of clinical disease are usually associated with heavy rainfall and localized flooding.
+            - RVF virus belongs to the genus _Phlebovirus_ and is a typical Bunyavirus.
+        - [[Clinical Signs]]
+            - Clinical signs of RVF tend to be nonspecific, rendering it difficult to recognize individual cases. The incubation period is 12–36 hr in lambs, and a biphasic fever of up to 108°F (42°C) may develop. Affected animals are listless and reluctant to move or feed and may show signs of abdominal pain. Mortality in young lambs is high (90%–100%), and animals usually die within 2–3 days. Adult sheep are less susceptible, with 10%–30% mortality; the incubation period is 24–72 hr, and animals show a generalized febrile response, lethargy, hematemesis, hematochezia, and nasal discharge, although infection may also be inapparent.
+        - [[Dx and DDx]]
+            - RVF should be suspected when abnormally heavy rains and flooding are followed by widespread occurrence of abortions and mortality among newborn animals characterized by necrotic hepatitis, concurrent with influenza-like disease in people handling animals or their products.
+        - [[Treatment and Control]]
+            
+        - [[Disease Summary]]
+            
+        - [[Additional Reference]]
+            
+- Foot  and Mouth Disease
+    - Foot-and-mouth disease (FMD) is a highly transmissible disease caused by infection with an _Aphthovirus_, a member of the family Picornaviridae. There are 7 serotypes of the virus, termed: A, O, C, Asia 1, and SAT (Southern African Territories) 1, 2, and 3. Further diversity is found between strains within each serotype. The virus primarily affects cloven-hoofed animals of the order Artiodactyla. Livestock hosts include cattle, pigs, sheep, and goats. FMD virus has also been reported to affect >70 species of wild artiodactyls, including African buffalo, bison, giraffes, camels, and several species of deer and antelope.
+    - FMD is characterized by fever and vesicles in the mouth and on the muzzle, teats, and feet of animals and is spread through contact with infected animals or their excretions.
+    - The primary site of infection and replication of FMD virus is in the mucosa of the pharynx. The virus may also enter through skin lesions or the GI tract. Once distributed throughout the lymphatic system, the virus replicates in the epithelium of the mouth, muzzle, teats, feet, and areas of damaged skin (eg, knees and hocks of pigs). Vesicles then develop and rupture within 48 hours.
+    - Clinical signs in cattle include fever of ~40°C, followed by vesicular lesion development on the tongue, hard palate, dental pad, lips, gums, muzzle, coronary band, interdigital cleft, and teats in lactating cows.
+    - Vesicles (fluid filled blisters) on the tongue, dental pad and hard palate quickly rupture leaving shallow ulceration with shreds of mucosa at the periphery.  The underlying tissues are reddened and painful.
+    - Ruptured vesicles (fluid-filled blisters) on the tongue  revealing reddened and painful ulceration with shreds of mucosa at the periphery.
+    - Vesicles may be present on the teats and at the coronary band (top of the hoof). The latter can become secondarily infected, causing lameness.
+    - There are no ocular or nasal discharges.  During the acute phase of disease, there is marked weight loss and milk yield reduction. Foot lesions often become secondarily infected and animals are very lame and often may be reluctant to rise.
+- FMD treatment
+    - Dead vaccine
+    - Antibiotics which do not affect the metabolism of protein
+    - Penicillin antibiotics
+- [[Bluetongue]]
+- [[Camel Pox Virus]] **Camelpox (CMLV)**
+- [[Theileriosis]]
+- [[Anaplasmosis]] / Yellow fever/ yellow bag
+- [[Babesiosis]]
+- [[CRYPTOSPORIDIOSIS]]
+- [[Trypanosomiasis]]
+- Blood parasites pathogenesis and diagnosis
+- [[Ringworm]] - [[Dermatophytosis]]
+- Common enteric diseases
+- [[Equine diseases]]
+- [[Falcon diseases]]
+- [[Biosecurity of Animals]], farm disinfection,
+- [[Important Topics]] for #[[UAE Vet Exam]] and #[[Qatar GP Exam]] - #[[Diseases]]- #[[vet medicine]]
+    - [[Downer cow syndrome]] - [[Bovine Secondary Recumbency]]
+        - Keys: #cattle - #[[Metabolic Disorders]] - #Diseases - #grade1 - #NAVLE - [source](https://www.msdvetmanual.com/musculoskeletal-system/bovine-secondary-recumbency/overview-of-bovine-secondary-recumbency?query=downer%20cow)
+            - [[Disease Overview]]
+                - downer cow syndrome is a complication of periparturient hypocalcemia. Recumbency in cattle is caused by numerous metabolic, traumatic, infectious, degenerative, and toxic disorders. If treatment of the underlying cause of recumbency is not successful and cattle are unable to rise for >24 hr after initial recumbency, they may develop a secondary recumbency from pressure damage to muscles and nerves, often termed “downer cow syndrome. Calving paralysis after dystocia may also result in recumbency due to traumatic injury to tissues and nerves inside the pelvic cavity. Regardless of the initial cause of recumbency, all cattle develop pressure-induced damage to muscles and nerves of the pelvic limbs, especially when lying on a hard surface. The hindlimb muscles of the leg the animal is lying on are compressed between the bones and the skin by the physical pressure from the weight of the recumbent cow. The positioning of the hindlimbs may indicate the cause of the recumbency. Limbs splayed out behind the animal may indicate obturator nerve paresis or paralysis, hip dislocation, or fracture of the femur or tibia. Fracture should be suspected whenever the upper limb is extended sideways in such a manner that a crease is formed in the skin.
+            - [[Clinical Signs]]
+                
+            - [[Dx and DDx]]
+                - Blood samples are not usually taken when treating routine cases of hypocalcemia. However, hypocalcemia, hypophosphatemia, and hypokalemia should be assumed to be present in all recumbent cattle, and determination of the biochemical status of cattle unresponsive to calcium therapy frequently helps guide treatment and prognosis. Hypokalemia and hypophosphatemia are commonly quoted causes of creeper cows (cows able to crawl but unable to stand). Alert downer cows may have normal serum concentrations of calcium, potassium, magnesium, and phosphorus. Downer cows have increased serum CK, AST, and LDH; cows that do not recover have higher serum AST and CK activities than cows that do recover. Increased serum CK activity is a specific indicator of muscle damage; however, CK activity peaks shortly after the start of muscle damage and declines noticeably within 4 hr. For this reason, increased serum AST activity is the best prognostic indicator in recumbent cattle, with higher AST activities indicating a poorer prognosis. In cattle with severe muscle damage, the urine may contain myoglobin as well as higher than normal concentrations of protein.
+            - [[Treatment and Control]]
+                - Downer cows are often hypocalcemic. If an apparently hypocalcemic cow does not respond to calcium therapy, potassium, phosphorus, and magnesium should be given as additional treatments pending results of laboratory tests. Monitoring blood mineral status is an important part of downer cow management.
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                
+    - [[Hypocalcemia]] - [[Milk fever]] - [[Parturient Paresis]]
+        - Keys: #cattle - #[[Metabolic Disorders]] - #Diseases - #grade1 - #NAVLE - [source](https://www.msdvetmanual.com/veterinary/metabolic-disorders/disorders-of-calcium-metabolism/parturient-paresis-in-cows)
+            - [[Disease Overview]]
+                - Parturient paresis is an acute to peracute, afebrile, flaccid paralysis of mature dairy cows that occurs most commonly at or soon after parturition. It is manifest by changes in mentation, generalized paresis, and circulatory collapse.
+                - Dairy cows will secrete 20–30 g of calcium in the production of colostrum and milk in the early stages of lactation. This secretion of calcium causes serum calcium levels to decline from a normal of 8.5–10 mg/dL to <7.5 mg/dL. The sudden decrease in serum calcium levels causes hyperexcitability of the nervous system and reduced strength of muscle contractions, resulting in both tetany and paresis. Parturient paresis may be seen in cows of any age but is most common in high-producing dairy cows entering their third or later lactations. Incidence is higher in Channel Island breeds.
+                
+            - [[Clinical Signs]]
+                - Parturient paresis usually occurs within 72 hr of parturition. It can contribute to dystocia, uterine prolapse, retained fetal membranes, metritis, abomasal displacement, and mastitis.
+                - Parturient paresis has three discernible stages. During stage 1, animals are ambulatory but show signs of ^^hypersensitivity and excitability^^. Cows may be mildly ataxic, have fine tremors over the flanks and triceps, and display ear twitching and head bobbing. Cows may appear restless, shuffling their rear feet and bellowing. If calcium therapy is not instituted, cows will likely progress to the second, more severe stage.
+                - Cows in stage 2 are unable to stand but can maintain ^^sternal recumbency^^. Cows are obtunded, anorectic, and have a dry muzzle, subnormal body temperature, and cold extremities. Auscultation reveals tachycardia and decreased intensity of heart sounds. Peripheral pulses are weak. Smooth muscle paralysis leads to GI stasis, which can manifest as bloat, failure to defecate, and loss of anal sphincter tone. An inability to urinate may manifest as a distended bladder on rectal examination. Cows often tuck their heads into their flanks, or if the head is extended, an S-shaped curve to the neck may be noted.
+                - In stage 3, cows lose consciousness progressively to the point of ^^coma^^. They are unable to maintain sternal recumbency, have complete muscle flaccidity, are unresponsive to stimuli, and can suffer severe bloat. As cardiac output worsens, heart rate can approach 120 bpm, and peripheral pulses may be undetectable. If untreated, cows in stage 3 may survive only a few hours.
+            - [[Dx and DDx]]
+                - Differential diagnoses include toxic mastitis, toxic metritis, other systemic toxic conditions, traumatic injury (eg, stifle injury, coxofemoral luxation, fractured pelvis, spinal compression), calving paralysis syndrome (damage to the L6 lumbar roots of sciatic and obturator nerves), or compartment syndrome. Some of these diseases, in addition to aspiration pneumonia, may also occur concurrently with parturient paresis or as complications.
+            - [[Treatment and Control]]
+                - Recommended treatment is IV injection of a calcium gluconate salt, although SC and IP routes are also used. A general rule for dosing is 1 g calcium/45 kg (100 lb) body wt. Most solutions are available in single-dose, 500-mL bottles that contain 8–11 g of calcium. In large, heavily lactating cows, a second bottle given SC may be helpful, because it is thought to provide a prolonged release of calcium into the circulation. SC calcium alone may not be adequately absorbed because of poor peripheral perfusion and should not be the sole route of therapy.
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                
+    - [[Abomasal Displacement]]
+        - Abomasal displacement and volvulus are common disorders of high-producing dairy cattle. Clinical signs include anorexia and decreased milk production. With abomasal volvulus, clinical deterioration is rapid. The most important diagnostic finding is a ping upon simultaneous percussion and auscultation of the abdomen. Conservative (ie, medical) treatment for left abomasal displacement may be successful, especially if the diagnosis is made early, but prompt surgery is always required for right abomasal displacement due to high risk for volvulus. Improved management techniques may help reduce the frequency of all three conditions in dairy herds.
+        - Because the abomasum is suspended loosely by the greater omentum and lesser omentum, it can be moved from its normal position on the ventral part of the abdomen to the left or right side (LDA and RDA, see below), or it can rotate while displaced to the right and lateral to the liver (abomasal volvulus). The abomasum can shift from its normal position to left displacement or to right displacement over a relatively short period (pendulous LDA). Abomasal volvulus can develop rapidly or slowly from an RDA. LDA and RDA result in partial ileus; abomasal volvulus leads to complete ileus and abomasal wall ischemia.
+        - **Left displaced abomasum (LDA)** is displacement of the gas-filled, distended abomasum to the left side of the abomasum, trapping it between the rumen and the abdominal wall
+        - **Right displaced abomasum (RDA)** is displacement of the gas-filled, distended abomasum from the ventral abdominal wall into the craniodorsal right abdominal cavity
+        - **Abomasal volvulus** is displacement of the gas-filled, distended abomasum from the ventral abdominal wall into the craniodorsal right abdominal cavity, secondarily creating a volvulus by vertical and horizontal rotation (abomasum, wrapped in the greater omentum)
+        - [[Dx and DDx]]
+            - The most important diagnostic physical finding is a ping on simultaneous auscultation and percussion of the abdomen, which should be performed in the area marked by a line from the tuber coxae to the point of the elbow, and from the elbow toward the stifle on both sides of the patient. The ping (detected during simultaneous percussion and auscultation) characteristic of an LDA is most commonly located in an area between ribs 9 and 13 in the middle to upper third of the left abdomen; however, the ping can be more ventral or more caudal, or both.
+        - Abomasal volvulus and RDA require immediate surgical treatment
+        - A patient with LDA can be medically treated with administration of spasmolytic and analgesic drugs; in addition, rolling a cow through a 180° arc after casting it on its right side corrects most LDAs. Additionally, it has been reported that movement during transport of the patient with LDA may result in return of the abomasum to its normal position. A major disadvantage of all nonsurgical approaches is that recurrence is very likely.
+        - Open (surgical) and closed (percutaneous) techniques can be used to correct abomasal displacements. LDA can be corrected surgically using right- or left-flank omentopexy, right-paramedian abomasopexy, combined left-flank and right-paramedian laparoscopy (a two-step procedure), or left-flank laparoscopy (a one-step procedure). Blind suture techniques (toggle-pin fixation or the “big needle” [blind-stitch] method), performed in the right-paramedian area, are percutaneous methods for correction of LDA.
+        - Patients with notable dehydration and metabolic derangements require IV therapy, typically administered as hypertonic saline (7.2% NaCl, 5 mL/kg, IV over 5 minutes).
+        - The prognosis after correction of simple LDA or RDA is good, with survival rates of 95%. Abomasal volvulus has a variable and less favorable prognosis (average survival rate of 70%); a high heart rate, moderate to severe dehydration, a longer period of illness, a large quantity of fluid in the abomasum, increased blood or plasma l-lactate concentration, and the presence of omasal-abomasal or reticulo-omasal-abomasal volvulus are associated with a poorer prognosis.
+        
+    - [[Hypomagnesemia]] - [[Hypomagnesemic tetany]] - [[Grass tetany]] - [[Grass staggers]]
+        - Keys: #cattle - #sheep #ubiquitous - #[[Metabolic Disorders]] - #Diseases - #grade1 - #NAVLE - [source](https://www.msdvetmanual.com/metabolic-disorders/disorders-of-magnesium-metabolism/hypomagnesemic-tetany-in-cattle-and-sheep)
+            - [[Disease Overview]]
+                - Hypomagnesemic tetany is a complex metabolic disturbance characterized by hypomagnesemia (plasma tMg <1.5 mg/dL [<0.65 mmol/L]) and a reduced concentration of tMg in the CSF (<1.0 mg/dL [0.4 mmol/L]), which lead to hyperexcitability, muscular spasms, convulsions, respiratory distress, collapse, and death. Adult lactating animals are most susceptible because of the loss of Mg in milk. Hypomagnesemic tetany occurs mainly when animals are grazed on lush grass pastures or green cereal crops but can occur in lactating beef cows fed silage indoors. It is rare in nonlactating cattle but has occurred when undernourished cattle were introduced to green cereal crops.
+                
+            - [[Clinical Signs]]
+                - In the most acute form, affected cows, which may appear to be grazing normally, suddenly throw up their heads, bellow, gallop in a blind frenzy, fall, and exhibit severe paddling convulsions. These convulsive episodes may be repeated at short intervals, and death usually occurs within a few hours.
+                - Clinical signs of hypomagnesemic tetany in sheep occur when hypomagnesemia (plasma tMg <0.5 mg/dL [0.2 mmol/L]) occurs concomitantly with hypocalcemia (plasma tCa <8 mg/dL [2.0 mmol/L]). The disease in lactating ewes occurs under essentially the same conditions and has the same clinical signs as in cattle.
+                - Mg absorption from the rumen may be reduced when potassium and nitrogen intakes are high and sodium and phosphorus intakes are low. Soils naturally high in potassium and those fertilized with potash and nitrogen are high-risk areas for hypomagnesemic tetany. The more complex mineral interactions are likely to be involved in herds in which hypomagnesemic tetany occurs in first- and second-calving cows as well as in older cows.
+                - Magnesium absorption efficiency in calves fed milk falls from 87% at 2–3 wk to 32% at 7–8 wk of age. Hypomagnesemic tetany occurs in 2- to 4-mo-old calves being fed milk only, or in younger calves with chronic scours while being fed milk replacer.
+            - [[Dx and DDx]]
+                - Cows often do not develop signs of hypomagnesemic tetany until blood calcium concentrations are <0.8 mg/dL (0.35 mmol/L), which commonly occurs in cattle grazing green cereal crops.
+                - The hypocalcemia arises from either a reduction in calcium intake or absorption, or both. Lush grass pastures and green cereal crops may predispose cattle to metabolic alkalosis (urine pH >8.5) with a reduced available pool of ionized calcium and magnesium, thereby increasing the risk of hypocalcemia and hypomagnesemia. Urine Mg concentrations are a useful guide to Mg status and are undetectable in cows with hypomagnesemia.
+            - [[Treatment and Control]]
+                - Animals showing clinical signs require treatment immediately with combined solutions of calcium and Mg, preferably given slowly IV while monitoring the heart. Additional Mg sulfate (200 mL of a 50% solution/cow) can be given SC. After treatment, cows should be left to respond without stimulation and then moved off the tetany-prone pasture, if possible. Animals must be provided with hay treated with 2 oz (60 g) of Mg oxide daily; if this is not done, the condition can recur within 36 hr after initial therapy.
+                - Affected calves require prompt treatment with a 10% solution of Mg sulfate (100 mL, SC) followed by Mg oxide at 10 g/day, PO. Provision of good-quality legume hay and a starter ration from 2 wk of age prevents the disorder.
+                - Mg must be given daily to animals at risk, because the body has no readily available stores. Daily oral supplements of Mg oxide (2 oz [60 g] to cattle and ⅓ oz [10 g] to sheep) should be given in the danger period.
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                
+    - [[Ketosis]] - [[Acetonemia]] - [[Ketonemia]]
+        - Keys: #cattle - #[[Metabolic Disorders]] - #Diseases - #grade1 - #NAVLE - [source](https://www.msdvetmanual.com/metabolic-disorders/ketosis-in-cattle/overview-of-ketosis-in-cattle)
+            - [[Disease Overview]]
+                - The pathogenesis of bovine ketosis is incompletely understood, but it requires the combination of intense adipose mobilization and a high glucose demand. Both of these conditions are present in early lactation, at which time negative energy balance leads to adipose mobilization, and milk synthesis creates a high glucose demand. Adipose mobilization is accompanied by high blood serum concentrations of nonesterified fatty acids (NEFAs). During periods of intense gluconeogenesis, a large portion of serum NEFAs is directed to ketone body synthesis in the liver. Thus, the clinicopathologic characterization of ketosis includes high serum concentrations of NEFAs and ketone bodies and low concentrations of glucose. In contrast to many other species, cattle with hyperketonemia do not have concurrent acidemia. The serum ketone bodies are acetone, acetoacetate, and β-hydroxybutyrate (BHB).
+                - All dairy cows in early lactation (first 6 wk) are at risk of ketosis. The overall prevalence in cattle in the first 60 days of lactation is estimated at 7%–14%, but prevalence in individual herds varies substantially and may exceed 14%. The peak prevalence of ketosis occurs in the first 2 wk of lactation.
+                - Ketosis cases occurring closer to peak milk production, which usually occurs at 4–6 wk postpartum, may be more closely associated with underfed cattle experiencing a metabolic shortage of gluconeogenic precursors than with excessive fat mobilization. Ketosis at this time is sometimes described as **type I ketosis**.
+                - Ketosis in the immediate postpartum period is sometimes described as **type II ketosis**. Such cases of ketosis in very early lactation are usually associated with fatty liver (see [Fatty Liver Disease of Cattle](https://www.msdvetmanual.com/veterinary/metabolic-disorders/hepatic-lipidosis/fatty-liver-disease-of-cattle) ). Both fatty liver and ketosis are probably part of a spectrum of conditions associated with intense fat mobilization in cattle.
+            - [[Clinical Signs]]
+                - In cows maintained in confinement stalls, reduced feed intake is usually the first sign of ketosis. If rations are offered in components, cows with ketosis often refuse grain before forage. In group-fed herds, reduced milk production, lethargy, and an “empty” appearing abdomen are usually the signs of ketosis noticed first. On physical examination, cows are afebrile and may be slightly dehydrated. Rumen motility is variable, being hyperactive in some cases and hypoactive in others. In many cases, there are no other physical abnormalities. CNS disturbances are noted in a minority of cases. These include abnormal licking and chewing, with cows sometimes chewing incessantly on pipes and other objects in their surroundings. Incoordination and gait abnormalities occasionally are seen, as are aggression and bellowing. These signs occur in a clear minority of cases, but because the disease is so common, finding animals with these signs is not unusual.
+            - [[Dx and DDx]]
+                - The clinical diagnosis of ketosis is based on presence of risk factors (early lactation), clinical signs, and ketone bodies in urine or milk.
+            - [[Treatment and Control]]
+                - Treatment of ketosis is aimed at reestablishing normoglycemia and reducing serum ketone body concentrations. Bolus IV administration of 500 mL of 50% dextrose solution is a common therapy.
+                - Administration of glucocorticoids, including dexamethasone or isoflupredone acetate at 5–20 mg/dose, IM, may result in a more sustained response, relative to glucose alone. Glucose and glucocorticoid therapy may be repeated daily as necessary. Propylene glycol administered orally (250–400 g/dose [8–14 oz]) once per day acts as a glucose precursor and is effective as ketosis therapy. Indeed, propylene glycol appears to be the most well documented of the various therapies for ketosis. Overdosing propylene glycol leads to CNS depression.
+                - Prevention of ketosis is via nutritional management. Body condition should be managed in late lactation, when cows frequently become too fat.
+                - Modifying diets of late lactation cows to increase the energy supply from digestible fiber and reduce the energy supply from starch may aid in partitioning dietary energy toward milk and away from body fattening.
+            - [[Disease Summary]]
+                - high milk production during the early lactation causes negative energy balance which leads to intense fat mobilization and glucose demand. Production of glucose from liver leads to increased ketone bodies in the blood which is called ketosis. cattles with excess fat and BCS above 3.75 are highly susceptible.
+                - Off feed, lethargic, anorexia, decreased milk production, and could be CNC incoordination are common signs.
+                - Dx is based upon signs and ketone bodies in urine.
+                - Treatment includes blous IV 50% dextrose, dexamethasone, propylene glycol to normalize the blood glucose level and reduce serum ketone bodies concentration.
+                - Control by nutritional management, energy supply from digestible fibers and reduce energy supply from starch.
+            - [[Additional Reference]]
+                
+    - [[contagious ophthalmia]] ASSOCIATED WITH _MYCOPLASMA CONJUNCTIVAE_ IN SHEEP - [[Pink Eye]] - [[Snow blindness]] - [[Infectious Keratoconjunctivitis]]
+        - Keys: #sheep - #Bovines - #Diseases - #grade1 - [source](https://www.msdvetmanual.com/eye-diseases-and-disorders/infectious-keratoconjunctivitis/infectious-keratoconjunctivitis-in-animals)
+            - [[Disease Overview]]
+                - Infectious keratoconjunctivitis of cattle, sheep, and goats is a common ocular condition characterized by blepharospasm, conjunctivitis, lacrimation, and varying degrees of corneal opacity and ulceration. In severe cases, ocular rupture leading to blindness can result.
+                - _Moraxella bovis_ has long been considered to be the etiologic agent of IBK, other species of Moraxella, such as _M bovoculi_, _M ovis_, various _Mycoplasma_ species (_M bovis_ and _M bovoculi_), and infection with bovine herpesvirus type 1 and infectious bovine rhinotracheitis (IBR) virus may also play a role in disease.
+                - Contagious ophthalmia (infectious keratoconjunctivitis or pink eye) is a contagious bacterial infection of sheep, goats and cattle. Clinical signs include inflamed conjunctivae, ocular discharge, corneal opacity and impaired vision, with corneal ulceration and perforation occurring in severe cases (Motha, _et al_., 2003). Bacteria commonly associated with this condition include _Mycoplasma conjunctivae_, _Chlamydia pecorum_ and _Moraxella_ (_Branhamella_) _ovis._ However, _Colesiota_ (_Rickettsia_) _conjunctiva_ and _Listeria monocytogenes_ can also be involved (Abbott, 2018). _M. conjunctivae_ has been identified as the major cause of contagious ophthalmia in sheep
+            - [[Clinical Signs]]
+                
+            - [[Dx and DDx]]
+                - **Agents** associated with naturally occurring conjunctivitis or keratoconjunctivitis in sheep and goats include:
+                    - _Chlamydia pecorum_
+                    - _Mycoplasma_ spp (notably _M conjunctivae_)
+                    - _Moraxella ovis_
+                    - _Colesiota conjunctivae_
+                    - _Listeria monocytogenes_
+                    - _Acholeplasma oculi_
+                    - _Thelazia_ spp
+            - [[Treatment and Control]]
+                - _Moraxella spp_ are susceptible to many antibiotics. Because antibiotic susceptibility may vary in different geographic locations, susceptibility testing of isolated organisms is advised. In the USA, long-acting oxytetracycline (two injections of 20 mg/kg, IM or SC, at a 48- to 72-hour interval) and tulathromycin (2.5 mg/kg, SC, given once) are approved for IBK treatment in cattle. Other effective (but not FDA-approved) antibiotics include ceftiofur crystalline free acid (6.6 mg/kg, SC, at the base of the ear) and florfenicol (20 mg/kg, IM, two doses at a 2-day interval). According to current federal regulations in the USA, use of ceftiofur in cattle must follow approved bottle directions, including dose, route, and frequency.
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                - Read Full Article and Cases with Images
+                    - CONTAGIOUS OPHTHALMIA ASSOCIATED WITH _MYCOPLASMA CONJUNCTIVAE_ IN SHEEP
+                    - Laura Kerrison, Veterinary Student, University of Sydney, Bruce Watt, Central Tablelands Local Land Services, Bathurst and Mark Hazelton, Ania Deutscher and Mark Westman, Elizabeth Macarthur Agricultural Institute, Menangle
+                        - _Posted Flock & Herd November 2020_
+                    - INTRODUCTION
+                        - Contagious ophthalmia (infectious keratoconjunctivitis or &squo;pink eye&squo;) is a contagious bacterial infection of sheep, goats and cattle. Clinical signs include inflamed conjunctivae, ocular discharge, corneal opacity and impaired vision, with corneal ulceration and perforation occurring in severe cases (Motha, _et al_., 2003). Bacteria commonly associated with this condition include _Mycoplasma conjunctivae_, _Chlamydia pecorum_ and _Moraxella_ (_Branhamella_) _ovis._ However, _Colesiota_ (_Rickettsia_) _conjunctiva_ and _Listeria monocytogenes_ can also be involved (Abbott, 2018). _M. conjunctivae_ has been identified as the major cause of contagious ophthalmia in sheep (Naglić, _et al_., 2000); however, other _mycoplasma_ spp. can be involved, for example _Mycoplasma arginini_ has been isolated (Surman, 1973). _Moraxella ovis_ may be present in infections with contagious ophthalmia, but can also be found as part of the normal conjunctival flora of healthy sheep (Bankemper, _et al_., 1990 and Dagnall, 1994) and, therefore, may be the primary pathogen or an opportunist infection.
+                        - This report details four cases of contagious ophthalmia in lambs and ewes where _M. conjunctivae_ was detected via PCR, with and without concurrent isolation of _Moraxella ovis_. This finding supports the view that an antibiotic that is effective against _Mycoplasma_ spp. (such as oxytetracycline) is the preferred option in severe cases of contagious ophthalmia.
+                    - ### HISTORY AND CLINICAL FINDINGS
+                        
+                        - Four cases of contagious ophthalmia were investigated in the Central Tablelands, NSW, from March to June 2020.
+                        - **Case 1**. In March 2020, ocular disease was noted amongst a total of 2450 Merino, Merino x West Suffolk and Merino Dorset lambs running in several mobs. Approximately 75% of the lambs were affected; however, few had notable visual deficits. The eyes of three lambs were examined, all presenting bilateral or unilateral serous ocular discharge, cloudy oedematous corneas (Figure 1) and peripheral neovascularisation. One had a shallow corneal ulcer (Figure 2).
+                        - **Case 2**. In March 2020, 30 of 300 Merino lambs were noticed to be affected with ophthalmic disease. Some lambs had been treated with topical cloxacillin as benzathine salt (278mg OU; Opticlox, Norbrook) with no noticeable improvement. Six were completely blind. Three lambs and one ewe were examined. The lambs had cloudy, oedematous corneas, red conjunctivae and serous ocular discharge (Figure 3). The ewe had bilateral stromal abscesses, extensive neovascularisation and corneal opacity (Figure 4).
+                        - **Case 3**. In March 2020, a mob of 515 composite ewe lambs, mustered for investigation of ewe infertility, were noted to be affected with mild contagious ophthalmia. From a selection of ten ewes examined closely, four were affected. The affected lambs had serous ocular discharge and some also presented with red conjunctiva and a cloudy cornea.
+                        - **Case 4**. In June 2020, 20 Merino ewe hoggets from a mob of 200 presented with blindness and a high stepping gait. Four were examined, all with bilateral cloudy corneas, superficial corneal erosions, marked neovascularisation and serous ocular discharge.
+                        - ![](http://www.flockandherd.net.au/sheep/rimages/ophthalmia01.jpg "Image of cloudy sheep eye")
+                        - _Figure 1: An affected lamb from Case 1 with a serous ocular discharge and corneal oedema_
+                        - ![](http://www.flockandherd.net.au/sheep/rimages/ophthalmia02.jpg "Image of cloudy sheep eye")
+                        - _Figure 2: An affected lamb from Case 1 with diffuse corneal oedema, peripheral neovascularisation and a large corneal ulcer of the left eye_
+                        - ![](http://www.flockandherd.net.au/sheep/rimages/ophthalmia03.jpg "Image of inflamed sheep eye")
+                        - _Figure 3: A ewe hogget from Case 2 with conjunctivitis, mild diffuse corneal oedema and serous ocular discharge_
+                        - ![](http://www.flockandherd.net.au/sheep/rimages/ophthalmia04.jpg "Image of inflamed sheep eye")
+                        - _Figure 4: An affected ewe from Case 2 with marked neovascularisation, conjunctivitis, a stromal abscess and a seropurulent ocular discharge_
+                    - ### LABORATORY FINDINGS
+                        
+                        - Dry eye swabs were collected for all cases and submitted to the EMAI for bacteriology diagnostics. _Mycoplasma_ spp. and _Chlamydia_ spp. PCRs were performed for all cases. Three cases had aerobic culture (sheep blood agar plate incubated at 37°C with 5% CO2, and MacConkey agar plate incubated at 37°C) performed on all swabs, set up the day after the swabs were collected. One case (Case 3) did not have any culture performed.
+                        - Table 1 displays all laboratory results for Cases 1 to 4. _Moraxella ovis_ was cultured in Cases 1 and 4. _Mycoplasma_ spp. were detected via PCR from all cases. Employment of a real-time _Mycoplasma_ spp. PCR for Cases 2-4 revealed that the relative amount of the target sequence was high (cycle threshold [Ct] values between 21-29).
+                        - The _Mycoplasma_ sp. detected in all cases was determined to be _M. conjunctivae_ by amplification and sequencing part of the 16S rRNA gene using in-house _Mycoplasma_-specific primers. _Chlamydia_ spp. were not detected via PCR (individual or pooled) from any of the cases.
+                        - _Table 1 Summary of laboratory results_
+                        - CaseLamb or EweAerobic cultureMycoplasma spp. PCR1Chlamydia spp. PCR1
+                        - 11Sparse mixed growthD3 (3 swabs pooled) M. conjunctivaeND (3 swabs pooled)
+                        - 2Sparse mixed growth
+                        - 3Sparse mixed growth including Moraxella ovis2
+                        - 21Profuse mixed growthD3 M. conjunctivaeND
+                        - 2Moderate mixed growthD3 M. conjunctivaeND
+                        - 3Sparse mixed growthD3 M. conjunctivaeND
+                        - 4No growthD3 M. conjunctivaeND
+                        - 31Not performedD3 (5 swabs pooled) M. conjunctivaeND (5 swabs pooled)
+                        - 2Not performed
+                        - 3Not performed
+                        - 4Not performed
+                        - 5Not performed
+                        - 41Sparse mixed growth including Moraxella sp.4D3 M. conjunctivaeND (3 swabs pooled)
+                        - 2Moderate mixed growth including Moraxella sp.4D3 M. conjunctivae
+                        - 3Sparse pure growth of Moraxella ovis2D5
+                            - D=detected, ND = not detected
+                            - Species determined via amplification and sequencing of the 16S-23S intergenic spacer region.
+                            - Species determined via amplification and sequencing part of the 16S rRNA gene using in-house _Mycoplasma_-specific primers.
+                            - DNA amplicon not sent for sequencing.
+                            - Unable to determine the species due to a mixed sequence result from sequencing part of the 16S rRNA gene using in-house _Mycoplasma_-specific primers.
+                    - ### DISCUSSION
+                        
+                        - _M. conjunctivae_ was detected by PCR from eye swabs from all four cases. _M. conjunctivae_ is a common isolate associated with contagious ophthalmia (Abbott, 2018). _Chlamydia_ spp. were not detected via PCR in any of the four cases.
+                        - The concurrent isolation of _Moraxella ovis_ in Cases 1 and 4 may be due to its presence as part of normal conjunctival flora, or as a consequence of colonisation following infection with _M. conjunctivae_ (Bankemper, _et al_., 1990 and Dagnall, 1994). There are some reports that suggest concurrent infection with _Moraxella ovis_ and _M. conjunctivae_ may be associated with more severe clinical signs; however, severity may depend on the pathogenicity of the strain of _Moraxella ovis_ (Dagnall, 1994).
+                        - In this case series, most lambs were not treated; however, severe cases such as shown in Figure 3 were treated with injectible long-acting tetracyclines. In our experience, severe cases respond to oxytetracyclines rather than antimicrobials that target cell wall synthesis (as expected given Mycoplasmas lack a cell wall).
+                        - Almost all of the affected sheep resolved within two weeks, which is consistent with the observations of Abbott, 2018. However, in our experience, severe cases may be refractory to treatment with permanent eye damage. This finding has been observed by others (Motha, _et al_., 2003 and Naglić, _et al_., 2000). Repeated yarding may exacerbate clinical signs due to increased stress and dust and increased transmission to naïve animals (Abbott, 2018). Animals with severely compromised vision may benefit from being separated to an area with adequate shade and easy access to food and water.
+                        - Flies and dust are believed to play a role in the transmission of infection (Toop, 1964, Abbott, 2018). However, on the Central Tablelands this disease often occurs in the colder seasons without predisposing factors such as flies, dust or other causes of eye damage such as grass seeds. While these mostly mild, but occasionally severe, cases all involved young sheep, contagious ophthalmia also occurs sporadically in flocks of mature ewes without obvious predisposing factors. Disease prevalence may be affected by host susceptibility and virulence of the organisms involved (Bankemper, _et al_., 1990). Recovery from contagious ophthalmia results in short-term immunity for approximately one year before the sheep become susceptible if re-exposed to the organisms (Toop, 1964).
+                    - ### ACKNOWLEDGEMENTS
+                        
+                        - We thank NSW DPI Veterinary Bacteriology and Molecular Biology Diagnostic teams for performing the bacterial cultures and molecular testing.
+                    - ### REFERENCES
+                        
+                        - Toop C. Contagious ophthalmia (pinkeye) of sheep. _Journal of the Department of Agriculture, Western Australia, Series 4_ 1964;5:955-957
+                        - Motha M, Frey J, Hansen M, Jamaludin R, Tham K. Detection of Mycoplasma conjunctivae in sheep affected with conjunctivitis and infectious keratoconjunctivitis. _New Zealand veterinary journal_ 2003;51:186-190
+                        - Abbott K. _The Practice of Sheep Veterinary Medicine_. 1st edn. University of Adelaide Press, Adelaide, 2018
+                        - Barile MF, Del Giudice RA, Tully JG. Isolation and Characterization of Mycoplasma conjunctivae sp. n. from Sheep and Goats with Keratoconjunctivitis. _Infection and Immunity_ 1972;5:70
+                        - Naglić T, Šeol B, Hajsig D et al. Epidemiological and microbiological study of an outbreak of infectious keratoconjunctivitis in sheep. _Veterinary Record_ 2000;147:72-75
+                        - Surman P. Mycoplasma aetiology of keratoconjunctivitis (&quo;pink-eye&quo;) in domestic ruminants. _Australian Journal of Experimental Biology & Medical Science_ 1973;51
+                        - Bankemper KW, Lindley DM, Nusbaum KE, Mysinger RH. Keratoconjunctivitis associated with _Neisseria ovis_ infection in a herd of goats. _Journal of Veterinary Diagnostic Investigation_ 1990;2:76-78
+                        - Dagnall G. The role of _Branhamella ovis_, _Mycoplasma conjunctivae_ and _Chlamydia psittaci_ in conjunctivitis of sheep. _British Veterinary Journal_ 1994;150:65-71
+    - [[Brucellosis]]
+        - Keys: #ubiquitous - #[[Diseases]] - #grade1 - GP Exam? [source](paste link here)
+            - [[Disease Overview]]
+                - Brucellosis is a contagious disease caused by bacteria of the genus Brucella. Taxonomically, the genus Brucella is divided into ten classified species and subdivided into biovars.
+                - Brucella bacteria are Gram-negative coccobacilli that are non-motile and nonspore-forming. They grow anaerobically and certain strains need a 5% to 10% carbon dioxide atmosphere.
+                
+            - [[Clinical Signs]]
+                - Clinical signs - Brucellosis is characterized by abortion and to a lesser extent by orchitis and infection of the accessory sex glands in males. Infections may cause stillborn calves, retained placenta and fetal death. The disease can generally cause significant loss of productivity through late first calving age, long calving interval time, low herd fertility and comparatively low milk production.
+                - In humans, the disease, which is often referred to as ‘undulant fever’ or ‘Malta fever’ is a serious public health problem. Brucella melitensis and B. abortus are the two species most commonly found in human cases, and B. melitensis is responsible for the most serious infections. #HIGHLIGHTS
+                
+            - [[Dx and DDx]]
+                
+            - [[Treatment and Control]]
+                
+            - [[Disease Summary]]
+            - [[Additional Reference]]
+                
+    - [[Bluetongue]]
+        - Keys: #Bovines - #[[viral disease]] - #Diseases - #grade1 - #NAVLE - [source](https://www.msdvetmanual.com/generalized-conditions/bluetongue/overview-of-bluetongue?query=bluetongue%20disease)
+            - [[Disease Overview]]
+                - Bluetongue is an infectious arthropod-borne viral disease primarily of domestic and wild ruminants. Bluetongue virus is the type-species of the genus _Orbivirus_ in the family Reoviridae. There are at least 24 serotypes worldwide, although not all serotypes exist in any one geographic area; eg, 13 serotypes (1, 2, 3, 5, 6, 10, 11, 13, 14, 17, 19, 22, and 24) have been reported in the USA and 8 serotypes (1, 2, 4, 6, 8, 9, 11, and 16) in Europe. Vector-borne transmission through _Culicoides_ spp is the primary way BTV spreads.
+            - [[Clinical Signs]]
+                - The course of the disease in sheep can vary from peracute to chronic, with a mortality rate of 2%–90%. Peracute cases die within 7–9 days of infection, mostly as a result of severe pulmonary edema leading to dyspnea, frothing from the nostrils, and death by asphyxiation. In chronic cases, sheep may die 3–5 wk after infection, mainly as a result of bacterial complications, especially pasteurellosis, and exhaustion. Mild cases usually recover rapidly and completely. The major production losses include deaths, unthriftiness during prolonged convalescence, wool breaks, and reproductive losses.
+                - In sheep, BTV causes vascular endothelial damage, resulting in changes to capillary permeability and subsequent intravascular coagulation. This results in edema, congestion, hemorrhage, inflammation, and necrosis. The clinical signs in sheep are typical. After an incubation period of 4–6 days, a fever of 105°–107.5°F (40.5°–42°C) develops. The animals are listless and reluctant to move.
+                - On close examination, small hemorrhages can be seen on the mucous membranes of the nose and mouth. Ulceration develops where the teeth come in contact with lips and tongue, especially in areas of most friction. Some affected sheep have severe swelling of the tongue, which may become cyanotic (‘blue tongue”) and even protrude from the mouth. Animals walk with difficulty as a result of inflammation of the hoof coronets.
+            - [[Dx and DDx]]
+                - The typical clinical signs of bluetongue enable a presumptive diagnosis, especially in areas where the disease is endemic. Suspicion is confirmed by the presence of petechiae, ecchymoses, or hemorrhages in the wall of the base of the pulmonary artery and focal necrosis of the papillary muscle of the left ventricle.
+            - [[Treatment and Control]]
+                
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                
+    - [[Bovine Ephemeral Fever]]
+        - Keys: #Bovines - #[[viral disease]] - #Diseases - #grade1 - #NAVLE - [source](https://www.msdvetmanual.com/generalized-conditions/bovine-ephemeral-fever/bovine-ephemeral-fever)
+            - [[Disease Overview]]
+                - Bovine ephemeral fever virus (BEFV) is classified as a member of the genus _Ephemerovirus_ in the family Rhabdoviridae (single-stranded, negative sense RNA).
+            - [[Clinical Signs]]
+                - Signs of bovine ephemeral fever, which occur suddenly and vary in severity, can include:
+                - biphasic to polyphasic fever (40°–42°C [104°–107.6°F])
+                - shivering
+                - inappetence
+                - tearing
+                - serous nasal discharge
+                - drooling
+                - pulmonary emphysema
+                - increased heart rate
+                - tachypnea or dyspnea
+                - atony of forestomachs
+                - depression
+                - stiffness and lameness
+                - a sudden decrease in milk yield
+            - [[Dx and DDx]]
+                - Clinical signs
+                - PCR identification of the virus
+            - [[Treatment and Control]]
+                - Antibiotic treatment to control secondary infection and rehydration with isotonic fluids may be warranted.
+                - NSAIDs
+            - [[Disease Summary]]
+                - Bovine ephemeral fever is an arthropod-borne viral disease of cattle and water buffalo that causes milk production losses, recumbency, and sometimes death. Diagnosis is mostly performed by PCR. Treatment includes administration of NSAIDs, accompanied by supportive care to recumbent cows. Vaccine effectiveness varies.
+            - [[Additional Reference]]
+                
+    - [[Nutritional deficiencies]] - [[Nutritional Deficiency Anemia]]
+        - Copper deficiency can develop in ruminants fed forage grown in copper-deficient soil. Copper is necessary for the metabolism of iron. Copper deficiency may occur secondary to high dietary molybdenum or sulfate in cattle and can develop in pigs fed whey diets. Low blood copper concentrations or low copper concentrations in liver biopsies (more definitive) are diagnostic. Treatment is oral or injectable copper supplementation.
+        - Oral or injectable iron supplementation is indicated as treatment for iron deficiency; any source of blood loss must be eliminated.
+        - B vitamin deficiencies are rare. Certain drugs (anticonvulsants, drugs that interfere with folate metabolism) have been associated with development of folate or cobalamin deficiency, leading to a normocytic, normochromic, nonregenerative anemia.
+    - [[Copper Deficiency]] - [[Enzootic ataxia in sheep]] - [[swayback]]
+    - [[Salmonellosis]]
+        - Keys: species species - subject - Grade 1 2 3 topic - GP Exam? - [source](Link here)
+            - [[Disease Overview]]
+                - [Video](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals)
+                - _Salmonella_, a rod-shaped gram-negative bacterium belonging to the family of Enterobacteriaceae, is the causative agent of salmonellosis. Salmonellosis in warm-blooded vertebrates is in most cases associated with serovars of _Salmonella enterica_. The most common type of infection is the carrier state, in which infected animals carry the pathogen for a variable period of time without showing any clinical signs. **Clinical disease is characterized by two major syndromes: a systemic septicemia (also termed as typhoid) and an enteritis.** Other less common clinical presentations include abortion, arthritis, respiratory disease, necrosis of extremities, and meningitis.
+                - facultative intracellular pathogen is primarily an intestinal bacterium
+                
+            - [[Clinical Signs]]
+                - As infection progresses, a true septicemia may follow, with subsequent localization in brain and meninges, pregnant uterus, joints and distal aspects of the limbs, and tips of the ears and tails, which can result, respectively, in meningoencephalitis, abortion, osteitis, and dry gangrene of the feet, tail, or ears. The organism also frequently localizes in the gallbladder and mesenteric lymph nodes, and survivors intermittently shed the organism in the feces.
+                - _S_ Typhimurium is commonly associated with outbreaks of enteritis in calves <2 months old, whereas _S_ Dublin has been associated with the same condition in older calves and adult cattle.
+            - [[Dx and DDx]]
+                
+            - [[Treatment and Control]]
+                
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                
+    - [[Trypanosomiasis]]
+        - Keys: species species - subject - Grade 1 2 3 topic - GP Exam? - [source](msdvetmanual.com/circulatory-system/blood-parasites/trypanosomiasis?query=trypanosomiasis)
+            - [[Disease Overview]]
+                - ((TMtdxtRax))
+                - Trypanosomosis in camels is a protozoal disease caused by _[Trypanosoma](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/trypanosoma)_ evansi (T. evansi) which is transmitted by hematophagous [flies](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/diptera) including _Tabanus_ and _Stomoxys._
+                - The trypanosomes that cause tsetse-transmitted trypanosomiasis (sleeping sickness)
+                - [[Dourine]] is a chronic venereal disease of horses that is transmitted during coitus and caused by _T equiperdum_. The disease is recognized on the Mediterranean coast of Africa and in the Middle East, southern Africa, and South America; distribution is probably wider.
+                    - Signs may develop over weeks or months. Early signs include mucopurulent discharge from the urethra in stallions and from the vagina in mares, followed by gross edema of the genitalia. Later, characteristic plaques 2–10 cm in diameter appear on the skin, and the horse becomes progressively emaciated. Mortality in untreated cases is 50%–70%.
+                - [[Chagas' disease]], or American trypanosomiasis, is a zoonotic, vectorborne disease transmitted by triatomine bugs and caused by _T cruzi_.
+            - [[Transmission]] - [[Life Cycle]]
+                - Most tsetse transmission is cyclic and begins when blood from a trypanosome-infected animal is ingested by the fly. The trypanosome alters its surface coat, multiplies in the fly, then alters its surface coat again, and becomes infective. _T brucei_ spp migrate within the tsetse from the gut and eventually to the salivary glands; the cycle for _T congolense_ stops at the hypopharynx, and the salivary glands are not invaded; the entire cycle for _T vivax_ occurs in the proboscis. Therefore, the location within the tsetse can be useful in identifying the parasite species. The animal-infective form in the tsetse salivary gland is referred to as the metacyclic form. The life cycle in the tsetse may be as short as 1 wk with _T vivax_ or extend to a few weeks for _T brucei_ spp.
+                - [[Pathogenesis]]
+                    - Infected tsetse inoculate metacyclic trypanosomes into the skin of animals, where the trypanosomes reside for a few days and cause localized inflammation (chancres). They enter the lymph and lymph nodes, then the bloodstream, where they divide rapidly by binary fission. In _T congolense_ infection, the organisms attach to endothelial cells and localize in capillaries and small blood vessels. _T brucei_ species and _T vivax_ invade tissues and cause tissue damage in several organs.
+                    - The immune response is vigorous, and immune complexes cause inflammation, which contributes to fever and other signs and lesions of the disease. Antibodies against the surface-coat glycoproteins kill the trypanosomes. However, trypanosomes have a large family of genes that code for variable surface-coat glycoproteins that are switched in response to the antibody response, evading immunity. This antigenic variation results in persistence of the organism. Antigenic variation has prevented development of a protective vaccine and permits reinfections when animals are exposed to a new antigenic type.
+            - [[Clinical Signs]]
+                - Severity of disease varies with species and age of the animal infected and the species of trypanosome involved. The incubation period is usually 1–4 wk. The primary clinical signs are intermittent fever, anemia, and weight loss. Cattle usually have a chronic course with high mortality, especially if there is poor nutrition or other stress factors. Ruminants may gradually recover if the number of infected tsetse flies is low; however, stress results in relapse.
+            - [[Dx and DDx]]
+                
+            - [[Treatment and Control]]
+                
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                
+    - [[CRYPTOSPORIDIOSIS]]
+        - Keys: species species - subject - Grade 1 2 3 topic - GP Exam? - [source](Link here)
+            - [[Disease Overview]]
+                - Cryptosporidiosis is a highly prevalent gastrointestinal parasitic disease caused by protozoan species of the genus _Cryptosporidium_ that infect a wide range of animals, including people, throughout the world. Cryptosporidiosis is of considerable importance in neonatal ruminants, in which it is characterized by mild to severe diarrhea, lethargy, and poor growth rates. In infected individuals, _Cryptosporidium_ oocysts can be detected in Ziehl-Neelsen–stained fecal smears. Treatment is supportive, with antidiarrheal remedies and replacement of fluids and electrolytes. Strict hygiene is cardinal to preventing infections.
+            - [[Clinical Signs]]
+                - _C parvum_ is a common cause of calf diarrhea, and cryptosporidial oocysts have been detected in the feces of 70% of 1- to 3-week-old dairy calves. Infection can be detected as early as 5 days of age, with the greatest proportion of calves excreting organisms between days 9 and 14. Many reports associate infection in calves with diarrhea occurring at 5–15 days of age.
+                - Cryptosporidial infection in **foals** appears less prevalent and is seen at a later age than in ruminants, with excretion rates peaking at 5–8 weeks old.
+                - Infection can be associated with severe outbreaks of diarrhea, with high case fatality rates in lambs 4–10 days old and in goat kids 5–21 days old.
+            - [[Pathogenesis and Transmission]]
+                - The source of cryptosporidial infection is oocysts that are fully sporulated and infective when excreted in the feces. Large numbers are excreted during the patent period, resulting in heavy environmental contamination. Transmission may occur directly from calf to calf, indirectly via fomite or human transmission, from contamination in the environment, or by fecal contamination of the feed or water supply. A periparturient rise in the excretion of oocysts may occur in ewes. _C parvum_ is not host-specific, and infection from other species (eg, rodents, farm cats) via contamination of feed is also possible.
+            - [[Life Cycle]]
+                - The life cycle of _Cryptosporidium_ consists of six major developmental events. After ingestion of the oocyst, there is excystation (release of infective sporozoites), merogony (asexual multiplication), gametogony (gamete formation), fertilization, oocyst wall formation, and sporogony (sporozoite formation). Oocysts of _Cryptosporidium_ spp can sporulate within host cells and are infective when passed in the feces. Infection persists until the host’s immune response eliminates the parasite. In natural and experimentally produced cases in calves, cryptosporidia are most numerous in the lower part of the small intestine and less common in the cecum and colon. Prepatent periods are 2–7 days in calves and 2–5 days in lambs. Oocysts are usually passed in the feces of calves for 3–12 days.
+            - [[Dx and DDx]]
+                
+            - [[Treatment and Control]]
+                
+            - [[Disease Summary]]
+                - Cryptosporidiosis is a gastrointestinal parasitic disease of vertebrate animals and people.
+                - The disease is noteworthy in young ruminants, in which it causes mild to severe diarrhea and retarded growth. _Cryptosporidium_ oocysts can be detected in Ziehl-Neelsen–stained fecal smears of infected animals.
+                - No fully-effective therapeutic drugs exist, but fluid and electrolyte replacement, as well as nutritional support, are indicated. Control involves strict hygiene to eliminate or reduce contamination of the environment by _Cryptosporidium_ oocysts.
+            - [[Additional Reference]]
+                
+    - [[Fat Cow Syndrome]]
+        - Fat Cow Syndrome This is characterized by excessive body condition, anorexia to inappetence, ketonuria, a marked loss in milk production, decreased rumen movements, and delayed involution of the uterus. The temperature is usually normal but the heart and respiratory rates may be increased. The prognosis is poor in cows that are totally anorexic; those that are inappetent will usually recover after 5 to 7 days of supportive therapy.
+        - condition refers to a combination of metabolic, digestive, infectious, and reproductive conditions which affects the obese periparturient cow. The condition develops primarily due to faulty feed management which permits excessive consumption of unbalanced diets. The syndrome is frequently a herd problem characterized by a high morbidity and mortality due to an increase in disease in periparturient cows. Clinical signs include depression, anorexia, ketonuria, marked decrease in production, progressive debilitation, weakness, nervous signs, and an elevation in temperature due to infectious disease. The obesity is generalized throughout the body with extensive fatty metamorphosis in the liver. Histological changes are primarily in the liver and kidney. Treatment of the condition consists of feeding a balanced diet, symptomatic treatment, and good supportive care.
+    - [[Black Disease]] - [[Infectious Necrotic Hepatitis]] in Animals
+        - Infectious necrotic hepatitis is an acute toxemia primarily of sheep caused by Clostridium novyi type B. Death is sudden, often without clinical signs, and seems to be limited to animals infected with liver flukes. The most characteristic gross lesions are grayish yellow, necrotic foci in hepatic tissue, caused by young, migrating flukes. Control is by disrupting the life cycle of the liver fluke (by reducing populations of the intermediate snail host) and by active immunization with C novyi toxoid.
+        - The etiologic agent of infectious necrotic hepatitis, _Clostridium novyi_ type B, is soilborne and part of the intestinal microbiota. It is also present in the liver of herbivores; it may be present on skin surfaces and dormant in muscles and is a potential source of wound infections. Fecal contamination of pasture by carrier animals is the most important source of infection. The organism multiplies in areas of liver necrosis caused by migration of liver flukes and produces a powerful necrotizing toxin (alpha toxin). The disease is worldwide, wherever sheep and liver flukes are both found, and is increasing in cattle where liver flukes are accidentally introduced.
+        - Typically, death is sudden, without clear clinical signs. Affected animals often are 2–4 years old, tend to lag behind the flock, assume sternal recumbency, and die within a few hours.
+        - Differentiation from acute fascioliasis may be difficult, but peracute deaths of animals with typical lesions found on a necropsy examination should arouse suspicion of infectious necrotic hepatitis.
+    - [[Rift Valley Fever]] in Sheep
+        - Keys: species species - subject - Grade 1 2 3 topic - GP Exam? - [source](Link here)
+            - [[Disease Overview]]
+                - Rift Valley fever (RVF) is a peracute or acute, mosquito-borne, zoonotic disease of domestic and wild ruminants in Africa, Madagascar, and the Arabian Peninsula. Large outbreaks of clinical disease are usually associated with heavy rainfall and localized flooding.
+                - RVF virus belongs to the genus _Phlebovirus_ and is a typical Bunyavirus.
+            - [[Clinical Signs]]
+                - Clinical signs of RVF tend to be nonspecific, rendering it difficult to recognize individual cases. The incubation period is 12–36 hr in lambs, and a biphasic fever of up to 108°F (42°C) may develop. Affected animals are listless and reluctant to move or feed and may show signs of abdominal pain. Mortality in young lambs is high (90%–100%), and animals usually die within 2–3 days. Adult sheep are less susceptible, with 10%–30% mortality; the incubation period is 24–72 hr, and animals show a generalized febrile response, lethargy, hematemesis, hematochezia, and nasal discharge, although infection may also be inapparent.
+            - [[Dx and DDx]]
+                - RVF should be suspected when abnormally heavy rains and flooding are followed by widespread occurrence of abortions and mortality among newborn animals characterized by necrotic hepatitis, concurrent with influenza-like disease in people handling animals or their products.
+            - [[Treatment and Control]]
+                
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                
+    - [[Pregnancy Toxemia]] in Sheep
+    - Contagious Footrot in Sheep
+        - _Fusobacterium necrophorum_, a gram-negative anaerobic bacteria, is a normal resident of manure-contaminated environments.
+        - Footrot is a subacute or acute necrotic infection that originates in the interdigital skin, leading to cellulitis in the digital region.
+        - The first sign is swelling and erythema of the soft tissues of the interdigital space and the adjacent coronary band. The inflammation extends to the pastern and fetlock.
+        - Benign Footrot
+            - The infection is confined largely to the interdigital skin, with only minimal underrunning of the adjacent horn. Clinically, benign footrot appears similar to ovine interdigital dermatitis, but _D nodosus_ is involved—a situation that is hard to assess because culture of _D nodosus_ is difficult and rarely done.
+        - Virulent Footrot
+            - Virulent footrot is a specific, chronic, necrotizing disease of the epidermis of the interdigital skin and hoof matrix that begins as an interdigital dermatitis and extends to involve large areas of the hoof matrix. Because the sensitive lamina and its network of capillaries are destroyed by the infection, the hoof wall (corium) loses its blood supply and anchorage to the underlying tissue and becomes detached. Footrot is extremely contagious and, under suitable conditions and susceptible genetics, morbidity may approach 100%. The infection is also rarely found in goats, deer, and cattle. The potential for genetic selection for increased resistance to footrot has been established.
+        - [[Treatment and Control]]
+            - The most effective solution is 10% w/v zinc sulfate with 0.2% v/v of laundry detergent containing nonionic surfactants such as sodium lauryl sulfate. Aerosol sprays have been used in lieu of foot bathing and include zinc sulfate, tincture of iodine, tetracycline, copper sulfate, formalin, chlorine bleach, and other disinfectants. However, sprays are not as effective as foot bathing or soaking in zinc sulfate.
+            - The advent of long-acting antibiotics used in combination with topical foot treatments has improved recovery and reduced carrier animals. Parenteral treatment using a long-acting oxytetracycline at 13.6 mg/lb gives a duration of effect in cattle of 7–8 days and probably a similar duration of effect in sheep.
+    - [[Camel Pox Virus]] **Camelpox (CMLV)**
+        - [[Disease Overview]]
+            - Caused by Orthopoxvirus cameli virus of poxviridae family.  Virus is related to  small pox (variola virus). Highly contagius, lesions at mouth, lips, skin, lynph nodes, and all hairless areas, these vesicles later rupture nd form thick brown scabbs. Mainly affects younger ones of less than 2 years of age. Animal develops fever, inappetence and anorexia. Also lacrimation, bilateral corneal opacity and swollen mandibular L.Ns.
+        - [[Clinical Signs]]
+            - Clinical presentation ranges from mild, localized skin disease (vesicle, papule, rash), to moderate and, less often, generalized skin rash with accompanying involvement of the mucosal lining of the respiratory and/or upper [gastrointestinal systems](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/gastrointestinal-system). Transmission occurs by contact and the respiratory route, although [arthropod](https://www.sciencedirect.com/topics/immunology-and-microbiology/arthropod) vectors, such as [ticks](https://www.sciencedirect.com/topics/immunology-and-microbiology/tick), may also be involved.
+        - [[Dx and DDx]] Camel pox, Orf/Cont. ecthyma, pappiloma virus, reaction to insect bites.
+        - [[Treatment and Control]]
+            - Vaccination: Live attenuated vacc  can provide protection for upto 6 years while INACCTIVATED  for 1 year.  The existing vaccines for camelpox are made from these CMLV strains: VD47/25, Ducapox 298/89, Jouf-78, and CMLV-T8. The Jouf-78 strain vaccine is attenuated through 80 passages in cell culture and is able to provide a complete protection against camelpox virus challenge. VD47/25, also an attenuated vaccine, is safe and protective in camel models.
+            -   Inactivated camelpox vaccine from Jouf-78 strain has been shown to be safe, effective and immunogenic to induce humoral and cellular immune responses and to protect vaccinated dromedaries after challenge. It elicits an immune response and is recommended to subcutaneously be given at 6 months of age, then the second vaccination at 4-6 months of initial vaccination, and booster dose annually to ensure good protection. Inactivated vaccines from the CMLV strain T8 have been shown to protect young and adult camels from the infection of camelpox. Since inactivated vaccines produce levels of antibodies, adjuvants are needed to enhance their immune response.
+            -   Strains used ; CMLV strains: Jouf-78, VD47/25, and CMLV-T8 .Attenuated vaccines provide long-term protection and a booster is recommended before 6-9 months. Therefore, the isolated camelpox virus strains can be used as a future vaccine strain to control camelpox infection.
+        - Dried scabs shed in environment nd contain live virus for 4 months that affect contaminate the environment  cause next outbreak in the early rainy season.
+        - Dried scabs are sheded in the environment contain live virus that may contaminate the environment for 4 months and may cause the next outbreak in early rainy season.
+        - Morbidity is high in young ones and death is mostly due to secondary infections.
+        - Rx:    Inj Oxytet  10 mg/Kg for 5 days   Meloxicam 0.2 mg/Kg for 3-5 days,   Spray for wound management and eye drops for opacity
+    - CCPP
+        - _Mycoplasma capricolum capripneumoniae_ (_Mycoplasma_ biotype F38) is the causative agent. It appears to be transmitted by infective aerosol.
+        - Contagious Caprine Pleuropneumonia (CCPP) is a highly contagious infectious disease of goats caused by the _Mycoplasma mycoides capri_ and _Mycoplasma F38_ bacteria. CCPP causes inflammation of the lungs and accumulation of fluid in the chest cavity. Damaged lung tissue can harden and adhere to the chest wall, which interferes with effective respiration and causes the goat to die from lack of oxygen. Mortality rates can reach 100 percent.
+        - Pneumonia and pleuropneumonia can be caused by other mycoplasmas, including _M mycoides capri_. Taxonomic change means this subspecies also includes _M mycoides mycoides_ large colony type. Morbidity and mortality rates are generally lower with _M mycoides capri_, and joint and udder infections may also be seen.
+    - Contagious Bovine Pleuropneumonia
+        - Contagious bovine plueuropneumonia is highly contagious and generally accompanied by pleurisy. The causal organism is _Mycoplasma mycoides mycoides_ small colony type.
+        - In acute cases, signs include fever up to 107°F (41.5°C); anorexia; and painful, difficult breathing. In hot climates, the animal often stands by itself in the shade, its head lowered and extended, its back slightly arched, and its elbows turned out. Percussion of the chest is painful; respiration is rapid, shallow, and abdominal.
+    - Nairobi sheep disease (NSD)
+        - Nairobi sheep disease (NSD) is a tickborne viral disease of sheep and goats characterized by fever and hemorrhagic gastroenteritis, abortion, and high mortality
+    - Foot  and Mouth Disease
+        - Foot-and-mouth disease (FMD) is a highly transmissible disease caused by infection with an _Aphthovirus_, a member of the family Picornaviridae. There are 7 serotypes of the virus, termed: A, O, C, Asia 1, and SAT (Southern African Territories) 1, 2, and 3. Further diversity is found between strains within each serotype. The virus primarily affects cloven-hoofed animals of the order Artiodactyla. Livestock hosts include cattle, pigs, sheep, and goats. FMD virus has also been reported to affect >70 species of wild artiodactyls, including African buffalo, bison, giraffes, camels, and several species of deer and antelope.
+        - FMD is characterized by fever and vesicles in the mouth and on the muzzle, teats, and feet of animals and is spread through contact with infected animals or their excretions.
+        - The primary site of infection and replication of FMD virus is in the mucosa of the pharynx. The virus may also enter through skin lesions or the GI tract. Once distributed throughout the lymphatic system, the virus replicates in the epithelium of the mouth, muzzle, teats, feet, and areas of damaged skin (eg, knees and hocks of pigs). Vesicles then develop and rupture within 48 hours.
+        - Clinical signs in cattle include fever of ~40°C, followed by vesicular lesion development on the tongue, hard palate, dental pad, lips, gums, muzzle, coronary band, interdigital cleft, and teats in lactating cows.
+        - Vesicles (fluid filled blisters) on the tongue, dental pad and hard palate quickly rupture leaving shallow ulceration with shreds of mucosa at the periphery.  The underlying tissues are reddened and painful.
+        - Ruptured vesicles (fluid-filled blisters) on the tongue  revealing reddened and painful ulceration with shreds of mucosa at the periphery.
+        - Vesicles may be present on the teats and at the coronary band (top of the hoof). The latter can become secondarily infected, causing lameness.
+        - There are no ocular or nasal discharges.  During the acute phase of disease, there is marked weight loss and milk yield reduction. Foot lesions often become secondarily infected and animals are very lame and often may be reluctant to rise.
+    - Rabies
+        - Rabies is caused by lyssaviruses in the Rhabdovirus family, _Lyssavirus_ genus.
+        - Rabies is an acute, progressive encephalomyelitis caused by lyssaviruses. It occurs worldwide in mammals, with dogs, bats, and wild carnivores the principle reservoirs. Typical signs include acute behavioral change and progressive paralysis. The disease is fatal once clinical signs appear, but treatment with local wound care, immune globulin, and vaccination can prevent disease in humans following exposure. Vaccines are available for domestic animals, wildlife, and people to prevent rabies and help control spread in reservoir populations.
+        - Three forms are described and include 1) cerebral or furious: aggressive behavior, photophobia, hyperesthesia, straining, and convulsions), 2) brainstem or dumb form: depression and dementia with ataxia, excessive drooling and pharyngeal paralysis and 3) spinal cord or paralytic form: progressive ascending paralysis. Common cattle signs in order of most common are salivation, bellowing, aggressiveness, paresis or paralysis and straining.
+        - [[Clinical Signs]]
+            - Clinical signs of rabies are rarely definitive. Rabid animals of all species usually exhibit typical signs of CNS disturbance, with minor variations among species. **The most reliable signs, regardless of species, are acute behavioral changes and unexplained progressive paralysis.** Behavioral changes may include sudden anorexia, signs of apprehension or nervousness, irritability, and hyperexcitability (including priapism). The animal may seek solitude. Ataxia, altered phonation, and changes in temperament are apparent. Uncharacteristic aggressiveness may develop—a normally docile animal may suddenly become vicious. Commonly, rabid wild animals may lose their fear of people, and normally nocturnal species may be seen wandering about during the daytime.
+            - The clinical course may be divided into three general phases—prodromal, acute excitative, and paralytic/endstage. However, this division is of limited practical value because of the variability of signs and the irregular lengths of the phases. During the prodromal period, which lasts ~1–3 days, animals show only vague nonspecific signs, which intensify rapidly. The disease progresses rapidly after the onset of paralysis, and death is virtually certain a few days thereafter. Some animals die rapidly without marked clinical signs.
+    - Hardware disease/Traumatic reticuloperitonitis
+    - [[Anaplasmosis]] / Yellow fever/ yellow bag
+        - Anaplasmosis, formerly known as gall sickness, traditionally refers to a disease of ruminants caused by obligate intraerythrocytic bacteria of the order Rickettsiales, family Anaplasmataceae, genus Anaplasma. Cattle, sheep, goats, buffalo, and some wild ruminants can be infected with the erythrocytic Anaplasma. Anaplasmosis is characterized by progressive anemia due to extravascular destruction of infected and uninfected erythrocytes.
+    - [[Babesiosis]]
+        - Keys: species species - subject - Grade 1 2 3 topic - GP Exam? - [source](Link here)
+            - [[Disease Overview]]
+                - Babesiosis is caused by intraerythrocytic protozoan parasites of the genus _Babesia_. Transmitted by ticks, babesiosis affects a wide range of domestic and wild animals and occasionally people. Although the major economic impact of babesiosis is on the cattle industry, infections in other domestic animals, including horses, sheep, goats, pigs, and dogs, assume varying degrees of importance throughout the world.
+                - Two important species in cattle—_B bigemina_ and _B bovis_—are widespread in tropical and subtropical areas and are the focus of this discussion. However, because there are many common features of the diseases caused by different _Babesia_, much of this information can be applied to other species.
+            - [[Transmission]] - [[Life Cycle]]
+                - The main vectors of _B bigemina_ and _B bovis_ are 1-host _Rhipicephalus (Boophilus)_ spp ticks, in which transmission occurs transovarially. Although the parasites can be readily transmitted experimentally by blood inoculation, mechanical transmission by insects or during surgical procedures has no practical significance. Intrauterine infection has also been reported but is rare.
+                - In _Rhipicephalus_ spp ticks, the blood stages of the parasite are ingested during engorgement and undergo sexual and asexual multiplication in the replete female, infecting eggs and subsequent parasitic stages. Transmission to the host occurs when larvae (in the case of _B bovis_) or nymphs and adults (in the case of _B bigemina_) feed. The percentage of larvae infected can vary from 0–50% or higher, depending mainly on the level of parasitemia of the host at the time the female ticks engorge. Under field conditions, the rate of tick transmission is generally higher for _B bigemina_ than for _B bovis_.
+            - [[Life Cycle]]
+                - The parasite undergoes merogony in the bovine, and gamogony and sporogony in the tick. Sporozoites (Sz) injected into the bloodstream of a bovine during the blood meal of an infected tick, invade erythrocytes and differentiate into trophozoites (T), which divide asexually into usually two merozoites (M). ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvet%2FfSJg1Mc_xJ.jpeg?alt=media&token=f78d52f7-56e6-4a22-8781-085b068fa56f) 
+            - [[Clinical Signs]]
+                - _B bovis_ is a much more virulent organism than _B bigemina_. With most strains of _B bigemina_, the pathogenic effects relate more directly to erythrocyte destruction. With virulent strains of _B bovis_, a hypotensive shock syndrome, combined with generalized nonspecific inflammation, coagulation disturbances, and erythrocytic stasis in capillaries, contribute to the pathogenesis.
+                - The acute disease generally runs a course of ~1 wk. The first sign is fever (frequently ≥106°F [41°C]), which persists throughout, and is accompanied later by inappetence, increased respiratory rate, muscle tremors, anemia, jaundice, and weight loss; hemoglobinemia and hemoglobinuria occur in the final stages. CNS involvement due to adhesion of parasitized erythrocytes in brain capillaries can occur with _B bovis_ infections. Either constipation or diarrhea may be present. Late-term pregnant cows may abort, and temporary infertility due to transient fever may be seen in bulls.
+            - [[Dx and DDx]]
+                
+            - [[Treatment and Control]]
+                - For treating cattle, diminazene is given IM at 3.5 mg/kg. For treatment, imidocarb is given SC at 1.2 mg/kg. At a dosage of 3 mg/kg, imidocarb provides protection from babesiosis for ~4 wk and will also eliminate _B bovis_ and _B bigemina_ from carrier animals.
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                
+    - [[Theileriosis]]
+        - are obligate, **intracellular** parasites belonging to the phylum of apicomplexa. Two **Theileria** species, T. parva, and T. annulata are bovine-specific
+        - ((gN0Q8NCZn))
+        - ((BglrCSApD))
+        - International movement of animals infected with the tick-transmitted blood parasites _Theileria_, _Babesia_, and _Anaplasma_ spp and _Ehrlichia(Cowdria) ruminantium_ is widely restricted.
+        - [[Life Cycle]]
+            - Sporozoites from the tick secrete into the feeding site of the animal. Sporozoites enter lymphoblasts to form a schizont. There is a clonal expansion of schizonts and then multiply by merging to form merozoites. The merozoites go into erythrocytes and invade the cells and are now in the piroplasm stage. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvet%2FEai490hEob.png?alt=media&token=c0cb8701-dfe9-4fe9-96da-d5beedeb9fb1) 
+    - Parrasitic diseases in sheep
+    - [[Clostridial Diseases]]
+        - Clostridia are prokaryotic bacteria of the phylum Firmicutes, which are large, anaerobic, spore-forming, rod-shaped, gram-positive organisms. They can be living cells (vegetative forms) or dormant spores. Their natural habitats are soils and intestinal tracts of animals, including humans.
+        - Dormant spores of several clostridial species have been found in healthy muscular tissue of horses and cows. The endospores are oval, sometimes spherical, and are located centrally, subterminally, or terminally. The vegetative forms of clostridia in tissue fluids of infected animals occur singly, in pairs, or rarely in chains.
+        - Clostridial diseases are not spread from animal to animal or from animals to humans. They have been classified into three forms:
+            - histotoxic diseases
+            - neurotoxic diseases
+            - enteric diseases
+        - [[Bacillary hemoglobinuria ]] - [[Red Water Disease]]
+            - is an acute, infectious, toxemic disease with high mortality caused by _Clostridium haemolyticum_. It affects primarily cattle but has also been found in sheep and rarely in dogs, horses, pigs, elk; and possibly camelids.
+            - _C haemolyticum_ (also called _C novyi_ Type D) is a soilborne organism
+            - Bacillary hemoglobinuria is an acute toxemia caused by Clostridium haemolyticum, a soil-borne organism. After ingestion, spores remain in the liver until stimulated to germinate by conditions of anaerobiosis. Many affected cattle are found dead, with no premonitory signs. Port-wine–colored urine is the most prominent clinical sign. Early treatment with high-dose penicillin or tetracyclines is essential. Mortality in untreated animals is ~95%. Control is via vaccination with a C haemolyticum bacterin given once or twice yearly, depending on endemicity of the disease.
+            - When conditions for anaerobiosis are favorable, the spores germinate, and the resulting vegetative cells multiply and produce beta toxin (phospholipase C). This causes intravascular hemolysis, resulting in hemolytic anemia and hemoglobinuria.
+            - [[Clinical Signs]]
+                - Cattle may be found dead without premonitory clinical signs. Usually, there is a sudden onset of severe depression, fever, abdominal pain, dyspnea, severe diarrhea , and hemoglobinuria.
+                - Hgb and RBC levels are quite low. The duration of clinical signs varies from ~12 hours in pregnant cows to ~3–4 days in other cattle. Mortality in untreated animals is ~95%. Some cattle suffer from subclinical attacks of the disease and thereafter are immune carriers.
+            - [[Dx and DDx]]
+                - Presumptive with clinical findings: port wine–colored urine; dark liquid feces
+                - Liver infarct at post-mortem, with diagnostic confirmation via PCR assay, IFAT, or other laboratory testing
+            - [[Treatment and Control]]
+                - Early treatment with penicillin or tetracyclines at high doses is essential. Whole blood transfusions and fluid therapy also are helpful early in the disease; however, the prognosis is guarded.
+                - Prevention involves vaccination of cattle and control of liver flukes.
+                
+        - [[Big Head Disease]] - [🔗](https://www.msdvetmanual.com/generalized-conditions/clostridial-diseases/bacillary-hemoglobinuria-in-animals)
+            - Big head is an acute, infectious disease caused by _Clostridium novyi_, _C sordellii_, or rarely _C chauvoei_, characterized by a nongaseous, nonhemorrhagic, edematous swelling of the head, face, and neck of young rams. This infection is initiated in young rams by fighting or continual butting of one another. It has also been associated with the practice of dipping immediately after shearing. The bruised and battered subcutaneous tissues provide conditions suitable for growth of pathogenic clostridia, and the breaks in the skin offer an opportunity for their entrance. Treatment is with parenteral administration of broad-spectrum antimicrobials or penicillin.
+        - [[Blackleg Disease]]
+            - Blackleg is an acute, febrile, highly fatal, worldwide disease of cattle and sheep caused by _Clostridium chauvoei_ and characterized by emphysematous swelling and necrotizing myositis that commonly affects large muscles (clostridial myositis)
+            - Blackleg is an acute, highly fatal disease of cattle and sheep caused by Clostridium chauvoei. In cattle, characteristic lesions of emphysematous swelling of the musculature often develop without a history of wounds. In contrast, the disease in sheep is almost always the result of a wound infection after shearing cuts, docking, castration, and similar. The disease is highly fatal. Control is via administration of a multivalent vaccine containing antigens for multiple clostridial organisms.
+            - Usually, onset is sudden, and a few animals may be found dead without premonitory signs. Acute, severe lameness, more commonly affecting the hind legs, and marked depression are common.
+            - Characteristic edematous and crepitant swellings develop in the hip, shoulder, chest, back, neck, or elsewhere. At first, the swelling is focal, hot, and painful.
+        - [[Black Disease]] - [[Infectious Necrotic Hepatitis]] in Animals
+            - Infectious necrotic hepatitis is an acute toxemia primarily of sheep caused by Clostridium novyi type B. Death is sudden, often without clinical signs, and seems to be limited to animals infected with liver flukes. The most characteristic gross lesions are grayish yellow, necrotic foci in hepatic tissue, caused by young, migrating flukes. Control is by disrupting the life cycle of the liver fluke (by reducing populations of the intermediate snail host) and by active immunization with C novyi toxoid.
+            - The etiologic agent of infectious necrotic hepatitis, _Clostridium novyi_ type B, is soilborne and part of the intestinal microbiota. It is also present in the liver of herbivores; it may be present on skin surfaces and dormant in muscles and is a potential source of wound infections. Fecal contamination of pasture by carrier animals is the most important source of infection. The organism multiplies in areas of liver necrosis caused by migration of liver flukes and produces a powerful necrotizing toxin (alpha toxin). The disease is worldwide, wherever sheep and liver flukes are both found, and is increasing in cattle where liver flukes are accidentally introduced.
+            - Typically, death is sudden, without clear clinical signs. Affected animals often are 2–4 years old, tend to lag behind the flock, assume sternal recumbency, and die within a few hours.
+            - Differentiation from acute fascioliasis may be difficult, but peracute deaths of animals with typical lesions found on a necropsy examination should arouse suspicion of infectious necrotic hepatitis.
+        - [[Malignant Edema]] in Animals
+            - Clostridium septicum, the cause of malignant edema, is found in soil and intestinal contents of all species of animals. Infection generally occurs via contamination of wounds. Clinical signs develop within 2 days, including systemic signs (eg, fever) and localized swellings in muscles and intermuscular connective tissues. A fatal toxemia often results. Confirmation of diagnosis is by laboratory testing. Treatment consists of antimicrobials and supportive therapy. Control is via immunization using a bacterin, often in a multivalent vaccine.
+            - _C septicum_ also causes [[Braxy]] in sheep, a highly fatal infection characterized by toxemia and inflammation of the abomasal wall. This disease seems to be confined mostly to European sheep fed on “frosted” pasture.
+        - [[Enterotoxemia]] in Sheep - [[Pulpy Kidney Disease]]
+            - _C perfringens_ type D. enterotoxemia, a classic enterotoxemia of sheep, is seen less frequently in goats and rarely in cattle. It has a worldwide distribution and affects animals of any age. It is most common in lambs either <2 weeks old or weaned in feedlots and on a high-carbohydrate diet or, less often, on lush, green pastures. The disease has been suspected in well-nourished beef calves nursing high-producing cows grazing lush pasture and in sudden death syndrome in feedlot cattle; however, supportive laboratory evidence in the latter is lacking.
+            - Usually, sudden deaths in the best-conditioned lambs are the first indication of enterotoxemia. In some cases, excitement, incoordination, and seizures occur before death. Opisthotonos, circling, and pushing the head against fixed objects are common neurologic clinical signs; frequently, hyperglycemia or glycosuria is present. Diarrhea may develop.
+            - [[Dx and DDx]]
+                - Sudden death in overfed sheep
+                - Demonstration of epsilon toxin in small-intestinal fluid
+            - [[Treatment and Control]]
+                - Immunization
+                - Dietary changes in feedlot lambs
+                - Enterotoxemia in feedlot lambs can be controlled by reducing the amount of concentrate in the diet.
+        - Clinical Findings of Enterotoxemia Caused by _Clostridium perfringens_ Types B and C
+            - Lamb dysentery is an acute disease of lambs <3 weeks old. Many may die before clinical signs are seen, but some newborn lambs stop nursing, become listless, and remain recumbent. Fetid, blood-tinged diarrhea is common, and death usually occurs within a few days. In calves, there is acute diarrhea, dysentery, abdominal pain, seizures, and opisthotonos. Death may occur in a few hours, but less severely affected lambs may survive for a few days, and recovery is possible. Pigs become acutely ill within a few days of birth, and there is diarrhea, dysentery, reddening of the anus, and a high fatality rate; most affected piglets die within 12 hours. In foals, there is acute dysentery, toxemia, and rapid death. Struck in adult sheep is characterized by death without premonitory clinical signs.
+        
+    - [[Dummy Syndrome]] - [[Dummy Foal]]
+        - Keys: species species - subject - Grade 1 2 3 topic - GP Exam? - [source](Link here)
+            - [[Disease Overview]]
+                - The term neonatal encephalopathy is used to describe a variety of behavioral disturbances in a newborn foal. It may also be called neonatal maladjustment syndrome, hypoxic ischemic encephalopathy, or “dummy foal” syndrome. A history of difficult birth, premature placental separation, or placental inflammation may be noted, or the birth could have appeared normal. It is believed to result from decreased oxygen reaching the foal’s tissues during birth. This causes varying degrees of damage to the central nervous system, depending on the age of the fetus, the length of oxygen deprivation, and on how low the oxygen level was. The central nervous system signs may be the most obvious, but other systems, such as the kidneys, heart, gastrointestinal tract, and lungs, may also be affected by the oxygen deprivation.
+                - Signs vary, ranging from a slow suckle response at birth to hyperexcitability, aimless wandering, depression, lying prone, loss of muscle tone, and seizures. In a common scenario, the foal appears normal at birth and progressively loses interest in its dam, loses its suckle reflex, can no longer stand, and begins to have seizures. The foal may start vocalizing, which has been described as sounding like a barking dog; thus, the term “barker foal” is also sometimes used to describe this condition.
+            - [[Clinical Signs]]
+                
+            - [[Dx and DDx]]
+                
+            - [[Treatment and Control]]
+                
+            - [[Disease Summary]]
+                
+            - [[Additional Reference]]
+                - case study with Rx: [https://www.theveterinarynurse.com/review/article/neonatal-maladjustment-syndrome-the-dummy-foal-a-patient-care-report](https://www.theveterinarynurse.com/review/article/neonatal-maladjustment-syndrome-the-dummy-foal-a-patient-care-report)
+    - Progressive ataxia (PA) of Charolais cattle
+        - Progressive ataxia (PA) of Charolais cattle is an inherited neurodegenerative disease affecting the hind limbs that can gradually progress until the affected animal is unable to stand.
+        - Progressive ataxia is a fatal hereditary defect (lethal mutant) resulting from irreversible changes in the brain and spinal cord. The peripheral nerves do not show any changes. This hereditary defect is insidious because no signs of this disease are seen in calves. The disease usually begins insidiously at 18 to 24 months of age with weakness in the hind legs and crossing of the legs
+        - Progressive ataxia (PA) of Charolais cattle is characterized by onset of unsteady gait and stiff hind limbs with gradual worsening of the condition that results in an inability to stand and permanent recumbency (lying down). Other signs of the disease include head bobbing when excited and, in females, irregular pulsatile urination.
+        
+    - SHEEP MITES: biology, prevention and control. Sheep scab, sheep mange. Psoroptes, Sarcoptes, Chorioptes, Psorergates, Demodex
+        - Mites infest sheep worldwide. The most important parasitic mite species of sheep are:
+            - [__Psoroptes ovis__](https://parasitipedia.net/index.php?option=com_content&view=article&id=2541&Itemid=2817#Psoroptes) that causes psoroptic mange, also called **sheep scab**: worldwide
+            - [Sarcoptes scabiei](https://parasitipedia.net/index.php?option=com_content&view=article&id=2541&Itemid=2817#Sarcoptes) var. _**ovis**_ that causes sarcoptic mange, also called **scabies**: worldwide
+            - [__Chorioptes ovis__](https://parasitipedia.net/index.php?option=com_content&view=article&id=2541&Itemid=2817#Chorioptes) that causes chorioptic mange, also called **leg mite, foot scab**: worldwide
+            - _[__Psorergates ovis__](https://parasitipedia.net/index.php?option=com_content&view=article&id=2541&Itemid=2817#Psorergates)__,_ responsible for psorergatic mange, also called **itch mite.** Especially in Australia, New Zealand, South Africa, North and South America.
+        - _**Demodex ovis**,_ responsible for sheep demodectic mange can have local importance. In most cases it causes no clinical symptoms and has little or no economic impact on sheep flocks.
+    - Sarcoptic Mange
+        - In sheep, _Sarcoptes_ spp. is an important cause of mange that leads to itch, dermatitis and intense pruritis due to which animals loose much of the grazing time and hence loose general body condition.
+        - _Sarcoptes scabiei_ var _ovis_ infests sheep, and _S scabiei_ var _caprae_ infests goats, throughout the world. However, _S scabiei_ var _ovis_ is rare in the USA. This mite infests nonwooly skin, usually on the head and face. Typical of scabies, lesions manifest with formation of crusts and intense pruritus. Affected animals have decreased reproduction, meat gain, and milk yield. In goats, _S scabiei_ var _caprae_ is responsible for a generalized skin condition characterized by marked hyperkeratosis. Lesions start usually on the head and neck and can extend to the inner thighs, hocks, brisket, ventral abdomen, and axillary region. Both _S scabiei_ var _ovis_ and _S scabiei_ var _caprae_ are zoonotic. Consistent with other animal variants of _Sarcoptes_, zoonoses are initiated from direct contact with infested animals but are self-limiting infestations.
+        - Microscopic examination of deep skin scrapping under 10x and 40x showing presence of Sarcoptes spp. mange mite
+        - [[Treatment and Control]]
+            - Hot lime sulfur spray or dip is labeled for use against sarcoptic, psoroptic, and chorioptic mites in sheep. Treatment should be repeated every 12 days if needed. Certain formulations of permethrin sprays are labeled for mange in sheep and goats.
+            - Ivermectin @ 200 mcg/kg body weight sub cutaneous (S/C) at weekly interval along with topical application and supportive therapy. Improvement in animal condition was observed from 10 days post treatment with full recovery within 20-25 days. Supportive therapy along with topical application of ointment was helpful in fast healing of mange lesions.
+    - Chorioptic Mange
+        - _Chorioptes bovis_ infests sheep and goats worldwide. Prevalence of _C bovis_ is more common in rams than ewes or lambs. Infestation of _C bovis_ on goats is fairly common, with most of a herd infested. Distribution of lesions is the same as that in cattle, with papules and crusts seen on the feet and legs. Most sheep are subclinically infested with _C bovis_. However, _C bovis_ can cause exudative dermatitis on the lower legs and scrota of rams (scrotal mange). Semen quality may be affected, presumably due to increased temperature of infested scrota.
+        
+    - Demodectic Mange (Ovine Demodicosis, Caprine Demodicosis)
+        - _Demodex ovis_ infests sheep, and _D caprae_ infests goats. Demodectic mange in sheep is not common, whereas _D caprae_ are relatively common in goats. Lesions are similar to those in cattle. In goats, nonpruritic papules and nodules develop, especially over the face, neck, shoulders, and sides or udder. Demodectic mange in goats occurs most commonly in kids, pregnant does, and dairy goats. The nodules contain a thick, waxy, grayish material that can be easily expressed; mites can be found in this exudate. The disease can become chronic. Historically, in some cases, localized lesions in goats have been managed by incision, expression, and infusion with Lugol’s iodine or rotenone in alcohol (1:3). This practice should not be continued or condoned. Rotenone, a plant-derived ketone once a popular pesticide and ectoparasiticide approved for use in organic farming, is now available only as a piscicide in the USA and Canada.
+        
+    - Psoroptic Mange (Sheep Scab, Ear Mange):
+        - _Psoroptes ovis_ is a highly contagious and severe infestation of sheep. This mite has been eradicated from sheep in Canada, New Zealand, and the USA. However, sheep scab persists in many countries, including some in Europe. Intense pruritus leads to large, scaly, crusted lesions that develop in more densely haired or woolly parts of the body. Lesions begin on the back and side but may become generalized and cover a large portion of the body. Animals bite, lick, and scratch in response to the pruritus, which results in wool loss and secondary bacterial infection. If affected sheep are not treated, infested animals may become emaciated and anemic and possibly die.
+        - Psoroptic mange (ear mange) in goats and sheep is caused by _P cuniculi_, which is likely a variant of _P ovis_. _P cuniculi_ typically infests the ears of goats but can spread to the head, neck, and body. Infestation of _P cuniculi_ in goats can be common, with 80%–90% of a herd infested. Disease can range from subclinical to scaling, crusting, inflammation, alopecia, ear scratching, head shaking, and rubbing of ears and head to alleviate irritation. Although the course is chronic, the prognosis is good with appropriate treatment.
+    - [[Polioencephalomalacia]] - or Cerebrocortical necrosis (PEM or CCN)
+        - Polioencephalomalacia or CCN is most commonly seen in weaned lambs aged 4 to 8 months but disease does occur in adult sheep.Individual lambs are usually affected approximately two weeks after movement to another pasture or other dietary change. The change in diet alters the bacterial make-up in the rumen allowing production of byproducts by some bacteria which have toxic effects on the brain.
+        - During the early stages of CCN affected sheep are blind and become isolated from the group and may wander aimlessly. There is '[[star-gazing]]' when stationary. The condition deteriorates within 12 to 24 hours to lying flat out with seizure activity during handling. Without treatment, death follows within 3 to 5 days in untreated sheep.
+        - Thiamine deficiency produces polioencephalomalacia.
+        - ((HmlG1uSfn))
+        - [[Treatment and Control]]
+            - The treatment response during the early clinical stages of CCN to high doses of thiamine (vitamin B1 at 10 mg/kg twice daily) administered intravenously for the first occasion, is generally good. Successfully treated sheep are able to stand and commence eating within 24 hours although normal vision may not return for 5 to 7 days. Treatment should be continued for three consecutive days.
+    - [[Gid]] - [[Coenurosis]] - __ Staggers - Sturdy
+        - Gid (Coenurosis) is a disease of the central nervous system in Goats, caused by Coenurus cerebralis, the larval stage of Taenia multiceps, a tapeworm, which infests the small intestine of carnivores. In 80–90% of cases, the cyst is located in one cerebral hemisphere, whilst in 5–10% of cases, it is localized in the cerebellum; rarely it involves two sites in the brain of the affected animal.
+        - Read Details: [https://www.farmhealthonline.com/disease-management/sheep-diseases/coenurosis/](https://www.farmhealthonline.com/disease-management/sheep-diseases/coenurosis/)
+        - [[Clinical Signs]]
+            - Coenurosis can occur in both an acute and a chronic disease form. • The clinical symptoms reported in animals are in coordination, impaired vision, ataxia, uncontrolled movements, blindness and paralysis in the legs, occasional circling, fatigue, and mortality. • The affected animals do not eat and they gradually become weak and die after some days. • The neurological clinical sign that develops in 6 to 8 months time. • If the animal has the lesion in front of the brain, it lower the head and run forward and circling left or right direction depending on the lesion either on the left or right side of the brain. • Animal with mature coenurus show an acute onset of irritation phenomena including a wild depression, salivation , frenzied running and convulsions. • The other sign of the disease are dullness , head pressing ataxia , incomplete mastication. • Several studies showed that while being more prevalent in the left hemisphere, 96% of the CNS cysts are located in the left or right hemisphere and 4% are located in the cerebellum.
+        - [[Dx and DDx]]
+            - Clinical history : Circling movement, anorexia, salivation • Clinical findings: Circling, Head shaking , Skull softening, Skin over the bone become shrinkage • Cyst identification: Cysts are found in the central nervous system. Just 1cm behind the respective horn. It composed of semi solid or hard mass.
+            - Listeriosis • Brain abscess • Brain Tumour • Encephalitis in early stages • Meningitis
+        - [[Life Cycle]]
+            - The intermediate host is infected through ingestion of T. multiceps eggs.  Each egg contains an onchosphere which hatches and is activated in the small intestine.  The onchosphere penetrates the mucosa and is carried via the blood stream to the brain or spinal cord. In goats the cysts can form in subcutaneous and muscular sites as well as the brain and spinal cord.  The onchosphere develops into a metacestode larval stage called Coenurosis cerebralis.  The Coenurosis cerebralis matures into a thin-walled fluid-filled cyst about 5cm in diameter.  The life cycle is complete when the canine eats the raw infected brain, spinal cord or offal contaminated by the fluid from the ruptured cyst.  The scolex (head of the tapeworm) embeds itself into the wall of the small intestine where it begins to grow, and shed new eggs.
+    - Mycotic Abortion in Cattle
+        - Fungal placentitis due to _Aspergillus_ sp (septated fungi, 60%–80% of cases), or to _Mucor_ sp, _Absidia_, _Rhizopus_ sp, and a few other nonseptated fungi, is an important cause of sporadic bovine abortion. Abortions occur from 4 months to term and are most common in winter. It is believed the fungi gain entry through the oral or respiratory tracts and travel hematogenously to the placenta. Placentitis is severe and necrotizing. Cotyledons are enlarged and necrotic with turned-in margins. The intercotyledonary area is thickened and leathery. Adventitious placentation is common. The fetus seldom is autolyzed, although it may be dehydrated; ~30% have gray ringworm-like skin lesions principally involving the head and shoulders. The diagnosis is based on the presence of fungal hyphae associated with necrotizing placentitis, dermatitis, or pneumonia. Fungi can also be isolated from the stomach contents, placenta, and skin lesions. Isolation must be correlated with microscopic and gross lesions to exclude contamination after abortion.
+    - Others; Vaccination protocols, common drugs mechanisms,
+    - Deficiencies -B1, Selenium
+        - [[Copper Deficiency]]
+            - Keys: - [source](Link)
+                - [[Disease Overview]]
+                    - Swayback in lambs and falling disease in cows are strongly suggestive of copper deficiency.
+                    - Copper is necessary for the metabolism of iron. Copper deficiency may occur secondary to high dietary molybdenum or sulfate in cattle and can develop in pigs fed whey diets.
+                    - Although it can occur as a primary deficiency on copper deficient pastures, secondary copper deficiency is more common due to antagonism by sulphur, iron and especially molybdenum in the rumen.
+                    - Copper is an essential trace element for animals needed for body, bone and wool growth, pigmentation, healthy nerve fibres and white blood cell function.
+                    - and an induced deficiency caused by ingestion of excessive levels of molybdenum and sulphur in pasture or feed supplements.
+                    - Molybdenum reduces the availability of dietary copper in the rumen by forming copper-molybdenum-sulphur compounds in the rumen called thiomolybdates.
+                - [[Clinical Signs]]
+                    - Cattle
+                        - loss of pigment from coloured hair especially around the eyes, giving the animal a bespectacled appearance (not visible in cattle with white hair around the eyes)
+                        - falling disease – sudden heart failure causing sudden death
+                        - lameness.
+                    - ### Sheep
+                        
+                        - ^^swayback or enzootic ataxia of lambs.^^ Lambs with this condition cannot coordinate their legs. They may be severely affected at birth and may be unable to stand; some may be born dead. Other lambs appear normal at birth but between one and six months they develop an uncoordinated gait. This condition is caused by impaired development of the central nervous system in the foetus and cannot be reversed by copper treatment once signs appear
+                        - loss of pigmentation in black-woolled sheep. Because there is usually a wide variation in susceptibility to copper deficiency between individuals within any flock, normal pigmentation in one or two black sheep does not guarantee copper sufficiency among the white-woolled individuals. Other conditions can occasionally cause loss of pigmentation
+                        - increased incidence in fractures of the long bones and rib bones in lambs.
+                        - Loss of crimp, secondary crimping and steeliness of wool are poor guides to copper deficiency in sheep because they are not solely caused by lack of copper and experts cannot consistently differentiate between steely and doggy wool. Copper deficiency is rarely the cause of the poorly crimped wool often seen in WA.
+                    - ### Goats
+                        
+                        - non-speciﬁc signs are ill-thrift, scouring, rough dull coat, anaemia and poor fertility
+                        - Angoras may have harsh mohair
+                        - swayback in kids. Affected kids are usually weak and in poor condition, due to either an inability to suckle or keep up with their mother. Paralysis develops in the hindlimbs and kids are unable to stand. Kids can be born with a degree of swayback but more commonly develop the condition after 4–6 weeks of age.
+                - [[Dx and DDx]]
+                    
+                - [[Treatment and Control]]
+                    
+                - [[Disease Summary]]
+                    
+                - [[Additional Reference]]
+                    
+        - [[Selenium and Vitamin E deficiency]] - [[White Muscle Disease]]
+        - Cobalt deficiency
+            - anemia, poor coat,
+            - Improved growth following vitamin B12 injections in a controlled study is the best means of establishing the diagnosis.
+    - Principles of [[Biosecurity of Animals]], [source](https://www.msdvetmanual.com/public-health/biosecurity/principles-of-biosecurity-of-animals#Disease-Transmission_v51546368)
+        - **all procedures implemented to reduce the risk and consequence of infection with a disease-causing agent.** This broad definition recognizes that disease is a complex interaction between the host, the disease-causing agent, and the environment. Biosecurity can be considered in terms of individual animals or populations of animals (flocks or herds), economic entities (production facilities or companies), or geographic regions (counties, states, countries, or continents), thus facilitating compartmentalization for trade purposes. Importantly, it addresses strategies for both disease prevention (eradication) and control (limiting the consequence of infection).
+        - ^^Biosecurity is the implementation of measures that reduce the risk of the introduction and spread of disease agents; it requires the adoption of a set of attitudes and behaviors by people to reduce risk in all activities involving domestic, captive/exotic, and wild animals and their products (FAO/OIE/World Bank, 2008).^^
+        - **Bioexclusion** centers on the prevention of disease introduction and relies on external biosecurity practices. In contrast, **biocontainment** centers on preventing the spread of disease within a farm or group of animals, or to other farms or groups of animals, and relies on implementation of internal biosecurity practices.
+        - Thus, disease control and prevention relies on the interrelated processes of bioexclusion, surveillance, and biocontainment.
+        - Disease Transmission in Biosecurity
+            - Understanding disease transmission is central to designing proper biosecurity protocols. Diseases can be transmitted in many ways, and direct animal-to-animal contact as well as contact with contaminated fomites are some of the most common transmission routes. Contaminated semen and natural mating can be sources of sexually transmitted diseases.
+            - Many **fomites** (inanimate objects) act as carriers of disease-causing agents. Survival of agents on fomites may depend on the composition of the particular fomite and how easily it can be disinfected. Examples of fomites considered high risk include trailers, vehicles, maintenance and repair tools, boxes, materials used to remove dead animals, loading chutes, etc.
+            - **Vectors** are also capable of transmitting diseases; among the most significant vectors are birds, bats, rodents, feral and wild animals, stray and domestic animals, and insects.
+            - **Air** can be a source of diseases, particularly in areas of high animal density. **Contaminated water and feed** and consumption of contaminated, **raw, untreated animal products** have also been implicated in disease transmission. **Manure, bedding, and carcasses** can also be a source of agents unless disposed of properly. Lastly, **people** can act as both mechanical and biologic vectors, and training and awareness of personnel working with animals is necessary for proper implementation of biosecurity programs.
+        - **Disease Prevention in Biosecurity of Animals**
+            - Disease prevention depends on 1) stringent bioexclusion to avoid contact between the disease-causing agent and the host, 2) early detection of a breach in biosecurity through vigilant surveillance, and 3) rapid implementation of a ruthless biocontainment policy. This is feasible only if there is an effective way to detect infection; containing the infection through slaughter or other means, clean-out, and disinfection; and preventing dissemination of the disease-causing agent. Eradication is reserved for those diseases that pose a dire public health threat, that have a devastating effect on animal performance, or that severely compromise end-product quality. Elimination of diseases without a regulatory framework is common in food animals if these diseases are economically significant and their elimination is advantageous for the producers.
+        - **Disease Control in Biosecurity of Animals**
+            - In disease control strategies, the emphasis shifts from preventing disease to reducing its consequence or economic impact. Prevalence data are now used primarily to assess the level of protection and challenge, not merely the presence or absence of disease. Although biosecurity still relies on principles of prevention, disease-control programs focus more on limiting the extent and consequence of exposure. Many biosecurity measures aimed at preventing or eradicating epidemic disease also produce beneficial by-products, such as establishment of a firm foundation for control of erosive/endemic diseases and enhancement of host resistance through immunization.
+        - **The Three Levels of Biosecurity of Animals** [source](https://www.msdvetmanual.com/management-and-nutrition/biosecurity/the-three-levels-of-biosecurity-of-animals)
+            - Conceptual Biosecurity of Animals
+                - primary level, location of the facility
+            - Structural Biosecurity of Animals
+                - secondary level, physical barriers, showers, construction
+            - Procedural Biosecurity of Animals
+                - Tertiary level , procedures according to the situation and diseases
+    - Management - Breeding, nutrition, /Repeat breeding
+    - Fluid Therapy
+        - Calculation
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fvet%2FMGaMi86nS4.png?alt=media&token=d41a544e-d742-4f57-8457-47263c691f67)
+
 ---
 
 ## Additional Preparation Material
