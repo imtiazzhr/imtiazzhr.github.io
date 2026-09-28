@@ -10,6 +10,7 @@ date: 2024-10-25
 - ## **See below the Questions from the Previous Exams and Answers.**
     
     - **Exam pattern and questions:** One hour exam consiting of Long/essay Qs, Short qs, MCQs. Mainly Large animal diseases and regulatory questions.
+      
 - ## **Law and regulatory questions**
     - **Q.** **The Ministry describes a practitioner vet as someone who can... (5 points) ?**
         - The article 02 of Ministerial Decree 170 of the year 2003 states that Practitioner Veterinarians are those who are allowed by the ministry to practice and who:
