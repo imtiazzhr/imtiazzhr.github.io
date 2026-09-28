@@ -2,9 +2,6 @@
 title: Important topics
 date: 2020-10-11
 aliases:
-  - Qatar GP Exam
-  - UAE Vet Exam
-  - Vet medicine
 ---
 
 *for [[Important topics|UAE Vet Exam]] and [[Important topics|Qatar GP Exam]] - Diseases- [[vet-notes/index|vet medicine]]*
