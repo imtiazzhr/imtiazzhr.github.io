@@ -2,7 +2,9 @@
 title: "Equine diseases and conditions"
 date: 2020-10-11
 ---
-
+# STRANGLES in the UAE
+ Dr Diego Gomez's publication 
+ 
 - **African Horse Sickness (AHS)** [source](https://www.vet.k-state.edu/vhc/services/small/radiology/equine-anatomy/tarsus.html)
 - It is caused by an orbivirus (a type of virus which also causes Bluetongue), and is transmitted by the same type of midge. The spread of disease can be influenced by climatic conditions that favour the proliferation of the vector midges, including warm, moist weather and high rainfall, as well as spread by wind dispersal.
 - **The clinical signs** seen are dependent upon which form of the disease is present:
